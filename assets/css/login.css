@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif; /* Font yang lebih moden */
+  background: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Guna min-height supaya scroll boleh jika skrin pendek */
+  padding: 20px;     /* Padding supaya tak rapat dinding di mobile */
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Pastikan info dan kad center vertikal */
+  gap: 40px;          /* Jarak antara Info dan Kad Login */
+  max-width: 900px;   /* Hadkan lebar maksimum container */
+  width: 100%;
+}
+
+/* --- Penggayaan Bahagian Info (Kiri) --- */
+.info-side {
+  flex: 1;            /* Ambil ruang yang ada */
+  color: #333;
+  max-width: 500px;
+}
+
+#logo {
+  width: 100px;       /* Hadkan saiz logo */
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.readme-content h3 {
+  color: #1976d2;
+  margin-top: 0;
+}
+
+.readme-content ul {
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.readme-content li {
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+
+/* --- Penggayaan Kad Login (Kanan) --- */
+.card {
+  background: white;
+  padding: 40px;      /* Lebih luas sedikit */
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Shadow lebih lembut */
+  width: 350px;
+  flex-shrink: 0;     /* Jangan bagi kad mengecil */
+}
+
+.card h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+  font-size: 24px;
+}
+
+.card input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.card input:focus {
+  outline: none;
+  border-color: #1976d2;
+}
+
+.card button {
+  width: 100%;
+  padding: 12px;
+  background: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 15px;
+  transition: background 0.3s;
+}
+
+.card button:hover {
+  background: #1565c0;
+}
+
+.error {
+  color: #d32f2f;
+  font-size: 14px;
+  margin-top: 15px;
+  text-align: center;
+  min-height: 20px; /* Elak layout melompat bila error muncul */
+}
+
+/* --- Responsif (Mobile View) --- */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Susun atas-bawah */
+    gap: 30px;
+  }
+
+  .info-side {
+    text-align: center; /* Center teks di mobile */
+    order: 2; /* Letak info di bawah kad login (pilihan) */
+  }
+
+  .readme-content {
+    text-align: left; /* Kembalikan list ke kiri */
+    font-size: 14px;
+  }
+  
+  .card {
+    width: 100%; /* Penuhkan lebar di mobile */
+    max-width: 350px;
+  }
+}

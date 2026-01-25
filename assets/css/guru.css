@@ -1,0 +1,237 @@
+/* assets/css/guru.css */
+/* GAYA KHAS UNTUK ANTARAMUKA GURU */
+
+/* 1. Global & Layout */
+body {
+    background-color: #f4f7f6; /* Latar belakang kelabu lembut */
+}
+
+/* Container utama untuk semua halaman guru */
+.guru-section, .guru-dashboard-container {
+    max-width: 1100px;
+    margin: 30px auto;
+    padding: 20px;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    color: #333;
+}
+
+/* Header Halaman */
+.guru-section h2, header h2 {
+    color: #2c3e50;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    border-left: 5px solid #3498db; /* Garis biru di tepi tajuk */
+    padding-left: 15px;
+}
+
+/* 2. DASHBOARD CARDS (Kotak Menu Utama) */
+/* Grid Layout - Menyusun kotak sebelah-menyebelah */
+.guru-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+/* Reka bentuk Kad Menu */
+.action-card {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05); /* Bayang lembut */
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 1px solid #eee;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Kesan bila mouse lalu (Hover) */
+.action-card:hover {
+    transform: translateY(-5px); /* Naik sikit */
+    box-shadow: 0 15px 30px rgba(52, 152, 219, 0.15); /* Bayang biru */
+    border-color: #3498db;
+}
+
+/* Ikon/Emoji dalam kad */
+.action-card div:first-child {
+    font-size: 3rem;
+    margin-bottom: 15px;
+    background: #f0f8ff;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.action-card h3 {
+    margin: 10px 0;
+    font-size: 1.25rem;
+    color: #2c3e50;
+}
+
+.action-card p {
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* 3. BORANG & INPUT (Untuk Jadual & RPH) */
+.form-group {
+    margin-bottom: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #34495e;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #dfe6e9;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-sizing: border-box; /* Pastikan padding tak kacau width */
+    transition: border 0.3s;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    border-color: #3498db;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+/* 4. BUTTONS (Butang) */
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 600;
+    transition: background 0.2s, transform 0.1s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    text-decoration: none;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+/* Warna-warna Butang */
+.btn-primary {
+    background-color: #3498db;
+    color: white;
+}
+.btn-primary:hover {
+    background-color: #2980b9;
+}
+
+.btn-secondary {
+    background-color: #95a5a6;
+    color: white;
+}
+.btn-secondary:hover {
+    background-color: #7f8c8d;
+}
+
+.btn-success {
+    background-color: #2ecc71;
+    color: white;
+}
+.btn-success:hover {
+    background-color: #27ae60;
+}
+
+.btn-danger {
+    background-color: #e74c3c;
+    color: white;
+}
+.btn-danger:hover {
+    background-color: #c0392b;
+}
+
+/* 5. TABLE (Jadual Sejarah RPH) */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    margin-top: 20px;
+}
+
+thead {
+    background-color: #34495e;
+    color: white;
+}
+
+th, td {
+    padding: 15px 20px;
+    text-align: left;
+    border-bottom: 1px solid #ecf0f1;
+}
+
+tbody tr:hover {
+    background-color: #f9fbfd;
+}
+
+/* Status Badges dalam Table */
+.status-badge {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.status-submitted, .status-approved {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+}
+
+.status-draft {
+    background-color: #fff3e0;
+    color: #f57c00;
+}
+
+.status-rejected {
+    background-color: #ffebee;
+    color: #c62828;
+}
+
+/* 6. Mobile Responsiveness */
+@media (max-width: 768px) {
+    .guru-grid {
+        grid-template-columns: 1fr; /* Satu kolom di phone */
+    }
+    
+    .guru-section, .guru-dashboard-container {
+        padding: 15px;
+        margin: 10px;
+    }
+    
+    table {
+        display: block;
+        overflow-x: auto; /* Scroll table kalau skrin kecil */
+    }
+}
