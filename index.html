@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>eRPH Auto - Login</title>
+  <link rel="stylesheet" href="./assets/css/login.css" />
+  <link rel="icon" href="./erph.png" /> 
+</head>
+<body>
+  <div class="container">
+    
+    <div class="info-side">
+        <img id="logo" src="./erph.png" alt="e-RPH SKABANG GESA">
+        
+        <h2>e-Rancangan Pengajaran Harian V3</h2>
+
+        <div class="readme-content">
+            <h3>✨ Ciri Utama</h3>
+            <p>Sistem elektronik Rancangan Pengajaran Harian (eRPH) automatik untuk sekolah, dibina dengan <b>HTML, CSS, JavaScript (vanilla)</b> dan <b>Firebase</b>.</p>
+            
+            <h4>Pentadbir:</h4>
+            <ul>
+                <li>Daftar & padam guru</li>
+                <li>Lihat semua RPH dihantar</li>
+                <li>Semak RPH & beri komen</li>
+                <li>Analisis penghantaran mengikut guru</li>
+            </ul>
+            
+            <h4>Guru:</h4>
+            <ul>
+                <li>Isi jadual mingguan sekali</li>
+                <li>Pilih tarikh → sistem jana RPH automatik berdasarkan:
+                    <ul>
+                        <li>Jadual waktu</li>
+                        <li>Template JSON mengikut matapelajaran (dari GitHub)</li>
+                        <li>Urutan topik dikira berdasarkan <b>BULAN</b></li>
+                    </ul>
+                </li>
+                <li>Edit RPH, simpan draf</li>
+                <li>Tambah refleksi & hantar</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="card">
+      <h2>Log Masuk eRPH Versi 3.0</h2>
+      <form id="loginForm">
+        <input type="email" id="email" placeholder="Emel" required />
+        <input type="password" id="password" placeholder="Kata Laluan" required />
+        <button type="submit">Log Masuk</button>
+        <p id="error" class="error"></p>
+      </form>
+    </div>
+  </div>
+
+  <script type="module" src="./assets/js/config.js"></script>
+  <script type="module" src="./assets/js/auth.js"></script>
+</body>
+</html>
