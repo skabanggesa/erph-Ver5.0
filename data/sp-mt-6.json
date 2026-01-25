@@ -1,0 +1,762 @@
+[
+  {
+    "standards": "6.1.1 Reading and writing numbers up to 10,000,000 in numerals and words",
+    "objectives": "Students can read and write numbers up to 10,000,000 in numeral and word forms correctly.",
+    "activities": [
+      "Singing number songs up to 10,000,000",
+      "Writing numbers from words to numerals (e.g., 'seven million three hundred thousand' → 7,300,000)",
+      "'Find the Number' game – finding numbers on a large chart"
+    ],
+    "assessment": [
+      "Worksheets for writing numbers from words",
+      "Oral test: 'Read this number'"
+    ],
+    "aids": [
+      "Number chart 1–10,000,000",
+      "Number word cards (million, thousand, hundred, ten, one)",
+      "Whiteboard and marker pens"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 10,000,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "6.1.2 Comparing and arranging numbers up to 10,000,000",
+    "objectives": "Students can compare two numbers up to 10,000,000 and arrange them in ascending or descending order.",
+    "activities": [
+      "Arranging number cards in order",
+      "'Largest Number' game – comparing numbers in groups",
+      "Using base-ten blocks to show place value"
+    ],
+    "assessment": [
+      "Worksheets for arranging numbers in ascending/descending order",
+      "Observation during game activities"
+    ],
+    "aids": [
+      "Number cards 1,000,000–10,000,000",
+      "Base-ten blocks (million, hundred thousand, ten thousand, thousand, hundred, ten, one)",
+      "Large >, <, = symbols"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 10,000,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "6.2.1 Solving combined operations without brackets following the order of operations (BODMAS)",
+    "objectives": "Students can solve mixed mathematical sentences (addition, subtraction, multiplication, division) without brackets following the order of operations (BODMAS).",
+    "activities": [
+      "Using the BODMAS chart to show the order",
+      "Solving questions step-by-step",
+      "'Who is Faster?' game – solving mathematical sentences within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for combined operations without brackets",
+      "Observation of the use of order of operations"
+    ],
+    "aids": [
+      "BODMAS chart",
+      "Mixed mathematical sentence cards",
+      "Stopwatch"
+    ],
+    "unit": "Unit 2: Basic Operations (Mixed up to 10,000,000)",
+    "kategori": "Combined Operations following Order of Operations (BODMAS) & Complex Problems"
+  },
+  {
+    "standards": "6.2.2 Solving complex problems involving combined operations with brackets",
+    "objectives": "Students can solve complex daily problems using combined operations with brackets following the order of operations (BODMAS).",
+    "activities": [
+      "Using complex problem story cards",
+      "'Open Brackets First' activity – solving inside brackets first",
+      "Solving daily problems: '(4 + 3) × 5 – 10 = ?'"
+    ],
+    "assessment": [
+      "Worksheets for complex problem solving",
+      "Problem solving in worksheets"
+    ],
+    "aids": [
+      "Complex problem story cards",
+      "BODMAS step chart",
+      "Mathematical sentence cards with brackets"
+    ],
+    "unit": "Unit 2: Basic Operations (Mixed up to 10,000,000)",
+    "kategori": "Combined Operations following Order of Operations (BODMAS) & Complex Problems"
+  },
+  {
+    "standards": "6.3.1 Adding and subtracting proper fractions and mixed numbers with different denominators",
+    "objectives": "Students can add and subtract proper fractions and mixed numbers with different denominators using the common denominator method.",
+    "activities": [
+      "Using fraction cards to show common denominators",
+      "Drawing circles and coloring parts for addition/subtraction",
+      "Solving daily problems: 'I ate ½ pizza, my sibling ate ⅓, what is the total?'"
+    ],
+    "assessment": [
+      "Worksheets for fraction addition/subtraction with different denominators",
+      "Observation during visual activities"
+    ],
+    "aids": [
+      "Visual fraction cards",
+      "Paper circles for coloring",
+      "Fraction worksheets"
+    ],
+    "unit": "Unit 3: Fractions (Mixed Operations)",
+    "kategori": "Mixed Fraction Operations (Addition, Subtraction, Multiplication, Division)"
+  },
+  {
+    "standards": "6.3.2 Multiplying and dividing proper fractions and mixed numbers",
+    "objectives": "Students can solve multiplication and division of proper fractions and mixed numbers using models or algorithms.",
+    "activities": [
+      "Using fraction cards to show multiplication/division",
+      "Dividing one part into several equal parts",
+      "Solving daily problems: '⅔ × 3 = ?', '⅘ ÷ 2 = ?'"
+    ],
+    "assessment": [
+      "Worksheets for fraction multiplication/division",
+      "Assessment during sharing activities"
+    ],
+    "aids": [
+      "Visual fraction cards",
+      "Paper circles for cutting",
+      "Fraction worksheets"
+    ],
+    "unit": "Unit 3: Fractions (Mixed Operations)",
+    "kategori": "Mixed Fraction Operations (Addition, Subtraction, Multiplication, Division)"
+  },
+  {
+    "standards": "6.4.1 Adding and subtracting decimals up to three decimal places",
+    "objectives": "Students can add and subtract decimals up to three decimal places (e.g., 3.456 + 2.789, 5.678 – 2.345) using algorithms or grids.",
+    "activities": [
+      "Using decimal grids for addition/subtraction",
+      "Writing mathematical sentences on the board",
+      "'Decimal Addition and Subtraction' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for decimal addition/subtraction",
+      "Observation of strategy use"
+    ],
+    "aids": [
+      "Decimal grids",
+      "Decimal mathematical sentence cards",
+      "Decimal place value chart"
+    ],
+    "unit": "Unit 4: Decimals (Mixed Operations)",
+    "kategori": "Mixed Decimal Operations (Addition, Subtraction, Multiplication, Division)"
+  },
+  {
+    "standards": "6.4.2 Multiplying and dividing decimals up to three decimal places",
+    "objectives": "Students can solve multiplication and division of decimals up to three decimal places using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the multiplication/division process",
+      "'Share Equally' activity – dividing decimals into several parts",
+      "Solving daily problems: '3.6 ÷ 4 = ?', '2.5 × 3 = ?'"
+    ],
+    "assessment": [
+      "Worksheets for decimal multiplication/division",
+      "Problem solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Decimal multiplication/division step chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 4: Decimals (Mixed Operations)",
+    "kategori": "Mixed Decimal Operations (Addition, Subtraction, Multiplication, Division)"
+  },
+  {
+    "standards": "6.5.1 Converting between fractions, percentages, and decimals",
+    "objectives": "Students can convert between fractions, percentages, and decimals (e.g., ½ = 50% = 0.5) using conversion methods.",
+    "activities": [
+      "Using conversion charts to show relationships",
+      "'Quick Match' game – matching fractions, percentages, and decimals",
+      "Solving daily problems: '25% discount = ? in fractions'"
+    ],
+    "assessment": [
+      "Worksheets for fraction-percentage-decimal conversion",
+      "Observation of conversion accuracy"
+    ],
+    "aids": [
+      "Conversion chart",
+      "Conversion question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 5: Percentages (Daily Problems Including Service Tax & Rebates)",
+    "kategori": "Converting & Solving Percentage Problems"
+  },
+  {
+    "standards": "6.5.2 Solving daily problems including service tax and rebates",
+    "objectives": "Students can solve daily situations such as service tax (6%) and rebates (10%) using percentages.",
+    "activities": [
+      "Drama: 'Original price RM100, 6% tax, what is the final price?'",
+      "Using tax/rebate problem story cards",
+      "'Tax Shop' game in groups"
+    ],
+    "assessment": [
+      "Worksheets for tax/rebate problem solving",
+      "Assessment during drama performance"
+    ],
+    "aids": [
+      "Tax/rebate story cards",
+      "Real objects (toy items with prices)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 5: Percentages (Daily Problems Including Service Tax & Rebates)",
+    "kategori": "Converting & Solving Percentage Problems"
+  },
+  {
+    "standards": "6.6.1 Understanding concepts of savings, investment, and simple interest",
+    "objectives": "Students can understand the meaning of savings, investment, and simple interest (e.g., RM1000 saved, 3% interest per year).",
+    "activities": [
+      "Mini bank game: saving money, calculating interest",
+      "Using story cards to describe savings/investment situations",
+      "Building a yearly savings table"
+    ],
+    "assessment": [
+      "Worksheets to identify savings/investment concepts",
+      "Observation during bank game"
+    ],
+    "aids": [
+      "Replica money",
+      "Savings/investment story cards",
+      "Savings table"
+    ],
+    "unit": "Unit 6: Money (Money Management, Savings & Investment)",
+    "kategori": "Concepts of Savings, Investment & Simple Interest"
+  },
+  {
+    "standards": "6.6.2 Solving daily problems involving savings, investment, and simple interest",
+    "objectives": "Students can solve daily situations such as calculating savings interest or investment profit using the simple interest formula.",
+    "activities": [
+      "Drama: 'Save RM2000, 4% interest per year, how much interest after 2 years?'",
+      "Using interest problem story cards",
+      "'Mini Investment' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for interest problem solving",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Interest story cards",
+      "Real objects (bank model, toy savings book)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 6: Money (Money Management, Savings & Investment)",
+    "kategori": "Concepts of Savings, Investment & Simple Interest"
+  },
+  {
+    "standards": "6.7.1 Calculating rate (speed) using the formula (distance ÷ time)",
+    "objectives": "Students can calculate rate (speed) using the formula (distance ÷ time) in km/h or m/s.",
+    "activities": [
+      "Using formula charts to show relationships",
+      "Solving daily problems: 'A car travels 120 km in 2 hours, speed = ?'",
+      "'Calculate Speed' game – calculating speed within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for calculating rate",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Rate-distance-time formula chart",
+      "Rate question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 7: Time (Rate and Distance)",
+    "kategori": "Calculating Rate and Distance"
+  },
+  {
+    "standards": "6.7.2 Calculating distance or time using the formula (distance = rate × time, time = distance ÷ rate)",
+    "objectives": "Students can calculate distance or time using formulas based on the given rate.",
+    "activities": [
+      "Using formula charts to show relationships",
+      "Solving daily problems: 'Speed 60 km/h, time 3 hours, distance = ?'",
+      "'Calculate Distance/Time' game – calculating within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for calculating distance/time",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Rate-distance-time formula chart",
+      "Distance/time question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 7: Time (Rate and Distance)",
+    "kategori": "Calculating Rate and Distance"
+  },
+  {
+    "standards": "6.8.1 Solving daily problems involving length, mass, and volume of liquid",
+    "objectives": "Students can solve daily situations such as calculating fence length, item weight, or water volume using standard units.",
+    "activities": [
+      "Drama: 'Garden fence is 50m, how long is the fence for 3 gardens?'",
+      "Using measurement problem story cards",
+      "'Calculate Measurement' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for measurement problem solving",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Measurement story cards",
+      "Real objects (string, water bottle, scales)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 8: Measurement (Length, Mass, Volume of Liquid - Daily Problems)",
+    "kategori": "Solving Daily Problems in Measurement"
+  },
+  {
+    "standards": "6.8.2 Converting measurement units (km to m, liter to ml) and solving daily problems",
+    "objectives": "Students can convert measurement units (e.g., 2.5 km = 2500 m) and solve daily problems involving unit conversion.",
+    "activities": [
+      "Using unit conversion charts to show relationships",
+      "Solving daily problems: 'Road length is 3.5 km, how many meters?'",
+      "'Quick Conversion' game – converting units within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for measurement unit conversion",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Unit conversion chart (km→m, liter→ml)",
+      "Conversion question cards",
+      "Ruler, measuring tape"
+    ],
+    "unit": "Unit 8: Measurement (Length, Mass, Volume of Liquid - Daily Problems)",
+    "kategori": "Solving Daily Problems in Measurement"
+  },
+  {
+    "standards": "6.9.1 Calculating volume of cuboid using the formula (length × width × height)",
+    "objectives": "Students can calculate the volume of a cuboid using a formula or base-ten block method.",
+    "activities": [
+      "Using base-ten blocks to build a cuboid and calculate volume",
+      "Measuring cuboid dimensions and calculating volume",
+      "Solving daily problems: 'Box 10cm x 5cm x 3cm, what is its volume?'"
+    ],
+    "assessment": [
+      "Worksheets for calculating cuboid volume",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Actual cuboid boxes",
+      "Ruler for measuring"
+    ],
+    "unit": "Unit 9: Volume of Cuboid",
+    "kategori": "Calculating Volume of Cuboid & Daily Problems"
+  },
+  {
+    "standards": "6.9.2 Solving daily problems involving volume of cuboid",
+    "objectives": "Students can solve daily situations such as filling water in a bathtub or box using cuboid volume.",
+    "activities": [
+      "Drama: 'Bathtub 2m x 1m x 0.5m, how many liters of water?'",
+      "Using volume problem story cards",
+      "'Calculate Volume' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for volume problem solving",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Volume story cards",
+      "Bathtub/box model",
+      "Toy calculator"
+    ],
+    "unit": "Unit 9: Volume of Cuboid",
+    "kategori": "Calculating Volume of Cuboid & Daily Problems"
+  },
+  {
+    "standards": "6.10.1 Calculating the mean (average) for a set of data",
+    "objectives": "Students can calculate the mean (average) for a set of data (e.g., test scores) using the formula (total ÷ quantity).",
+    "activities": [
+      "Collecting students' test score data, calculating the average",
+      "Calculating friends' average body weight",
+      "'Calculate Average' game – calculating average within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for calculating mean",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Student data (scores, body weight)",
+      "Toy calculator",
+      "Data record sheets"
+    ],
+    "unit": "Unit 10: Measures of Dispersion (Mean, Range)",
+    "kategori": "Calculating Mean & Range"
+  },
+  {
+    "standards": "6.10.2 Calculating the range for a set of data",
+    "objectives": "Students can calculate the range (difference between the largest and smallest values) for a set of data.",
+    "activities": [
+      "Using test score data to calculate the range",
+      "Finding the range of friends' body weights",
+      "'Find the Range' game – finding the difference between largest/smallest values"
+    ],
+    "assessment": [
+      "Worksheets for calculating range",
+      "Observation during group activity"
+    ],
+    "aids": [
+      "Student data (scores, body weight)",
+      "Toy calculator",
+      "Basic statistics chart"
+    ],
+    "unit": "Unit 10: Measures of Dispersion (Mean, Range)",
+    "kategori": "Calculating Mean & Range"
+  },
+  {
+    "standards": "6.11.1 Understanding the concept of rate as a ratio between two quantities with different units (including time)",
+    "objectives": "Students can understand rate as a ratio between two quantities with different units (e.g., 60 km/h, 5 pieces/RM1, 100 m/min).",
+    "activities": [
+      "Using story cards to show rate (speed, unit price, velocity)",
+      "Solving daily problems: 'Car speed 80 km/h, 2 hours = ? km'",
+      "'Quick Rate' game – calculating rate within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for calculating rate",
+      "Observation during activity"
+    ],
+    "aids": [
+      "Rate story cards",
+      "Toy calculator",
+      "Rate chart"
+    ],
+    "unit": "Unit 11: Ratio and Rate (Rate Involving Time)",
+    "kategori": "Calculating Rate Involving Time"
+  },
+  {
+    "standards": "6.11.2 Solving daily problems involving rate involving time",
+    "objectives": "Students can solve daily situations such as speed, time, or distance using rates that involve time.",
+    "activities": [
+      "Drama: 'Bus travels 90 km/h, 3 hours = ? km'",
+      "Using rate-time problem story cards",
+      "'Calculate Distance' game – calculating distance based on rate and time"
+    ],
+    "assessment": [
+      "Worksheets for rate-time problem solving",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Rate-time story cards",
+      "Real objects (bus model, toy car)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 11: Ratio and Rate (Rate Involving Time)",
+    "kategori": "Calculating Rate Involving Time"
+  },
+  {
+    "standards": "6.12.1 Solving simple problems involving proportion (e.g., if 2 pieces are RM1, 6 pieces = ?)",
+    "objectives": "Students can solve daily problems involving proportion using multiplication or division methods.",
+    "activities": [
+      "Using story cards to show proportion",
+      "Solving daily problems: '3 apples RM6, 5 apples = ?'",
+      "'Calculate Price' game – calculating price based on rate"
+    ],
+    "assessment": [
+      "Worksheets for proportion problem solving",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Proportion story cards",
+      "Real objects (toy apples, sweets)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 12: Proportion",
+    "kategori": "Solving Problems Involving Proportion"
+  },
+  {
+    "standards": "6.12.2 Using cross-multiplication method to solve proportion problems",
+    "objectives": "Students can use the cross-multiplication method to solve proportion problems (e.g., 2/3 = x/6, find x).",
+    "activities": [
+      "Using cross-multiplication method charts",
+      "Solving questions step-by-step",
+      "'Quick Cross-Multiply' game – solving within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for cross-multiplication operations",
+      "Observation of strategy use"
+    ],
+    "aids": [
+      "Cross-multiplication method chart",
+      "Proportion question cards",
+      "Stopwatch"
+    ],
+    "unit": "Unit 12: Proportion",
+    "kategori": "Solving Problems Involving Proportion"
+  },
+  {
+    "standards": "6.13.1 Adding and subtracting positive and negative decimals",
+    "objectives": "Students can add and subtract positive and negative decimals using a number line or algorithms.",
+    "activities": [
+      "Using a number line to show decimal addition/subtraction",
+      "Solving daily problems: 'Morning temperature -2.5°C, rises 4.5°C, what is it now?'",
+      "'Decimal Addition and Subtraction' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for positive/negative decimal addition/subtraction",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Number line",
+      "Positive/negative decimal question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 13: Positive and Negative Decimals (Basic Operations)",
+    "kategori": "Basic Operations for Positive & Negative Decimals"
+  },
+  {
+    "standards": "6.13.2 Multiplying and dividing positive and negative decimals",
+    "objectives": "Students can solve multiplication and division of positive and negative decimals using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the multiplication/division process",
+      "'Share Equally' activity – dividing decimals into several parts",
+      "Solving daily problems: '-3.6 ÷ 2 = ?', '2.5 × (-3) = ?'"
+    ],
+    "assessment": [
+      "Worksheets for positive/negative decimal multiplication/division",
+      "Problem solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Decimal multiplication/division step chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 13: Positive and Negative Decimals (Basic Operations)",
+    "kategori": "Basic Operations for Positive & Negative Decimals"
+  },
+  {
+    "standards": "6.14.1 Identifying and measuring vertically opposite angles",
+    "objectives": "Students can identify and measure vertically opposite angles (equal angles when two lines intersect) using a protractor.",
+    "activities": [
+      "Using a protractor to measure vertically opposite angles",
+      "Finding vertically opposite angles in the environment",
+      "'Measure Opposite Angles' game – measuring angles on cards"
+    ],
+    "assessment": [
+      "Worksheets for measuring vertically opposite angles",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Plastic protractor",
+      "Vertically opposite angle cards",
+      "Vertically opposite angle chart"
+    ],
+    "unit": "Unit 14: Lines and Angles (Vertically Opposite Angles, Adjacent Angles)",
+    "kategori": "Understanding Vertically Opposite & Adjacent Angles"
+  },
+  {
+    "standards": "6.14.2 Identifying and measuring adjacent angles",
+    "objectives": "Students can identify and measure adjacent angles (neighboring angles that form a straight line) using a protractor.",
+    "activities": [
+      "Drawing adjacent angles and measuring them",
+      "Finding adjacent angles in textbooks and measuring them",
+      "'Guess the Adjacent Angle' game – teacher shows angle, student guesses name and measures"
+    ],
+    "assessment": [
+      "Worksheets for labeling and measuring adjacent angles",
+      "Oral Q&A: 'What angle is this and how many degrees?'"
+    ],
+    "aids": [
+      "Plastic protractor",
+      "Adjacent angle image cards",
+      "Pencil, ruler"
+    ],
+    "unit": "Unit 14: Lines and Angles (Vertically Opposite Angles, Adjacent Angles)",
+    "kategori": "Understanding Vertically Opposite & Adjacent Angles"
+  },
+  {
+    "standards": "6.15.1 Calculating the circumference of a circle using formula (π × diameter or 2π × radius)",
+    "objectives": "Students can calculate circle circumference using formula (π × diameter or 2π × radius) with π ≈ 3.14.",
+    "activities": [
+      "Using paper circles to measure diameter and calculate circumference",
+      "Solving daily problems: 'Wheel radius 25cm, circumference = ?'",
+      "'Calculate Circumference' game – calculating circumference within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for calculating circle circumference",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Paper circles or wheel model",
+      "Ruler, measuring tape",
+      "Measurement record sheets"
+    ],
+    "unit": "Unit 15: Circles (Circumference and Area of Circles)",
+    "kategori": "Calculating Circumference and Area of Circles"
+  },
+  {
+    "standards": "6.15.2 Calculating the area of a circle using formula (π × radius²)",
+    "objectives": "Students can calculate circle area using formula (π × radius²) with π ≈ 3.14.",
+    "activities": [
+      "Using paper circles to measure radius and calculate area",
+      "Solving daily problems: 'Table base radius 30cm, area = ?'",
+      "'Calculate Area' game – calculating area within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for calculating circle area",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Paper circles",
+      "Ruler, measuring tape",
+      "Measurement record sheets"
+    ],
+    "unit": "Unit 15: Circles (Circumference and Area of Circles)",
+    "kategori": "Calculating Circumference and Area of Circles"
+  },
+  {
+    "standards": "6.16.1 Organizing data in tables and bar charts with scales",
+    "objectives": "Students can organize collected data in tables and bar charts with appropriate scales.",
+    "activities": [
+      "Collecting data on the number of books read by friends",
+      "Building tables and bar charts with a scale of 1 unit = 5 people",
+      "Labeling horizontal and vertical axes with scales"
+    ],
+    "assessment": [
+      "Student table and bar chart results",
+      "Observation of construction accuracy and scale"
+    ],
+    "aids": [
+      "Data cards for voting",
+      "Mahjong paper and stickers",
+      "Colored pencils for labeling"
+    ],
+    "unit": "Unit 16: Data Management (Data Interpretation, Data Organization)",
+    "kategori": "Analyzing & Organizing Data"
+  },
+  {
+    "standards": "6.16.2 Interpreting information from bar charts, pie charts, and tables",
+    "objectives": "Students can read and interpret information from bar charts, pie charts, and tables to make conclusions.",
+    "activities": [
+      "Interpreting self-built bar charts and pie charts",
+      "Q&A: 'Which is the most?', 'What percentage likes red?'",
+      "'Guess the Answer' game based on charts"
+    ],
+    "assessment": [
+      "Worksheets for chart interpretation questions",
+      "Oral assessment during discussion"
+    ],
+    "aids": [
+      "Ready-made bar chart and pie chart examples",
+      "Interpretation question cards",
+      "Whiteboard for discussion"
+    ],
+    "unit": "Unit 16: Data Management (Data Interpretation, Data Organization)",
+    "kategori": "Analyzing & Organizing Data"
+  },
+  {
+    "standards": "6.17.1 Understanding probability as a measure of the likelihood of an event occurring",
+    "objectives": "Students can understand probability as a measure of the likelihood of an event occurring (e.g., impossible, not impossible, possible, very likely, certain).",
+    "activities": [
+      "Using event cards to show probability levels",
+      "'Guess the Possibility' game – guessing the probability of daily events",
+      "Building a probability chart (impossible → certain)"
+    ],
+    "assessment": [
+      "Worksheets to identify probability levels",
+      "Oral assessment: 'What is the chance of rain today?'"
+    ],
+    "aids": [
+      "Event cards with probability levels",
+      "Probability scale chart",
+      "Colored pencils for labeling"
+    ],
+    "unit": "Unit 17: Probability (Probability of Events)",
+    "kategori": "Calculating Probability of an Event"
+  },
+  {
+    "standards": "6.17.2 Calculating the probability of an event in fraction form",
+    "objectives": "Students can calculate the probability of an event in fraction form (e.g., 1/6 for a die to roll a 4).",
+    "activities": [
+      "Rolling a die 20 times, recording results",
+      "Calculating probability of specific numbers",
+      "'Probability Dice' game – guessing rolling probability"
+    ],
+    "assessment": [
+      "Probability experiment record sheets",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Plastic dice",
+      "Experiment record sheets",
+      "Probability chart"
+    ],
+    "unit": "Unit 17: Probability (Probability of Events)",
+    "kategori": "Calculating Probability of an Event"
+  },
+  {
+    "standards": "6.18.1 Forming algebraic expressions based on daily situations",
+    "objectives": "Students can form algebraic expressions (e.g., 2x + 3) based on daily situations like item prices or quantity of objects.",
+    "activities": [
+      "Using story cards to show algebraic situations",
+      "Solving daily problems: 'Price of one book is x, 2 books = 2x'",
+      "'Form Expressions' game – building expressions from situations"
+    ],
+    "assessment": [
+      "Worksheets for forming algebraic expressions",
+      "Observation during group activity"
+    ],
+    "aids": [
+      "Algebra story cards",
+      "Real objects (plastic books, toy apples)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 18: Algebraic Expressions",
+    "kategori": "Forming Algebraic Expressions"
+  },
+  {
+    "standards": "6.18.2 Simplifying algebraic expressions (e.g., 2x + 3x = 5x)",
+    "objectives": "Students can simplify algebraic expressions by combining like terms.",
+    "activities": [
+      "Using algebra blocks to show combined terms",
+      "Solving questions step-by-step",
+      "'Combine Terms' game – simplifying expressions within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for simplifying algebraic expressions",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Algebra blocks",
+      "Algebra question cards",
+      "Stopwatch"
+    ],
+    "unit": "Unit 18: Algebraic Expressions",
+    "kategori": "Forming Algebraic Expressions"
+  },
+  {
+    "standards": "6.19.1 Solving simple linear equations in one variable (e.g., x + 5 = 12)",
+    "objectives": "Students can solve simple linear equations in one variable using inverse operation methods.",
+    "activities": [
+      "Using equation cards to show inverse methods",
+      "Solving questions step-by-step",
+      "'Find Value of x' game – solving within a limited time"
+    ],
+    "assessment": [
+      "Worksheets for solving linear equations",
+      "Observation of strategy use"
+    ],
+    "aids": [
+      "Linear equation cards",
+      "Inverse method chart",
+      "Stopwatch"
+    ],
+    "unit": "Unit 19: Linear Equations",
+    "kategori": "Solving Linear Equations in One Variable"
+  },
+  {
+    "standards": "6.19.2 Solving daily problems involving linear equations",
+    "objectives": "Students can solve daily situations such as item prices or quantity of objects using linear equations.",
+    "activities": [
+      "Drama: 'Price of one book is x, 3 books + RM5 = RM20, find x'",
+      "Using linear equation problem story cards",
+      "'Calculate Value of x' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for linear equation problem solving",
+      "Assessment during group activity"
+    ],
+    "aids": [
+      "Linear equation story cards",
+      "Real objects (plastic books, sweets)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 19: Linear Equations",
+    "kategori": "Solving Linear Equations in One Variable"
+  }
+]

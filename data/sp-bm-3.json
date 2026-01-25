@@ -1,0 +1,2852 @@
+[
+  {
+    "standards": "1.1.1 Mendengar dan mengecam perkataan berkaitan komuniti",
+    "objectives": "Murid dapat mengecam perkataan jiran, kedai, pasar, balai polis.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu komuniti"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar komuniti",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.1.2 Memahami arahan mudah berkaitan komuniti",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Pergi ke kedai', 'Tunjuk balai polis'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.1.3 Memahami isi utama daripada teks mudah tentang komuniti",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar cerita tentang komuniti.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.1.1 Menyebut nama tempat dalam komuniti dengan betul",
+    "objectives": "Murid dapat menyebut sekolah, kedai, pasar, masjid.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar tempat",
+      "Poster komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.1.2 Membina ayat mudah berkaitan komuniti",
+    "objectives": "Murid dapat berkata 'Saya pergi ke pasar'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.1.3 Bertanya dan menjawab soalan mudah tentang komuniti",
+    "objectives": "Murid dapat bertanya 'Di mana sekolah?' dan menjawab 'Sekolah di hujung jalan'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka tempat",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.1.1 Mengecam perkataan mudah berkaitan komuniti",
+    "objectives": "Murid dapat membaca sekolah, kedai, pasar, jiran.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.1.2 Membaca ayat mudah tentang komuniti",
+    "objectives": "Murid dapat membaca ayat 'Saya pergi ke kedai'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.1.3 Memahami isi utama daripada teks mudah tentang komuniti",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.1.1 Menyalin perkataan komuniti dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin sekolah, kedai, pasar.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar komuniti",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.1.2 Menulis ayat mudah tentang komuniti",
+    "objectives": "Murid dapat menulis 'Saya ke masjid'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.1.3 Menyusun perkataan menjadi ayat mudah tentang komuniti",
+    "objectives": "Murid dapat menyusun 'Saya / pergi / ke pasar'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.1.1 Menghayati lagu atau sajak mudah tentang komuniti",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan komuniti.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster komuniti"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.1.2 Melukis atau mewarna gambar komuniti",
+    "objectives": "Murid dapat melukis dan mewarna gambar kedai, pasar atau rumah jiran.",
+    "activities": [
+      "Melukis komuniti",
+      "Mewarna gambar",
+      "Kolaj komuniti"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.1.3 Melakonkan situasi dalam komuniti",
+    "objectives": "Murid dapat melakonkan situasi membeli barang di kedai.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 1: Komuniti Saya",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.2.1 Mendengar dan mengecam perkataan berkaitan bandar dan desa",
+    "objectives": "Murid dapat mengecam perkataan bangunan, sawah, jalan raya, kampung.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu bandar dan desa"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar bandar dan desa",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.2.2 Memahami arahan mudah berkaitan bandar dan desa",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Tunjuk sawah', 'Tunjuk bangunan'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster bandar dan desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.2.3 Memahami isi utama daripada teks mudah tentang bandar dan desa",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar cerita tentang bandar dan desa.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.2.1 Menyebut nama tempat di bandar dan desa dengan betul",
+    "objectives": "Murid dapat menyebut sawah, jalan raya, bangunan, kampung.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar bandar dan desa",
+      "Poster desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.2.2 Membina ayat mudah berkaitan bandar dan desa",
+    "objectives": "Murid dapat berkata 'Sawah itu hijau'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar desa dan bandar"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.2.3 Bertanya dan menjawab soalan mudah tentang bandar dan desa",
+    "objectives": "Murid dapat bertanya 'Di mana sawah?' dan menjawab 'Sawah di kampung'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka tempat",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster bandar dan desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.2.1 Mengecam perkataan mudah berkaitan bandar dan desa",
+    "objectives": "Murid dapat membaca sawah, bangunan, jalan, kampung.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta bandar dan desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.2.2 Membaca ayat mudah tentang bandar dan desa",
+    "objectives": "Murid dapat membaca ayat 'Bangunan itu tinggi'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar bandar dan desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.2.3 Memahami isi utama daripada teks mudah tentang bandar dan desa",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.2.1 Menyalin perkataan bandar dan desa dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin sawah, bangunan, jalan, kampung.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar bandar dan desa",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.2.2 Menulis ayat mudah tentang bandar dan desa",
+    "objectives": "Murid dapat menulis 'Sawah itu luas'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar bandar dan desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.2.3 Menyusun perkataan menjadi ayat mudah tentang bandar dan desa",
+    "objectives": "Murid dapat menyusun 'Jalan / raya / besar'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.2.1 Menghayati lagu atau sajak mudah tentang bandar dan desa",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan bandar dan desa.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster bandar dan desa"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.2.2 Melukis atau mewarna gambar bandar dan desa",
+    "objectives": "Murid dapat melukis dan mewarna gambar kampung atau bandar.",
+    "activities": [
+      "Melukis bandar",
+      "Mewarna gambar",
+      "Kolaj desa"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.2.3 Melakonkan situasi kehidupan di bandar atau desa",
+    "objectives": "Murid dapat melakonkan situasi membeli barang di kedai kampung.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 2: Di Bandar dan Desa",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.3.1 Mendengar dan mengecam perkataan berkaitan kebersihan",
+    "objectives": "Murid dapat mengecam perkataan sabun, mandi, cuci, sikat.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu kebersihan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar kebersihan",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.3.2 Memahami arahan mudah berkaitan amalan kebersihan",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Basuh tangan', 'Sikat rambut'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.3.3 Memahami isi utama daripada teks mudah tentang kebersihan",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar cerita tentang kebersihan.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.3.1 Menyebut perkataan berkaitan kebersihan dengan betul",
+    "objectives": "Murid dapat menyebut sabun, mandi, cuci, sikat.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar kebersihan",
+      "Poster amalan kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.3.2 Membina ayat mudah berkaitan kebersihan",
+    "objectives": "Murid dapat berkata 'Saya basuh tangan'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar amalan kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.3.3 Bertanya dan menjawab soalan mudah tentang kebersihan",
+    "objectives": "Murid dapat bertanya 'Apa yang kamu buat?' dan menjawab 'Saya mandi'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka tindakan",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.3.1 Mengecam perkataan mudah berkaitan kebersihan",
+    "objectives": "Murid dapat membaca sabun, mandi, sikat, basuh.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.3.2 Membaca ayat mudah tentang kebersihan",
+    "objectives": "Murid dapat membaca ayat 'Saya gosok gigi'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.3.3 Memahami isi utama daripada teks mudah tentang kebersihan",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.3.1 Menyalin perkataan kebersihan dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin sabun, sikat, mandi.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar kebersihan",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.3.2 Menulis ayat mudah tentang kebersihan",
+    "objectives": "Murid dapat menulis 'Saya basuh baju'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.3.3 Menyusun perkataan menjadi ayat mudah tentang kebersihan",
+    "objectives": "Murid dapat menyusun 'Saya / gosok / gigi'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.3.1 Menghayati lagu atau sajak mudah tentang kebersihan",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan kebersihan.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster kebersihan"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.3.2 Melukis atau mewarna gambar amalan kebersihan",
+    "objectives": "Murid dapat melukis dan mewarna gambar orang basuh tangan.",
+    "activities": [
+      "Melukis amalan kebersihan",
+      "Mewarna gambar",
+      "Kolaj kebersihan"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.3.3 Melakonkan amalan kebersihan",
+    "objectives": "Murid dapat melakonkan aktiviti mandi atau gosok gigi.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 3: Amalan Kebersihan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.4.1 Mendengar dan mengecam perkataan berkaitan keselamatan diri",
+    "objectives": "Murid dapat mengecam perkataan topi keledar, lintas, berhenti, bahaya.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu keselamatan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar keselamatan",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.4.2 Memahami arahan mudah berkaitan keselamatan diri",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Pakai topi keledar', 'Berhenti di garisan'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.4.3 Memahami isi utama daripada teks mudah tentang keselamatan diri",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar teks tentang keselamatan diri.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.4.1 Menyebut perkataan berkaitan keselamatan diri dengan betul",
+    "objectives": "Murid dapat menyebut topi keledar, lintas, berhenti, bahaya.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar keselamatan",
+      "Poster keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.4.2 Membina ayat mudah berkaitan keselamatan diri",
+    "objectives": "Murid dapat berkata 'Saya memakai topi keledar'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.4.3 Bertanya dan menjawab soalan mudah tentang keselamatan diri",
+    "objectives": "Murid dapat bertanya 'Mengapa kita berhenti?' dan menjawab 'Kerana lampu merah'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka situasi",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster isyarat jalan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.4.1 Mengecam perkataan mudah berkaitan keselamatan diri",
+    "objectives": "Murid dapat membaca topi, lintas, berhenti, bahaya.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.4.2 Membaca ayat mudah tentang keselamatan diri",
+    "objectives": "Murid dapat membaca ayat 'Lintas jalan di garisan'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.4.3 Memahami isi utama daripada teks mudah tentang keselamatan diri",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.4.1 Menyalin perkataan keselamatan dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin topi, lintas, berhenti, bahaya.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar keselamatan",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.4.2 Menulis ayat mudah tentang keselamatan diri",
+    "objectives": "Murid dapat menulis 'Saya lintas jalan di garisan'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.4.3 Menyusun perkataan menjadi ayat mudah tentang keselamatan diri",
+    "objectives": "Murid dapat menyusun 'Berhenti / bila / lampu / merah'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.4.1 Menghayati lagu atau sajak mudah tentang keselamatan diri",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan keselamatan.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster keselamatan"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.4.2 Melukis atau mewarna gambar tentang keselamatan diri",
+    "objectives": "Murid dapat melukis dan mewarna gambar orang memakai topi keledar.",
+    "activities": [
+      "Melukis keselamatan",
+      "Mewarna gambar",
+      "Kolaj keselamatan"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.4.3 Melakonkan situasi berkaitan keselamatan diri",
+    "objectives": "Murid dapat melakonkan situasi lintas jalan dengan betul.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 4: Keselamatan Diri",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.5.1 Mendengar dan mengecam perkataan berkaitan teknologi harian",
+    "objectives": "Murid dapat mengecam perkataan telefon, komputer, televisyen, radio.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu teknologi"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar teknologi",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.5.2 Memahami arahan mudah berkaitan teknologi harian",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Buka televisyen', 'Tutup komputer'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.5.3 Memahami isi utama daripada teks mudah tentang teknologi harian",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar cerita tentang teknologi.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.5.1 Menyebut perkataan berkaitan teknologi harian dengan betul",
+    "objectives": "Murid dapat menyebut telefon, komputer, televisyen, radio.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar teknologi",
+      "Poster teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.5.2 Membina ayat mudah berkaitan teknologi harian",
+    "objectives": "Murid dapat berkata 'Saya menonton televisyen'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.5.3 Bertanya dan menjawab soalan mudah tentang teknologi harian",
+    "objectives": "Murid dapat bertanya 'Apa ini?' dan menjawab 'Itu komputer'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka objek",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.5.1 Mengecam perkataan mudah berkaitan teknologi harian",
+    "objectives": "Murid dapat membaca telefon, komputer, televisyen, radio.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.5.2 Membaca ayat mudah tentang teknologi harian",
+    "objectives": "Murid dapat membaca ayat 'Saya guna telefon'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.5.3 Memahami isi utama daripada teks mudah tentang teknologi harian",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.5.1 Menyalin perkataan teknologi dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin telefon, komputer, televisyen, radio.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar teknologi",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.5.2 Menulis ayat mudah tentang teknologi harian",
+    "objectives": "Murid dapat menulis 'Saya guna komputer'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.5.3 Menyusun perkataan menjadi ayat mudah tentang teknologi harian",
+    "objectives": "Murid dapat menyusun 'Saya / menonton / televisyen'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.5.1 Menghayati lagu atau sajak mudah tentang teknologi harian",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan teknologi.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster teknologi"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.5.2 Melukis atau mewarna gambar teknologi harian",
+    "objectives": "Murid dapat melukis dan mewarna gambar telefon atau komputer.",
+    "activities": [
+      "Melukis teknologi",
+      "Mewarna gambar",
+      "Kolaj teknologi"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.5.3 Melakonkan situasi penggunaan teknologi harian",
+    "objectives": "Murid dapat melakonkan situasi menggunakan komputer di sekolah.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 5: Teknologi Harian",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.6.1 Mendengar dan mengecam perkataan berkaitan warisan dan budaya",
+    "objectives": "Murid dapat mengecam perkataan tarian, muzik, pakaian tradisional, makanan.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu budaya"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar budaya",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.6.2 Memahami arahan mudah berkaitan warisan dan budaya",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Tunjuk pakaian tradisional', 'Pilih alat muzik'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.6.3 Memahami isi utama daripada teks mudah tentang warisan dan budaya",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar cerita tentang budaya Malaysia.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.6.1 Menyebut nama warisan dan budaya dengan betul",
+    "objectives": "Murid dapat menyebut wau, tarian, kompang, baju kurung.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar budaya",
+      "Poster budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.6.2 Membina ayat mudah berkaitan warisan dan budaya",
+    "objectives": "Murid dapat berkata 'Saya suka tarian tradisional'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.6.3 Bertanya dan menjawab soalan mudah tentang warisan dan budaya",
+    "objectives": "Murid dapat bertanya 'Apakah ini?' dan menjawab 'Ini kompang'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka budaya",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.6.1 Mengecam perkataan mudah berkaitan warisan dan budaya",
+    "objectives": "Murid dapat membaca wau, tarian, kompang, pakaian.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.6.2 Membaca ayat mudah tentang warisan dan budaya",
+    "objectives": "Murid dapat membaca ayat 'Saya bermain wau'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.6.3 Memahami isi utama daripada teks mudah tentang warisan dan budaya",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.6.1 Menyalin perkataan budaya dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin wau, tarian, kompang, pakaian.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar budaya",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.6.2 Menulis ayat mudah tentang warisan dan budaya",
+    "objectives": "Murid dapat menulis 'Saya bermain kompang'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.6.3 Menyusun perkataan menjadi ayat mudah tentang budaya",
+    "objectives": "Murid dapat menyusun 'Saya / pakai / baju kurung'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.6.1 Menghayati lagu atau sajak mudah tentang budaya",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan budaya.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster budaya"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.6.2 Melukis atau mewarna gambar budaya",
+    "objectives": "Murid dapat melukis dan mewarna gambar tarian atau permainan tradisional.",
+    "activities": [
+      "Melukis budaya",
+      "Mewarna gambar",
+      "Kolaj budaya"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.6.3 Melakonkan aktiviti warisan dan budaya",
+    "objectives": "Murid dapat melakonkan tarian tradisional secara mudah.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum tradisional"
+    ],
+    "unit": "Unit 6: Warisan & Budaya",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.7.1 Mendengar dan mengecam perkataan berkaitan alam semula jadi",
+    "objectives": "Murid dapat mengecam perkataan sungai, gunung, pokok, bunga.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu alam"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar alam",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.7.2 Memahami arahan mudah berkaitan alam semula jadi",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Tunjuk sungai', 'Ambil gambar bunga'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.7.3 Memahami isi utama daripada teks mudah tentang alam semula jadi",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar teks tentang alam semula jadi.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.7.1 Menyebut perkataan berkaitan alam semula jadi dengan betul",
+    "objectives": "Murid dapat menyebut sungai, gunung, pokok, bunga.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar alam",
+      "Poster alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.7.2 Membina ayat mudah berkaitan alam semula jadi",
+    "objectives": "Murid dapat berkata 'Sungai itu panjang'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.7.3 Bertanya dan menjawab soalan mudah tentang alam semula jadi",
+    "objectives": "Murid dapat bertanya 'Apa warna bunga?' dan menjawab 'Bunga merah'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka alam",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.7.1 Mengecam perkataan mudah berkaitan alam semula jadi",
+    "objectives": "Murid dapat membaca sungai, gunung, pokok, bunga.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.7.2 Membaca ayat mudah tentang alam semula jadi",
+    "objectives": "Murid dapat membaca ayat 'Pokok itu tinggi'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.7.3 Memahami isi utama daripada teks mudah tentang alam semula jadi",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.7.1 Menyalin perkataan alam dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin sungai, gunung, pokok, bunga.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar alam",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.7.2 Menulis ayat mudah tentang alam semula jadi",
+    "objectives": "Murid dapat menulis 'Sungai itu dalam'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.7.3 Menyusun perkataan menjadi ayat mudah tentang alam semula jadi",
+    "objectives": "Murid dapat menyusun 'Gunung / itu / tinggi'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.7.1 Menghayati lagu atau sajak mudah tentang alam semula jadi",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan alam.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster alam"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.7.2 Melukis atau mewarna gambar alam semula jadi",
+    "objectives": "Murid dapat melukis dan mewarna gambar sungai atau gunung.",
+    "activities": [
+      "Melukis alam",
+      "Mewarna gambar",
+      "Kolaj alam"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.7.3 Melakonkan situasi berkaitan alam semula jadi",
+    "objectives": "Murid dapat melakonkan aktiviti berkelah di sungai.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 7: Alam Semula Jadi",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.8.1 Mendengar dan mengecam perkataan berkaitan sukan dan permainan",
+    "objectives": "Murid dapat mengecam perkataan bola, lari, badminton, congkak.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu sukan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar sukan",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.8.2 Memahami arahan mudah berkaitan sukan dan permainan",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Tendang bola', 'Pukul gendang congkak'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan arahan",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Alatan sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.8.3 Memahami isi utama daripada teks mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar teks tentang sukan.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.8.1 Menyebut nama sukan dan permainan dengan betul",
+    "objectives": "Murid dapat menyebut bola sepak, badminton, congkak.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar sukan",
+      "Poster sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.8.2 Membina ayat mudah berkaitan sukan dan permainan",
+    "objectives": "Murid dapat berkata 'Saya bermain badminton'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.8.3 Bertanya dan menjawab soalan mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat bertanya 'Apa permainan ini?' dan menjawab 'Ini congkak'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka sukan",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.8.1 Mengecam perkataan mudah berkaitan sukan dan permainan",
+    "objectives": "Murid dapat membaca bola, badminton, congkak.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.8.2 Membaca ayat mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat membaca ayat 'Saya bermain congkak'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.8.3 Memahami isi utama daripada teks mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.8.1 Menyalin perkataan sukan dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin bola, badminton, congkak.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar sukan",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.8.2 Menulis ayat mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat menulis 'Saya bermain bola sepak'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.8.3 Menyusun perkataan menjadi ayat mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat menyusun 'Saya / bermain / badminton'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.8.1 Menghayati lagu atau sajak mudah tentang sukan dan permainan",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan sukan.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster sukan"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.8.2 Melukis atau mewarna gambar sukan dan permainan",
+    "objectives": "Murid dapat melukis dan mewarna gambar orang bermain bola atau congkak.",
+    "activities": [
+      "Melukis permainan",
+      "Mewarna gambar",
+      "Kolaj sukan"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.8.3 Melakonkan aktiviti sukan dalam drama pendek",
+    "objectives": "Murid dapat melakonkan aktiviti bermain bola atau congkak.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 8: Sukan & Permainan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.9.1 Mendengar dan mengecam perkataan berkaitan perpustakaan",
+    "objectives": "Murid dapat mengecam perkataan buku, rak, pinjam, perpustakaan.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu perpustakaan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar perpustakaan",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.9.2 Memahami arahan mudah berkaitan perpustakaan",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Ambil buku', 'Letak di rak'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.9.3 Memahami isi utama daripada teks mudah tentang perpustakaan",
+    "objectives": "Murid dapat menyatakan isi penting selepas mendengar teks tentang perpustakaan.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.9.1 Menyebut perkataan berkaitan perpustakaan dengan betul",
+    "objectives": "Murid dapat menyebut buku, rak, pinjam, perpustakaan.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar perpustakaan",
+      "Poster perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.9.2 Membina ayat mudah berkaitan perpustakaan",
+    "objectives": "Murid dapat berkata 'Saya pinjam buku'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.9.3 Bertanya dan menjawab soalan mudah tentang perpustakaan",
+    "objectives": "Murid dapat bertanya 'Di mana rak?' dan menjawab 'Rak di sana'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka tempat",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.9.1 Mengecam perkataan mudah berkaitan perpustakaan",
+    "objectives": "Murid dapat membaca buku, rak, pinjam, perpustakaan.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.9.2 Membaca ayat mudah tentang perpustakaan",
+    "objectives": "Murid dapat membaca ayat 'Saya membaca buku di perpustakaan'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.9.3 Memahami isi utama daripada teks mudah tentang perpustakaan",
+    "objectives": "Murid dapat menjawab soalan ringkas selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.9.1 Menyalin perkataan perpustakaan dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin buku, rak, pinjam, perpustakaan.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar perpustakaan",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.9.2 Menulis ayat mudah tentang perpustakaan",
+    "objectives": "Murid dapat menulis 'Saya membaca buku'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.9.3 Menyusun perkataan menjadi ayat mudah tentang perpustakaan",
+    "objectives": "Murid dapat menyusun 'Saya / pinjam / buku'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.9.1 Menghayati lagu atau sajak mudah tentang perpustakaan",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan perpustakaan.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster perpustakaan"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.9.2 Melukis atau mewarna gambar perpustakaan",
+    "objectives": "Murid dapat melukis dan mewarna gambar rak buku.",
+    "activities": [
+      "Melukis perpustakaan",
+      "Mewarna gambar",
+      "Kolaj perpustakaan"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.9.3 Melakonkan aktiviti di perpustakaan",
+    "objectives": "Murid dapat melakonkan situasi meminjam atau membaca buku.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Buku"
+    ],
+    "unit": "Unit 9: Perpustakaan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "1.10.1 Mendengar dan mengecam perkataan daripada cerita teladan",
+    "objectives": "Murid dapat mengecam perkataan baik, jujur, amanah, rajin.",
+    "activities": [
+      "Dengar dan ulang",
+      "Padankan bunyi dengan gambar",
+      "Nyanyian lagu teladan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Semakan sebutan"
+    ],
+    "aids": [
+      "Kad bergambar nilai",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.10.2 Memahami arahan mudah berkaitan cerita teladan",
+    "objectives": "Murid dapat melaksanakan arahan seperti 'Tunjuk watak baik', 'Lukis orang jujur'.",
+    "activities": [
+      "Ikut arahan guru",
+      "Permainan Simon Says",
+      "Dengar dan buat"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Tugasan lisan"
+    ],
+    "aids": [
+      "Kad arahan",
+      "Poster teladan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "1.10.3 Memahami isi utama daripada cerita teladan",
+    "objectives": "Murid dapat menyatakan pengajaran selepas mendengar cerita teladan.",
+    "activities": [
+      "Dengar cerita",
+      "Soal jawab ringkas",
+      "Padanan isi utama"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Buku cerita bergambar",
+      "Rakaman audio"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Mendengar"
+  },
+  {
+    "standards": "2.10.1 Menyebut nilai murni dalam cerita teladan dengan betul",
+    "objectives": "Murid dapat menyebut baik, jujur, amanah, rajin.",
+    "activities": [
+      "Latihan sebutan",
+      "Soal jawab ringkas",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Senarai semak"
+    ],
+    "aids": [
+      "Kad gambar nilai",
+      "Poster teladan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.10.2 Membina ayat mudah berkaitan cerita teladan",
+    "objectives": "Murid dapat berkata 'Budak itu rajin belajar'.",
+    "activities": [
+      "Dialog berpandu",
+      "Latihan berpasangan",
+      "Main peranan"
+    ],
+    "assessment": [
+      "Penilaian rakan sebaya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad dialog",
+      "Gambar cerita"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "2.10.3 Bertanya dan menjawab soalan mudah tentang cerita teladan",
+    "objectives": "Murid dapat bertanya 'Siapa watak baik?' dan menjawab 'Ali yang jujur'.",
+    "activities": [
+      "Dialog mudah",
+      "Permainan teka watak",
+      "Soal jawab berpasangan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian lisan"
+    ],
+    "aids": [
+      "Kad soal jawab",
+      "Poster teladan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Bertutur"
+  },
+  {
+    "standards": "3.10.1 Mengecam perkataan mudah daripada cerita teladan",
+    "objectives": "Murid dapat membaca baik, jujur, amanah, rajin.",
+    "activities": [
+      "Baca kad imbas",
+      "Padankan gambar dengan perkataan",
+      "Permainan bacaan"
+    ],
+    "assessment": [
+      "Bacaan kuat",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Kad imbas",
+      "Carta teladan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.10.2 Membaca ayat mudah daripada cerita teladan",
+    "objectives": "Murid dapat membaca ayat 'Ali seorang budak jujur'.",
+    "activities": [
+      "Baca bersama guru",
+      "Latihan membaca berpasangan",
+      "Baca dan tunjuk gambar"
+    ],
+    "assessment": [
+      "Pemerhatian bacaan",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Gambar teladan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "3.10.3 Memahami pengajaran daripada teks cerita teladan",
+    "objectives": "Murid dapat menyatakan pengajaran selepas membaca teks.",
+    "activities": [
+      "Soal jawab ringkas",
+      "Baca dan lukis",
+      "Padanan isi dengan teks"
+    ],
+    "assessment": [
+      "Soalan kefahaman",
+      "Lembaran kerja"
+    ],
+    "aids": [
+      "Teks mudah",
+      "Kad bergambar"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Membaca"
+  },
+  {
+    "standards": "4.10.1 Menyalin perkataan nilai dengan tulisan kemas",
+    "objectives": "Murid dapat menyalin baik, jujur, amanah, rajin.",
+    "activities": [
+      "Latihan menyalin",
+      "Melabel gambar nilai",
+      "Menulis pada kad imbas"
+    ],
+    "assessment": [
+      "Semakan tulisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lembaran kerja",
+      "Kad perkataan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.10.2 Menulis ayat mudah tentang cerita teladan",
+    "objectives": "Murid dapat menulis 'Ali budak baik'.",
+    "activities": [
+      "Latihan berpandu",
+      "Isi tempat kosong",
+      "Bina ayat mudah"
+    ],
+    "assessment": [
+      "Ujian bertulis",
+      "Semakan guru"
+    ],
+    "aids": [
+      "Kad ayat",
+      "Gambar cerita"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "4.10.3 Menyusun perkataan menjadi ayat mudah tentang cerita teladan",
+    "objectives": "Murid dapat menyusun 'Ali / budak / jujur'.",
+    "activities": [
+      "Permainan susun ayat",
+      "Kad perkataan",
+      "Latihan kumpulan"
+    ],
+    "assessment": [
+      "Lembaran latihan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Kad perkataan",
+      "Carta ayat"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Menulis"
+  },
+  {
+    "standards": "5.10.1 Menghayati lagu atau sajak mudah tentang cerita teladan",
+    "objectives": "Murid dapat menyanyi lagu atau melafazkan sajak berkaitan teladan.",
+    "activities": [
+      "Nyanyian bersama",
+      "Deklamasi sajak",
+      "Lakonan ringkas"
+    ],
+    "assessment": [
+      "Persembahan lisan",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Lirik lagu",
+      "Poster teladan"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.10.2 Melukis atau mewarna gambar cerita teladan",
+    "objectives": "Murid dapat melukis dan mewarna gambar watak baik dalam cerita.",
+    "activities": [
+      "Melukis teladan",
+      "Mewarna gambar",
+      "Kolaj cerita"
+    ],
+    "assessment": [
+      "Hasil karya",
+      "Pemerhatian guru"
+    ],
+    "aids": [
+      "Buku lukisan",
+      "Pensel warna"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Seni Bahasa"
+  },
+  {
+    "standards": "5.10.3 Melakonkan semula cerita teladan",
+    "objectives": "Murid dapat melakonkan cerita 'Budak yang jujur'.",
+    "activities": [
+      "Main peranan",
+      "Drama pendek",
+      "Persembahan kumpulan"
+    ],
+    "assessment": [
+      "Pemerhatian guru",
+      "Penilaian rakan"
+    ],
+    "aids": [
+      "Alat peraga",
+      "Kostum ringkas"
+    ],
+    "unit": "Unit 10: Cerita Teladan",
+    "kategori": "Seni Bahasa"
+  }
+]

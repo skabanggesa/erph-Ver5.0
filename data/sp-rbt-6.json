@@ -1,0 +1,135 @@
+[
+  {
+    "standards": "RBT.1.1.1 - 1.1.4 Pengenalan kepada Robotik",
+    "objectives": "Murid dapat mengenal pasti komponen elektronik (mikropengawal, penderia, aktuator) dan fungsinya dalam sistem robotik.",
+    "activities": [
+      "Eksplorasi komponen: Mengenal fungsi penderia (IR, ultrasonik, cahaya)",
+      "Melakar reka bentuk robot ringkas",
+      "Pemasangan perkakasan sistem robotik mengikut manual"
+    ],
+    "assessment": [
+      "Lembaran kerja mengenal pasti komponen",
+      "Lakaran bermaklumat reka bentuk robot"
+    ],
+    "aids": [
+      "Kit robotik (Arduino/Micro:bit/mBot)",
+      "Penderia (Sensors) dan motor DC/Servo",
+      "Buku teks RBT Tahun 6"
+    ],
+    "kategori": "Aplikasi Robotik"
+  },
+  {
+    "standards": "RBT.1.1.5 - 1.1.8 Pengaturcaraan dan Pengujian",
+    "objectives": "Murid dapat membina atur cara menggunakan 'block-based programming' dan menguji kefungsian robot.",
+    "activities": [
+      "Membina algoritma, pseudokod, dan carta alir",
+      "Sesi 'Coding': Memasukkan arahan pergerakan dan tindak balas penderia",
+      "Ujian larian robot di atas litar (troubleshooting)"
+    ],
+    "assessment": [
+      "Fail atur cara (coding script)",
+      "Laporan ujian kefungsian (berjaya/gagal)"
+    ],
+    "aids": [
+      "Perisian pengaturcaraan (MakeCode/mBlock)",
+      "Kabel USB/Bluetooth",
+      "Litar simulasi/papan litar"
+    ],
+    "kategori": "Aplikasi Robotik"
+  },
+  {
+    "standards": "RBT.2.1.1 - 2.1.4 Fasa Awal Pembangunan Produk",
+    "objectives": "Murid dapat mengenal pasti masalah, menjana idea kreatif, dan melakar reka bentuk produk baharu.",
+    "activities": [
+      "Sumbangsaran: Mengenal pasti masalah di persekitaran sekolah",
+      "Menghasilkan 3 lakaran idea (2D/3D)",
+      "Analisis dan pemilihan lakaran terbaik menggunakan jadual kriteria"
+    ],
+    "assessment": [
+      "Buku skrap/Folio: Borang mengenal pasti masalah",
+      "Helaian lakaran perkembangan idea"
+    ],
+    "aids": [
+      "Kertas lukisan & alat tulis",
+      "Contoh produk sedia ada (analisis kelemahan)",
+      "Peta pemikiran (i-Think)"
+    ],
+    "kategori": "Pembangunan Produk"
+  },
+  {
+    "standards": "RBT.2.1.5 - 2.1.7 Pengurusan Kos dan Jadual Kerja",
+    "objectives": "Murid dapat menyediakan jadual kerja dan mengira kos pengeluaran produk dengan tepat.",
+    "activities": [
+      "Menyediakan carta Gantt untuk pelaksanaan projek",
+      "Mengira Kos Bahan, Kos Upah, dan Kos Sampingan",
+      "Penyediaan senarai bahan dan alatan yang diperlukan"
+    ],
+    "assessment": [
+      "Jadual kerja (Carta Gantt) yang realistik",
+      "Pengiraan kos dalam bentuk jadual"
+    ],
+    "aids": [
+      "Templat bajet/kos (Excel/Manual)",
+      "Katalog harga bahan",
+      "Contoh jadual kerja"
+    ],
+    "kategori": "Pembangunan Produk"
+  },
+  {
+    "standards": "RBT.3.1.1 Menjalankan projek reka cipta secara bersepadu menggunakan proses reka cipta lengkap",
+    "objectives": "Murid dapat melaksanakan projek inovasi dari fasa mengenal pasti masalah hingga penilaian secara bebas dengan minima bimbingan.",
+    "activities": [
+      "Projek tahunan: 'Inovasi untuk Sekolah Hijau'",
+      "Pembentangan idea kepada panel (guru & rakan)",
+      "Pembinaan, ujian, dan penambahbaikan model"
+    ],
+    "assessment": [
+      "Folio projek lengkap (masalah, lakaran, rancangan, model, penilaian)",
+      "Pembentangan akhir (3–5 minit)"
+    ],
+    "aids": [
+      "Bahan pelbagai (kayu ringan, plastik, kertas, elektronik asas seperti LED)",
+      "Alatan tangan selamat",
+      "Templat folio digital/cetak"
+    ],
+    "kategori": "Mengaplikasikan Proses Reka Cipta Secara Bersepadu"
+  },
+  {
+    "standards": "RBT.3.2.1 Mengamalkan kerja berkumpulan, komunikasi dan pemikiran kritis dalam projek RBT",
+    "objectives": "Murid dapat menunjukkan kemahiran kolaborasi, komunikasi dan penyelesaian masalah semasa projek berkumpulan.",
+    "activities": [
+      "Peranan jelas dalam kumpulan (ketua, pencatat, pembentang, pembina)",
+      "Perbincangan penyelesaian cabaran semasa pembinaan",
+      "Refleksi berkumpulan selepas projek"
+    ],
+    "assessment": [
+      "Pentaksiran rakan sekerja (peer assessment)",
+      "Catatan guru tentang interaksi berkumpulan"
+    ],
+    "aids": [
+      "Kad peranan kumpulan",
+      "Rubrik kemahiran abad ke-21",
+      "Buku refleksi berkumpulan"
+    ],
+    "kategori": "Kemahiran Abad ke-21 dalam RBT"
+  },
+  {
+    "standards": "RBT.3.3.1 Menunjukkan kesedaran terhadap alam sekitar dan kelestarian dalam reka cipta",
+    "objectives": "Murid dapat menggunakan bahan mesra alam dan mempertimbangkan kesan alam sekitar dalam reka cipta mereka.",
+    "activities": [
+      "Perbincangan: 'Reka Cipta yang Mesra Bumi'",
+      "Gunakan 100% bahan kitar semula dalam projek",
+      "Label 'Hijau' pada model yang mesra alam"
+    ],
+    "assessment": [
+      "Senarai semak penggunaan bahan kitar semula",
+      "Penjelasan lisan tentang aspek kelestarian dalam reka cipta"
+    ],
+    "aids": [
+      "Contoh inovasi hijau tempatan/global",
+      "Kotak bahan kitar semula kelas",
+      "Poster '3R: Reduce, Reuse, Recycle'"
+    ],
+    "kategori": "Etika dan Kesedaran Global"
+  }
+]

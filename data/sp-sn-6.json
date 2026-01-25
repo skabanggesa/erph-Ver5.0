@@ -1,0 +1,142 @@
+[
+  {
+    "standards": "6.1.1 Memerhati kesan daya terhadap bentuk, arah dan kelajuan objek",
+    "objectives": "Murid dapat membuat pemerhatian kualitatif dan kuantitatif kesan daya ke atas objek.",
+    "skills": [
+      "Pemerhatian kualitatif & kuantitatif dengan alat",
+      "Inferens dengan mengenal pasti hubungan antara pembolehubah",
+      "Merancang & melaksanakan eksperimen dengan kawalan pembolehubah"
+    ],
+    "activities": [
+      "Eksperimen menolak dan menarik objek",
+      "Mengukur kelajuan objek menggunakan jam randik"
+    ],
+    "assessment": [
+      "Lembaran kerja",
+      "Soal jawab"
+    ],
+    "aids": [
+      "Troli kecil",
+      "Jam randik"
+    ],
+    "unit": "Unit 1: Daya & kesannya, kelajuan objek",
+    "kategori": "Kemahiran Saintifik Maju"
+  },
+  {
+    "standards": "6.2.1 Mengukur daya dan beban dalam penggunaan mesin ringkas",
+    "objectives": "Murid dapat mengukur daya ke atas pelbagai jenis mesin ringkas dengan unit piawai.",
+    "skills": [
+      "Pengukuran & penggunaan unit piawai / unit turunan",
+      "Membuat hipotesis dan menguji",
+      "Mengesan anomali dalam data"
+    ],
+    "activities": [
+      "Mengukur daya dengan spring balance",
+      "Membandingkan daya dengan beban"
+    ],
+    "assessment": [
+      "Laporan pengukuran",
+      "Kuiz ringkas"
+    ],
+    "aids": [
+      "Spring balance",
+      "Tuas",
+      "Katrol"
+    ],
+    "unit": "Unit 2: Mesin ringkas / struktur & kestabilan",
+    "kategori": "Kemahiran Saintifik Maju"
+  },
+  {
+    "standards": "6.3.1 Mentafsir data pemindahan haba dalam bahan berbeza",
+    "objectives": "Murid dapat mentafsir data suhu bahan berbeza melalui analisis statistik asas.",
+    "skills": [
+      "Mentafsir data & analisis statistik asas",
+      "Merancang & melaksanakan eksperimen dengan kawalan pembolehubah",
+      "Komunikasi saintifik lanjutan (graf, carta, laporan)"
+    ],
+    "activities": [
+      "Mengukur suhu bahan terkena haba",
+      "Mengira purata perubahan suhu"
+    ],
+    "assessment": [
+      "Laporan data",
+      "Soal selidik"
+    ],
+    "aids": [
+      "Termometer",
+      "Pemanas air",
+      "Bahan logam/plastik"
+    ],
+    "unit": "Unit 3: Pemindahan haba, arus elektrik & litar mudah",
+    "kategori": "Kemahiran Saintifik Maju"
+  },
+  {
+    "standards": "6.4.1 Membuat ramalan trend penggunaan tenaga berdasarkan data",
+    "objectives": "Murid dapat meramalkan penggunaan tenaga masa depan daripada data trend.",
+    "skills": [
+      "Ramalan berdasarkan pola / trend",
+      "Menilai eksperimen dan mencadangkan penambahbaikan",
+      "Mendefinisi konsep secara operasi (menjelaskan maksud konsep berdasarkan pemerhatian / pelaksanaan)"
+    ],
+    "activities": [
+      "Menganalisis graf penggunaan elektrik",
+      "Membuat ramalan trend"
+    ],
+    "assessment": [
+      "Kuiz ramalan",
+      "Laporan data"
+    ],
+    "aids": [
+      "Kertas graf",
+      "Projekor"
+    ],
+    "unit": "Unit 4: Sumber tenaga & penjimatan tenaga",
+    "kategori": "Kemahiran Saintifik Maju"
+  },
+  {
+    "standards": "6.5.1 Mengklasifikasi kaedah teknologi lestari mengikut ciri kompleks",
+    "objectives": "Murid dapat mengklasifikasi teknologi lestari berdasarkan ciri-ciri utamanya.",
+    "skills": [
+      "Klasifikasi & analisis kategori berdasarkan ciri kompleks",
+      "Komunikasi saintifik lanjutan (graf, carta, laporan)",
+      "Membuat hipotesis dan menguji"
+    ],
+    "activities": [
+      "Kajian kes tenaga solar dan biogas",
+      "Membandingkan ciri lestari"
+    ],
+    "assessment": [
+      "Laporan perbincangan",
+      "Poster maklumat"
+    ],
+    "aids": [
+      "Internet",
+      "Buku rujukan"
+    ],
+    "unit": "Unit 5: Pemeliharaan alam sekitar & teknologi lestari",
+    "kategori": "Kemahiran Saintifik Maju"
+  },
+  {
+    "standards": "6.6.1 Menyusun kronologi peristiwa gerhana",
+    "objectives": "Murid dapat menyusun kronologi peristiwa gerhana berdasarkan model dan gambarajah.",
+    "skills": [
+      "Menyusun kronologi & memahami hubungan ruang / masa / matematik",
+      "Pemerhatian kualitatif & kuantitatif dengan alat",
+      "Mendefinisi konsep secara operasi (menjelaskan maksud konsep berdasarkan pemerhatian / pelaksanaan)"
+    ],
+    "activities": [
+      "Aktiviti model gerhana",
+      "Menyusun gambar mengikut urutan"
+    ],
+    "assessment": [
+      "Kuiz kronologi",
+      "Peta minda"
+    ],
+    "aids": [
+      "Model gerhana",
+      "Kad gambar"
+    ],
+    "unit": "Unit 6: Bumi & angkasa (gerhana, sistem suria, galaksi)",
+    "kategori": "Kemahiran Saintifik Maju"
+  }
+]

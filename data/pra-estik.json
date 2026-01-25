@@ -1,0 +1,216 @@
+[
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.1 - Mengenal pasti elemen seni visual (unsur seni)",
+    "objectives": ["Murid dapat mengenal dan menamakan unsur seni seperti garisan, warna, dan rupa."],
+    "activities": [
+      "Aktiviti 'Mencari Garisan': Murid mencari dan melukis pelbagai jenis garisan (lurus, bengkak-bengkok, beralun) yang terdapat di persekitaran sekolah.",
+      "Eksperimen Campuran Warna: Mencampur warna primer (merah, biru, kuning) untuk menghasilkan warna sekunder."
+    ],
+    "assessment": ["Senarai semak pengecaman unsur seni.", "Pemerhatian semasa aktiviti campuran warna."],
+    "aids": ["Warna air", "Palet", "Kertas lukisan"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.1.1 - Mengenal pasti warna primer dan sekunder",
+    "objectives": ["Murid dapat membezakan sekurang-kurangnya 3 warna primer dan 3 warna sekunder dengan betul."],
+    "activities": [
+      "Permainan 'Bingo Warna': Murid memadankan objek berwarna dengan kotak warna pada kad Bingo.",
+      "Aktiviti 'Sains Warna': Menggunakan tisu yang dicelup ke dalam air berwarna untuk melihat proses penyerapan dan campuran warna."
+    ],
+    "assessment": ["Lembaran kerja mewarna mengikut arahan.", "Ujian lisan menamakan warna."],
+    "aids": ["Tisu", "Cawan plastik", "Kad Bingo warna"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.2 - Mengenal elemen muzik (irama, melodi, dan kualiti ton)",
+    "objectives": ["Murid dapat membezakan bunyi yang tinggi/rendah dan kuat/lembut."],
+    "activities": [
+      "Aktiviti 'Bunyi Tinggi & Rendah': Murid menggerakkan tangan ke atas (pic tinggi) dan ke bawah (pic rendah) mengikut bunyi piano/audio.",
+      "Permainan 'Teka Suara': Mengenal pasti suara rakan atau bunyi haiwan melalui rakaman audio."
+    ],
+    "assessment": ["Pemerhatian tindak balas terhadap bunyi.", "Rekod lisan perbezaan ton."],
+    "aids": ["Keyboard/Piano mainan", "Rakaman bunyi alam", "Pembesar suara"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.2.1 - Mengenal bunyi alat muzik perkusi",
+    "objectives": ["Murid dapat menamakan dan mengecam bunyi alat muzik perkusi asas."],
+    "activities": [
+      "Aktiviti 'Kotak Muzik Misteri': Murid mendengar bunyi alat muzik dari dalam kotak dan meneka namanya (cth: kastenet, tamburin).",
+      "Sesi demonstasi cara memegang dan membunyikan alat perkusi dengan betul."
+    ],
+    "assessment": ["Ujian pengecaman bunyi alat muzik.", "Senarai semak cara penggunaan alat muzik."],
+    "aids": ["Kastenet", "Tamburin", "Kayu tik-tok"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.2.2 - Mengenal pasti tempo (laju dan perlahan)",
+    "objectives": ["Murid dapat melakukan pergerakan mengikut tempo muzik yang dimainkan."],
+    "activities": [
+      "Permainan 'Kereta Api': Bergerak laju apabila muzik rancak dan perlahan apabila muzik mendayu.",
+      "Tepuk tangan mengikut detik jam (tempo perlahan) dan bunyi larian (tempo laju)."
+    ],
+    "assessment": ["Pemerhatian koordinasi mengikut tempo.", "Skala kadar respon murid terhadap muzik."],
+    "aids": ["Metronome", "Muzik pelbagai tempo", "Ribon warna"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.2.3 - Mengenal pasti dinamik (kuat dan lembut)",
+    "objectives": ["Murid dapat membezakan antara bunyi yang kuat (forte) dan lembut (piano)."],
+    "activities": [
+      "Permainan 'Gergasi dan Semut': Berjalan dengan hentakan kuat (dinamik kuat) dan berjinjit (dinamik lembut).",
+      "Menyanyi lagu 'Twinkle Twinkle Little Star' dengan volume yang berubah-ubah mengikut isyarat tangan guru."
+    ],
+    "assessment": ["Rekod anekdot tindak balas dinamik.", "Pemerhatian semasa sesi nyanyian."],
+    "aids": ["Wisel", "Loceng", "Kad arahan (Kuat/Lembut)"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "1 : Eksplorasi",
+    "standards": "1.2.4 - Mengenal pasti rupa dan bentuk dalam seni",
+    "objectives": ["Murid dapat mengenal pasti rupa geometri (bulat, segitiga, segiempat) dalam karya seni."],
+    "activities": [
+      "Aktiviti 'Capan Rupa': Menggunakan bentuk geometri untuk membuat corak pada kertas.",
+      "Mencari bentuk geometri pada objek di dalam kelas dan melukisnya semula."
+    ],
+    "assessment": ["Hasil kerja capan.", "Lembaran kerja memadankan rupa."],
+    "aids": ["Bentuk geometri plastik", "Warna air", "Kertas lukisan"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.1 - Menghasilkan karya seni visual kreatif",
+    "objectives": ["Murid dapat menggunakan pelbagai bahan untuk mencipta karya seni mengikut imaginasi."],
+    "activities": [
+      "Aktiviti 'Lukisan Bebas': Murid melukis gambar bertema 'Rumah Impian Saya'.",
+      "Membina arca daripada bahan kitar semula seperti kotak dan botol plastik."
+    ],
+    "assessment": ["Penilaian hasil kerja (Portfolio).", "Skala kreativiti hasil karya."],
+    "aids": ["Bahan kitar semula", "Gam dan gunting", "Krayon"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.1.1 - Menghasilkan karya menggunakan pelbagai teknik (lukisan, catan, kolaj)",
+    "objectives": ["Murid dapat menghasilkan kolaj menggunakan teknik koyakan dan tampalan."],
+    "activities": [
+      "Membuat kolaj 'Bunga Matahari' menggunakan kertas warna yang dikoyak kecil.",
+      "Aktiviti 'Catan Jari': Melukis pemandangan menggunakan hujung jari dan warna air."
+    ],
+    "assessment": ["Pemerhatian kemahiran motor halus.", "Hasil akhir kolaj/catan."],
+    "aids": ["Kertas warna", "Warna air", "Majalah terpakai"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.2 - Menzahirkan idea kreatif dalam muzik dan gerakan",
+    "objectives": ["Murid dapat mengekspresikan perasaan melalui gerakan badan kreatif mengikut muzik."],
+    "activities": [
+      "Tarian Kreatif: Murid bergerak bebas seperti daun yang ditiup angin mengikut alunan muzik instrumen.",
+      "Aktiviti 'Patung Muzik': Berhenti melakukan aksi apabila muzik ditutup."
+    ],
+    "assessment": ["Pemerhatian kelenturan badan.", "Rekod penglibatan murid dalam gerakan."],
+    "aids": ["Muzik instrumental", "Selendang/Kain nipis", "Speaker"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.2.1 - Menyanyi dengan sebutan yang jelas",
+    "objectives": ["Murid dapat menyanyikan lirik lagu kanak-kanak dengan sebutan perkataan yang betul."],
+    "activities": [
+      "Latihan sebutan lirik lagu tanpa muzik (spoken lyrics).",
+      "Nyanyian lagu 'Bapaku Pulang' secara berkumpulan dengan fokus pada kejelasan vokal."
+    ],
+    "assessment": ["Ujian lisan nyanyian.", "Pemerhatian pergerakan mulut semasa menyanyi."],
+    "aids": ["Lirik lagu besar", "Mikrofon mainan", "Video karaoke"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.2.2 - Menyanyi mengikut pic yang betul",
+    "objectives": ["Murid dapat mengikut melodi lagu dengan pic yang selaras dengan iringan muzik."],
+    "activities": [
+      "Latihan 'Sol-Fa': Mengikut bunyi tangga nada Do-Re-Mi.",
+      "Menyanyi lagu pendek dengan bimbingan guru menggunakan alat muzik piano."
+    ],
+    "assessment": ["Pemerhatian ketepatan nada (pitching).", "Rekod anekdot kualiti suara."],
+    "aids": ["Piano/Melodika", "Carta tangga nada", "Audio melodi"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.2.3 - Melakukan pergerakan mengikut lirik lagu",
+    "objectives": ["Murid dapat menyelaraskan aksi fizikal dengan maksud lirik lagu (cth: lagu 'Rama-rama')."],
+    "activities": [
+      "Aksi Lagu: Melakonkan aksi terbang, merangkak, dan tidur mengikut lagu haiwan.",
+      "Main Peranan: Murid menjadi watak dalam lagu 'Bangun Pagi' (gosok gigi, mandi)."
+    ],
+    "assessment": ["Pemerhatian koordinasi aksi dan lirik.", "Senarai semak penglibatan."],
+    "aids": ["Kostum haiwan ringkas", "Prop harian (berus gigi, tuala)", "Video aksi lagu"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.2.4 - Memainkan alat muzik perkusi mengikut tempo",
+    "objectives": ["Murid dapat memukul alat muzik mengikut detik muzik yang dimainkan."],
+    "activities": [
+      "Aktiviti 'Drum Circle': Murid memukul kompang atau dram mainan mengikut rentak guru.",
+      "Mengiringi lagu 'Rasa Sayang' menggunakan kastenet mengikut tempo yang konsisten."
+    ],
+    "assessment": ["Pemerhatian ketepatan detik muzik.", "Skala kemahiran pengendalian alat perkusi."],
+    "aids": ["Kompang/Dram", "Kastenet", "Muzik latar tradisi"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "2 : Ekspresi",
+    "standards": "2.2.5 - Menghasilkan bunyi menggunakan perkusi badan",
+    "objectives": ["Murid dapat mencipta bunyi menggunakan anggota badan (tepuk tangan, petik jari, hentak kaki)."],
+    "activities": [
+      "Aktiviti 'Body Beat': Murid menghasilkan corak irama mudah menggunakan tepukan tangan dan paha.",
+      "Permainan 'Ikut Ketua': Ketua melakukan satu bunyi perkusi badan dan rakan-rakan lain menirunya."
+    ],
+    "assessment": ["Rekod keupayaan meniru corak irama.", "Pemerhatian kreativiti bunyi badan."],
+    "aids": ["Kad gambar aksi badan", "Muzik tanpa vokal", "Video Body Percussion"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "3 : Apresiasi",
+    "standards": "3.1 - Menghargai hasil karya seni dan muzik",
+    "objectives": ["Murid dapat menunjukkan sikap menghargai hasil kerja sendiri dan orang lain."],
+    "activities": [
+      "Sesi 'Pameran Mini': Murid menyusun hasil kerja di atas meja dan berjalan melihat karya rakan.",
+      "Aktiviti 'Peti Cadangan Positif': Murid memberi pujian lisan kepada hasil kerja rakan yang mereka sukai."
+    ],
+    "assessment": ["Pemerhatian sikap terhadap karya rakan.", "Rekod lisan penghargaan."],
+    "aids": ["Kaki dua (easel)", "Papan kenyataan", "Stiker bintang"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "3.1.1 - Menceritakan hasil kerja sendiri",
+    "objectives": ["Murid dapat menyatakan sekurang-kurangnya dua perkara tentang karya yang dihasilkan (cth: warna, nama watak)."],
+    "activities": [
+      "Sesi 'Artist Talk': Murid berdiri di depan kelas dan menceritakan mengapa mereka memilih warna tersebut dalam lukisan.",
+      "Merekod video pendek murid menceritakan tentang binaan blok mereka."
+    ],
+    "assessment": ["Penilaian keyakinan bercakap.", "Senarai semak kosa kata seni yang digunakan."],
+    "aids": ["Hasil kerja murid", "Kamera/Tablet", "Bintang ganjaran"]
+  },
+  {
+    "unit": "Pembelajaran Kreativiti dan Estetika",
+    "kategori": "3.1.2 - Memberi ulasan ringkas terhadap hasil kerja rakan",
+    "objectives": ["Murid dapat memberikan pujian atau pendapat mudah secara sopan tentang karya rakan."],
+    "activities": [
+      "Permainan 'Dua Pujian, Satu Senyuman': Murid menyatakan apa yang mereka suka tentang lukisan rakan (cth: 'Saya suka warna merah ini').",
+      "Menampal pelekat 'Hebat' pada hasil kerja rakan yang paling kreatif."
+    ],
+    "assessment": ["Pemerhatian adab memberi pendapat.", "Rekod anekdot interaksi sosial."],
+    "aids": ["Pelekat 'Hebat/Cantik'", "Kad ulasan bergambar", "Carta penghargaan"]
+  }
+]

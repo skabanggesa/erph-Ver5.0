@@ -1,0 +1,107 @@
+[
+  {
+    "standards": "4.1.1 Mengenal tanda tubuh sihat (tenaga, kulit bersih) dan tidak sihat (demam, letih).",
+    "objectives": "Murid dapat mengenalpasti tanda tubuh sihat dan tidak sihat serta tindakan yang perlu diambil.",
+    "activities": [
+      "Permainan kad: 'Sihat atau Tidak Sihat?'",
+      "Lukis 'Badan Saya Hari Ini'",
+      "Perbincangan: 'Bila Perlu Jumpa Doktor?'"
+    ],
+    "assessment": [
+      "Padanan kad tanda sihat/tidak sihat",
+      "Lukisan dan penerangan lisan",
+      "Senarai semak pemahaman tanda kesihatan"
+    ],
+    "aids": [
+      "Kad gambar tanda kesihatan",
+      "Termometer mainan",
+      "Carta tanda tubuh sihat"
+    ],
+    "unit": "Unit 1: Penjagaan Kesihatan Diri",
+    "kategori": "Mengenal tanda kesihatan tubuh badan"
+  },
+  {
+    "standards": "4.2.1 Merancang hidangan seimbang mengikut kumpulan makanan utama.",
+    "objectives": "Murid dapat merancang menu sehari yang seimbang dan menjelaskan kandungannya.",
+    "activities": [
+      "Aktiviti potong & tampal: 'Menu Sihat Saya'",
+      "Permainan: 'Bina Pinggan Sihat'",
+      "Perbincangan: 'Apa yang Kurang dalam Bekal Saya?'"
+    ],
+    "assessment": [
+      "Penilaian menu murid",
+      "Pembentangan ringkas",
+      "Kuiz nutrisi"
+    ],
+    "aids": [
+      "Majalah makanan untuk potong",
+      "Pinggan kertas bersektor",
+      "Kad nutrisi bergambar"
+    ],
+    "unit": "Unit 2: Keseimbangan Diet dan Nutrisi",
+    "kategori": "Mengamalkan pemakanan seimbang"
+  },
+  {
+    "standards": "4.3.1 Mengenal perubahan fizikal asas lelaki dan perempuan semasa akil baligh.",
+    "objectives": "Murid dapat menyatakan perubahan fizikal asas lelaki dan perempuan secara umum dan sopan.",
+    "activities": [
+      "Perbincangan berasingan (lelaki/perempuan) dengan guru kaunseling",
+      "Lukis carta perubahan fizikal (umum)",
+      "Tonton video pendidikan kesihatan reproduktif kanak-kanak"
+    ],
+    "assessment": [
+      "Soal jawab tertutup (buku tulis)",
+      "Pemerhatian pemahaman konsep",
+      "Refleksi bertulis: 'Saya Akan Lebih Bertanggungjawab'"
+    ],
+    "aids": [
+      "Video pendidikan PK (disemak KPM)",
+      "Buku rujukan PK Tahun 4",
+      "Carta perubahan fizikal (neutral)"
+    ],
+    "unit": "Unit 3: Kesihatan Reproduktif Asas",
+    "kategori": "Memahami perubahan akil baligh asas"
+  },
+  {
+    "standards": "4.4.1 Menyatakan tindakan keselamatan semasa kebakaran, banjir dan kecemasan awam.",
+    "objectives": "Murid dapat menyatakan nombor kecemasan dan langkah asas keselamatan awam.",
+    "activities": [
+      "Simulasi evakuasi kebakaran",
+      "Latihan panggil 999 (mainan telefon)",
+      "Lukis peta laluan keluar kecemasan"
+    ],
+    "assessment": [
+      "Pemerhatian simulasi evakuasi",
+      "Ujian lisan: nombor kecemasan",
+      "Penilaian peta laluan keluar"
+    ],
+    "aids": [
+      "Loceng kebakaran (simulasi bunyi)",
+      "Telefon mainan",
+      "Peta sekolah kosong"
+    ],
+    "unit": "Unit 4: Keselamatan Awam dan Kebakaran",
+    "kategori": "Mengetahui tindakan keselamatan awam"
+  },
+  {
+    "standards": "4.5.1 Mengenal tanda tekanan ringan dan menggunakan teknik asas untuk menguruskannya.",
+    "objectives": "Murid dapat mengenal tanda tekanan (marah, gelisah) dan menggunakan teknik tarik nafas atau bercakap dengan guru.",
+    "activities": [
+      "Latihan 'Tarik Nafas – Hitung 5 Saat'",
+      "Aktiviti 'Kotak Perasaan – Tulis & Simpan'",
+      "Perbincangan: 'Siapa yang Boleh Saya Percaya?'"
+    ],
+    "assessment": [
+      "Pemerhatian penggunaan teknik tenang",
+      "Catatan penggunaan 'kotak perasaan'",
+      "Refleksi lisan"
+    ],
+    "aids": [
+      "Botol 'tenang' (air + glitter)",
+      "Kotak perasaan",
+      "Kad teknik kawalan emosi"
+    ],
+    "unit": "Unit 5: Kawalan Emosi dan Tekanan",
+    "kategori": "Mengurus emosi dan tekanan ringan"
+  }
+]

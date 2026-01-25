@@ -1,0 +1,303 @@
+[
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.1 - Memerhati persekitaran menggunakan deria",
+    "objectives": ["Murid dapat menggunakan kelima-lima deria untuk meneroka ciri fizikal objek."],
+    "activities": [
+      "Kembara Deria: Murid dibawa ke taman sekolah untuk melihat, mendengar, menyentuh, dan menghidu tumbuhan.",
+      "Aktiviti 'Apa di Dalam Beg?': Murid memasukkan tangan ke dalam beg gelap dan meneka objek berdasarkan sentuhan."
+    ],
+    "assessment": ["Rekod anekdot penggunaan deria.", "Pemerhatian keupayaan menyebut ciri objek."],
+    "aids": ["Beg kain", "Benda maujud (batu, daun, bunga)", "Lup (magnifying glass)"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.1.1 - Memerhati objek menggunakan deria penglihatan",
+    "objectives": ["Murid dapat menyatakan perbezaan warna dan bentuk pada objek yang dilihat."],
+    "activities": [
+      "Permainan 'I Spy': Murid mencari objek di dalam kelas berdasarkan ciri warna yang disebut guru.",
+      "Aktiviti memadankan bongkah mengikut rupa geometri yang sama."
+    ],
+    "assessment": ["Pemerhatian ketepatan pengecaman visual.", "Lembaran kerja 'Cari Objek Tersembunyi'."],
+    "aids": ["Bongkah geometri", "Kad warna", "Gambar pemandangan"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.1.2 - Memerhati objek menggunakan deria pendengaran",
+    "objectives": ["Murid dapat membezakan bunyi kuat, lembut, tinggi, dan rendah."],
+    "activities": [
+      "Teka Bunyi Haiwan: Murid mendengar audio dan meniru bunyi haiwan tersebut.",
+      "Aktiviti 'Bunyi Dalam Botol': Menggoncang botol yang berisi pelbagai bahan (beras, batu, pasir) dan membandingkan bunyinya."
+    ],
+    "assessment": ["Rekod lisan perbezaan bunyi.", "Senarai semak pengecaman bunyi."],
+    "aids": ["Audio bunyi haiwan", "Botol plastik", "Bahan pengisi (kacang/pasir)"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.1.3 - Memerhati objek menggunakan deria sentuhan",
+    "objectives": ["Murid dapat membezakan tekstur kasar, licin, keras, dan lembut."],
+    "activities": [
+      "Papan Tekstur: Murid menyentuh pelbagai permukaan (kertas pasir, kapas, kain sutera).",
+      "Aktiviti 'Laluan Kaki': Murid berjalan berkaki ayam di atas permukaan yang berbeza tekstur."
+    ],
+    "assessment": ["Laporan lisan tentang rasa permukaan.", "Pemerhatian reaksi murid terhadap tekstur."],
+    "aids": ["Kertas pasir", "Kapas", "Kain satin"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.1.4 - Memerhati objek menggunakan deria bau",
+    "objectives": ["Murid dapat mengenal pasti dan membezakan bau yang wangi dan busuk."],
+    "activities": [
+      "Aktiviti 'Hidu dan Teka': Murid menghidu bahan dalam bekas tertutup (kopi, sabun, bawang).",
+      "Membuat 'Uncang Wangi' menggunakan bunga kering atau rempah ratus."
+    ],
+    "assessment": ["Pemerhatian keupayaan membezakan jenis bau.", "Soal jawab lisan kesukaan bau."],
+    "aids": ["Bekas berlubang", "Rempah ratus (kayu manis/cengkih)", "Sabun"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.1.5 - Memerhati objek menggunakan deria rasa",
+    "objectives": ["Murid dapat mengenal pasti rasa manis, masin, masam, dan pahit."],
+    "activities": [
+      "Ujian Rasa (Taste Test): Murid merasa sedikit gula, garam, lemon, dan peria.",
+      "Mengelaskan gambar makanan mengikut kategori rasa utama."
+    ],
+    "assessment": ["Rekod anekdot tindak balas rasa.", "Lembaran kerja pengelasan rasa."],
+    "aids": ["Sampel makanan (gula/garam/lemon)", "Cawan kertas", "Kad gambar makanan"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.2 - Membuat perbandingan kualitatif dan kuantitatif",
+    "objectives": ["Murid dapat membandingkan dua kumpulan objek menggunakan kosa kata perbandingan."],
+    "activities": [
+      "Aktiviti 'Lebih atau Kurang': Membandingkan bilangan guli dalam dua balang berbeza.",
+      "Membandingkan saiz kasut rakan-rakan di dalam kelas (besar vs kecil)."
+    ],
+    "assessment": ["Pemerhatian penggunaan istilah 'lebih/kurang'.", "Soal jawab perbandingan saiz."],
+    "aids": ["Guli", "Balang lutsinar", "Objek pelbagai saiz"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.2.1 - Membandingkan panjang dan pendek objek",
+    "objectives": ["Murid dapat menyusun objek mengikut urutan panjang ke pendek."],
+    "activities": [
+      "Aktiviti 'Tali Ajaib': Murid memotong tali mengikut ukuran objek di dalam kelas.",
+      "Menyusun pensel warna dari yang paling panjang ke paling pendek."
+    ],
+    "assessment": ["Pemerhatian ketepatan susunan.", "Hasil kerja aktiviti mengukur."],
+    "aids": ["Tali", "Pensel warna", "Pembaris kertas"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.2.2 - Membandingkan berat dan ringan objek",
+    "objectives": ["Murid dapat mengenal pasti objek yang lebih berat menggunakan timbangan mudah."],
+    "activities": [
+      "Aktiviti 'Timbangan Tangan': Murid memegang buku di tangan kanan dan sehelai kertas di tangan kiri.",
+      "Menggunakan neraca timbangan untuk membandingkan berat buah-buahan."
+    ],
+    "assessment": ["Pemerhatian keupayaan membuat jangkaan berat.", "Rekod lisan hasil timbangan."],
+    "aids": ["Neraca timbangan", "Buah-buahan", "Batu dan kapas"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.2.3 - Membandingkan tekstur objek",
+    "objectives": ["Murid dapat menyatakan perbezaan tekstur antara dua objek yang berbeza."],
+    "activities": [
+      "Sentuhan Perbandingan: Membandingkan rasa kulit batang pokok dengan daunnya.",
+      "Mengelaskan bahan kitar semula kepada kumpulan 'licin' (plastik) dan 'kasar' (kotak)."
+    ],
+    "assessment": ["Hasil kerja pengelasan tekstur.", "Pemerhatian aktiviti luar bilik darjah."],
+    "aids": ["Bahan kitar semula", "Kanta pembesar", "Beg sampel"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.3 - Membuat inferens dan ramalan mudah",
+    "objectives": ["Murid dapat memberikan sebab yang logik terhadap sesuatu pemerhatian."],
+    "activities": [
+      "Aktiviti 'Apa Akan Terjadi?': Murid meramal apa berlaku jika ais diletakkan di bawah matahari.",
+      "Eksperimen 'Tenggelam atau Timbul': Meramal sebelum memasukkan objek ke dalam air."
+    ],
+    "assessment": ["Rekod ramalan murid (sebelum vs selepas).", "Pemerhatian logik inferens."],
+    "aids": ["Bekas air", "Ais batu", "Pelbagai objek (kunci, gabus, syiling)"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.3.1 - Memberi sebab bagi sesuatu situasi",
+    "objectives": ["Murid dapat menerangkan sebab sesuatu fenomena berlaku (cth: pokok layu)."],
+    "activities": [
+      "Aktiviti 'Pokok Dahaga': Memerhati pokok yang tidak disiram dan membincangkan sebab ianya layu.",
+      "Sesi soal jawab: 'Mengapa kita perlu memakai baju hujan semasa hujan?'."
+    ],
+    "assessment": ["Pemerhatian pemikiran kritis.", "Rekod lisan sebab dan akibat."],
+    "aids": ["Pokok dalam pasu", "Baju hujan", "Gambar cuaca"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "1 : Mengumpul Maklumat",
+    "standards": "1.3.2 - Meramal apa yang akan berlaku berdasarkan pengalaman",
+    "objectives": ["Murid dapat membuat jangkaan tentang kesudahan sesebuah cerita atau eksperimen."],
+    "activities": [
+      "Sesi Bercerita: Guru berhenti di tengah cerita dan meminta murid meramal pengakhiran cerita.",
+      "Ramalan Cuaca: Melihat awan mendung dan meramal tindakan yang perlu diambil."
+    ],
+    "assessment": ["Rekod anekdot ramalan murid.", "Pemerhatian penglibatan dalam perbincangan."],
+    "aids": ["Buku cerita", "Gambar awan/cuaca", "Kad situasi"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.1 - Mengelaskan objek mengikut ciri",
+    "objectives": ["Murid dapat mengumpulkan objek berdasarkan satu ciri yang sama (warna/bentuk/saiz)."],
+    "activities": [
+      "Aktiviti 'Asingkan Saya': Mengasingkan butang pelbagai warna ke dalam bekas yang betul.",
+      "Permainan 'Keluarga Haiwan': Mengelaskan haiwan mengikut habitat (darat/air)."
+    ],
+    "assessment": ["Senarai semak ketepatan pengelasan.", "Lembaran kerja membulatkan objek mengikut kumpulan."],
+    "aids": ["Butang pelbagai warna", "Bekas pengasingan", "Kad gambar haiwan"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.1.1 - Mengelaskan objek mengikut satu ciri",
+    "objectives": ["Murid dapat mengelaskan objek mengikut bentuk geometri tanpa keliru dengan warna."],
+    "activities": [
+      "Aktiviti 'Bentuk Sahaja': Mengumpul semua objek bulat (bola, penutup botol, syiling) dalam satu bakul.",
+      "Mewarnakan objek yang mempunyai bentuk yang sama dalam lembaran kerja."
+    ],
+    "assessment": ["Pemerhatian fokus murid pada satu ciri.", "Hasil kerja mewarna."],
+    "aids": ["Bola", "Penutup botol", "Syiling mainan"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.1.2 - Mengelaskan objek mengikut dua ciri",
+    "objectives": ["Murid dapat mengelaskan objek mengikut warna DAN bentuk secara serentak."],
+    "activities": [
+      "Aktiviti 'Segitiga Merah': Murid mencari bongkah yang hanya berwarna merah dan berbentuk segitiga sahaja.",
+      "Permainan kad: Mencari pasangan kad yang mempunyai gambar haiwan yang sama dan warna latar yang sama."
+    ],
+    "assessment": ["Senarai semak pengelasan dua ciri.", "Pemerhatian ketelitian murid."],
+    "aids": ["Bongkah pelbagai warna/bentuk", "Kad permainan", "Talam aktiviti"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.1.3 - Menyatakan ciri sepunya bagi setiap pengelasan",
+    "objectives": ["Murid dapat menerangkan mengapa sesuatu kumpulan objek dikumpulkan bersama."],
+    "activities": [
+      "Aktiviti 'Mengapa Saya Di Sini?': Murid menerangkan ciri kumpulan yang mereka bina (cth: 'Semua ini ada sayap').",
+      "Perbincangan kumpulan tentang persamaan antara epal, tomato, dan cili merah."
+    ],
+    "assessment": ["Rekod lisan penjelasan murid.", "Pemerhatian kefahaman konsep sepunya."],
+    "aids": ["Objek maujud", "Papan putih", "Penanda"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.2 - Mengukur menggunakan unit bukan piawai",
+    "objectives": ["Murid dapat mengukur panjang atau tinggi sesuatu menggunakan anggota badan atau objek lain."],
+    "activities": [
+      "Ukur Meja: Menggunakan jengkal tangan untuk mengira lebar meja.",
+      "Tinggi Saya: Menggunakan bongkah kayu yang disusun tinggi untuk mengukur ketinggian rakan."
+    ],
+    "assessment": ["Rekod bilangan unit bukan piawai.", "Pemerhatian teknik mengukur yang betul."],
+    "aids": ["Bongkah kayu", "Klip kertas", "Lego"]
+  },
+
+  
+
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.2.3 - Mengukur masa menggunakan unit bukan piawai",
+    "objectives": ["Murid dapat membezakan tempoh masa yang singkat dan lama melalui aktiviti."],
+    "activities": [
+      "Cabaran 'Satu Minit': Murid melihat berapa banyak tepukan tangan boleh dibuat sebelum pasir dalam jam pasir habis.",
+      "Aktiviti membandingkan masa makan rehat dengan masa membasuh tangan."
+    ],
+    "assessment": ["Soal jawab lisan tempoh masa.", "Pemerhatian kefahaman konsep masa."],
+    "aids": ["Jam pasir (sand timer)", "Jam randuk", "Alat muzik perkusi"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.3 - Membuat seriasi (susunan mengikut urutan)",
+    "objectives": ["Murid dapat menyusun objek mengikut urutan pola atau saiz yang konsisten."],
+    "activities": [
+      "Susunan Berperingkat: Menyusun cawan dari yang paling kecil ke paling besar.",
+      "Aktiviti 'Tangga Nombor': Menyusun bongkah mengikut bilangan 1 hingga 10."
+    ],
+    "assessment": ["Pemerhatian ketepatan urutan.", "Senarai semak kemahiran seriasi."],
+    "aids": ["Cawan pelbagai saiz", "Bongkah nombor", "Kad gambar bersiri"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.3.1 - Menyusun objek mengikut kriteria tertentu",
+    "objectives": ["Murid dapat menyusun sekurang-kurangnya 4 objek mengikut urutan saiz yang betul."],
+    "activities": [
+      "Aktiviti 'Keluarga Beruang': Menyusun patung beruang dari ayah (besar) hingga anak (kecil).",
+      "Menyusun daun yang dikutip mengikut lebar daun."
+    ],
+    "assessment": ["Penilaian hasil susunan.", "Pemerhatian cara murid membanding saiz."],
+    "aids": ["Patung mainan", "Daun kering", "Kertas mahjong"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "2 : Mengurus Maklumat",
+    "standards": "2.3.2 - Mengenal pasti pola dan menyambung pola",
+    "objectives": ["Murid dapat melengkapkan urutan pola warna (cth: Merah, Biru, Merah, ...)."],
+    "activities": [
+      "Rantai Manik Pola: Murid membuat rantai menggunakan manik dengan susunan warna ABAB atau AABB.",
+      "Pola Pergerakan: Tepuk tangan, petik jari, tepuk tangan, petik jari (murid sambung)."
+    ],
+    "assessment": ["Ketepatan melengkapkan pola pada lembaran kerja.", "Pemerhatian kreativiti membina pola."],
+    "aids": ["Manik warna", "Tali", "Kad pola visual"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "3 : Menyelesaikan Masalah",
+    "standards": "3.1 - Menggunakan kemahiran berfikir secara logik",
+    "objectives": ["Murid dapat mengenal pasti masalah mudah dan mencadangkan jalan penyelesaian."],
+    "activities": [
+      "Situasi 'Air Tumpah': Murid berbincang apa yang perlu dilakukan apabila melihat air tumpah di lantai.",
+      "Aktiviti 'Susun Suai Gambar' (Puzzle): Menyelesaikan teka-teki gambar yang pecah."
+    ],
+    "assessment": ["Rekod anekdot penyelesaian masalah.", "Pemerhatian tumpuan dalam aktiviti puzzle."],
+    "aids": ["Puzzle", "Kad situasi masalah", "Kain buruk/Mop mainan"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "3.1.1 - Mengenal pasti punca masalah",
+    "objectives": ["Murid dapat menyatakan mengapa sesuatu perkara tidak berfungsi (cth: pensel patah)."],
+    "activities": [
+      "Aktiviti 'Detektif Kecil': Mencari sebab mengapa kereta mainan tidak boleh bergerak (bateri habis/roda sangkut).",
+      "Perbincangan: 'Mengapa kita tidak boleh membina istana pasir yang tinggi?' (pasir terlalu kering)."
+    ],
+    "assessment": ["Pemerhatian penaakulan logik.", "Soal jawab sebab dan punca."],
+    "aids": ["Kereta mainan", "Pasir", "Alatan rosak yang selamat"]
+  },
+  {
+    "unit": "Pembelajaran Kognitif",
+    "kategori": "3.1.2 - Mencuba pelbagai cara menyelesaikan masalah",
+    "objectives": ["Murid menunjukkan sikap tidak berputus asa dengan mencuba cara lain untuk berjaya."],
+    "activities": [
+      "Cabaran 'Membina Menara': Murid cuba membina menara tinggi menggunakan pelbagai bahan sehingga stabil.",
+      "Permainan Labirin (Maze): Mencari jalan keluar dan mencuba laluan lain jika tersangkut."
+    ],
+    "assessment": ["Pemerhatian daya tahan (resilience) murid.", "Rekod kepelbagaian cara yang dicuba."],
+    "aids": ["Bongkah kayu", "Kad maze", "Cawan plastik"]
+  }
+]

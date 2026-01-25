@@ -1,0 +1,682 @@
+[
+  {
+    "standards": "5.1.1 Read and write numbers up to 1,000,000 in numerals and words",
+    "objectives": "Students will be able to read and write numbers up to 1,000,000 in numeral and word forms correctly.",
+    "activities": [
+      "Singing number songs up to 1,000,000",
+      "Writing numbers from words to numerals (e.g., 'six hundred thousand and thirty-five' → 600,035)",
+      " 'Find the Number' game – locating numbers on a large chart"
+    ],
+    "assessment": [
+      "Worksheet: Writing numbers from words",
+      "Oral test: 'Read this number'"
+    ],
+    "aids": [
+      "Number chart 1–1,000,000",
+      "Number word cards (million, thousand, hundred, ten, one)",
+      "Whiteboard and marker pens"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 1,000,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "5.1.2 Comparing and arranging numbers up to 1,000,000",
+    "objectives": "Students will be able to compare two numbers up to 1,000,000 and arrange them in ascending or descending order.",
+    "activities": [
+      "Arranging number cards in order",
+      "'Largest Number' game – comparing numbers in groups",
+      "Using base-ten blocks to demonstrate place value"
+    ],
+    "assessment": [
+      "Worksheet: Arranging numbers in ascending/descending order",
+      "Observation during game activities"
+    ],
+    "aids": [
+      "Number cards 100,000–1,000,000",
+      "Base-ten blocks (million, hundred thousand, ten thousand, thousand, hundred, ten, one)",
+      "Large symbols for >, <, ="
+    ],
+    "unit": "Unit 1: Whole Numbers up to 1,000,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "5.2.1 Solve mixed operations without brackets following the order of operations (BODMAS)",
+    "objectives": "Students will be able to solve mixed mathematical sentences (addition, subtraction, multiplication, division) without brackets according to the order of operations (BODMAS).",
+    "activities": [
+      "Using a BODMAS chart to show the order",
+      "Solving questions step-by-step",
+      "'Who is Faster?' game – solving mathematical sentences within a time limit"
+    ],
+    "assessment": [
+      "Worksheet: Mixed operations without brackets",
+      "Observation of the use of order of operations"
+    ],
+    "aids": [
+      "BODMAS chart",
+      "Mixed operation sentence cards",
+      "Stopwatch"
+    ],
+    "unit": "Unit 2: Basic Operations (Mixed Operations up to 1,000,000)",
+    "kategori": "Mixed Operations Following the Order of Operations (BODMAS)"
+  },
+  {
+    "standards": "5.2.2 Solve mixed operations with brackets following the order of operations (BODMAS)",
+    "objectives": "Students will be able to solve mixed mathematical sentences with brackets according to the order of operations (BODMAS).",
+    "activities": [
+      "Using mathematical sentence cards with brackets",
+      "'Open Brackets First' activity – solving the parts inside brackets first",
+      "Solving daily life problems: '(4 + 3) × 5 = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Mixed operations with brackets",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Mathematical sentence cards with brackets",
+      "BODMAS step chart",
+      "Daily life problem story cards"
+    ],
+    "unit": "Unit 2: Basic Operations (Mixed Operations up to 1,000,000)",
+    "kategori": "Mixed Operations Following the Order of Operations (BODMAS)"
+  },
+  {
+    "standards": "5.3.1 Multiply proper fractions with whole numbers",
+    "objectives": "Students will be able to solve the multiplication of proper fractions with whole numbers using visual models or algorithms.",
+    "activities": [
+      "Using paper circles to demonstrate fraction multiplication",
+      "Drawing and coloring sections to show the product",
+      "Solving daily life problems: '½ × 4 = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Fraction multiplication operations",
+      "Observation during visual activities"
+    ],
+    "aids": [
+      "Visual fraction cards",
+      "Paper circles for coloring",
+      "Fraction worksheets"
+    ],
+    "unit": "Unit 3: Fractions (Multiplication & Division)",
+    "kategori": "Multiplication & Division Operations of Fractions"
+  },
+  {
+    "standards": "5.3.2 Divide proper fractions by whole numbers",
+    "objectives": "Students will be able to solve the division of proper fractions by whole numbers using models or algorithms.",
+    "activities": [
+      "Using fraction cards to show division",
+      "Dividing one part into several equal parts",
+      "Solving daily life problems: '⅔ ÷ 3 = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Fraction division operations",
+      "Assessment during sharing activities"
+    ],
+    "aids": [
+      "Visual fraction cards",
+      "Paper circles for cutting",
+      "Fraction worksheets"
+    ],
+    "unit": "Unit 3: Fractions (Multiplication & Division)",
+    "kategori": "Multiplication & Division Operations of Fractions"
+  },
+  {
+    "standards": "5.4.1 Multiply decimals up to three decimal places with whole numbers",
+    "objectives": "Students will be able to solve the multiplication of decimals up to three decimal places with whole numbers using algorithms or grids.",
+    "activities": [
+      "Using decimal grids to show multiplication",
+      "Writing mathematical sentences on the board",
+      "'Decimal Multiply' game in pairs"
+    ],
+    "assessment": [
+      "Worksheet: Decimal multiplication operations",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Decimal grids",
+      "Decimal mathematical sentence cards",
+      "Decimal place value chart"
+    ],
+    "unit": "Unit 4: Decimals (Multiplication & Division)",
+    "kategori": "Multiplication & Division Operations of Decimals"
+  },
+  {
+    "standards": "5.4.2 Divide decimals up to three decimal places by whole numbers",
+    "objectives": "Students will be able to solve the division of decimals up to three decimal places by whole numbers using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the division process",
+      "'Share Equally' activity – dividing decimals into several parts",
+      "Solving daily life problems: '3.6 ÷ 4 = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Decimal division operations",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Decimal division step chart",
+      "Daily life problem story cards"
+    ],
+    "unit": "Unit 4: Decimals (Multiplication & Division)",
+    "kategori": "Multiplication & Division Operations of Decimals"
+  },
+  {
+    "standards": "5.5.1 Calculate the percentage value of a quantity (e.g., 20% of 500)",
+    "objectives": "Students will be able to calculate the percentage value of a quantity using the method of converting percentages to fractions or decimals.",
+    "activities": [
+      "Using a 100-grid to show percentages of a quantity",
+      "Solving daily life problems: '15% discount off RM80'",
+      "'Calculate Percent' game – calculating percentages within a time limit"
+    ],
+    "assessment": [
+      "Worksheet: Calculating percentage values",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "100-square grid",
+      "Percentage question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 5: Percentages (Percentage Value of a Quantity)",
+    "kategori": "Calculating Percentage Value of a Quantity"
+  },
+  {
+    "standards": "5.5.2 Solve daily life problems involving percentage values of a quantity",
+    "objectives": "Students will be able to solve daily situations such as discounts, taxes, or price increases using percentage values of a quantity.",
+    "activities": [
+      "Roleplay: 'Original price RM100, 25% discount, what is the final price?'",
+      "Using percentage problem story cards",
+      "'Discount Store' game in groups"
+    ],
+    "assessment": [
+      "Worksheet: Percentage problem-solving",
+      "Assessment during roleplay performance"
+    ],
+    "aids": [
+      "Percentage story cards",
+      "Real objects (toys with price tags)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 5: Percentages (Percentage Value of a Quantity)",
+    "kategori": "Calculating Percentage Value of a Quantity"
+  },
+  {
+    "standards": "5.6.1 Understand the concepts of money management, profit, and loss",
+    "objectives": "Students will be able to understand the meaning of money management, profit (selling price > cost price), and loss (selling price < cost price).",
+    "activities": [
+      "Shop game: buying items, reselling, and calculating profit/loss",
+      "Using story cards to describe profit/loss situations",
+      "Creating a daily money management schedule"
+    ],
+    "assessment": [
+      "Worksheet: Identifying profit/loss",
+      "Observation during shop game"
+    ],
+    "aids": [
+      "Replica money",
+      "Toy items with prices",
+      "Money management table"
+    ],
+    "unit": "Unit 6: Money (Money Management, Profit & Loss)",
+    "kategori": "Concepts of Money Management, Profit & Loss"
+  },
+  {
+    "standards": "5.6.2 Solve daily life problems involving profit and loss",
+    "objectives": "Students will be able to solve daily situations such as calculating profit or loss in a small business using addition/subtraction operations.",
+    "activities": [
+      "Roleplay: 'Buy a book for RM5, sell for RM7, how much profit?'",
+      "Using profit/loss problem story cards",
+      "'Mini Business' game in pairs"
+    ],
+    "assessment": [
+      "Worksheet: Profit/loss problem-solving",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Profit/loss story cards",
+      "Real objects (plastic books, toy apples)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 6: Money (Money Management, Profit & Loss)",
+    "kategori": "Concepts of Money Management, Profit & Loss"
+  },
+  {
+    "standards": "5.7.1 Perform multiplication operations involving time units (hours, minutes, days)",
+    "objectives": "Students will be able to solve multiplication mathematical sentences involving hours, minutes, and days (e.g., 2 hours 30 minutes × 3).",
+    "activities": [
+      "Using analog clocks and calendars to show time multiplication",
+      "'Multiply Time' game – multiplying time in groups",
+      "Solving daily life problems: 'Exercise 1 hour 15 minutes every day, 5 days = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Time multiplication operations",
+      "Assessment during analog clock activities"
+    ],
+    "aids": [
+      "Movable analog clocks",
+      "School calendar",
+      "Time question cards"
+    ],
+    "unit": "Unit 7: Time (Multiplication & Division involving Time)",
+    "kategori": "Multiplication & Division Operations of Time Units"
+  },
+  {
+    "standards": "5.7.2 Perform division operations involving time units (hours, minutes, days)",
+    "objectives": "Students will be able to solve division mathematical sentences involving hours, minutes, and days (e.g., 5 hours 30 minutes ÷ 3).",
+    "activities": [
+      "Using analog clocks and calendars to show time division",
+      "'Divide Time' game – dividing time in pairs",
+      "Solving daily life problems: 'An 8-hour project, 4 people, how much time for each person?'"
+    ],
+    "assessment": [
+      "Worksheet: Time division operations",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Movable analog clocks",
+      "School calendar",
+      "Time question cards"
+    ],
+    "unit": "Unit 7: Time (Multiplication & Division involving Time)",
+    "kategori": "Multiplication & Division Operations of Time Units"
+  },
+  {
+    "standards": "5.8.1 Convert units of measurement (km to m, liter to ml) and solve problems involving fractions",
+    "objectives": "Students will be able to convert units of measurement (e.g., 2.5 km = 2500 m) and solve problems involving fractions in measurements.",
+    "activities": [
+      "Using unit conversion charts to show relationships",
+      "Solving daily life problems: 'A road is 3½ km long, how many meters?'",
+      "'Quick Conversion' game – converting units within a time limit"
+    ],
+    "assessment": [
+      "Worksheet: Unit of measurement conversion",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Unit conversion chart (km→m, liter→ml)",
+      "Conversion question cards",
+      "Rulers, measuring tape"
+    ],
+    "unit": "Unit 8: Measurement (Length, Mass, Volume of Liquid - involving Fractions & Decimals)",
+    "kategori": "Conversion & Operations in Measurement"
+  },
+  {
+    "standards": "5.8.2 Solve problems involving decimals in measurement (length, mass, volume of liquid)",
+    "objectives": "Students will be able to solve daily life problems involving decimals in measurement (e.g., 2.75 kg + 1.5 kg).",
+    "activities": [
+      "Measuring objects and recording in decimals",
+      "Weighing and pouring liquids, calculating totals in decimals",
+      "Solving daily life problems: '1.25 L water + 0.75 L = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Measurement operations in decimals",
+      "Oral Q&A: 'What is the total?'"
+    ],
+    "aids": [
+      "Rulers, measuring tape",
+      "Digital scale",
+      "Measuring beaker (ml, liter)"
+    ],
+    "unit": "Unit 8: Measurement (Length, Mass, Volume of Liquid - involving Fractions & Decimals)",
+    "kategori": "Conversion & Operations in Measurement"
+  },
+  {
+    "standards": "5.9.1 Calculate the volume of a cuboid using the formula (length × width × height)",
+    "objectives": "Students will be able to calculate the volume of a cuboid using the formula or base-ten block method.",
+    "activities": [
+      "Using base-ten blocks to build a cuboid and calculate volume",
+      "Measuring cuboid dimensions and calculating volume",
+      "Solving daily life problems: 'A box 10cm x 5cm x 3cm, what is its volume?'"
+    ],
+    "assessment": [
+      "Worksheet: Calculating volume of cuboids",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Real cuboid boxes",
+      "Rulers for measuring"
+    ],
+    "unit": "Unit 9: Volume of a Cuboid",
+    "kategori": "Calculating Volume of a Cuboid and Daily Life Problems"
+  },
+  {
+    "standards": "5.9.2 Solve daily life problems involving volume of a cuboid",
+    "objectives": "Students will be able to solve daily situations such as filling water in a bathtub or box using cuboid volume.",
+    "activities": [
+      "Roleplay: 'A bathtub 2m x 1m x 0.5m, how many liters of water?'",
+      "Using volume problem story cards",
+      "'Calculate Volume' game in pairs"
+    ],
+    "assessment": [
+      "Worksheet: Volume problem-solving",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Volume story cards",
+      "Bathtub/box models",
+      "Toy calculator"
+    ],
+    "unit": "Unit 9: Volume of a Cuboid",
+    "kategori": "Calculating Volume of a Cuboid and Daily Life Problems"
+  },
+  {
+    "standards": "5.10.1 Calculate the average (mean) for a set of data (length, mass, volume of liquid)",
+    "objectives": "Students will be able to calculate the average (mean) for a set of data (e.g., length of 3 pencils) using the formula (sum ÷ number of items).",
+    "activities": [
+      "Measuring the length of 5 pencils and calculating the average",
+      "Weighing 4 objects and calculating the average mass",
+      "Pouring 3 containers of liquid and calculating the average volume"
+    ],
+    "assessment": [
+      "Worksheet: Calculating average",
+      "Observation of measurement and calculation accuracy"
+    ],
+    "aids": [
+      "Rulers, scales, measuring beakers",
+      "Data record sheets",
+      "Toy calculator"
+    ],
+    "unit": "Unit 10: Data Analysis (Average for Length, Mass, Volume of Liquid)",
+    "kategori": "Calculating Average (Mean)"
+  },
+  {
+    "standards": "5.10.2 Solve daily life problems involving average",
+    "objectives": "Students will be able to solve daily situations such as average test scores or average body weight using the concept of average.",
+    "activities": [
+      "Roleplay: 'Test scores 80, 90, 70, 85, what is the average?'",
+      "Using average problem story cards",
+      "'Calculate Average' game in pairs"
+    ],
+    "assessment": [
+      "Worksheet: Average problem-solving",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Average story cards",
+      "Student data (scores, body weight)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 10: Data Analysis (Average for Length, Mass, Volume of Liquid)",
+    "kategori": "Calculating Average (Mean)"
+  },
+  {
+    "standards": "5.11.1 Calculate interior angles of regular polygons (triangles, quadrilaterals, pentagons, etc.)",
+    "objectives": "Students will be able to calculate the interior angles of regular polygons using a formula or circle division method (360° ÷ number of sides).",
+    "activities": [
+      "Using a protractor to measure interior angles",
+      "Constructing regular polygons and calculating interior angles",
+      "Solving daily life problems: 'Interior angle of a regular hexagon = ?'"
+    ],
+    "assessment": [
+      "Worksheet: Calculating interior angles",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Plastic protractors",
+      "Regular polygon models",
+      "Interior angle chart"
+    ],
+    "unit": "Unit 11: Polygons (Interior Angles of Regular Polygons)",
+    "kategori": "Calculating Interior Angles of Regular Polygons"
+  },
+  {
+    "standards": "5.11.2 Solve daily life problems involving interior angles of regular polygons",
+    "objectives": "Students will be able to solve daily situations such as tile arrangement or designs using interior angles of regular polygons.",
+    "activities": [
+      "Roleplay: 'A square tile, what is the interior angle?'",
+      "Using interior angle problem story cards",
+      "'Design' game – drawing regular polygons and labeling angles"
+    ],
+    "assessment": [
+      "Worksheet: Interior angle problem-solving",
+      "Assessment of drawing outputs"
+    ],
+    "aids": [
+      "Interior angle story cards",
+      "Polygon tile models",
+      "Pencils, rulers"
+    ],
+    "unit": "Unit 11: Polygons (Interior Angles of Regular Polygons)",
+    "kategori": "Calculating Interior Angles of Regular Polygons"
+  },
+  {
+    "standards": "5.12.1 Identify and measure angles on a straight line (180°)",
+    "objectives": "Students will be able to identify and measure angles on a straight line (180°) using a protractor.",
+    "activities": [
+      "Using a protractor to measure angles on a straight line",
+      "Finding angles on straight lines in the surroundings",
+      "'Measure Straight Angle' game – measuring angles on cards"
+    ],
+    "assessment": [
+      "Worksheet: Measuring angles on a straight line",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Plastic protractors",
+      "Straight line angle cards",
+      "Straight line angle chart"
+    ],
+    "unit": "Unit 12: Lines and Angles (Angles on a Straight Line, Reflex Angles)",
+    "kategori": "Understanding Angles on a Straight Line & Reflex Angles"
+  },
+  {
+    "standards": "5.12.2 Identify and measure reflex angles (>180°)",
+    "objectives": "Students will be able to identify and measure reflex angles (>180°) using a protractor.",
+    "activities": [
+      "Drawing reflex angles and measuring them",
+      "Finding reflex angles in textbooks and measuring them",
+      "'Guess the Reflex Angle' game – teacher shows an angle, student guesses and measures"
+    ],
+    "assessment": [
+      "Worksheet: Labeling and measuring reflex angles",
+      "Oral Q&A: 'What type of angle is this and how many degrees?'"
+    ],
+    "aids": [
+      "Plastic protractors",
+      "Reflex angle image cards",
+      "Pencils, rulers"
+    ],
+    "unit": "Unit 12: Lines and Angles (Angles on a Straight Line, Reflex Angles)",
+    "kategori": "Understanding Angles on a Straight Line & Reflex Angles"
+  },
+  {
+    "standards": "5.13.1 Understand the concept of ratio as a comparison of two quantities",
+    "objectives": "Students will be able to understand ratio as a comparison of two quantities (e.g., 2:3) using visual models or concrete objects.",
+    "activities": [
+      "Using colored marbles to show ratios (2 red : 3 blue)",
+      "Matching ratio cards with images",
+      "'Find the Ratio' game – finding ratios in groups"
+    ],
+    "assessment": [
+      "Worksheet: Ratio matching",
+      "Oral assessment: 'What is this ratio?'"
+    ],
+    "aids": [
+      "Colored marbles",
+      "Visual ratio cards",
+      "Ratio chart"
+    ],
+    "unit": "Unit 13: Ratio and Rate (Basic Introduction)",
+    "kategori": "Understanding Concepts of Ratio and Rate"
+  },
+  {
+    "standards": "5.13.2 Understand the concept of rate as a ratio between two quantities with different units",
+    "objectives": "Students will be able to understand rate as a ratio between two quantities with different units (e.g., 60 km/h, 5 pieces/RM1).",
+    "activities": [
+      "Using story cards to show rates (speed, unit price)",
+      "Solving daily life problems: 'Car speed 80 km/h, 2 hours = ? km'",
+      "'Fast Rate' game – calculating rates within a time limit"
+    ],
+    "assessment": [
+      "Worksheet: Calculating rates",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Rate story cards",
+      "Toy calculator",
+      "Rate chart"
+    ],
+    "unit": "Unit 13: Ratio and Rate (Basic Introduction)",
+    "kategori": "Understanding Concepts of Ratio and Rate"
+  },
+  {
+    "standards": "5.14.1 Solve simple problems involving proportion (e.g., if 2 items are RM1, 6 items = ?)",
+    "objectives": "Students will be able to solve daily life problems involving proportion using multiplication or division methods.",
+    "activities": [
+      "Using story cards to show proportion",
+      "Solving daily life problems: '3 apples RM6, 5 apples = ?'",
+      "'Calculate Price' game – calculating price based on rates"
+    ],
+    "assessment": [
+      "Worksheet: Proportion problem-solving",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Proportion story cards",
+      "Real objects (toy apples, candies)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 14: Proportion",
+    "kategori": "Solving Problems Involving Proportion"
+  },
+  {
+    "standards": "5.14.2 Use the cross-multiplication method to solve proportion problems",
+    "objectives": "Students will be able to use the cross-multiplication method to solve proportion problems (e.g., 2/3 = x/6, find x).",
+    "activities": [
+      "Using a cross-multiplication method chart",
+      "Solving questions step-by-step",
+      "'Quick Cross Multiply' game – solving within a time limit"
+    ],
+    "assessment": [
+      "Worksheet: Cross-multiplication operations",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Cross-multiplication method chart",
+      "Proportion question cards",
+      "Stopwatch"
+    ],
+    "unit": "Unit 14: Proportion",
+    "kategori": "Solving Problems Involving Proportion"
+  },
+  {
+    "standards": "5.15.1 Understand the concept of positive and negative decimals on a number line",
+    "objectives": "Students will be able to understand and show positive and negative decimals on a number line (e.g., -0.5, +1.5).",
+    "activities": [
+      "Using a number line to show positive/negative decimals",
+      "Drawing number lines and marking decimal points",
+      "'Find the Point' game – teacher says the value, student marks it"
+    ],
+    "assessment": [
+      "Worksheet: Marking decimal points",
+      "Observation during number line activities"
+    ],
+    "aids": [
+      "Large number line (-5 to +5)",
+      "Positive/negative decimal cards",
+      "Marker pens for marking points"
+    ],
+    "unit": "Unit 15: Positive and Negative Decimals (Introduction)",
+    "kategori": "Understanding Positive and Negative Decimals"
+  },
+  {
+    "standards": "5.15.2 Add and subtract positive and negative decimals",
+    "objectives": "Students will be able to add and subtract positive and negative decimals using a number line or algorithm.",
+    "activities": [
+      "Using a number line to show decimal addition/subtraction",
+      "Solving daily life problems: 'Morning temperature -2.5°C, rose 4.5°C, what is it now?'",
+      "'Decimal Add-Subtract' game in pairs"
+    ],
+    "assessment": [
+      "Worksheet: Positive/negative decimal addition/subtraction operations",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Number line",
+      "Positive/negative decimal question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 15: Positive and Negative Decimals (Introduction)",
+    "kategori": "Understanding Positive and Negative Decimals"
+  },
+  {
+    "standards": "5.16.1 Construct a pie chart based on collected data",
+    "objectives": "Students will be able to construct a pie chart using collected data and determine the angle of each sector (e.g., 100% = 360°).",
+    "activities": [
+      "Collecting data on classmates' favorite colors",
+      "Calculating the angle of each sector (e.g., 25% = 90°)",
+      "Constructing a pie chart using paper circles and protractors"
+    ],
+    "assessment": [
+      "Students' pie chart outputs",
+      "Observation of angle construction accuracy"
+    ],
+    "aids": [
+      "Paper circles",
+      "Plastic protractors",
+      "Colored pencils for coloring sectors"
+    ],
+    "unit": "Unit 16: Data Management (Pie Charts, Data Analysis)",
+    "kategori": "Constructing and Interpreting Pie Charts"
+  },
+  {
+    "standards": "5.16.2 Interpret information from a pie chart",
+    "objectives": "Students will be able to read and interpret information from a pie chart (e.g., most popular color, percentage who like blue).",
+    "activities": [
+      "Interpreting self-constructed pie charts",
+      "Q&A: 'Which is the most?', 'What percentage likes red?'",
+      "'Guess the Answer' game based on charts"
+    ],
+    "assessment": [
+      "Worksheet: Pie chart interpretation questions",
+      "Oral assessment during discussion"
+    ],
+    "aids": [
+      "Sample completed pie charts",
+      "Interpretation question cards",
+      "Whiteboard for discussion"
+    ],
+    "unit": "Unit 16: Data Management (Pie Charts, Data Analysis)",
+    "kategori": "Constructing and Interpreting Pie Charts"
+  },
+  {
+    "standards": "5.17.1 Understand probability as a measure of the likelihood of an event occurring",
+    "objectives": "Students will be able to understand probability as a measure of the likelihood of an event occurring (e.g., impossible, less likely, likely, very likely, certain).",
+    "activities": [
+      "Using event cards to show levels of probability",
+      "'Guess the Likelihood' game – guessing the probability of daily events",
+      "Constructing a probability chart (impossible → certain)"
+    ],
+    "assessment": [
+      "Worksheet: Identifying levels of probability",
+      "Oral assessment: 'What is the likelihood of rain today?'"
+    ],
+    "aids": [
+      "Event cards with probability levels",
+      "Probability scale chart",
+      "Colored pencils for labeling"
+    ],
+    "unit": "Unit 17: Probability (Basic Introduction)",
+    "kategori": "Understanding the Concept of Probability"
+  },
+  {
+    "standards": "5.17.2 Determine simple probability based on experiments",
+    "objectives": "Students will be able to determine simple probability based on experiments (e.g., rolling a die, what is the chance of getting a 4).",
+    "activities": [
+      "Rolling a die 20 times and recording results",
+      "Calculating the probability of a specific number appearing",
+      "'Probability Dice' game – guessing the chance of a number appearing"
+    ],
+    "assessment": [
+      "Probability experiment record sheet",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Plastic dice",
+      "Experiment record sheets",
+      "Probability chart"
+    ],
+    "unit": "Unit 17: Probability (Basic Introduction)",
+    "kategori": "Understanding the Concept of Probability"
+  }
+]

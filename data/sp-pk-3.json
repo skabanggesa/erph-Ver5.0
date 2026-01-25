@@ -1,0 +1,107 @@
+[
+  {
+    "standards": "3.1.1 Mengamalkan tidur mencukupi, senaman harian dan minum air secukupnya.",
+    "objectives": "Murid dapat menjalankan tiga amalan gaya hidup sihat setiap hari.",
+    "activities": [
+      "Senaman 10 minit setiap pagi",
+      "Jurnal air minuman harian",
+      "Perbincangan: 'Berapa Jam Saya Tidur?'"
+    ],
+    "assessment": [
+      "Jurnal harian (air, tidur, senaman)",
+      "Pemerhatian penyertaan senaman",
+      "Soal jawab lisan"
+    ],
+    "aids": [
+      "Botol air berpenanda",
+      "Carta jurnal gaya hidup",
+      "Video senaman kanak-kanak"
+    ],
+    "unit": "Unit 1: Gaya Hidup Sihat",
+    "kategori": "Mengamalkan aktiviti gaya hidup sihat"
+  },
+  {
+    "standards": "3.2.1 Menjaga kebersihan kelas, sekolah dan kawasan sekitar dengan membuang sampah pada tempatnya.",
+    "objectives": "Murid dapat menyertai aktiviti kebersihan dan menjelaskan kepentingannya.",
+    "activities": [
+      "Kempen '5 Minit Bersih Sekolah'",
+      "Buat tong sampah berlabel (kitar semula)",
+      "Permainan: 'Sampah ke Mana?'"
+    ],
+    "assessment": [
+      "Pemerhatian penyertaan kempen",
+      "Penilaian tong sampah kumpulan",
+      "Refleksi lisan: 'Kenapa Persekitaran Perlu Bersih?'"
+    ],
+    "aids": [
+      "Tong sampah berwarna",
+      "Stiker kitar semula",
+      "Sarung tangan (mainan)"
+    ],
+    "unit": "Unit 2: Kebersihan Persekitaran",
+    "kategori": "Menjaga kebersihan persekitaran"
+  },
+  {
+    "standards": "3.3.1 Menyatakan cara mencegah penyakit berjangkit seperti selesema dan cirit-birit.",
+    "objectives": "Murid dapat menjelaskan tiga langkah pencegahan penyakit berjangkit dan mengamalkannya.",
+    "activities": [
+      "Simulasi cuci tangan dengan glitter (kuman)",
+      "Drama pendek: 'Jangan Kongsi Botol Air!'",
+      "Lukis poster 'Cegah Selesema'"
+    ],
+    "assessment": [
+      "Demonstrasi cuci tangan",
+      "Penilaian poster",
+      "Kuiz lisan: langkah pencegahan"
+    ],
+    "aids": [
+      "Glitter, sabun, air",
+      "Kertas poster",
+      "Video animasi penyakit berjangkit"
+    ],
+    "unit": "Unit 3: Pencegahan Penyakit Mudah Berjangkit",
+    "kategori": "Mengetahui cara mencegah penyakit berjangkit"
+  },
+  {
+    "standards": "3.4.1 Mengamalkan peraturan keselamatan jalan raya seperti menyeberang di zebra keretapi dan memakai tali pinggang keledar.",
+    "objectives": "Murid dapat menunjukkan cara menyeberang jalan dengan selamat dan menyatakan peraturan asas jalan raya.",
+    "activities": [
+      "Simulasi zebra keretapi di halaman sekolah",
+      "Permainan peranan: 'Penumpang Baik'",
+      "Lukis peta jalan selamat ke sekolah"
+    ],
+    "assessment": [
+      "Pemerhatian simulasi menyeberang",
+      "Peta jalan murid",
+      "Soal jawab peraturan jalan raya"
+    ],
+    "aids": [
+      "Kon dan garisan zebra (kapur/plester)",
+      "Tali pinggang keledar mainan",
+      "Kad situasi jalan raya"
+    ],
+    "unit": "Unit 4: Keselamatan Jalan Raya",
+    "kategori": "Mengamalkan peraturan keselamatan jalan raya"
+  },
+  {
+    "standards": "3.5.1 Mengamalkan komunikasi berhemah seperti bercakap dengan sopan dan mendengar apabila orang lain bercakap.",
+    "objectives": "Murid dapat berkomunikasi dengan sopan dan menghormati giliran bercakap.",
+    "activities": [
+      "Aktiviti 'Giliran Bercakap dengan Mikrofon Mainan'",
+      "Permainan: 'Ucap dengan Baik'",
+      "Perbincangan: 'Apa yang Buat Rakan Rasa Diiktiraf?'"
+    ],
+    "assessment": [
+      "Pemerhatian semasa perbincangan berkumpulan",
+      "Senarai semak komunikasi berhemah",
+      "Refleksi lisan"
+    ],
+    "aids": [
+      "Mikrofon mainan",
+      "Kad frasa sopan ('Tolong', 'Terima kasih')",
+      "Cermin untuk latihan ekspresi muka"
+    ],
+    "unit": "Unit 5: Perhubungan Sihat",
+    "kategori": "Mengamalkan komunikasi berhemah"
+  }
+]

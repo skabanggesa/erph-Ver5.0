@@ -1,0 +1,270 @@
+[
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.1 - Recognize and discriminate sounds",
+    "objectives": ["Pupils can identify and distinguish between different sounds in the environment."],
+    "activities": [
+      "Sound Walk: Walking around the school and identifying sounds like birds chirping or cars passing.",
+      "Close Your Eyes: Teacher makes a sound (clapping, snapping) and pupils guess the action."
+    ],
+    "assessment": ["Observation of pupils' responses to sounds.", "Verbal identification of sound sources."],
+    "aids": ["Audio recordings", "Blindfold", "Musical instruments"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.1.1 - Listen to and identify common sounds in the environment",
+    "objectives": ["Pupils can name at least 3 common environmental sounds correctly."],
+    "activities": [
+      "Sound Bingo: Marking pictures on a card based on the sounds played.",
+      "Mystery Box: Identifying objects inside a box by the sound they make when shaken."
+    ],
+    "assessment": ["Bingo card completion.", "Correct identification during the mystery box game."],
+    "aids": ["Bingo cards", "Tin cans/shakers", "Sound clips"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.1.2 - Listen to and respond to rhymes and songs",
+    "objectives": ["Pupils can perform actions that correspond to the lyrics of a song."],
+    "activities": [
+      "Action Songs: Singing 'If You're Happy and You Know It' with matching movements.",
+      "Freeze Dance: Dancing to rhymes and stopping when the music stops."
+    ],
+    "assessment": ["Observation of physical response to lyrics.", "Checklist of pupils' engagement in singing."],
+    "aids": ["Speaker", "Action song videos", "Costume props"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.1.3 - Listen to and identify rimes in nursery rhymes and songs",
+    "objectives": ["Pupils can identify words that rhyme (e.g., cat/hat) in a song."],
+    "activities": [
+      "Rhyme Match: Raising hands when they hear two words that rhyme in a poem.",
+      "Odd One Out: Identifying which word does not rhyme in a set of three."
+    ],
+    "assessment": ["Oral test on rhyming pairs.", "Observation during classroom rhyming games."],
+    "aids": ["Nursery rhyme posters", "Picture cards of rhyming words", "Puppets"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.2 - Understand meaning in a variety of familiar contexts",
+    "objectives": ["Pupils can comprehend simple instructions and information given in English."],
+    "activities": [
+      "Total Physical Response (TPR): Pupils follow commands like 'Touch your nose' or 'Sit down'.",
+      "Listen and Draw: Pupils draw simple shapes or items based on teacher's instructions."
+    ],
+    "assessment": ["Accuracy in following physical commands.", "Drawing assessment based on instructions."],
+    "aids": ["Instruction flashcards", "Paper and crayons", "Audio instructions"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.2.1 - Understand simple instructions",
+    "objectives": ["Pupils can execute two-step instructions (e.g., 'Pick up the pencil and put it on the desk')."],
+    "activities": [
+      "Simon Says: A classic game to practice listening and following specific commands.",
+      "Obstacle Course: Following verbal directions to navigate a simple path."
+    ],
+    "assessment": ["Checklist of successful task completion.", "Observation of pupils' reaction time to commands."],
+    "aids": ["Cones", "Classroom objects", "Whistle"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.2.2 - Listen to and respond to stories",
+    "objectives": ["Pupils can answer simple 'Who' or 'What' questions about a story they heard."],
+    "activities": [
+      "Story Time: Listening to a short story and pointing to characters in a book.",
+      "Puppet Show: Watching a story and predicting what happens next."
+    ],
+    "assessment": ["Q&A session after story time.", "Retelling parts of the story using pictures."],
+    "aids": ["Storybooks", "Hand puppets", "Picture sequence cards"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "1 : Listening",
+    "standards": "1.2.3 - Listen to and repeat greetings",
+    "objectives": ["Pupils can repeat common greetings with correct pronunciation."],
+    "activities": [
+      "Hello Song: Singing a greeting song to peers every morning.",
+      "Role-play: Practicing 'Good morning', 'How are you?' with a partner."
+    ],
+    "assessment": ["Pronunciation checklist.", "Observation of social interaction using greetings."],
+    "aids": ["Greeting flashcards", "Microphone toy", "Name tags"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "2 : Speaking",
+    "standards": "2.1 - Communicate simple information",
+    "objectives": ["Pupils can express basic needs and information about themselves verbally."],
+    "activities": [
+      "Show and Tell: Bringing an item from home and saying its name in English.",
+      "All About Me: Saying their name, age, and favorite color to the class."
+    ],
+    "assessment": ["Verbal presentation rubric.", "Observation of confidence during speaking."],
+    "aids": ["Personal items", "Megaphone toy", "Photo of family"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "2 : Speaking",
+    "standards": "2.1.1 - Give simple information about oneself",
+    "objectives": ["Pupils can state their name and gender correctly in English."],
+    "activities": [
+      "Circle Time: Passing a ball and introducing oneself when the music stops.",
+      "Identity Card: Filling a simple card with help and reciting the info."
+    ],
+    "assessment": ["Checklist of self-introduction fluency.", "Recording of pupils' speech."],
+    "aids": ["Ball", "Blank ID cards", "Markers"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "2 : Speaking",
+    "standards": "2.1.2 - Identify and name objects",
+    "objectives": ["Pupils can name at least 10 common classroom objects in English."],
+    "activities": [
+      "Labeling Game: Sticking labels on the correct items (chair, table, fan).",
+      "I Spy: Playing 'I Spy with my little eye' using objects in the room."
+    ],
+    "assessment": ["Object naming test.", "Observation during the 'I Spy' game."],
+    "aids": ["Labels", "Classroom furniture", "Magnifying glass"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "2 : Speaking",
+    "standards": "2.1.3 - Ask and answer simple questions",
+    "objectives": ["Pupils can respond to basic 'Yes/No' and 'What' questions."],
+    "activities": [
+      "Question Ball: Tossing a ball with questions written on each section.",
+      "Doctor-Patient Role Play: Asking 'What's wrong?' and answering."
+    ],
+    "assessment": ["Interaction observation.", "Response accuracy checklist."],
+    "aids": ["Inflatable ball with text", "Doctor's kit toy", "Situation cards"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "2 : Speaking",
+    "standards": "2.1.4 - Express feelings and preferences",
+    "objectives": ["Pupils can state what they like or dislike (e.g., 'I like apples')."],
+    "activities": [
+      "Like/Dislike Chart: Placing pictures of food under a 'Happy' or 'Sad' face.",
+      "Interview: Asking a friend 'Do you like cats?'."
+    ],
+    "assessment": ["Oral expression of preferences.", "Participation in group discussion."],
+    "aids": ["Emoji cards", "Food models", "Pocket chart"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "3 : Reading",
+    "standards": "3.1 - Recognize and read letters of the alphabet",
+    "objectives": ["Pupils can name and recognize uppercase and lowercase letters."],
+    "activities": [
+      "Alphabet Fishing: Catching magnetic letters and naming them.",
+      "Letter Hunt: Finding specific letters hidden in a picture or the classroom."
+    ],
+    "assessment": ["Letter recognition test.", "Matching uppercase to lowercase exercise."],
+    "aids": ["Magnetic letters", "Fishing rod toy", "Alphabet charts"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "3.1.1 - Identify and name letters",
+    "objectives": ["Pupils can identify letters out of sequence."],
+    "activities": [
+      "Alphabet Soup: Picking a letter from a bowl and naming it.",
+      "Letter Body Shapes: Using their bodies to form letters like 'C' or 'L'."
+    ],
+    "assessment": ["Observation of letter naming speed.", "Random letter flashcard check."],
+    "aids": ["Plastic letters", "Bowl", "Letter cards"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "3.1.2 - Recognize and sound out initial sounds",
+    "objectives": ["Pupils can produce the correct phoneme sound for a given letter."],
+    "activities": [
+      "Phonics Song: Singing an 'A is for /a/ /a/ Apple' type song.",
+      "Initial Sound Sorting: Sorting objects into baskets labeled with letters."
+    ],
+    "assessment": ["Phonic sound test.", "Observation of sorting accuracy."],
+    "aids": ["Phonics audio", "Letter baskets", "Small objects/toys"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "3.1.3 - Blend phonemes to form words",
+    "objectives": ["Pupils can blend three sounds (CVC) to read simple words like 'cat'."],
+    "activities": [
+      "Word Building: Sliding letters together to form a word on a board.",
+      "Phoneme Jumping: Jumping on floor mats with letters /c/ /a/ /t/ and saying 'CAT'."
+    ],
+    "assessment": ["CVC word reading test.", "Observation of blending skills."],
+    "aids": ["Letter mats", "Letter tiles", "CVC word cards"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "3.2 - Read familiar words and phrases",
+    "objectives": ["Pupils can read common sight words and simple phrases."],
+    "activities": [
+      "Sight Word Jump: Jumping on sight word cards scattered on the floor.",
+      "Match Word to Picture: Connecting a printed word (e.g. dog) to its image."
+    ],
+    "assessment": ["Sight word recognition list.", "Worksheet matching words to pictures."],
+    "aids": ["Sight word cards", "Picture-word matching board", "Pointers"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "4 : Writing",
+    "standards": "4.1 - Develop pre-writing skills",
+    "objectives": ["Pupils can demonstrate the correct grip and hand movement for writing."],
+    "activities": [
+      "Sand Tracing: Writing letters or patterns in a tray of sand.",
+      "Air Writing: Tracing large letter shapes in the air with their fingers."
+    ],
+    "assessment": ["Pencil grip observation.", "Evaluation of tracing accuracy."],
+    "aids": ["Sand tray", "Pattern tracing worksheets", "Jumbo pencils"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "4.1.1 - Demonstrate fine motor control",
+    "objectives": ["Pupils can follow dotted lines to form shapes or letters."],
+    "activities": [
+      "Maze Puzzles: Drawing a line to help an animal reach its food.",
+      "Sticker Tracing: Placing small stickers along the outline of a letter."
+    ],
+    "assessment": ["Completed maze/tracing worksheets.", "Sticker placement precision."],
+    "aids": ["Stickers", "Maze worksheets", "Crayons"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "4.1.2 - Copy letters and words",
+    "objectives": ["Pupils can copy letters and simple words from a model."],
+    "activities": [
+      "Rainbow Writing: Copying a word several times using different colors.",
+      "Whiteboard Copy: Copying words written by the teacher onto their own boards."
+    ],
+    "assessment": ["Legibility of copied words.", "Letter formation check."],
+    "aids": ["Mini whiteboards", "Colored pencils", "Word models"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "4.2 - Develop early writing skills",
+    "objectives": ["Pupils can write simple words or their own name independently."],
+    "activities": [
+      "Name Decorating: Writing their name and decorating it with glitter.",
+      "Fill in the Blanks: Writing the missing initial letter for a picture."
+    ],
+    "assessment": ["Accuracy of name writing.", "Independent letter production."],
+    "aids": ["Glitter and glue", "Missing letter worksheets", "Personal journals"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Inggeris)",
+    "kategori": "4.1.3 - Write simple phrases",
+    "objectives": ["Pupils can write short phrases with teacher's guidance."],
+    "activities": [
+      "Greeting Cards: Writing 'I love Mom' or 'Happy Birthday' on a card.",
+      "Labeling My Drawing: Drawing a picture and writing a phrase like 'A big sun'."
+    ],
+    "assessment": ["Legibility and spacing of phrases.", "Correct copying of teacher-led phrases."],
+    "aids": ["Cardstock paper", "Markers", "Sentence strips"]
+  }
+]

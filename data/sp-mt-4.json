@@ -1,0 +1,722 @@
+[
+  {
+    "standards": "4.1.1 Reading and writing numbers up to 100,000 in numerals and words",
+    "objectives": "Pupils are able to read and write numbers up to 100,000 in numerals and words correctly.",
+    "activities": [
+      "Singing number songs up to 100,000",
+      "Writing numbers from words to numerals (example: 'forty-five thousand three hundred' → 45,300)",
+      " 'Find the Number' game – finding numbers on a large chart"
+    ],
+    "assessment": [
+      "Worksheets for writing numbers from words",
+      "Oral test: 'Read this number'"
+    ],
+    "aids": [
+      "Number chart 1–100,000",
+      "Number word cards (thousands, hundreds, tens, ones)",
+      "Whiteboard and marker pens"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "4.1.2 Comparing and arranging numbers up to 100,000",
+    "objectives": "Pupils are able to compare two numbers up to 100,000 and arrange them in ascending or descending order.",
+    "activities": [
+      "Arranging number cards in order",
+      "'Largest Number' game – comparing numbers in groups",
+      "Using base-ten blocks to show place value"
+    ],
+    "assessment": [
+      "Worksheets for arranging numbers in ascending/descending order",
+      "Observation during game activities"
+    ],
+    "aids": [
+      "Number cards 10,000–100,000",
+      "Base-ten blocks (ten thousands, thousands, hundreds, tens, ones)",
+      "Large >, <, = symbols"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "4.2.1 Adding two numbers up to 100,000 without regrouping",
+    "objectives": "Pupils are able to solve addition mathematical sentences up to 100,000 without regrouping using algorithms or concrete objects.",
+    "activities": [
+      "Using an abacus for addition without regrouping",
+      "Writing mathematical sentences on the whiteboard",
+      "'Fast Addition' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for addition without regrouping",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Abacus",
+      "Whiteboard and marker pens",
+      "Mathematical sentence cards"
+    ],
+    "unit": "Unit 2: Addition Up to 100,000",
+    "kategori": "Addition Without and With Regrouping"
+  },
+  {
+    "standards": "4.2.2 Adding two numbers up to 100,000 with regrouping",
+    "objectives": "Pupils are able to solve addition mathematical sentences up to 100,000 with regrouping using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the regrouping process",
+      "'Break the Hundreds/Thousands/Ten Thousands' activity – turning 10 hundreds into 1 thousand",
+      "Solving daily problems: 'A company has 45,678 books, buys 28,934 more'"
+    ],
+    "assessment": [
+      "Worksheets for addition with regrouping",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Step-by-step addition with regrouping chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 2: Addition Up to 100,000",
+    "kategori": "Addition Without and With Regrouping"
+  },
+  {
+    "standards": "4.3.1 Subtracting two numbers up to 100,000 without regrouping",
+    "objectives": "Pupils are able to solve subtraction mathematical sentences up to 100,000 without regrouping using algorithms or concrete objects.",
+    "activities": [
+      "Using an abacus for subtraction without regrouping",
+      "Writing mathematical sentences on cards",
+      "'Take & Calculate' game – taking objects and calculating the balance"
+    ],
+    "assessment": [
+      "Worksheets for subtraction without regrouping",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Abacus",
+      "Subtraction mathematical sentence cards",
+      "Concrete objects (beads, marbles)"
+    ],
+    "unit": "Unit 3: Subtraction Up to 100,000",
+    "kategori": "Subtraction Without and With Regrouping"
+  },
+  {
+    "standards": "4.3.2 Subtracting two numbers up to 100,000 with regrouping",
+    "objectives": "Pupils are able to solve subtraction mathematical sentences up to 100,000 with regrouping using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the borrowing process",
+      "'Borrow One' activity – changing 1 ten thousand to 10 thousands",
+      "Solving daily problems: 'Mother has 80,000 beans, uses 34,567'"
+    ],
+    "assessment": [
+      "Worksheets for subtraction with regrouping",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Step-by-step subtraction with regrouping chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 3: Subtraction Up to 100,000",
+    "kategori": "Subtraction Without and With Regrouping"
+  },
+  {
+    "standards": "4.4.1 Solving multiplication of two numbers (two-digit number × two-digit number) without regrouping",
+    "objectives": "Pupils are able to solve multiplication of two digits by two digits without regrouping using algorithms or grids.",
+    "activities": [
+      "Using a multiplication grid (box method)",
+      "Writing mathematical sentences on the board",
+      "'Product Matching' game"
+    ],
+    "assessment": [
+      "Worksheets for multiplication without regrouping",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Multiplication grid",
+      "Mathematical sentence cards",
+      "Multiplication tables 1–9"
+    ],
+    "unit": "Unit 4: Multiplication (With Two-Digit Numbers)",
+    "kategori": "Multiplication With Two Digits"
+  },
+  {
+    "standards": "4.4.2 Solving multiplication of two numbers (two-digit number × two-digit number) with regrouping",
+    "objectives": "Pupils are able to solve multiplication of two digits by two digits with regrouping using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the regrouping process",
+      "'Multiplication Regrouping' activity – turning 10 ones into 1 ten",
+      "Solving daily problems: 'Each bag has 24 marbles, 35 bags = ?'"
+    ],
+    "assessment": [
+      "Worksheets for multiplication with regrouping",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Step-by-step multiplication with regrouping chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 4: Multiplication (With Two-Digit Numbers)",
+    "kategori": "Multiplication With Two Digits"
+  },
+  {
+    "standards": "4.5.1 Solving division of two numbers (three-digit number ÷ two-digit number) without remainder",
+    "objectives": "Pupils are able to solve division of three digits by two digits without a remainder using algorithms or equal sharing models.",
+    "activities": [
+      "Dividing marbles into containers equally",
+      "Using picture cards to show division",
+      "'Equal Sharing' game with toy objects"
+    ],
+    "assessment": [
+      "Worksheets for division without remainder",
+      "Assessment during sharing activities"
+    ],
+    "aids": [
+      "Marbles/beads",
+      "Division picture cards",
+      "Plastic containers for grouping"
+    ],
+    "unit": "Unit 5: Division (With Two-Digit Numbers)",
+    "kategori": "Division With Two Digits"
+  },
+  {
+    "standards": "4.5.2 Solving division of two numbers (three-digit number ÷ two-digit number) with remainder",
+    "objectives": "Pupils are able to solve division of three digits by two digits with a remainder using algorithms or visual models.",
+    "activities": [
+      "Using base-ten blocks to show the remainder",
+      "Short drama: 'I have 125 candies, share with 15 friends, what is the remainder?'",
+      "Solving daily problems: '180 books divided among 25 people'"
+    ],
+    "assessment": [
+      "Worksheets for division with remainder",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Division story cards",
+      "Real objects (candies, toy books)"
+    ],
+    "unit": "Unit 5: Division (With Two-Digit Numbers)",
+    "kategori": "Division With Two Digits"
+  },
+  {
+    "standards": "4.6.1 Understanding and writing equivalent fractions for proper fractions",
+    "objectives": "Pupils are able to write equivalent fractions for simple proper fractions (example: ½ = ²⁄₄ = ³⁄₆) using visual models or multiplication/division methods.",
+    "activities": [
+      "Using paper circles to show equivalent fractions",
+      "Matching equivalent fraction cards",
+      "'Find the Equivalent Partner' game in groups"
+    ],
+    "assessment": [
+      "Equivalent fraction matching worksheets",
+      "Oral assessment: 'What is equivalent to ⅔?'"
+    ],
+    "aids": [
+      "Equivalent fraction cards",
+      "Paper circles for cutting and comparing",
+      "Equivalent fractions chart"
+    ],
+    "unit": "Unit 6: Fractions (Equivalent Fractions, Addition & Subtraction)",
+    "kategori": "Equivalent Fractions and Basic Operations"
+  },
+  {
+    "standards": "4.6.2 Adding and subtracting proper fractions with the same denominator",
+    "objectives": "Pupils are able to add and subtract proper fractions with the same denominator using models or algorithms.",
+    "activities": [
+      "Using fraction cards to show addition/subtraction",
+      "Drawing circles and coloring parts for addition/subtraction",
+      "Solving daily problems: 'I ate ¼ of a pizza, my brother ate ²⁄₄, what is the total?'"
+    ],
+    "assessment": [
+      "Fractions addition/subtraction worksheets",
+      "Observation during visual activities"
+    ],
+    "aids": [
+      "Visual fraction cards",
+      "Paper circles for coloring",
+      "Fraction worksheets"
+    ],
+    "unit": "Unit 6: Fractions (Equivalent Fractions, Addition & Subtraction)",
+    "kategori": "Equivalent Fractions and Basic Operations"
+  },
+  {
+    "standards": "4.7.1 Adding decimals up to three decimal places",
+    "objectives": "Pupils are able to add decimals up to three decimal places (example: 3.456 + 2.789) using algorithms or visual models.",
+    "activities": [
+      "Using decimal grids for addition",
+      "Writing mathematical sentences on the board",
+      "'Decimal Addition' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for decimal addition",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Decimal grids",
+      "Decimal mathematical sentence cards",
+      "Decimal place value chart"
+    ],
+    "unit": "Unit 7: Decimals (Addition & Subtraction)",
+    "kategori": "Basic Decimal Operations"
+  },
+  {
+    "standards": "4.7.2 Subtracting decimals up to three decimal places",
+    "objectives": "Pupils are able to subtract decimals up to three decimal places (example: 5.678 – 2.345) using algorithms or base-ten blocks.",
+    "activities": [
+      "Using base-ten blocks to show the borrowing process",
+      "'Borrow One' activity – changing 1 unit to 10 tenths",
+      "Solving daily problems: '3.500 L of water, used 1.250 L, what is the balance?'"
+    ],
+    "assessment": [
+      "Worksheets for decimal subtraction",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Step-by-step decimal subtraction chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 7: Decimals (Addition & Subtraction)",
+    "kategori": "Basic Decimal Operations"
+  },
+  {
+    "standards": "4.8.1 Understanding the meaning of percentage (%) and converting percentage to fractions of 100",
+    "objectives": "Pupils are able to state percentages as fractions of 100 (example: 25% = ²⁵⁄₁₀₀) and vice versa.",
+    "activities": [
+      "Using a 10x10 grid to show percentage",
+      "Coloring 30 squares to show 30%",
+      "'Find the Percentage' game – matching percentages with fractions"
+    ],
+    "assessment": [
+      "Percentage and fraction matching worksheets",
+      "Oral Q&A: 'What is 50% as a fraction?'"
+    ],
+    "aids": [
+      "100-square grid",
+      "Percentage and fraction cards",
+      "Colored pencils for coloring squares"
+    ],
+    "unit": "Unit 8: Percentage (Basic Introduction)",
+    "kategori": "Understanding the Concept of Percentage"
+  },
+  {
+    "standards": "4.8.2 Converting percentage to decimals and vice versa",
+    "objectives": "Pupils are able to convert percentage to decimals (example: 75% = 0.75) and vice versa using division/multiplication methods.",
+    "activities": [
+      "Using a percentage-decimal conversion chart",
+      "'Quick Conversion' game – converting percentage to decimals",
+      "Solving daily problems: '20% discount, what is it in decimals?'"
+    ],
+    "assessment": [
+      "Percentage-decimal conversion worksheets",
+      "Oral assessment: 'How much is 40% in decimals?'"
+    ],
+    "aids": [
+      "Percentage-decimal conversion chart",
+      "Conversion question cards",
+      "Toy calculator"
+    ],
+    "unit": "Unit 8: Percentage (Basic Introduction)",
+    "kategori": "Understanding the Concept of Percentage"
+  },
+  {
+    "standards": "4.9.1 Solving daily problems involving addition and subtraction of money up to RM100,000",
+    "objectives": "Pupils are able to solve daily situations such as buying items and finding the balance using addition/subtraction of money up to RM100,000.",
+    "activities": [
+      "Drama: 'Buying a house for RM85,000, paid RM50,000, what is the balance?'",
+      "Using money problem story cards",
+      "Building mathematical sentences from real situations"
+    ],
+    "assessment": [
+      "Worksheets for money problem solving",
+      "Assessment during drama performances"
+    ],
+    "aids": [
+      "Money story cards",
+      "Real objects (house model, toy cars)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 9: Money Up to RM100,000",
+    "kategori": "Solving Daily Problems Involving Money"
+  },
+  {
+    "standards": "4.9.2 Solving daily problems involving multiplication and division of money up to RM100,000",
+    "objectives": "Pupils are able to solve daily situations such as the price of 5 units or unit price using multiplication/division of money up to RM100,000.",
+    "activities": [
+      "Drama: 'One computer RM2,500, 4 computers = ?', 'RM10,000 for 5 books, how much per unit?'",
+      "Using money multiplication/division story cards",
+      "'Calculate Price' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for money multiplication/division problem solving",
+      "Observation during group activities"
+    ],
+    "aids": [
+      "Money story cards",
+      "Real objects (plastic computers, toy books)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 9: Money Up to RM100,000",
+    "kategori": "Solving Daily Problems Involving Money"
+  },
+  {
+    "standards": "4.10.1 Performing addition operations involving time units (days, hours, minutes)",
+    "objectives": "Pupils are able to solve addition mathematical sentences involving days, hours, and minutes (example: 2 days 3 hours + 1 day 5 hours).",
+    "activities": [
+      "Using analog clocks and calendars to show time addition",
+      "'Add Time' game – adding time in groups",
+      "Solving daily problems: 'Started work Monday at 8:00, finished Friday at 4:30'"
+    ],
+    "assessment": [
+      "Worksheets for time addition operations",
+      "Assessment during analog clock activities"
+    ],
+    "aids": [
+      "Moveable analog clocks",
+      "School calendar",
+      "Time question cards"
+    ],
+    "unit": "Unit 10: Time (Addition & Subtraction Involving Time)",
+    "kategori": "Basic Operations of Time Units"
+  },
+  {
+    "standards": "4.10.2 Performing subtraction operations involving time units (days, hours, minutes)",
+    "objectives": "Pupils are able to solve subtraction mathematical sentences involving days, hours, and minutes (example: 3 days 2 hours – 1 day 5 hours).",
+    "activities": [
+      "Using analog clocks and calendars to show time subtraction",
+      "'Subtract Time' game – subtracting time in pairs",
+      "Solving daily problems: 'Started project Monday at 9:00, finished Wednesday at 12:00'"
+    ],
+    "assessment": [
+      "Worksheets for time subtraction operations",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Moveable analog clocks",
+      "School calendar",
+      "Time question cards"
+    ],
+    "unit": "Unit 10: Time (Addition & Subtraction Involving Time)",
+    "kategori": "Basic Operations of Time Units"
+  },
+  {
+    "standards": "4.11.1 Performing multiplication operations involving length (cm, m)",
+    "objectives": "Pupils are able to solve mathematical sentences for multiplication involving length in cm and m (example: 2.5 m × 4).",
+    "activities": [
+      "Measuring the length of an object and multiplying by a number",
+      "Using a number line to show length multiplication",
+      "Solving daily problems: 'A rope is 3.5 m long, 6 ropes = ?'"
+    ],
+    "assessment": [
+      "Worksheets for length multiplication operations",
+      "Observation of measurement and calculation accuracy"
+    ],
+    "aids": [
+      "Ruler, measuring tape",
+      "Rope, wooden board for measuring",
+      "Measurement record sheets"
+    ],
+    "unit": "Unit 11: Measurement (Length, Mass, Volume of Liquid - Multiplication & Division)",
+    "kategori": "Multiplication & Division Operations in Measurement"
+  },
+  {
+    "standards": "4.11.2 Performing division operations involving mass (g, kg) and volume of liquid (ml, liter)",
+    "objectives": "Pupils are able to solve division mathematical sentences involving mass and volume of liquid in standard units (example: 5.6 kg ÷ 4).",
+    "activities": [
+      "Weighing objects and dividing their mass into several parts",
+      "Pouring liquid and dividing its volume equally",
+      "Solving daily problems: '2.4 L of water divided into 6 bottles, how much in each bottle?'"
+    ],
+    "assessment": [
+      "Worksheets for mass and volume division operations",
+      "Oral Q&A: 'How much is each part?'"
+    ],
+    "aids": [
+      "Digital scale",
+      "Measuring beakers (ml, liter)",
+      "Colored water, light objects"
+    ],
+    "unit": "Unit 11: Measurement (Length, Mass, Volume of Liquid - Multiplication & Division)",
+    "kategori": "Multiplication & Division Operations in Measurement"
+  },
+  {
+    "standards": "4.12.1 Calculating the area of squares and rectangles",
+    "objectives": "Pupils are able to calculate the area of squares and rectangles using the formula (length × width) or the square grid method.",
+    "activities": [
+      "Using square paper to count area",
+      "Building rectangles with base-ten blocks and counting area",
+      "Solving daily problems: 'Floor 6m x 4m, what is its area?'"
+    ],
+    "assessment": [
+      "Worksheets for area calculation",
+      "Assessment during grid paper activities"
+    ],
+    "aids": [
+      "Grid paper",
+      "Base-ten blocks",
+      "Quadrilateral shape worksheets"
+    ],
+    "unit": "Unit 12: Area (Rectangle & Square)",
+    "kategori": "Calculating the Area of Quadrilaterals"
+  },
+  {
+    "standards": "4.12.2 Calculating the area of triangles, parallelograms, and trapeziums",
+    "objectives": "Pupils are able to calculate the area of triangles, parallelograms, and trapeziums using formulas or the square grid method.",
+    "activities": [
+      "Using grid paper to calculate triangle area",
+      "Building shapes with base-ten blocks and calculating area",
+      "Solving daily problems: 'Triangle with base 5m, height 3m'"
+    ],
+    "assessment": [
+      "Worksheets for calculating area of various shapes",
+      "Observation of calculation accuracy"
+    ],
+    "aids": [
+      "Grid paper",
+      "Base-ten blocks",
+      "Geometric shape worksheets"
+    ],
+    "unit": "Unit 12: Area (Rectangle & Square)",
+    "kategori": "Calculating the Area of Quadrilaterals"
+  },
+  {
+    "standards": "4.13.1 Calculating the volume of a cuboid using the formula (length × width × height)",
+    "objectives": "Pupils are able to calculate the volume of a cuboid using the formula or the base-ten blocks method.",
+    "activities": [
+      "Using base-ten blocks to build a cuboid and calculate volume",
+      "Measuring dimensions of a cuboid and calculating volume",
+      "Solving daily problems: 'Box 5cm x 3cm x 2cm, what is its volume?'"
+    ],
+    "assessment": [
+      "Worksheets for calculating cuboid volume",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Base-ten blocks",
+      "Real cuboid boxes",
+      "Ruler for measuring"
+    ],
+    "unit": "Unit 13: Volume of Cuboid",
+    "kategori": "Calculating the Volume of a Cuboid"
+  },
+  {
+    "standards": "4.13.2 Solving daily problems involving volume of cuboids",
+    "objectives": "Pupils are able to solve daily situations such as filling water in a bathtub or a box using cuboid volume.",
+    "activities": [
+      "Drama: 'Bathtub 2m x 1m x 0.5m, how many liters of water?'",
+      "Using volume problem story cards",
+      "'Calculate Volume' game in pairs"
+    ],
+    "assessment": [
+      "Worksheets for volume problem solving",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Volume story cards",
+      "Bathtub/box model",
+      "Toy calculator"
+    ],
+    "unit": "Unit 13: Volume of Cuboid",
+    "kategori": "Calculating the Volume of a Cuboid"
+  },
+  {
+    "standards": "4.14.1 Measuring angles using a protractor",
+    "objectives": "Pupils are able to measure angles (right, acute, obtuse) correctly using a protractor.",
+    "activities": [
+      "Using a protractor to measure angles on paper",
+      "Finding angles in the environment and measuring with a protractor",
+      "'Measure Angle' game – measuring angles on cards"
+    ],
+    "assessment": [
+      "Worksheets for measuring angles",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Plastic protractor",
+      "Cards with various types of angles",
+      "Types of angles chart"
+    ],
+    "unit": "Unit 14: Angles (Measuring Angles)",
+    "kategori": "Measuring Angles Using a Protractor"
+  },
+  {
+    "standards": "4.14.2 Identifying and measuring right, acute, and obtuse angles",
+    "objectives": "Pupils are able to identify and measure right (90°), acute (<90°), and obtuse (>90°) angles using a protractor.",
+    "activities": [
+      "Drawing right, acute, and obtuse angles and measuring them",
+      "Finding angles in textbooks and measuring them",
+      "'Guess the Angle' game – teacher shows an angle, pupils guess the name and measure"
+    ],
+    "assessment": [
+      "Worksheets for labeling and measuring angles",
+      "Oral Q&A: 'What angle is this and how many degrees?'"
+    ],
+    "aids": [
+      "Plastic protractor",
+      "Angle picture cards",
+      "Pencil, ruler"
+    ],
+    "unit": "Unit 14: Angles (Measuring Angles)",
+    "kategori": "Measuring Angles Using a Protractor"
+  },
+  {
+    "standards": "4.15.1 Reading coordinates in the first quadrant (x, y)",
+    "objectives": "Pupils are able to read and state coordinates of points on a Cartesian plane in the first quadrant (example: (3, 5)).",
+    "activities": [
+      "Using a coordinate grid to mark points",
+      "'Find the Point' game – teacher says coordinates, pupils mark them",
+      "Drawing shapes using coordinates"
+    ],
+    "assessment": [
+      "Worksheets for marking coordinate points",
+      "Observation during grid activities"
+    ],
+    "aids": [
+      "Large coordinate grid",
+      "Coordinate cards (x, y)",
+      "Marker pens to mark points"
+    ],
+    "unit": "Unit 15: Coordinates (First Quadrant)",
+    "kategori": "Reading Coordinates in the First Quadrant"
+  },
+  {
+    "standards": "4.15.2 Marking points on a coordinate plane",
+    "objectives": "Pupils are able to mark points on a coordinate plane based on ordered pairs (x, y) in the first quadrant.",
+    "activities": [
+      "Marking points based on given coordinates",
+      "Building polygons by connecting coordinate points",
+      "'Draw the Shape' game – drawing shapes from coordinates"
+    ],
+    "assessment": [
+      "Worksheets for marking points and drawing shapes",
+      "Assessment of the resulting drawing"
+    ],
+    "aids": [
+      "Coordinate grid",
+      "Coordinate cards",
+      "Colored pencils for drawing"
+    ],
+    "unit": "Unit 15: Coordinates (First Quadrant)",
+    "kategori": "Reading Coordinates in the First Quadrant"
+  },
+  {
+    "standards": "4.16.1 Identifying characteristics of regular polygons (all sides and angles equal)",
+    "objectives": "Pupils are able to identify and state the characteristics of regular polygons (example: equilateral triangle, square).",
+    "activities": [
+      "Finding regular polygons in the environment",
+      "Building regular polygons with popsicle sticks",
+      "'Guess the Polygon' game – teacher describes characteristics, pupils guess"
+    ],
+    "assessment": [
+      "Worksheets for identifying regular polygons",
+      "Oral assessment: 'What are the characteristics of an equilateral triangle?'"
+    ],
+    "aids": [
+      "Regular polygon models",
+      "Popsicle sticks, playdough",
+      "Regular polygon characteristics chart"
+    ],
+    "unit": "Unit 16: Polygons (Characteristics of Regular & Irregular Polygons)",
+    "kategori": "Identifying Polygon Characteristics"
+  },
+  {
+    "standards": "4.16.2 Identifying characteristics of irregular polygons (sides and angles not equal)",
+    "objectives": "Pupils are able to identify and state the characteristics of irregular polygons (example: rectangle, trapezium).",
+    "activities": [
+      "Finding irregular polygons in the environment",
+      "Building irregular polygons with popsicle sticks",
+      "'Find the Difference' game – comparing regular vs irregular polygons"
+    ],
+    "assessment": [
+      "Worksheets for identifying irregular polygons",
+      "Observation during building activities"
+    ],
+    "aids": [
+      "Irregular polygon models",
+      "Popsicle sticks, playdough",
+      "Irregular polygon characteristics chart"
+    ],
+    "unit": "Unit 16: Polygons (Characteristics of Regular & Irregular Polygons)",
+    "kategori": "Identifying Polygon Characteristics"
+  },
+  {
+    "standards": "4.17.1 Identifying the center, radius, and diameter of a circle",
+    "objectives": "Pupils are able to identify and state circle characteristics: center, radius, and diameter.",
+    "activities": [
+      "Using paper circles to show center, radius, diameter",
+      "Drawing a circle and labeling its characteristics",
+      "'Guess the Characteristic' game – teacher points, pupils name the characteristic"
+    ],
+    "assessment": [
+      "Worksheets for labeling circle characteristics",
+      "Oral Q&A: 'Where is the radius? Where is the diameter?'"
+    ],
+    "aids": [
+      "Paper circles",
+      "Circle picture cards",
+      "Pencil, ruler"
+    ],
+    "unit": "Unit 17: Circles (Characteristics of a Circle)",
+    "kategori": "Identifying Circle Characteristics"
+  },
+  {
+    "standards": "4.17.2 Measuring the radius and diameter of a circle",
+    "objectives": "Pupils are able to measure the radius and diameter of a circle using a ruler or measuring tape.",
+    "activities": [
+      "Measuring the radius and diameter of a real circle",
+      "Comparing radius and diameter (diameter = 2 × radius)",
+      "Solving daily problems: 'Wheel radius 25cm, diameter = ?'"
+    ],
+    "assessment": [
+      "Worksheets for measuring radius and diameter",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Paper circles or wheel models",
+      "Ruler, measuring tape",
+      "Measurement record sheets"
+    ],
+    "unit": "Unit 17: Circles (Characteristics of a Circle)",
+    "kategori": "Identifying Circle Characteristics"
+  },
+  {
+    "standards": "4.18.1 Interpreting information from bar charts with scales",
+    "objectives": "Pupils are able to read and interpret information from bar charts with scales (example: 1 unit = 5 people, how many people like blue?).",
+    "activities": [
+      "Interpreting bar charts built by themselves",
+      "Q&A: 'Which is the most?', 'How many like red if 1 unit = 5?'",
+      "'Guess the Answer' game based on charts"
+    ],
+    "assessment": [
+      "Worksheets for chart interpretation questions",
+      "Oral assessment during discussions"
+    ],
+    "aids": [
+      "Sample bar charts with scales",
+      "Interpretation question cards",
+      "Whiteboard for discussion"
+    ],
+    "unit": "Unit 18: Data Management (Bar Charts - Scale, Mode, Mean, Median)",
+    "kategori": "Interpreting Bar Charts and Basic Statistics"
+  },
+  {
+    "standards": "4.18.2 Calculating mode, mean, median, and range for a set of data",
+    "objectives": "Pupils are able to calculate mode (most frequent value), mean (average), median (middle value), and range (difference between largest and smallest values) for a set of data.",
+    "activities": [
+      "Collecting data on the number of books read by friends",
+      "Calculating mode, mean, median, range in groups",
+      "'Quick Statistics' game – calculating statistics within 1 minute"
+    ],
+    "assessment": [
+      "Worksheets for calculating mode, mean, median, range",
+      "Observation during group activities"
+    ],
+    "aids": [
+      "Pupil data (number of books, test marks)",
+      "Toy calculator",
+      "Basic statistics chart"
+    ],
+    "unit": "Unit 18: Data Management (Bar Charts - Scale, Mode, Mean, Median)",
+    "kategori": "Interpreting Bar Charts and Basic Statistics"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "Konsep Pra-Nombor dan Nombor 1-5",
+    "skill": "Pengelasan, Padanan dan Pengiraan Asas",
+    "standards": "1.1.1 Memadan objek berdasarkan ciri-ciri yang sepadan (saiz, warna, bentuk).; 1.2.1 Mengelas objek berdasarkan satu ciri.; 1.3.1 Mengira secara lisan hingga 5.; 1.4.1 Mengenal dan menulis angka 1 hingga 5.",
+    "objectives": "Murid dapat memadankan objek (3/5 set) secara satu-dengan-satu (one-to-one correspondence).; Murid dapat mengelaskan objek ke dalam 2 kumpulan yang betul (cth: buah-buahan dan sayur-sayuran).; Murid dapat menunjukkan angka 1-5 apabila disebut.",
+    "activities": [
+      "Permainan 'Jom Padankan' (matching) dengan kad gambar yang sama.",
+      "Aktiviti menyusun manik/blok mengikut warna atau saiz.",
+      "Latih tubi mengira jari dan objek konkrit (cth: pensel, buku)."
+    ],
+    "assessment": [
+      "Ujian Lisan: Mengira objek konkrit 1-5.",
+      "Penilaian Amali: Keupayaan mengelaskan 2 set objek.",
+      "Ujian Bertulis: Padanan angka 1-5 dengan bilangan objek yang betul."
+    ],
+    "aids": [
+      "Blok pelbagai warna dan saiz.",
+      "Papan Pasak dan Papan Tulis (Writing Board) bergaris besar.",
+      "Kad Imbasan Nombor 1-5."
+    ]
+  },
+  {
+    "topic": "Nombor 6-10 dan Operasi Tambah/Tolak Asas",
+    "skill": "Pengiraan Fungsian dan Operasi Dalam Lingkungan 10",
+    "standards": "2.1.1 Mengenal dan menulis angka 6 hingga 10.; 2.2.1 Menambah dalam lingkungan 10 menggunakan bahan konkrit atau jari.; 2.3.1 Menolak dalam lingkungan 10 menggunakan bahan konkrit.; 2.4.1 Mengenal bentuk asas 2D dan 3D (bulat, segi empat, kubus).",
+    "objectives": "Murid dapat membaca dan menulis angka 1 hingga 10 dengan betul.; Murid dapat menyelesaikan 3/5 soalan tambah asas (cth: 3+2) menggunakan objek.; Murid dapat menamakan 3 bentuk 2D/3D yang biasa dilihat di sekeliling.",
+    "activities": [
+      "Aktiviti membilang dan menulis angka 6-10 di atas pasir/tanah liat.",
+      "Permainan 'Jom Kira': Mengumpul dan mengasingkan objek untuk operasi tambah dan tolak.",
+      "Projek 'Koleksi Bentuk': Mencari dan menamakan objek mengikut bentuk di dalam kelas."
+    ],
+    "assessment": [
+      "Ujian Bertulis: Menyalin dan menulis angka 1-10.",
+      "Ujian Amali: Menyelesaikan soalan tambah/tolak asas dengan menggunakan pembilang.",
+      "Ujian Lisan: Menamakan bentuk-bentuk asas."
+    ],
+    "aids": [
+      "Pembilang (Counting Bears/Blocks).",
+      "Carta Nombor 1-10.",
+      "Model Bentuk Asas 2D dan 3D."
+    ]
+  },
+  {
+    "topic": "Wang, Masa dan Penyelesaian Masalah Ringkas",
+    "skill": "Matematik Kehidupan Harian",
+    "standards": "3.1.1 Mengenal pasti nilai dan fungsi wang syiling (10 sen, 20 sen, 50 sen) dan wang kertas (RM1, RM5).; 3.2.1 Menyatakan waktu dalam 'jam tepat' (o'clock) menggunakan jam analog.; 3.3.1 Menyelesaikan masalah harian yang melibatkan nombor hingga 20 (cth: 'Saya ada 5 pensel, beli lagi 3. Ada berapa?').",
+    "objectives": "Murid dapat membezakan dan menyebut nilai 3 jenis syiling dan 2 jenis wang kertas.; Murid dapat menunjukkan 3 waktu 'jam tepat' (o'clock) pada jam model.; Murid dapat menyelesaikan 2/3 masalah harian ringkas (tambah/tolak) dalam lingkungan 20.",
+    "activities": [
+      "Main peranan 'Jual Beli' (Role-play) menggunakan wang mainan.",
+      "Latihan melukis kedudukan jarum jam pada waktu 'jam tepat'.",
+      "Aktiviti menyusun ayat matematik daripada cerita masalah mudah."
+    ],
+    "assessment": [
+      "Ujian Amali: Penggunaan wang mainan dalam urus niaga mudah.",
+      "Penilaian Amali: Keupayaan melaras jam model kepada waktu 'jam tepat'.",
+      "Ujian Bertulis: Melukis/menulis jawapan untuk masalah ringkas."
+    ],
+    "aids": [
+      "Wang Mainan (duit syiling dan kertas).",
+      "Jam Model (Analog Clock) yang boleh dilaras.",
+      "Kad Situasi Masalah Harian."
+    ]
+  }
+]

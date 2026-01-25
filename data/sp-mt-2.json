@@ -1,0 +1,442 @@
+[
+  {
+    "standards": "2.1.1 Counting numbers up to 1000 in ascending and descending order",
+    "objectives": "Students are able to count numbers up to 1000 in ascending and descending order fluently.",
+    "activities": [
+      "Using a large number line on the floor to walk while counting",
+      "Game 'Number Jump' – students jump to specific numbers",
+      "Singing counting songs 100–1000"
+    ],
+    "assessment": [
+      "Oral counting test 100–1000",
+      "Observation of accuracy and fluency"
+    ],
+    "aids": [
+      "Large number line (100–1000)",
+      "Number cards for rearranging",
+      "Stopwatch for timed counting"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 1000",
+    "kategori": "Counting, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "2.1.2 Writing and comparing numbers up to 1000",
+    "objectives": "Students are able to write numbers up to 1000 in numerals and compare two numbers using the symbols >, <, =.",
+    "activities": [
+      "Filling in the blanks on a number table",
+      "Game 'Bigger Number' – comparing number cards",
+      "Using base-10 blocks to build and compare numbers"
+    ],
+    "assessment": [
+      "Writing and comparing numbers worksheets",
+      "Oral Q&A: 'Which is bigger, 345 or 354?'"
+    ],
+    "aids": [
+      "Base-10 blocks (hundreds, tens, ones)",
+      "Number cards 100–1000",
+      "Large >, <, = symbols for the board"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 1000",
+    "kategori": "Counting, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "2.2.1 Adding two numbers up to 1000 without regrouping",
+    "objectives": "Students are able to solve addition number sentences up to 1000 without regrouping using concrete objects or algorithms.",
+    "activities": [
+      "Using an abacus for addition without regrouping",
+      "Writing number sentences on the whiteboard",
+      "Game 'Quick Addition' in pairs"
+    ],
+    "assessment": [
+      "Addition operation worksheets (without regrouping)",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Abacus",
+      "Whiteboard and marker pens",
+      "Number sentence cards"
+    ],
+    "unit": "Unit 2: Addition Up to 1000",
+    "kategori": "Addition Without and With Regrouping"
+  },
+  {
+    "standards": "2.2.2 Adding two numbers up to 1000 with regrouping",
+    "objectives": "Students are able to solve addition number sentences up to 1000 with regrouping using base-10 blocks or algorithms.",
+    "activities": [
+      "Using base-10 blocks to show the regrouping process",
+      "Activity 'Break the Hundred' – from 10 tens to 1 hundred",
+      "Solving daily problems: 'Ali has 456 marbles, gets 278 more'"
+    ],
+    "assessment": [
+      "Addition operation worksheets (with regrouping)",
+      "Problem-solving in exercise books"
+    ],
+    "aids": [
+      "Base-10 blocks",
+      "Addition with regrouping step chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 2: Addition Up to 1000",
+    "kategori": "Addition Without and With Regrouping"
+  },
+  {
+    "standards": "2.3.1 Subtracting two numbers up to 1000 without regrouping",
+    "objectives": "Students are able to solve subtraction number sentences up to 1000 without regrouping using concrete objects or algorithms.",
+    "activities": [
+      "Using an abacus for subtraction without regrouping",
+      "Writing subtraction sentences on cards",
+      "Game 'Take & Count' – take objects and count the remainder"
+    ],
+    "assessment": [
+      "Subtraction operation worksheets (without regrouping)",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Abacus",
+      "Subtraction number sentence cards",
+      "Concrete objects (beads, marbles)"
+    ],
+    "unit": "Unit 3: Subtraction Up to 1000",
+    "kategori": "Subtraction Without and With Regrouping"
+  },
+  {
+    "standards": "2.3.2 Subtracting two numbers up to 1000 with regrouping",
+    "objectives": "Students are able to solve subtraction number sentences up to 1000 with regrouping using base-10 blocks or algorithms.",
+    "activities": [
+      "Using base-10 blocks to show the borrowing process",
+      "Activity 'Borrow One' – converting 1 hundred into 10 tens",
+      "Solving daily problems: 'Mother has 800 beans, uses 345'"
+    ],
+    "assessment": [
+      "Subtraction operation worksheets (with regrouping)",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base-10 blocks",
+      "Subtraction with regrouping step chart",
+      "Daily problem story cards"
+    ],
+    "unit": "Unit 3: Subtraction Up to 1000",
+    "kategori": "Subtraction Without and With Regrouping"
+  },
+  {
+    "standards": "2.4.1 Recognizing the concept of multiplication as repeated addition (tables 2, 5, 10)",
+    "objectives": "Students are able to state multiplication as repeated addition (e.g., 3 × 5 = 5 + 5 + 5).",
+    "activities": [
+      "Using picture cards to show groups (e.g., 4 groups of 5 apples)",
+      "Singing rhythmic 2, 5, 10 times tables",
+      "Building number sentences from group pictures"
+    ],
+    "assessment": [
+      "Matching repeated addition with multiplication worksheets",
+      "Oral test: 'How much is 4 × 2?'"
+    ],
+    "aids": [
+      "Picture cards of object groups",
+      "Times table charts for 2, 5, 10",
+      "Grouping toys (marbles, beads)"
+    ],
+    "unit": "Unit 4: Multiplication (Basics)",
+    "kategori": "Introducing Times Tables 2, 5, 10"
+  },
+  {
+    "standards": "2.4.2 Stating basic multiplication facts for tables 2, 5, 10 spontaneously",
+    "objectives": "Students are able to state basic multiplication facts for tables 2, 5, 10 quickly and accurately.",
+    "activities": [
+      "1-minute times table quiz",
+      "Card game 'Times Table Match'",
+      "Times table 5 number jump (5, 10, 15...)"
+    ],
+    "assessment": [
+      "Oral multiplication facts test",
+      "Record of time taken to answer 10 times table questions"
+    ],
+    "aids": [
+      "Times table cards for 2, 5, 10",
+      "Stopwatch",
+      "Times table number line"
+    ],
+    "unit": "Unit 4: Multiplication (Basics)",
+    "kategori": "Introducing Times Tables 2, 5, 10"
+  },
+  {
+    "standards": "2.5.1 Recognizing the concept of division as regrouping (tables 2, 5, 10)",
+    "objectives": "Students are able to state division as regrouping (e.g., 10 ÷ 2 = 5 groups of 2).",
+    "activities": [
+      "Dividing marbles into containers equally",
+      "Using picture cards to show division as groups",
+      "Game 'Equal Sharing' with toy objects"
+    ],
+    "assessment": [
+      "Matching division with groups worksheets",
+      "Assessment during sharing activities"
+    ],
+    "aids": [
+      "Marbles/beads",
+      "Division picture cards",
+      "Plastic containers for grouping"
+    ],
+    "unit": "Unit 5: Division (Basics)",
+    "kategori": "Division as Regrouping and Equal Sharing"
+  },
+  {
+    "standards": "2.5.2 Recognizing the concept of division as equal sharing (tables 2, 5, 10)",
+    "objectives": "Students are able to state division as equal sharing (e.g., 10 ÷ 2 = 5 given to 2 people).",
+    "activities": [
+      "Sharing toy candies with friends",
+      "Short role-play: 'I have 15 candies, share with 5 friends'",
+      "Using base-10 blocks to show division"
+    ],
+    "assessment": [
+      "Division problem-solving worksheets",
+      "Observation during mini role-play"
+    ],
+    "aids": [
+      "Toy candies",
+      "Division story cards",
+      "Base-10 blocks"
+    ],
+    "unit": "Unit 5: Division (Basics)",
+    "kategori": "Division as Regrouping and Equal Sharing"
+  },
+  {
+    "standards": "2.6.1 Recognizing and naming fractions ½, ⅓, ¼ as part of a whole",
+    "objectives": "Students are able to identify and name fractions ½, ⅓, ¼ through folding and equal parts.",
+    "activities": [
+      "Folding paper into 2, 3, 4 equal parts",
+      "Coloring one part of a divided shape",
+      "Using toy pizza to show fractions"
+    ],
+    "assessment": [
+      "Fraction coloring worksheets",
+      "Oral Q&A: 'Is this ⅓ or ¼?'"
+    ],
+    "aids": [
+      "Various colored A4 papers",
+      "Toy pizza or cake models",
+      "Visual fraction cards"
+    ],
+    "unit": "Unit 6: Fractions (Half, Quarter, One-Third)",
+    "kategori": "Understanding and Naming Simple Proper Fractions"
+  },
+  {
+    "standards": "2.6.2 Comparing fractions ½, ⅓, ¼ using visual models",
+    "objectives": "Students are able to compare the size of fractions ½, ⅓, ¼ and state which is larger/smaller.",
+    "activities": [
+      "Arranging fraction cards by size",
+      "Using paper circles to compare the size of parts",
+      "Game 'Largest Fraction' in groups"
+    ],
+    "assessment": [
+      "Comparing fractions worksheets",
+      "Oral assessment: 'Which is larger, ½ or ¼?'"
+    ],
+    "aids": [
+      "Visual fraction cards (½, ⅓, ¼)",
+      "Paper circles to cut and compare",
+      "Fraction comparison chart"
+    ],
+    "unit": "Unit 6: Fractions (Half, Quarter, One-Third)",
+    "kategori": "Understanding and Naming Simple Proper Fractions"
+  },
+  {
+    "standards": "2.7.1 Recognizing and counting money value up to RM100",
+    "objectives": "Students are able to identify and count total money up to RM100 using coins and banknotes.",
+    "activities": [
+      "Toy shop: buying items with play money",
+      "Totaling money in a bag and recording the amount",
+      "Matching money cards with values (RM50, RM20, etc.)"
+    ],
+    "assessment": [
+      "Calculating total money worksheets",
+      "Observation during the toy shop game"
+    ],
+    "aids": [
+      "Replica money up to RM100",
+      "Toy items with prices",
+      "Money value cards"
+    ],
+    "unit": "Unit 7: Money up to RM100",
+    "kategori": "Recognizing, Counting, and Solving Problems Involving Money"
+  },
+  {
+    "standards": "2.7.2 Solving simple daily problems involving money up to RM100",
+    "objectives": "Students are able to solve daily situations such as buying items and finding change using addition/subtraction.",
+    "activities": [
+      "Role-play: 'Buy bread for RM2, pay RM5, how much change?'",
+      "Using money problem story cards",
+      "Building number sentences from real situations"
+    ],
+    "assessment": [
+      "Money problem-solving worksheets",
+      "Assessment during role-play performances"
+    ],
+    "aids": [
+      "Money story cards",
+      "Actual objects (plastic bread, toy water bottles)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 7: Money up to RM100",
+    "kategori": "Recognizing, Counting, and Solving Problems Involving Money"
+  },
+  {
+    "standards": "2.8.1 Reading time on an analog clock up to five minutes",
+    "objectives": "Students are able to read and state the time on an analog clock up to five minutes (e.g., 3.15, 4.25).",
+    "activities": [
+      "Using a large analog clock to show time",
+      "Game 'Show the Time' in pairs",
+      "Drawing clock hands on an empty clock face"
+    ],
+    "assessment": [
+      "Drawing clock hands worksheets",
+      "Oral test: 'What time is this?'"
+    ],
+    "aids": [
+      "Movable analog clock",
+      "Empty clock face worksheets",
+      "Time cards (3.15, 4.25)"
+    ],
+    "unit": "Unit 8: Time (Year and Month)",
+    "kategori": "Reading Time and Relationship Between Time Units"
+  },
+  {
+    "standards": "2.8.2 Knowing the relationship between time units (days and weeks, months and years)",
+    "objectives": "Students are able to state the relationship between days–weeks and months–years (e.g., 1 week = 7 days, 1 year = 12 months).",
+    "activities": [
+      "Using a calendar to count days in a week/month",
+      "Game 'Count the Days' – how many days in 2 weeks?",
+      "Building a time unit relationship chart"
+    ],
+    "assessment": [
+      "Time unit matching worksheets",
+      "Oral Q&A: 'How many months in a year?'"
+    ],
+    "aids": [
+      "School calendar",
+      "Time relationship chart (days, weeks, months, years)",
+      "Time relationship question cards"
+    ],
+    "unit": "Unit 8: Time (Year and Month)",
+    "kategori": "Reading Time and Relationship Between Time Units"
+  },
+  {
+    "standards": "2.9.1 Measuring the length of objects using standard units (cm, m)",
+    "objectives": "Students are able to measure the length of objects such as books, tables, or string using a ruler or measuring tape in cm and m units.",
+    "activities": [
+      "Measuring the length of textbooks and recording in cm",
+      "Measuring peer height using a measuring tape",
+      "Game 'Who is Longest?' – measuring strings"
+    ],
+    "assessment": [
+      "Length measurement record worksheets",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Ruler, measuring tape",
+      "Objects to measure (books, string, tables)",
+      "Measurement record worksheets"
+    ],
+    "unit": "Unit 9: Measurement (Length, Mass, Liquid Volume)",
+    "kategori": "Measuring Using Standard Units"
+  },
+  {
+    "standards": "2.9.2 Measuring mass and liquid volume using standard units (g, kg, ml, liter)",
+    "objectives": "Students are able to measure the mass of light objects (g/kg) and liquid volume (ml/liter) using scales and beakers.",
+    "activities": [
+      "Weighing light fruits in grams",
+      "Pouring water into a beaker and reading the volume in ml",
+      "Game 'Which Volume is More?'"
+    ],
+    "assessment": [
+      "Mass and volume record worksheets",
+      "Oral Q&A: 'How many grams is this?'"
+    ],
+    "aids": [
+      "Digital or analog scales",
+      "Measuring beakers (ml, liter)",
+      "Colored water, toy fruits"
+    ],
+    "unit": "Unit 9: Measurement (Length, Mass, Liquid Volume)",
+    "kategori": "Measuring Using Standard Units"
+  },
+  {
+    "standards": "2.10.1 Describing the properties of 2D shapes (number of sides, vertices)",
+    "objectives": "Students are able to identify and state the number of sides and vertices for 2D shapes such as squares, triangles, and circles.",
+    "activities": [
+      "Using 2D shape cards to count sides and vertices",
+      "Building shapes with ice cream sticks and counting properties",
+      "Game 'Find the Property' – teacher names a property, student shows the shape"
+    ],
+    "assessment": [
+      "Identifying 2D shape properties worksheets",
+      "Oral assessment: 'How many vertices does a triangle have?'"
+    ],
+    "aids": [
+      "2D shape cards",
+      "Ice cream sticks, playdough",
+      "2D shape properties chart"
+    ],
+    "unit": "Unit 10: 2D and 3D Shapes",
+    "kategori": "Describing Basic Properties of Shapes"
+  },
+  {
+    "standards": "2.10.2 Describing the properties of 3D shapes (surfaces, vertices, straight/curved edges)",
+    "objectives": "Students are able to identify and state the properties of 3D shapes such as cubes, cuboids, and spheres (e.g., flat or curved surfaces).",
+    "activities": [
+      "Touching and describing the properties of 3D shapes",
+      "Building towers with 3D shapes and describing properties",
+      "Game 'Guess the Shape' – teacher describes properties, student guesses"
+    ],
+    "assessment": [
+      "3D shape properties checklist",
+      "Shape property labeling worksheets"
+    ],
+    "aids": [
+      "3D shape models (cube, cuboid, sphere)",
+      "3D shape picture cards",
+      "3D shape properties chart"
+    ],
+    "unit": "Unit 10: 2D and 3D Shapes",
+    "kategori": "Describing Basic Properties of Shapes"
+  },
+  {
+    "standards": "2.11.1 Constructing simple bar charts based on collected data",
+    "objectives": "Students are able to construct simple bar charts using collected data (e.g., friends' favorite colors).",
+    "activities": [
+      "Collecting data on friends' favorite colors",
+      "Using blocks or stickers to build a bar chart",
+      "Labeling horizontal and vertical axes"
+    ],
+    "assessment": [
+      "Students' bar chart results",
+      "Observation of construction accuracy"
+    ],
+    "aids": [
+      "Color cards for voting",
+      "Mahjong paper and stickers",
+      "Colored pencils for labeling"
+    ],
+    "unit": "Unit 11: Data Management (Simple Bar Charts)",
+    "kategori": "Constructing and Interpreting Bar Charts"
+  },
+  {
+    "standards": "2.11.2 Interpreting information from simple bar charts",
+    "objectives": "Students are able to read and interpret information from bar charts (e.g., most popular color, how many people like blue).",
+    "activities": [
+      "Interpreting their own constructed bar charts",
+      "Q&A: 'Which is the most?', 'How many people like red?'",
+      "Game 'Guess the Answer' based on the chart"
+    ],
+    "assessment": [
+      "Chart interpretation question worksheets",
+      "Oral assessment during discussion"
+    ],
+    "aids": [
+      "Ready-made bar chart examples",
+      "Interpretation question cards",
+      "Whiteboard for discussion"
+    ],
+    "unit": "Unit 11: Data Management (Simple Bar Charts)",
+    "kategori": "Constructing and Interpreting Bar Charts"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "standards": "2.1.1 Mengamalkan rutin harian penjagaan tubuh badan seperti mandi, potong kuku dan pakai pakaian bersih.",
+    "objectives": "Murid dapat menjalankan rutin penjagaan tubuh badan secara konsisten setiap hari.",
+    "activities": [
+      "Jadual rutin harian (lukis aktiviti pagi/petang)",
+      "Permainan peranan: 'Hari Saya'",
+      "Pemeriksaan kuku dan pakaian (simulasi)"
+    ],
+    "assessment": [
+      "Senarai semak rutin harian",
+      "Pemerhatian kebersihan fizikal",
+      "Refleksi lisan: 'Apa yang saya lakukan setiap pagi?'"
+    ],
+    "aids": [
+      "Kad jadual harian",
+      "Kalendar kebersihan",
+      "Cermin dan sisir"
+    ],
+    "unit": "Unit 1: Penjagaan Tubuh Badan",
+    "kategori": "Mengamalkan rutin penjagaan tubuh badan"
+  },
+  {
+    "standards": "2.2.1 Mengenal konsep pemakanan seimbang melalui kumpulan makanan utama.",
+    "objectives": "Murid dapat mengenal empat kumpulan makanan utama dan kepentingannya.",
+    "activities": [
+      "Aktiviti susun piramid makanan",
+      "Bawa makanan bekal – kongsikan kandungan sihat",
+      "Permainan 'Saya Makan Seimbang Hari Ini'"
+    ],
+    "assessment": [
+      "Penilaian susunan piramid",
+      "Pemerhatian kandungan bekal",
+      "Soal jawab lisan tentang makanan kegemaran"
+    ],
+    "aids": [
+      "Model piramid makanan",
+      "Kad kumpulan makanan",
+      "Pinggan contoh makanan seimbang"
+    ],
+    "unit": "Unit 2: Pemakanan Seimbang",
+    "kategori": "Mengenal konsep pemakanan seimbang"
+  },
+  {
+    "standards": "2.3.1 Menyikat gigi dengan teknik betul dua kali sehari dan mengelakkan makanan manis berlebihan.",
+    "objectives": "Murid dapat menunjukkan cara menyikat gigi yang betul dan menyatakan kepentingan menjaga gigi.",
+    "activities": [
+      "Demonstrasi menyikat gigi pada model gigi",
+      "Lagu 'Sikat Gigi Dua Kali Sehari'",
+      "Perbincangan: 'Gigi Berlubang – Kenapa?'"
+    ],
+    "assessment": [
+      "Pemerhatian teknik menyikat",
+      "Soal jawab tentang jadual sikat gigi",
+      "Lukisan 'Gigi Sihat vs Gigi Rosak'"
+    ],
+    "aids": [
+      "Model gigi dan berus gigi besar",
+      "Ubat gigi mainan",
+      "Poster penjagaan gigi"
+    ],
+    "unit": "Unit 3: Kesihatan Gigi",
+    "kategori": "Mengamalkan penjagaan gigi dengan betul"
+  },
+  {
+    "standards": "2.4.1 Menyatakan peraturan keselamatan asas di rumah dan di sekolah.",
+    "objectives": "Murid dapat mengenalpasti situasi berbahaya dan menyatakan cara mengelakkannya.",
+    "activities": [
+      "Lawatan mini: 'Cari Bahaya di Kelas'",
+      "Permainan peranan: 'Apa yang Perlu Saya Buat?'",
+      "Lukis peta keselamatan kelas"
+    ],
+    "assessment": [
+      "Peta keselamatan murid",
+      "Pemerhatian semasa permainan peranan",
+      "Senarai semak pemahaman peraturan"
+    ],
+    "aids": [
+      "Kad situasi bahaya",
+      "Stiker 'Selamat' dan 'Bahaya'",
+      "Peta kosong kelas"
+    ],
+    "unit": "Unit 4: Keselamatan di Rumah dan Sekolah",
+    "kategori": "Mengetahui cara selamat di rumah dan sekolah"
+  },
+  {
+    "standards": "2.5.1 Mengurus emosi sendiri dan menunjukkan sikap menghormati rakan dan guru.",
+    "objectives": "Murid dapat mengawal emosi dan berinteraksi dengan hormat dalam kumpulan.",
+    "activities": [
+      "Aktiviti 'Kata Baik Hari Ini'",
+      "Perbincangan: 'Bagaimana Rasa Jika Dipanggil Nama Buruk?'",
+      "Latihan 'Minta Maaf dan Terima Kasih'"
+    ],
+    "assessment": [
+      "Pemerhatian interaksi sosial",
+      "Catatan tingkah laku harian",
+      "Refleksi berkumpulan"
+    ],
+    "aids": [
+      "Kad 'Kata Baik'",
+      "Boneka untuk perbincangan emosi",
+      "Carta nilai murni"
+    ],
+    "unit": "Unit 5: Emosi dan Perhubungan Asas",
+    "kategori": "Mengurus emosi dan menghormati orang lain"
+  }
+]

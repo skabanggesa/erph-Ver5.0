@@ -1,0 +1,952 @@
+[
+  {
+    "standards": "1.2.1 Understand the main idea of simple spoken texts",
+    "objectives": "Pupils can understand short dialogues about family and friends.",
+    "activities": [
+      "Listen and point",
+      "Listen and sequence pictures",
+      "Follow simple dialogues"
+    ],
+    "assessment": [
+      "Oral Q&A",
+      "Matching tasks"
+    ],
+    "aids": [
+      "Audio clips",
+      "Family/friendship posters"
+    ],
+    "unit": "Unit 1: Family and Friends",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.1 Give basic personal information using simple sentences",
+    "objectives": "Pupils can introduce their friends and talk briefly about family.",
+    "activities": [
+      "Pair interview",
+      "Role-play (This is my friend...)",
+      "Class survey"
+    ],
+    "assessment": [
+      "Dialogue role-play",
+      "Speaking checklist"
+    ],
+    "aids": [
+      "Cue cards",
+      "Real photos"
+    ],
+    "unit": "Unit 1: Family and Friends",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read and understand simple descriptions of friends and family.",
+    "activities": [
+      "Read and match descriptions to pictures",
+      "Read aloud",
+      "Find the main idea"
+    ],
+    "assessment": [
+      "Reading worksheet",
+      "Teacher observation"
+    ],
+    "aids": [
+      "Short texts",
+      "Picture cards"
+    ],
+    "unit": "Unit 1: Family and Friends",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.1 Write simple sentences with guidance",
+    "objectives": "Pupils can write about their family and friends using simple structures.",
+    "activities": [
+      "Guided writing (My friend is...)",
+      "Sentence completion",
+      "Word bank writing"
+    ],
+    "assessment": [
+      "Written worksheet",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Writing frames",
+      "Word cards"
+    ],
+    "unit": "Unit 1: Family and Friends",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.1 Enjoy and recite simple poems or chants",
+    "objectives": "Pupils can recite and perform a rhyme about family and friends.",
+    "activities": [
+      "Choral recitation",
+      "Action poem",
+      "Group performance"
+    ],
+    "assessment": [
+      "Performance",
+      "Participation"
+    ],
+    "aids": [
+      "Poem posters",
+      "Audio recordings"
+    ],
+    "unit": "Unit 1: Family and Friends",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.2 Understand specific information from simple spoken texts",
+    "objectives": "Pupils can listen and identify school activities.",
+    "activities": [
+      "Listen and choose",
+      "Sound-action match",
+      "Listen and act"
+    ],
+    "assessment": [
+      "Performance task",
+      "Teacher questioning"
+    ],
+    "aids": [
+      "Audio dialogues",
+      "School activity flashcards"
+    ],
+    "unit": "Unit 2: Fun at School",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.2 Ask and answer simple questions about school life",
+    "objectives": "Pupils can talk about what they do at school.",
+    "activities": [
+      "Pair dialogue",
+      "Role-play (What do you do at school?)",
+      "Class survey"
+    ],
+    "assessment": [
+      "Dialogue practice",
+      "Peer assessment"
+    ],
+    "aids": [
+      "Dialogue strips",
+      "Picture prompts"
+    ],
+    "unit": "Unit 2: Fun at School",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.2 Find specific information in simple texts",
+    "objectives": "Pupils can read short passages about school and identify key details.",
+    "activities": [
+      "Read and underline",
+      "Information gap reading",
+      "Read and answer"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Reading comprehension"
+    ],
+    "aids": [
+      "Text passages",
+      "Worksheets"
+    ],
+    "unit": "Unit 2: Fun at School",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.2 Write simple guided texts",
+    "objectives": "Pupils can write short sentences about school activities.",
+    "activities": [
+      "Sentence building",
+      "Guided writing (I play...)",
+      "Fill-in-the-blanks"
+    ],
+    "assessment": [
+      "Written task",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Word banks",
+      "Sentence frames"
+    ],
+    "unit": "Unit 2: Fun at School",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.2 Express enjoyment through simple creative responses",
+    "objectives": "Pupils can create simple drawings or role-plays about school fun.",
+    "activities": [
+      "Drawing favourite school activity",
+      "Mini role-play",
+      "Class mural"
+    ],
+    "assessment": [
+      "Artwork",
+      "Performance"
+    ],
+    "aids": [
+      "Art materials",
+      "Props"
+    ],
+    "unit": "Unit 2: Fun at School",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.1 Understand the main idea of simple spoken texts",
+    "objectives": "Pupils can listen to simple conversations about food.",
+    "activities": [
+      "Listen and tick",
+      "Listen and point",
+      "Food chant"
+    ],
+    "assessment": [
+      "Teacher observation",
+      "Performance task"
+    ],
+    "aids": [
+      "Audio clips",
+      "Food flashcards"
+    ],
+    "unit": "Unit 3: Food, Please!",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.2 Ask for and give simple information",
+    "objectives": "Pupils can order or request food using simple phrases.",
+    "activities": [
+      "Role-play (At the canteen)",
+      "Pair practice",
+      "Dialogue drill"
+    ],
+    "assessment": [
+      "Oral task",
+      "Peer feedback"
+    ],
+    "aids": [
+      "Dialogue strips",
+      "Food props"
+    ],
+    "unit": "Unit 3: Food, Please!",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read menus and food descriptions.",
+    "activities": [
+      "Menu reading",
+      "Word-picture matching",
+      "Find the food item"
+    ],
+    "assessment": [
+      "Reading aloud",
+      "Matching activity"
+    ],
+    "aids": [
+      "Sample menus",
+      "Food cards"
+    ],
+    "unit": "Unit 3: Food, Please!",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.1 Write simple sentences with guidance",
+    "objectives": "Pupils can write simple sentences about food preferences.",
+    "activities": [
+      "Sentence building (I like...)",
+      "Fill-in-the-blanks",
+      "Food diary"
+    ],
+    "assessment": [
+      "Written task",
+      "Teacher feedback"
+    ],
+    "aids": [
+      "Sentence frames",
+      "Word lists"
+    ],
+    "unit": "Unit 3: Food, Please!",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.1 Enjoy and recite simple rhymes or songs",
+    "objectives": "Pupils can sing or recite food-related songs/rhymes.",
+    "activities": [
+      "Food song",
+      "Action rhyme",
+      "Choral recitation"
+    ],
+    "assessment": [
+      "Performance",
+      "Participation"
+    ],
+    "aids": [
+      "Audio recordings",
+      "Lyric sheets"
+    ],
+    "unit": "Unit 3: Food, Please!",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.2 Understand specific information from simple spoken texts",
+    "objectives": "Pupils can identify places from spoken descriptions.",
+    "activities": [
+      "Listen and point",
+      "Guess the place",
+      "Sound clues"
+    ],
+    "assessment": [
+      "Oral Q&A",
+      "Matching task"
+    ],
+    "aids": [
+      "Audio recordings",
+      "Place pictures"
+    ],
+    "unit": "Unit 4: My Favourite Place",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.1 Give basic personal information",
+    "objectives": "Pupils can describe their favourite place using simple sentences.",
+    "activities": [
+      "Show and tell",
+      "Pair interview",
+      "Class sharing"
+    ],
+    "assessment": [
+      "Speaking checklist",
+      "Oral task"
+    ],
+    "aids": [
+      "Picture cards",
+      "Sentence starters"
+    ],
+    "unit": "Unit 4: My Favourite Place",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.2 Find specific information in simple texts",
+    "objectives": "Pupils can read descriptions of places and locate details.",
+    "activities": [
+      "Read and match",
+      "Fill-in-the-chart",
+      "Information gap"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Teacher feedback"
+    ],
+    "aids": [
+      "Short texts",
+      "Pictures"
+    ],
+    "unit": "Unit 4: My Favourite Place",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.2 Write simple guided texts",
+    "objectives": "Pupils can write about their favourite place with guidance.",
+    "activities": [
+      "Guided writing (My favourite place is...)",
+      "Sentence building",
+      "Fill-in-the-blanks"
+    ],
+    "assessment": [
+      "Written worksheet",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Writing frames",
+      "Word banks"
+    ],
+    "unit": "Unit 4: My Favourite Place",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.2 Express enjoyment through simple creative responses",
+    "objectives": "Pupils can create artwork or short performances about places.",
+    "activities": [
+      "Drawing favourite place",
+      "Mini drama",
+      "Poster project"
+    ],
+    "assessment": [
+      "Artwork",
+      "Performance"
+    ],
+    "aids": [
+      "Art supplies",
+      "Props"
+    ],
+    "unit": "Unit 4: My Favourite Place",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.1 Understand the main idea of simple spoken texts",
+    "objectives": "Pupils can understand simple instructions about helping at home.",
+    "activities": [
+      "Listen and follow",
+      "Sound-action game",
+      "Listen and tick"
+    ],
+    "assessment": [
+      "Teacher observation",
+      "Performance task"
+    ],
+    "aids": [
+      "Audio clips",
+      "Household item flashcards"
+    ],
+    "unit": "Unit 5: Helping at Home",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.2 Ask and answer simple questions",
+    "objectives": "Pupils can talk about chores they do at home.",
+    "activities": [
+      "Pair dialogue",
+      "Role-play (I clean the room.)",
+      "Class survey"
+    ],
+    "assessment": [
+      "Dialogue practice",
+      "Peer feedback"
+    ],
+    "aids": [
+      "Cue cards",
+      "Real objects"
+    ],
+    "unit": "Unit 5: Helping at Home",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read short texts about household chores.",
+    "activities": [
+      "Read and match",
+      "Sentence sequencing",
+      "Find the action"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Teacher feedback"
+    ],
+    "aids": [
+      "Text passages",
+      "Picture cards"
+    ],
+    "unit": "Unit 5: Helping at Home",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.1 Write simple sentences with guidance",
+    "objectives": "Pupils can write simple sentences about helping at home.",
+    "activities": [
+      "Sentence writing (I wash the dishes.)",
+      "Fill-in-the-blanks",
+      "Word bank writing"
+    ],
+    "assessment": [
+      "Written worksheet",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Sentence frames",
+      "Word cards"
+    ],
+    "unit": "Unit 5: Helping at Home",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.1 Enjoy and recite simple rhymes or songs",
+    "objectives": "Pupils can sing or recite rhymes about helping at home.",
+    "activities": [
+      "Action song",
+      "Choral recitation",
+      "Role-play"
+    ],
+    "assessment": [
+      "Performance",
+      "Participation"
+    ],
+    "aids": [
+      "Songs",
+      "Lyric charts"
+    ],
+    "unit": "Unit 5: Helping at Home",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.2 Understand specific information from simple spoken texts",
+    "objectives": "Pupils can identify names of sports and games from spoken descriptions.",
+    "activities": [
+      "Listen and point",
+      "Guess the sport",
+      "Sound-action game"
+    ],
+    "assessment": [
+      "Oral Q&A",
+      "Performance task"
+    ],
+    "aids": [
+      "Audio recordings",
+      "Sports flashcards"
+    ],
+    "unit": "Unit 6: Sports and Games",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.2 Ask and answer simple questions",
+    "objectives": "Pupils can ask and answer about favourite sports and games.",
+    "activities": [
+      "Pair interview (What sport do you like?)",
+      "Role-play",
+      "Class survey"
+    ],
+    "assessment": [
+      "Speaking checklist",
+      "Peer feedback"
+    ],
+    "aids": [
+      "Dialogue strips",
+      "Sports props"
+    ],
+    "unit": "Unit 6: Sports and Games",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read short passages about sports activities.",
+    "activities": [
+      "Read and match",
+      "Read aloud",
+      "Find the main idea"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Teacher observation"
+    ],
+    "aids": [
+      "Text passages",
+      "Picture cards"
+    ],
+    "unit": "Unit 6: Sports and Games",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.1 Write simple sentences with guidance",
+    "objectives": "Pupils can write sentences about sports they play or like.",
+    "activities": [
+      "Sentence building (I play football.)",
+      "Fill-in-the-blanks",
+      "Guided writing"
+    ],
+    "assessment": [
+      "Written task",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Sentence frames",
+      "Word lists"
+    ],
+    "unit": "Unit 6: Sports and Games",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.1 Enjoy and recite simple rhymes or chants",
+    "objectives": "Pupils can enjoy chants and rhymes about sports.",
+    "activities": [
+      "Choral chant",
+      "Action rhyme",
+      "Group recitation"
+    ],
+    "assessment": [
+      "Performance",
+      "Participation"
+    ],
+    "aids": [
+      "Chant scripts",
+      "Audio clips"
+    ],
+    "unit": "Unit 6: Sports and Games",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.1 Understand the main idea of simple spoken texts",
+    "objectives": "Pupils can understand spoken descriptions about countryside scenes.",
+    "activities": [
+      "Listen and tick",
+      "Listen and point",
+      "Guess the place"
+    ],
+    "assessment": [
+      "Teacher observation",
+      "Oral Q&A"
+    ],
+    "aids": [
+      "Audio recordings",
+      "Countryside pictures"
+    ],
+    "unit": "Unit 7: In the Countryside",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.1 Give basic information",
+    "objectives": "Pupils can describe simple things seen in the countryside.",
+    "activities": [
+      "Show and tell",
+      "Pair dialogue",
+      "Picture description"
+    ],
+    "assessment": [
+      "Speaking task",
+      "Peer assessment"
+    ],
+    "aids": [
+      "Picture prompts",
+      "Sentence starters"
+    ],
+    "unit": "Unit 7: In the Countryside",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.2 Find specific information in simple texts",
+    "objectives": "Pupils can read short texts about countryside life.",
+    "activities": [
+      "Read and match",
+      "Find details",
+      "Information gap"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Reading questions"
+    ],
+    "aids": [
+      "Short passages",
+      "Worksheets"
+    ],
+    "unit": "Unit 7: In the Countryside",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.2 Write simple guided texts",
+    "objectives": "Pupils can write sentences about the countryside.",
+    "activities": [
+      "Guided writing",
+      "Sentence building",
+      "Fill-in-the-blanks"
+    ],
+    "assessment": [
+      "Written worksheet",
+      "Teacher feedback"
+    ],
+    "aids": [
+      "Writing frames",
+      "Word lists"
+    ],
+    "unit": "Unit 7: In the Countryside",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.2 Express enjoyment through creative responses",
+    "objectives": "Pupils can create drawings or performances about the countryside.",
+    "activities": [
+      "Drawing activity",
+      "Mini drama",
+      "Poster project"
+    ],
+    "assessment": [
+      "Artwork",
+      "Performance"
+    ],
+    "aids": [
+      "Art materials",
+      "Props"
+    ],
+    "unit": "Unit 7: In the Countryside",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.2 Understand specific information from simple spoken texts",
+    "objectives": "Pupils can listen and identify city places and activities.",
+    "activities": [
+      "Listen and match",
+      "Listen and point",
+      "Guess the place"
+    ],
+    "assessment": [
+      "Oral Q&A",
+      "Performance task"
+    ],
+    "aids": [
+      "Audio clips",
+      "City flashcards"
+    ],
+    "unit": "Unit 8: In the City",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.2 Ask and answer simple questions",
+    "objectives": "Pupils can talk about city life using simple phrases.",
+    "activities": [
+      "Role-play (Where is the...? )",
+      "Pair dialogue",
+      "Show and tell"
+    ],
+    "assessment": [
+      "Speaking checklist",
+      "Peer feedback"
+    ],
+    "aids": [
+      "Dialogue strips",
+      "City pictures"
+    ],
+    "unit": "Unit 8: In the City",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read short texts about the city.",
+    "activities": [
+      "Read aloud",
+      "Read and label",
+      "Find the main idea"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Reading aloud"
+    ],
+    "aids": [
+      "Text passages",
+      "Worksheets"
+    ],
+    "unit": "Unit 8: In the City",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.1 Write simple sentences with guidance",
+    "objectives": "Pupils can write sentences about city places.",
+    "activities": [
+      "Guided writing (The park is...)",
+      "Sentence building",
+      "Gap filling"
+    ],
+    "assessment": [
+      "Written worksheet",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Sentence frames",
+      "Word cards"
+    ],
+    "unit": "Unit 8: In the City",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.1 Enjoy and recite simple rhymes",
+    "objectives": "Pupils can enjoy and perform rhymes about the city.",
+    "activities": [
+      "Choral chanting",
+      "Action rhyme",
+      "Performance"
+    ],
+    "assessment": [
+      "Participation",
+      "Performance"
+    ],
+    "aids": [
+      "Lyric sheets",
+      "Audio"
+    ],
+    "unit": "Unit 8: In the City",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.1 Understand the main idea of simple spoken texts",
+    "objectives": "Pupils can identify animals from spoken clues.",
+    "activities": [
+      "Listen and guess",
+      "Sound matching",
+      "Listen and point"
+    ],
+    "assessment": [
+      "Oral Q&A",
+      "Teacher observation"
+    ],
+    "aids": [
+      "Audio recordings",
+      "Animal flashcards"
+    ],
+    "unit": "Unit 9: Animals",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.1 Give basic personal information",
+    "objectives": "Pupils can describe animals using simple words.",
+    "activities": [
+      "Show and tell",
+      "Pair practice",
+      "Animal role-play"
+    ],
+    "assessment": [
+      "Speaking task",
+      "Peer feedback"
+    ],
+    "aids": [
+      "Animal toys",
+      "Picture cards"
+    ],
+    "unit": "Unit 9: Animals",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read short passages about animals.",
+    "activities": [
+      "Read and match",
+      "Read aloud",
+      "Information gap"
+    ],
+    "assessment": [
+      "Worksheet",
+      "Teacher questioning"
+    ],
+    "aids": [
+      "Animal texts",
+      "Worksheets"
+    ],
+    "unit": "Unit 9: Animals",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.1 Write simple sentences with guidance",
+    "objectives": "Pupils can write simple sentences about animals.",
+    "activities": [
+      "Sentence writing",
+      "Gap filling",
+      "Guided writing"
+    ],
+    "assessment": [
+      "Written task",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Sentence frames",
+      "Word lists"
+    ],
+    "unit": "Unit 9: Animals",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.1 Enjoy and recite simple rhymes",
+    "objectives": "Pupils can recite animal rhymes with actions.",
+    "activities": [
+      "Choral chant",
+      "Action rhyme",
+      "Drama role-play"
+    ],
+    "assessment": [
+      "Performance",
+      "Participation"
+    ],
+    "aids": [
+      "Rhymes",
+      "Props"
+    ],
+    "unit": "Unit 9: Animals",
+    "kategori": "Language Arts"
+  },
+  {
+    "standards": "1.2.1 Understand the main idea of simple spoken stories",
+    "objectives": "Pupils can listen and understand the gist of short stories.",
+    "activities": [
+      "Listen and sequence",
+      "Story retelling",
+      "Listen and act"
+    ],
+    "assessment": [
+      "Oral response",
+      "Performance task"
+    ],
+    "aids": [
+      "Audio stories",
+      "Story cards"
+    ],
+    "unit": "Unit 10: Stories",
+    "kategori": "Listening"
+  },
+  {
+    "standards": "2.1.2 Ask and answer simple questions",
+    "objectives": "Pupils can retell parts of a story using simple sentences.",
+    "activities": [
+      "Story retelling",
+      "Pair dialogue",
+      "Role-play"
+    ],
+    "assessment": [
+      "Speaking task",
+      "Peer feedback"
+    ],
+    "aids": [
+      "Storybooks",
+      "Picture prompts"
+    ],
+    "unit": "Unit 10: Stories",
+    "kategori": "Speaking"
+  },
+  {
+    "standards": "3.2.1 Understand the main idea of simple texts",
+    "objectives": "Pupils can read and understand simple stories.",
+    "activities": [
+      "Read aloud",
+      "Story sequencing",
+      "Find main idea"
+    ],
+    "assessment": [
+      "Reading worksheet",
+      "Teacher observation"
+    ],
+    "aids": [
+      "Storybooks",
+      "Worksheets"
+    ],
+    "unit": "Unit 10: Stories",
+    "kategori": "Reading"
+  },
+  {
+    "standards": "4.2.2 Write simple guided texts",
+    "objectives": "Pupils can write simple sentences about a story’s characters or events.",
+    "activities": [
+      "Guided story writing",
+      "Sentence building",
+      "Fill-in-the-story"
+    ],
+    "assessment": [
+      "Written task",
+      "Teacher marking"
+    ],
+    "aids": [
+      "Story frames",
+      "Word banks"
+    ],
+    "unit": "Unit 10: Stories",
+    "kategori": "Writing"
+  },
+  {
+    "standards": "5.1.2 Express enjoyment through creative responses",
+    "objectives": "Pupils can respond creatively to stories through drama, drawing, or songs.",
+    "activities": [
+      "Story drama",
+      "Drawing favourite scene",
+      "Story song"
+    ],
+    "assessment": [
+      "Performance",
+      "Artwork"
+    ],
+    "aids": [
+      "Props",
+      "Art materials"
+    ],
+    "unit": "Unit 10: Stories",
+    "kategori": "Language Arts"
+  }
+]

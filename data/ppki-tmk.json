@@ -1,0 +1,71 @@
+[
+  {
+    "topic": "Pengenalan dan Keselamatan Peranti",
+    "skill": "Pengendalian Asas Peranti dan Keselamatan Fizikal",
+    "standards": "1.1.1 Mengenal pasti 3 komponen asas peranti (cth: monitor, papan kekunci, tetikus/tablet).; 1.2.1 Menghidupkan dan mematikan komputer/tablet dengan betul (dengan bimbingan).; 1.3.1 Menggunakan tetikus (klik) atau sentuhan (tap) untuk membuka dan menutup ikon/aplikasi mudah.; 1.4.1 Mengamalkan postur yang betul semasa menggunakan peranti (cth: duduk tegak, jarak mata).",
+    "objectives": "Murid dapat menamakan 3 komponen peranti asas.; Murid dapat menghidupkan dan mematikan komputer dengan betul 3 kali berturut-turut.; Murid dapat mengklik/mengetuk ikon yang besar dan dilabelkan.; Murid dapat menunjukkan cara duduk yang betul semasa menggunakan peranti.",
+    "activities": [
+      "Aktiviti 'Kenali Kawan Saya': Menunjuk dan menamakan komponen komputer/tablet.",
+      "Latih tubi menghidupkan dan mematikan peranti secara berpasangan.",
+      "Permainan 'Click dan Go': Mengklik/mengetuk ikon kartun atau aplikasi pendidikan mudah.",
+      "Pemerhatian dan pembetulan postur badan di stesen komputer."
+    ],
+    "assessment": [
+      "Ujian Lisan: Menamakan 3 komponen peranti.",
+      "Penilaian Amali: Keupayaan menghidupkan/mematikan peranti.",
+      "Pemerhatian Berstruktur: Penggunaan tetikus/sentuhan pada ikon.",
+      "Senarai Semak: Postur badan yang betul."
+    ],
+    "aids": [
+      "Komputer/Tablet dengan Antaramuka yang Mudah (Large Icons).",
+      "Tetikus dan Papan Kekunci dengan Label Warna (jika perlu).",
+      "Carta Postur yang Betul."
+    ]
+  },
+  {
+    "topic": "Aplikasi Fungsian dan Komunikasi Asas",
+    "skill": "Penggunaan Perisian dan Etika Digital Asas",
+    "standards": "2.1.1 Menggunakan perisian lukisan/mewarna untuk menghasilkan lukisan mudah.; 2.2.1 Menggunakan butang 'back' dan 'home' dalam aplikasi/laman web asas.; 2.3.1 Menyebut dan menaip nama sendiri atau perkataan fungsian ringkas pada papan kekunci (dengan bantuan).; 2.4.1 Menyertai sesi komunikasi maya (cth: panggilan video) dengan bimbingan guru (mengamalkan senyap, menunjuk).",
+    "objectives": "Murid dapat menghasilkan lukisan yang mempunyai sekurang-kurangnya 3 warna menggunakan perisian.; Murid dapat kembali ke halaman utama (home page) aplikasi 3 kali berturut-turut.; Murid dapat menaip nama sendiri dengan betul (dengan bantuan template keyboard).; Murid dapat memberi respons (melambai/angguk) semasa sesi panggilan video.",
+    "activities": [
+      "Aktiviti 'Mewarna Digital': Menggunakan perisian Paint/aplikasi lukisan mudah.",
+      "Latihan navigasi menggunakan ikon 'back' dan 'home' dalam aplikasi pembelajaran interaktif.",
+      "Latih tubi menaip menggunakan papan kekunci yang dilabelkan warna/nombor.",
+      "Simulasi Panggilan Video: Berinteraksi dengan rakan sekelas di bilik lain menggunakan kamera."
+    ],
+    "assessment": [
+      "Penilaian Amali: Kualiti lukisan dan penggunaan warna dalam perisian.",
+      "Pemerhatian Berstruktur: Keupayaan navigasi antara muka (back/home).",
+      "Ujian Amali: Keupayaan menaip nama sendiri.",
+      "Senarai Semak: Respons dalam komunikasi maya."
+    ],
+    "aids": [
+      "Perisian Lukisan Digital yang Mudah (contoh: Tux Paint).",
+      "Papan Kekunci Berlabel Warna/Nombor.",
+      "Aplikasi Panggilan Video (untuk tujuan pendidikan)."
+    ]
+  },
+  {
+    "topic": "Pengurusan Data dan Kreativiti Digital",
+    "skill": "Pemprosesan Maklumat dan Dokumentasi Asas",
+    "standards": "3.1.1 Menyimpan dan membuka satu fail yang dihasilkan sendiri (cth: fail lukisan) dengan bimbingan.; 3.2.1 Menggunakan ikon 'print' untuk mencetak hasil kerja (dengan bimbingan penuh).; 3.3.1 Mencari satu maklumat ringkas menggunakan enjin carian (cth: gambar haiwan kegemaran) dengan kata kunci mudah.; 3.4.1 Menyusun 3-4 gambar secara berurutan dalam perisian persembahan (presentation software) yang ringkas.",
+    "objectives": "Murid dapat menyimpan fail dan membukanya semula dari folder yang ditetapkan.; Murid dapat mencetak 1 hasil kerja dengan bantuan satu langkah akhir (cth: klik 'print').; Murid dapat menaip dan mencari gambar yang dikehendaki di Internet (dibantu guru).; Murid dapat menyusun 3 gambar mengikut urutan yang betul dalam perisian persembahan.",
+    "activities": [
+      "Projek 'Simpan Karya Saya': Menyimpan lukisan di desktop/folder dan membukanya semula.",
+      "Aktiviti 'Cetak dan Pamer': Mencetak hasil kerja dan mempamerkannya.",
+      "Latihan Carian Bergambar: Mencari gambar haiwan, buah-buahan atau tempat yang selamat di Internet.",
+      "Projek 'Kisah Bergambar': Menyusun 3 gambar untuk menceritakan kisah ringkas."
+    ],
+    "assessment": [
+      "Penilaian Amali: Keupayaan menyimpan dan membuka semula fail.",
+      "Ujian Amali: Penggunaan butang 'print' dengan betul.",
+      "Pemerhatian: Kecekapan menggunakan kata kunci carian mudah.",
+      "Senarai Semak: Urutan susunan gambar dalam perisian persembahan."
+    ],
+    "aids": [
+      "Perisian Pemprosesan Perkataan (Word Processing) dan Perisian Persembahan Asas.",
+      "Pencetak dan Kertas.",
+      "Pelayar Web yang diselia (Controlled Web Browser)."
+    ]
+  }
+]

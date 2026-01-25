@@ -1,0 +1,207 @@
+[
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.1 - Mengembangkan kemahiran motor halus",
+    "objectives": ["Murid dapat mengawal otot kecil tangan melalui aktiviti manipulasi."],
+    "activities": [
+      "Aktiviti merenyuk kertas surat khabar menggunakan satu tangan.",
+      "Latihan memutar penutup botol pelbagai saiz.",
+      "Aktiviti menyepit butang menggunakan penyepit (tweezer)."
+    ],
+    "assessment": ["Pemerhatian kekuatan otot jari.", "Senarai semak koordinasi mata-tangan."],
+    "aids": ["Surat khabar", "Botol plastik", "Penyepit/Butang"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.1.1 - Menggunakan jari untuk memanipulasi objek",
+    "objectives": ["Murid dapat menunjukkan kelenturan jari dalam aktiviti seni."],
+    "activities": [
+      "Menguli doh menjadi bentuk huruf atau nombor.",
+      "Menampal kolaj menggunakan cebisan kertas kecil (koyakan jari)."
+    ],
+    "assessment": ["Rekod anekdot hasil kerja seni.", "Pemerhatian ketangkasan jari."],
+    "aids": ["Doh (Playdough)", "Kertas warna", "Gam"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.1.2 - Menggunakan alat untuk memotong dan menebuk",
+    "objectives": ["Murid dapat menggunakan gunting dengan teknik yang betul dan selamat."],
+    "activities": [
+      "Menggunting kertas mengikut garisan lurus dan zig-zag.",
+      "Menebuk lubang pada kad manila untuk aktiviti menjahit (lacing)."
+    ],
+    "assessment": ["Penilaian hasil potongan.", "Pemerhatian keselamatan penggunaan alatan."],
+    "aids": ["Gunting keselamatan", "Penebuk lubang", "Kad manila"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.2 - Melakukan pelbagai pergerakan lokomotor",
+    "objectives": ["Murid dapat menggerakkan tubuh dari satu tempat ke tempat lain dengan imbangan."],
+    "activities": [
+      "Aktiviti 'Jalan Berhalangan': Berjalan di atas bangku rendah atau pita pelekat.",
+      "Berlari mengikut rentak muzik yang berubah-ubah tempo."
+    ],
+    "assessment": ["Pemerhatian imbangan badan.", "Skala kadar pergerakan murid."],
+    "aids": ["Pita pelekat", "Bangku rendah", "Speaker"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.2.1 - Berjalan dan berlari dengan koordinasi yang betul",
+    "objectives": ["Murid dapat melakukan aksi berjalan dan berlari dengan postur yang tegak."],
+    "activities": [
+      "Aktiviti 'Jalan Itik' dan 'Lari Arnab'.",
+      "Permainan kejar-kejar dalam kawasan yang selamat."
+    ],
+    "assessment": ["Pemerhatian postur badan.", "Koordinasi kaki dan tangan."],
+    "aids": ["Padang/Ruang luas", "Wisel", "Gambar haiwan"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.2.2 - Melompat dan melonjak mengikut arahan",
+    "objectives": ["Murid dapat mendarat dengan kedua-belah kaki secara stabil."],
+    "activities": [
+      "Lompat melepasi halangan rendah (skipping rope/gelung).",
+      "Permainan 'Teng-teng' untuk latihan melonjak."
+    ],
+    "assessment": ["Pemerhatian teknik mendarat.", "Rekod kekerapan lompatan berjaya."],
+    "aids": ["Tali skipping", "Gelung rotan", "Marker"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.3 - Melakukan pergerakan bukan lokomotor",
+    "objectives": ["Murid dapat melakukan aktiviti fizikal setempat tanpa beralih posisi."],
+    "activities": [
+      "Regangan badan 'Bangun Pagi' (meregang tangan ke atas).",
+      "Aktiviti memusing bahu dan pinggang mengikut kiraan 1-8."
+    ],
+    "assessment": ["Pemerhatian kelenturan badan.", "Senarai semak pergerakan setempat."],
+    "aids": ["Muzik instrumental", "Video senamrobik"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.3.1 - Membongkok dan meregangkan badan",
+    "objectives": ["Murid dapat menyentuh hujung kaki tanpa membengkokkan lutut."],
+    "activities": [
+      "Permainan 'Lalu Bawah Limbo' (membongkok ke belakang).",
+      "Aktiviti mengambil pundi kacang di lantai sambil berdiri tegak."
+    ],
+    "assessment": ["Pemerhatian kebolehan membongkok.", "Skala kelenturan otot."],
+    "aids": ["Kayu panjang", "Pundi kacang"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.3.2 - Mengimbang badan dalam pelbagai posisi",
+    "objectives": ["Murid dapat berdiri dengan satu kaki selama sekurang-kurangnya 5 saat."],
+    "activities": [
+      "Aktiviti 'Dirian Bangau' (berdiri satu kaki).",
+      "Berjalan dengan membawa pundi kacang di atas kepala."
+    ],
+    "assessment": ["Ujian imbangan statik.", "Pemerhatian tumpuan."],
+    "aids": ["Pundi kacang", "Jam randuk"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "1.3.3 - Memusing dan mengayun anggota badan",
+    "objectives": ["Murid dapat mengayun tangan atau kaki secara terkawal."],
+    "activities": [
+      "Aktiviti 'Kincir Angin' (memusing tangan ke depan dan belakang).",
+      "Mengayun kaki kiri dan kanan secara selang-seli."
+    ],
+    "assessment": ["Pemerhatian kelancaran ayunan.", "Rekod pergerakan fizikal."],
+    "aids": ["Ribon warna", "Muzik rancak"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "2.1 - Mengamalkan kebersihan diri",
+    "objectives": ["Murid dapat menyatakan kepentingan menjaga kebersihan tubuh badan."],
+    "activities": [
+      "Simulasi memberus gigi menggunakan model gigi.",
+      "Tayangan video tentang kuman dan cara mandi yang betul."
+    ],
+    "assessment": ["Soal jawab lisan kepentingan mandi.", "Pemerhatian kekemasan diri."],
+    "aids": ["Model gigi", "Berus gigi", "Video kebersihan"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "2.1.1 - Membasuh tangan dengan cara yang betul",
+    "objectives": ["Murid dapat melakukan 7 langkah basuh tangan dengan sabun."],
+    "activities": [
+      "Amali basuh tangan di sinki kelas mengikut urutan.",
+      "Nyanyian lagu 'Basuh Tangan' (Melodi: Happy Birthday)."
+    ],
+    "assessment": ["Ujian amali basuh tangan.", "Senarai semak langkah kebersihan."],
+    "aids": ["Sabun cecair", "Tuala bersih", "Poster basuh tangan"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "2.2 - Mengenal pasti makanan yang sihat dan selamat",
+    "objectives": ["Murid dapat membezakan antara makanan berkhasiat dan kurang berkhasiat."],
+    "activities": [
+      "Aktiviti mengelaskan gambar makanan ke dalam 'Piramid Makanan'.",
+      "Permainan 'Pasar Raya Sihat' (memilih buah dan sayur plastik)."
+    ],
+    "assessment": ["Lembaran kerja pengelasan makanan.", "Pilihan makanan waktu rehat."],
+    "aids": ["Kad gambar makanan", "Papan Piramid Makanan"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "2.2.1 - Mengenal pasti makanan yang berkhasiat",
+    "objectives": ["Murid dapat menamakan sayur dan buah yang penting untuk kesihatan."],
+    "activities": [
+      "Aktiviti 'Suku-Suku Separuh': Membina pinggan sihat menggunakan model makanan.",
+      "Sesi merasa buah-buahan (Taste test)."
+    ],
+    "assessment": ["Laporan lisan jenis sayuran.", "Kreativiti binaan pinggan sihat."],
+    "aids": ["Buah sebenar", "Pinggan kertas", "Model makanan"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "2.2.2 - Menjaga kebersihan makanan dan minuman",
+    "objectives": ["Murid dapat menunjukkan cara menutup makanan dengan betul."],
+    "activities": [
+      "Demonstrasi membasuh buah sebelum dimakan.",
+      "Latihan menutup botol air dan bekas makanan selepas digunakan."
+    ],
+    "assessment": ["Pemerhatian amalan semasa makan.", "Soal jawab cara simpan makanan."],
+    "aids": ["Tudung saji", "Bekas makanan", "Bakul buah"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "3.1 - Menjaga keselamatan diri",
+    "objectives": ["Murid dapat mengenal pasti objek yang berbahaya di persekitaran."],
+    "activities": [
+      "Aktiviti 'Zon Bahaya': Mencari gambar alatan tajam di dalam kelas.",
+      "Main peranan cara menolak ajakan orang yang tidak dikenali (Stranger Danger)."
+    ],
+    "assessment": ["Rekod anekdot tindak balas keselamatan.", "Lembaran kerja objek bahaya."],
+    "aids": ["Kad gambar alatan tajam", "Poster keselamatan"]
+  },
+  {
+    "unit": "Pembelajaran Fizikal dan Kesejahteraan Diri",
+    "kategori": "1 : Memerhati dan Melakukan",
+    "standards": "3.1.1 - Mengenal pasti kawasan yang selamat dan tidak selamat",
+    "objectives": ["Murid dapat membezakan tempat bermain yang selamat dan kawasan berisiko."],
+    "activities": [
+      "Lawatan kawasan sekolah (mengenali longkang, tangga, dan kawasan pembinaan).",
+      "Permainan 'Lampu Hijau, Lampu Merah' untuk keselamatan jalan raya."
+    ],
+    "assessment": ["Pemerhatian tingkah laku di luar kelas.", "Laporan lisan lokasi selamat."],
+    "aids": ["Papan tanda keselamatan", "Peta sekolah ringkas"]
+  }
+]

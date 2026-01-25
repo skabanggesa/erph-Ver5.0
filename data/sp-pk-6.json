@@ -1,0 +1,107 @@
+[
+  {
+    "standards": "6.1.1 Menjelaskan kepentingan menjaga kesihatan reproduktif dan menjalin hubungan sosial yang sihat.",
+    "objectives": "Murid dapat menjelaskan batasan fizikal dan sosial yang sesuai serta menghormati privasi diri dan orang lain.",
+    "activities": [
+      "Forum mini: 'Hubungan Sihat vs Tidak Sihat'",
+      "Perbincangan: 'Apa Itu Persetujuan?'",
+      "Lukis carta 'Hak dan Tanggungjawab Remaja'"
+    ],
+    "assessment": [
+      "Pembentangan forum",
+      "Penilaian carta hak",
+      "Soal jawab bertulis (anonim)"
+    ],
+    "aids": [
+      "Video pendidikan reproduktif (KPM)",
+      "Kad situasi sosial",
+      "Buku rujukan PK Tahun 6"
+    ],
+    "unit": "Unit 1: Kesihatan Reproduktif dan Sosial",
+    "kategori": "Memahami kepentingan kesihatan reproduktif dan sosial"
+  },
+  {
+    "standards": "6.2.1 Menyatakan langkah pencegahan penyakit berjangkit (HIV/AIDS, hepatitis) dan tidak berjangkit (obesiti, kencing manis).",
+    "objectives": "Murid dapat membezakan jenis penyakit dan menjelaskan langkah pencegahan holistik.",
+    "activities": [
+      "Permainan 'Betul atau Salah: Mitos Penyakit'",
+      "Kuiz interaktif: 'Cara Jangkitan & Pencegahan'",
+      "Projek kumpulan: 'Kempen Sihat Sekolah'"
+    ],
+    "assessment": [
+      "Kuiz interaktif",
+      "Penilaian projek kempen",
+      "Refleksi: 'Apa yang Saya Pelajari Hari Ini?'"
+    ],
+    "aids": [
+      "Kad mitos & fakta",
+      "Komputer/tablet untuk kuiz",
+      "Bahan kempen (kertas, marker)"
+    ],
+    "unit": "Unit 2: Penyakit Berjangkit dan Tidak Berjangkit",
+    "kategori": "Mengetahui langkah pencegahan penyakit berjangkit dan tidak berjangkit"
+  },
+  {
+    "standards": "6.3.1 Mengamalkan gaya hidup aktif melalui senaman, rehat mencukupi dan pengurangan skrin masa.",
+    "objectives": "Murid dapat merancang jadual harian sihat yang seimbang antara aktiviti fizikal dan digital.",
+    "activities": [
+      "Aktiviti 'Cabaran 60 Minit Aktif Sehari'",
+      "Analisis skrin masa sendiri (minggu lalu)",
+      "Bina jadual harian sihat"
+    ],
+    "assessment": [
+      "Jadual harian murid",
+      "Catatan penyertaan cabaran",
+      "Refleksi bertulis: 'Saya Kurangkan Masa Skrin'"
+    ],
+    "aids": [
+      "Jam randik/penjejak aktiviti",
+      "Templat jadual harian",
+      "Carta cabaran aktiviti"
+    ],
+    "unit": "Unit 3: Gaya Hidup Aktif dan Sihat",
+    "kategori": "Mengamalkan gaya hidup aktif"
+  },
+  {
+    "standards": "6.4.1 Mengenal bentuk jenayah, buli dan penderaan serta tindakan yang perlu diambil.",
+    "objectives": "Murid dapat mengenal pasti tanda penderaan dan tahu cara melaporkan dengan selamat.",
+    "activities": [
+      "Drama pendek: 'Saya Tidak Sendiri'",
+      "Perbincangan: 'Apa Itu Buli? Jenis dan Tanda'",
+      "Latihan: 'Lapor kepada Siapa?'"
+    ],
+    "assessment": [
+      "Pemerhatian empati dalam drama",
+      "Senarai sumber bantuan murid",
+      "Soal jawab: 'Apa yang Perlu Saya Lakukan?'"
+    ],
+    "aids": [
+      "Video anti-buli (KPM)",
+      "Kad sumber bantuan (Talian Kasih, Kaunselor)",
+      "Skrip drama pendek"
+    ],
+    "unit": "Unit 4: Pencegahan Jenayah dan Penderaan",
+    "kategori": "Menyedari bahaya jenayah, buli dan penderaan"
+  },
+  {
+    "standards": "6.5.1 Mengamalkan teknik menjaga keseimbangan mental, emosi dan sosial seperti mindfulness, bercakap dengan rakan dan aktiviti relaksasi.",
+    "objectives": "Murid dapat menggunakan sekurang-kurangnya dua teknik untuk mengekalkan kesejahteraan mental.",
+    "activities": [
+      "Sesi mindfulness 5 minit (tarik nafas, fokus)",
+      "Aktiviti 'Surat untuk Diri Sendiri'",
+      "Perbincangan: 'Cara Saya Redakan Tekanan Sebelum Ujian'"
+    ],
+    "assessment": [
+      "Catatan penggunaan teknik",
+      "Surat untuk diri sendiri",
+      "Penilaian penyertaan dalam sesi mindfulness"
+    ],
+    "aids": [
+      "Muzik relaksasi",
+      "Kertas surat",
+      "Kad teknik kesejahteraan mental"
+    ],
+    "unit": "Unit 5: Kesedaran Kesihatan Mental",
+    "kategori": "Mengamalkan keseimbangan mental, emosi dan sosial"
+  }
+]

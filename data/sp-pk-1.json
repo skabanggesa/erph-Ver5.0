@@ -1,0 +1,86 @@
+[
+  {
+    "standards": "1.1.1 Mengamalkan kebersihan diri seperti membasuh tangan, muka, dan menyikat rambut.",
+    "objectives": "Murid dapat melaksanakan amalan kebersihan diri asas setiap hari dengan bimbingan.",
+    "activities": [
+      "Demonstrasi membasuh tangan dengan sabun",
+      "Lagu 'Bersih Itu Sihat'",
+      "Latihan harian: sikat rambut dan lap muka"
+    ],
+    "assessment": [
+      "Pemerhatian amalan harian",
+      "Senarai semak kebersihan diri",
+      "Soal jawab lisan ringkas"
+    ],
+    "aids": [
+      "Sabun, air, tuala",
+      "Cermin kecil",
+      "Kad gambar langkah kebersihan"
+    ],
+    "unit": "Unit 1: Kebersihan Diri",
+    "kategori": "Mengamalkan kebersihan diri"
+  },
+  {
+    "standards": "1.2.1 Mengenal jenis makanan berkhasiat dan tidak berkhasiat dalam kehidupan harian.",
+    "objectives": "Murid dapat membezakan antara makanan sihat dan tidak sihat melalui gambar dan contoh sebenar.",
+    "activities": [
+      "Permainan 'Susun Makanan Sihat'",
+      "Lukis makanan kegemaran yang sihat",
+      "Perbincangan: 'Makanan Kegemaran Saya'"
+    ],
+    "assessment": [
+      "Penilaian lukisan murid",
+      "Kuiz gambar makanan",
+      "Pemerhatian semasa permainan"
+    ],
+    "aids": [
+      "Kad gambar makanan sihat/tidak sihat",
+      "Kertas warna dan pensel",
+      "Poster piramid makanan kanak-kanak"
+    ],
+    "unit": "Unit 2: Pemakanan Sihat",
+    "kategori": "Mengenal makanan berkhasiat"
+  },
+  {
+    "standards": "1.3.1 Menyatakan cara asas menjaga keselamatan diri di sekolah dan di rumah.",
+    "objectives": "Murid dapat menyebut tiga cara menjaga keselamatan diri dalam situasi harian.",
+    "activities": [
+      "Simulasi: 'Apa yang Perlu Dilakukan Jika Terjatuh?'",
+      "Permainan peranan: 'Saya Selamat di Sekolah'",
+      "Nyanyian: 'Jangan Main dengan Api'"
+    ],
+    "assessment": [
+      "Soal jawab lisan",
+      "Pemerhatian semasa simulasi",
+      "Lukisan situasi selamat/tidak selamat"
+    ],
+    "aids": [
+      "Kad situasi keselamatan",
+      "Boneka untuk permainan peranan",
+      "Poster keselamatan asas"
+    ],
+    "unit": "Unit 3: Keselamatan Diri dan Persekitaran",
+    "kategori": "Mengetahui cara menjaga keselamatan diri"
+  },
+  {
+    "standards": "1.4.1 Mengenal emosi asas (gembira, sedih, marah, takut) dan cara mengurusnya.",
+    "objectives": "Murid dapat menamakan emosi asas dan menunjukkan cara tenang apabila marah atau takut.",
+    "activities": [
+      "Permainan kad muka emosi",
+      "Aktiviti 'Tarik Nafas Dalam – Tenangkan Diri'",
+      "Cerita bergambar tentang perasaan"
+    ],
+    "assessment": [
+      "Pemerhatian reaksi emosi",
+      "Ujian padanan emosi",
+      "Catatan anekdot pengurusan emosi"
+    ],
+    "aids": [
+      "Kad emosi bergambar",
+      "Cermin kecil",
+      "Buku cerita emosi"
+    ],
+    "unit": "Unit 4: Emosi dan Perasaan Asas",
+    "kategori": "Mengenal dan mengurus emosi asas"
+  }
+]

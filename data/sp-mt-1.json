@@ -1,0 +1,482 @@
+[
+  {
+    "standards": "1.1.1 Naming numbers up to 100",
+    "objectives": "Students are able to name numbers from 1 to 100 orally and correctly.",
+    "activities": [
+      "Singing number songs 1–100",
+      "Game 'Call the Number' using number cards",
+      "Naming numbers in ascending and descending order"
+    ],
+    "assessment": [
+      "Observation while students name the numbers",
+      "Checklist for mastery of numbers 1–100"
+    ],
+    "aids": [
+      "Number cards 1–100",
+      "Large number chart",
+      "Number song audio"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Recognizing and Writing Numbers"
+  },
+  {
+    "standards": "1.1.2 Writing numbers in numerals up to 100",
+    "objectives": "Students are able to write numbers from 1 to 100 in numeral form correctly.",
+    "activities": [
+      "Copying numbers from the chart into exercise books",
+      "Filling in the blanks on a number line",
+      "Writing numbers activity on small whiteboards"
+    ],
+    "assessment": [
+      "Number writing worksheets",
+      "Checking the accuracy of digit forms"
+    ],
+    "aids": [
+      "Number practice worksheets",
+      "Printed number lines",
+      "Whiteboards and marker pens"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Recognizing and Writing Numbers"
+  },
+  {
+    "standards": "1.2.1 Counting objects in groups up to 100",
+    "objectives": "Students are able to count actual objects or pictures in groups up to 100 accurately.",
+    "activities": [
+      "Counting marbles, ice cream sticks, or beans",
+      "Counting animal pictures on cards",
+      "Group game: 'Count and Report'"
+    ],
+    "assessment": [
+      "Observation of counting accuracy",
+      "Recording the number of objects in worksheets"
+    ],
+    "aids": [
+      "Concrete objects (marbles, beads, ice cream sticks)",
+      "Picture cards with various objects",
+      "Counting containers"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Counting"
+  },
+  {
+    "standards": "1.2.2 Counting in ascending and descending order within 100",
+    "objectives": "Students are able to count in ascending (1–100) and descending (100–1) order fluently.",
+    "activities": [
+      "Counting steps while walking in the corridor",
+      "Using a large number line on the floor",
+      "Game 'Number Rocket' (counting down before 'launch')"
+    ],
+    "assessment": [
+      "Oral test on ascending/descending counting",
+      "Teacher's notes on fluency and confidence"
+    ],
+    "aids": [
+      "Large number line (1–100)",
+      "Number cards for rearranging",
+      "Number rocket toy"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Counting"
+  },
+  {
+    "standards": "1.3.1 Recognizing place values of tens and ones for numbers up to 100",
+    "objectives": "Students are able to identify the place values of tens and ones in two-digit numbers.",
+    "activities": [
+      "Using an abacus or base-10 blocks",
+      "Activity 'Separate Tens and Ones' with number cards",
+      "Building numbers using place value cards"
+    ],
+    "assessment": [
+      "Place value worksheets",
+      "Oral Q&A: 'How many tens? How many ones?'"
+    ],
+    "aids": [
+      "Abacus",
+      "Base-10 blocks",
+      "Place value cards (tens/ones)"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Place Value (Tens and Ones)"
+  },
+  {
+    "standards": "1.3.2 Stating the digit value of two-digit numbers",
+    "objectives": "Students are able to state the digit value (e.g., in 45, the digit 4 is worth 40 and 5 is worth 5).",
+    "activities": [
+      "Using digit value cards (40 and 5 for number 45)",
+      "Matching numbers with digit value cards",
+      "Game 'Find My Value' in pairs"
+    ],
+    "assessment": [
+      "Digit value matching worksheets",
+      "Oral assessment during the game"
+    ],
+    "aids": [
+      "Digit value cards (10, 20, ..., 90 and 1–9)",
+      "Large place value chart",
+      "Base-10 blocks"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Place Value (Tens and Ones)"
+  },
+  {
+    "standards": "1.4.1 Adding two numbers within 18",
+    "objectives": "Students are able to solve addition number sentences up to 18 using concrete objects.",
+    "activities": [
+      "Adding marbles in two containers",
+      "Using picture cards to build addition sentences",
+      "Game 'Quick Addition' with number cards"
+    ],
+    "assessment": [
+      "Addition operation worksheets",
+      "Observation of addition strategies used"
+    ],
+    "aids": [
+      "Marbles/beads",
+      "Number sentence cards",
+      "Addition basic facts chart"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Addition Operations (Without Regrouping)"
+  },
+  {
+    "standards": "1.4.2 Solving daily problems involving addition up to 18",
+    "objectives": "Students are able to solve simple daily situations using addition operations up to 18.",
+    "activities": [
+      "Short role-play: 'I have 5 apples, I get 3 more'",
+      "Using illustrated story cards",
+      "Building number sentences from real situations"
+    ],
+    "assessment": [
+      "Problem-solving in worksheets",
+      "Assessment during role-play or discussion"
+    ],
+    "aids": [
+      "Daily story cards",
+      "Actual objects (plastic apples, toy candies)",
+      "Daily situation worksheets"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Addition Operations (Without Regrouping)"
+  },
+  {
+    "standards": "1.5.1 Subtracting two numbers within 18",
+    "objectives": "Students are able to solve subtraction number sentences up to 18 using concrete objects.",
+    "activities": [
+      "Taking marbles from a container and counting the remainder",
+      "Using picture cards to build subtraction sentences",
+      "Game 'Subtract & Win' in pairs"
+    ],
+    "assessment": [
+      "Subtraction operation worksheets",
+      "Assessment during group activities"
+    ],
+    "aids": [
+      "Concrete objects (marbles, beads, picture cards)",
+      "Subtraction number sentence cards",
+      "Small number lines"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Subtraction Operations (Without Regrouping)"
+  },
+  {
+    "standards": "1.5.2 Solving daily problems involving subtraction up to 18",
+    "objectives": "Students are able to solve simple daily situations using subtraction operations up to 18.",
+    "activities": [
+      "Role-play: 'I have 10 candies, I eat 4'",
+      "Using illustrated daily situation cards",
+      "Building number sentences from personal experiences"
+    ],
+    "assessment": [
+      "Subtraction problem-solving worksheets",
+      "Observation during mini role-play performances"
+    ],
+    "aids": [
+      "Subtraction story cards",
+      "Actual objects (toy candies, fruit cards)",
+      "Daily situation logs"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Subtraction Operations (Without Regrouping)"
+  },
+  {
+    "standards": "1.6.1 Stating addition basic facts up to 18 quickly",
+    "objectives": "Students are able to state addition facts (e.g., 7 + 5 = 12) spontaneously.",
+    "activities": [
+      "1-minute addition facts quiz",
+      "Card game 'Quick Match'",
+      "Rhythmic addition facts singing"
+    ],
+    "assessment": [
+      "Oral addition facts test",
+      "Record of time taken to answer 10 questions"
+    ],
+    "aids": [
+      "Addition facts cards",
+      "Stopwatch",
+      "Colored basic facts chart"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Basic Addition and Subtraction Facts"
+  },
+  {
+    "standards": "1.6.2 Stating subtraction basic facts up to 18 quickly",
+    "objectives": "Students are able to state subtraction facts (e.g., 12 – 5 = 7) spontaneously.",
+    "activities": [
+      "Game 'Flash Subtraction' in groups",
+      "Using a rotating subtraction facts wheel",
+      "Pair practice with question cards"
+    ],
+    "assessment": [
+      "Oral subtraction facts test",
+      "Checklist for mastery of basic facts"
+    ],
+    "aids": [
+      "Subtraction facts wheel",
+      "Subtraction question cards",
+      "Subtraction facts chart"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 100",
+    "kategori": "Basic Addition and Subtraction Facts"
+  },
+  {
+    "standards": "2.1.1 Recognizing the concept of a half (½) through folding and equal parts",
+    "objectives": "Students are able to recognize and show a half of an object or shape divided equally.",
+    "activities": [
+      "Folding paper into two equal parts",
+      "Coloring half of a circle or square",
+      "Dividing a plastic apple into two equal parts"
+    ],
+    "assessment": [
+      "Worksheets for coloring a half",
+      "Observation during folding activities"
+    ],
+    "aids": [
+      "Various colored A4 papers",
+      "Shape cards (circle, square)",
+      "Plastic apple or food models"
+    ],
+    "unit": "Unit 2: Fractions",
+    "kategori": "Recognizing Half and Quarter"
+  },
+  {
+    "standards": "2.1.2 Recognizing the concept of a quarter (¼) through folding and equal parts",
+    "objectives": "Students are able to recognize and show a quarter of an object or shape divided into four equal parts.",
+    "activities": [
+      "Folding paper into four equal parts",
+      "Dividing a toy pizza into 4 slices",
+      "Coloring one of the four parts of a shape"
+    ],
+    "assessment": [
+      "Worksheets for coloring a quarter",
+      "Oral Q&A: 'Which one is a quarter?'"
+    ],
+    "aids": [
+      "Paper for folding",
+      "Toy pizza or cake models",
+      "Visual fraction cards"
+    ],
+    "unit": "Unit 2: Fractions",
+    "kategori": "Recognizing Half and Quarter"
+  },
+  {
+    "standards": "3.1.1 Recognizing Malaysian coins and banknotes up to RM10",
+    "objectives": "Students are able to identify and name coins (5 cents to RM1) and banknotes (RM1 to RM10).",
+    "activities": [
+      "Exhibition 'My Money' with real examples or replicas",
+      "Game 'Find the Money' in a mystery box",
+      "Arranging money according to ascending value"
+    ],
+    "assessment": [
+      "Money identification test (point and name)",
+      "Checklist for money recognition"
+    ],
+    "aids": [
+      "Real or replica money",
+      "Pictures of Malaysian money",
+      "Value of money chart"
+    ],
+    "unit": "Unit 3: Money",
+    "kategori": "Recognizing Coins and Banknotes"
+  },
+  {
+    "standards": "3.1.2 Stating the value of money up to RM10",
+    "objectives": "Students are able to state the value of each coin and banknote correctly.",
+    "activities": [
+      "Matching money with value cards (e.g., RM5 ↔ 'five ringgit' card)",
+      "Shop game: 'How much is this?'",
+      "Rhythmic money value singing"
+    ],
+    "assessment": [
+      "Oral Q&A on money values",
+      "Matching money and value worksheets"
+    ],
+    "aids": [
+      "Replica money of various values",
+      "Value word cards (five cents, two ringgit, etc.)",
+      "Toy items for the shop"
+    ],
+    "unit": "Unit 3: Money",
+    "kategori": "Recognizing Coins and Banknotes"
+  },
+  {
+    "standards": "4.1.1 Recognizing times of the day (morning, afternoon, evening, night)",
+    "objectives": "Students are able to relate daily activities with time (morning, evening, night).",
+    "activities": [
+      "Arranging activity cards in chronological order (waking up, sleeping)",
+      "Drawing activities at specific times",
+      "Discussion: 'What do you do in the evening?'"
+    ],
+    "assessment": [
+      "Worksheets for arranging activities by time",
+      "Oral assessment during discussions"
+    ],
+    "aids": [
+      "Daily activity picture cards",
+      "Times of the day chart",
+      "Large clock without numbers (for context)"
+    ],
+    "unit": "Unit 4: Time",
+    "kategori": "Recognizing Daily Time and Analog Clocks"
+  },
+  {
+    "standards": "4.1.2 Reading time on an analog clock (o'clock and half past)",
+    "objectives": "Students are able to read and state o'clock and half past on an analog clock face.",
+    "activities": [
+      "Using a large analog clock to show time",
+      "Game 'Show the Time' in pairs",
+      "Drawing clock hands on an empty clock face"
+    ],
+    "assessment": [
+      "Clock hands drawing worksheets",
+      "Oral test: 'What time is it now?'"
+    ],
+    "aids": [
+      "Movable analog clock",
+      "Empty clock face worksheets",
+      "Time cards (3 o'clock, 4.30)"
+    ],
+    "unit": "Unit 4: Time",
+    "kategori": "Recognizing Daily Time and Analog Clocks"
+  },
+  {
+    "standards": "5.1.1 Comparing the length of two objects using non-standard units",
+    "objectives": "Students are able to compare and state which object is longer or shorter using hand spans, pencils, or ice cream sticks.",
+    "activities": [
+      "Measuring a table using hand spans",
+      "Comparing string lengths using paper clips",
+      "Activity 'Who is Longer?' in groups"
+    ],
+    "assessment": [
+      "Length comparison record worksheets",
+      "Observation during measurement activities"
+    ],
+    "aids": [
+      "String, pencils, ice cream sticks",
+      "Paper clips as measuring units",
+      "Measurement record chart"
+    ],
+    "unit": "Unit 5: Measurement",
+    "kategori": "Comparing Measurements Using Non-Standard Units"
+  },
+  {
+    "standards": "5.1.2 Comparing weight and volume of liquid using non-standard units",
+    "objectives": "Students are able to compare weight (heavier/lighter) and liquid volume (more/less) using daily tools.",
+    "activities": [
+      "Weighing a bag of sugar vs a bag of cotton by hand",
+      "Pouring water into different sized containers, comparing volume",
+      "Game 'Guess the Weight' with mystery bags"
+    ],
+    "assessment": [
+      "Comparison record worksheets",
+      "Oral Q&A: 'Which is heavier?'"
+    ],
+    "aids": [
+      "Bags containing objects of different weights",
+      "Transparent water containers of various sizes",
+      "Colored water for volume"
+    ],
+    "unit": "Unit 5: Measurement",
+    "kategori": "Comparing Measurements Using Non-Standard Units"
+  },
+  {
+    "standards": "6.1.1 Recognizing and naming 2D shapes: square, triangle, circle",
+    "objectives": "Students are able to identify and name two-dimensional shapes in the environment.",
+    "activities": [
+      "Finding 2D shapes in the classroom",
+      "Building shapes using ice cream sticks and playdough",
+      "Game 'Guess the Shape' with picture cards"
+    ],
+    "assessment": [
+      "Shape and name matching worksheets",
+      "Assessment during the shape-finding activity"
+    ],
+    "aids": [
+      "2D shape cards",
+      "Actual objects (book = square, clock = circle)",
+      "Ice cream sticks and playdough"
+    ],
+    "unit": "Unit 6: Space",
+    "kategori": "Recognizing 2D and 3D Shapes"
+  },
+  {
+    "standards": "6.1.2 Recognizing and naming 3D shapes: cube, cuboid, sphere",
+    "objectives": "Students are able to identify and name three-dimensional shapes in daily life.",
+    "activities": [
+      "Collecting 3D objects from home (boxes, balls, milk tins)",
+      "Building towers using boxes (cuboids) and tins (spheres/toroids)",
+      "Game 'Catch the Shape' – teacher names it, student shows it"
+    ],
+    "assessment": [
+      "3D shape recognition checklist",
+      "3D shape identification worksheets"
+    ],
+    "aids": [
+      "Boxes (cuboids), dice (cubes), balls (spheres)",
+      "3D shape picture cards",
+      "3D shape properties chart"
+    ],
+    "unit": "Unit 6: Space",
+    "kategori": "Recognizing 2D and 3D Shapes"
+  },
+  {
+    "standards": "7.1.1 Collecting data through observation and simple surveys",
+    "objectives": "Students are able to collect data on peers' interests (e.g., favorite color) through oral surveys.",
+    "activities": [
+      "Asking friends: 'What is your favorite color?'",
+      "Collecting data using color cards",
+      "Recording answers in a simple table"
+    ],
+    "assessment": [
+      "Data record in a table",
+      "Assessment during the collection process"
+    ],
+    "aids": [
+      "Color cards (red, blue, green)",
+      "Empty record tables",
+      "Stickers for marking answers"
+    ],
+    "unit": "Unit 7: Data Representation",
+    "kategori": "Collecting and Organizing Data"
+  },
+  {
+    "standards": "7.1.2 Organizing data using objects or pictures",
+    "objectives": "Students are able to organize collected data in the form of an object chart or picture chart.",
+    "activities": [
+      "Arranging shoes by color on the floor",
+      "Sticking fruit pictures by type on a notice board",
+      "Building a picture chart 'Class Pets'"
+    ],
+    "assessment": [
+      "Observation of organization accuracy",
+      "Assessment of the picture chart results"
+    ],
+    "aids": [
+      "Pictures of animals/fruits/colors",
+      "Notice board or mahjong paper",
+      "Pictures of shoes or actual objects"
+    ],
+    "unit": "Unit 7: Data Representation",
+    "kategori": "Collecting and Organizing Data"
+  }
+]

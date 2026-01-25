@@ -1,0 +1,522 @@
+[
+  {
+    "standards": "3.1.1 Read and write numbers up to 10,000 in numerals and words",
+    "objectives": "Students will be able to read and write numbers up to 10,000 in numerals and words correctly.",
+    "activities": [
+      "Singing number songs up to 10,000",
+      "Writing numbers from words to numerals (e.g., 'seven thousand three hundred' → 7300)",
+      "Game 'Find the Number' – search for numbers on a large chart"
+    ],
+    "assessment": [
+      "Worksheet on writing numbers from words",
+      "Oral test: 'Read this number'"
+    ],
+    "aids": [
+      "Number chart 1–10,000",
+      "Number word cards (thousands, hundreds, tens, ones)",
+      "Whiteboard and marker pens"
+    ],
+    "unit": "Unit 1: Whole Numbers up to 10,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "3.1.2 Comparing and arranging numbers up to 10,000",
+    "objectives": "Students will be able to compare two numbers up to 10,000 and arrange them in ascending or descending order.",
+    "activities": [
+      "Arranging number cards in sequence",
+      "Game 'The Largest Number' – comparing numbers in groups",
+      "Use base ten blocks to show place value"
+    ],
+    "assessment": [
+      "Worksheet on ascending/descending order",
+      "Observation during game activities"
+    ],
+    "aids": [
+      "Number cards 1,000–10,000",
+      "Base ten blocks (thousands, hundreds, tens, ones)",
+      "Large symbols >, <, ="
+    ],
+    "unit": "Unit 1: Whole Numbers up to 10,000",
+    "kategori": "Reading, Writing, and Comparing Numbers"
+  },
+  {
+    "standards": "3.2.1 Adding two numbers up to 10,000 without regrouping",
+    "objectives": "Students will be able to solve addition number sentences up to 10,000 without regrouping using algorithms or concrete objects.",
+    "activities": [
+      "Using an abacus to add without regrouping",
+      "Writing number sentences on the whiteboard",
+      "Game 'Quick Add' in pairs"
+    ],
+    "assessment": [
+      "Worksheet on addition without regrouping",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Abacus",
+      "Whiteboard and marker pens",
+      "Number sentence cards"
+    ],
+    "unit": "Unit 2: Addition Up to 10,000",
+    "kategori": "Addition Without and With Regrouping"
+  },
+  {
+    "standards": "3.2.2 Adding two numbers up to 10,000 with regrouping",
+    "objectives": "Students will be able to solve addition number sentences up to 10,000 with regrouping using algorithms or base ten blocks.",
+    "activities": [
+      "Using base ten blocks to show the regrouping process",
+      "Activity 'Break the Hundreds/Thousands' – turning 10 tens into 1 hundred",
+      "Solving daily problems: 'A company has 4,567 books, buys another 2,893'"
+    ],
+    "assessment": [
+      "Worksheet on addition with regrouping",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base ten blocks",
+      "Step-by-step addition with regrouping chart",
+      "Daily life story cards"
+    ],
+    "unit": "Unit 2: Addition Up to 10,000",
+    "kategori": "Addition Without and With Regrouping"
+  },
+  {
+    "standards": "3.3.1 Subtracting two numbers up to 10,000 without regrouping",
+    "objectives": "Students will be able to solve subtraction number sentences up to 10,000 without regrouping using algorithms or concrete objects.",
+    "activities": [
+      "Using an abacus to subtract without regrouping",
+      "Writing number sentences on cards",
+      "Game 'Take & Calculate' – take objects and calculate the remainder"
+    ],
+    "assessment": [
+      "Worksheet on subtraction without regrouping",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Abacus",
+      "Subtraction number sentence cards",
+      "Concrete objects (beads, marbles)"
+    ],
+    "unit": "Unit 3: Subtraction Up to 10,000",
+    "kategori": "Subtraction Without and With Regrouping"
+  },
+  {
+    "standards": "3.3.2 Subtracting two numbers up to 10,000 with regrouping",
+    "objectives": "Students will be able to solve subtraction number sentences up to 10,000 with regrouping using algorithms or base ten blocks.",
+    "activities": [
+      "Using base ten blocks to show the borrowing process",
+      "Activity 'Borrow One' – converting 1 thousand to 10 hundreds",
+      "Solving daily problems: 'Mother has 8,000 beans, uses 3,456'"
+    ],
+    "assessment": [
+      "Worksheet on subtraction with regrouping",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base ten blocks",
+      "Step-by-step subtraction with regrouping chart",
+      "Daily life story cards"
+    ],
+    "unit": "Unit 3: Subtraction Up to 10,000",
+    "kategori": "Subtraction Without and With Regrouping"
+  },
+  {
+    "standards": "3.4.1 Solving multiplication of two numbers (two-digit number × one-digit number) without regrouping",
+    "objectives": "Students will be able to solve multiplication of a two-digit number by a one-digit number without regrouping using algorithms or visual models.",
+    "activities": [
+      "Using grids or boxes for multiplication",
+      "Writing number sentences on the board",
+      "Game 'Product Matching'"
+    ],
+    "assessment": [
+      "Worksheet on multiplication without regrouping",
+      "Observation of strategy usage"
+    ],
+    "aids": [
+      "Multiplication grid",
+      "Number sentence cards",
+      "Times table chart 1–9"
+    ],
+    "unit": "Unit 4: Multiplication (With One-Digit Numbers)",
+    "kategori": "Multiplication With One Digit"
+  },
+  {
+    "standards": "3.4.2 Solving multiplication of two numbers (two-digit number × one-digit number) with regrouping",
+    "objectives": "Students will be able to solve multiplication of a two-digit number by a one-digit number with regrouping using algorithms or base ten blocks.",
+    "activities": [
+      "Using base ten blocks to show the regrouping process",
+      "Activity 'Multiplication Regroup' – turning 10 ones into 1 ten",
+      "Solving daily problems: 'Each bag has 24 marbles, 7 bags = ?'"
+    ],
+    "assessment": [
+      "Worksheet on multiplication with regrouping",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base ten blocks",
+      "Step-by-step multiplication with regrouping chart",
+      "Daily life story cards"
+    ],
+    "unit": "Unit 4: Multiplication (With One-Digit Numbers)",
+    "kategori": "Multiplication With One Digit"
+  },
+  {
+    "standards": "3.5.1 Solving division of two numbers (two-digit number ÷ one-digit number) without remainder",
+    "objectives": "Students will be able to solve division of a two-digit number by a one-digit number without remainder using algorithms or equal sharing models.",
+    "activities": [
+      "Dividing marbles into containers equally",
+      "Using picture cards to show division",
+      "Game 'Equal Sharing' with toy objects"
+    ],
+    "assessment": [
+      "Worksheet on division without remainder",
+      "Assessment during sharing activities"
+    ],
+    "aids": [
+      "Marbles/beads",
+      "Division picture cards",
+      "Plastic containers for grouping"
+    ],
+    "unit": "Unit 5: Division (With One-Digit Numbers)",
+    "kategori": "Division With One Digit"
+  },
+  {
+    "standards": "3.5.2 Solving division of two numbers (two-digit number ÷ one-digit number) with remainder",
+    "objectives": "Students will be able to solve division of a two-digit number by a one-digit number with remainder using algorithms or visual models.",
+    "activities": [
+      "Using base ten blocks to show the remainder",
+      "Short drama: 'I have 25 candies, shared with 4 friends, how many are left?'",
+      "Solving daily problems: '28 books divided among 5 people'"
+    ],
+    "assessment": [
+      "Worksheet on division with remainder",
+      "Problem-solving in worksheets"
+    ],
+    "aids": [
+      "Base ten blocks",
+      "Division story cards",
+      "Real objects (candies, toy books)"
+    ],
+    "unit": "Unit 5: Division (With One-Digit Numbers)",
+    "kategori": "Division With One Digit"
+  },
+  {
+    "standards": "3.6.1 Understanding proper fractions with numerator 1 and denominators up to 10",
+    "objectives": "Students will be able to understand and name proper fractions such as ½, ⅓, ¼, ⅕, ..., ¹⁄₁₀ as parts of a whole.",
+    "activities": [
+      "Folding paper into 2, 3, 4, 5, 6, 8, 10 equal parts",
+      "Coloring one part of a divided shape",
+      "Using toy pizza to show fractions"
+    ],
+    "assessment": [
+      "Worksheet on coloring fractions",
+      "Oral Q&A: 'Is this ¹⁄₈ or ¹⁄₁₀?'"
+    ],
+    "aids": [
+      "Various colored A4 papers",
+      "Toy pizza or cake models",
+      "Visual fraction cards"
+    ],
+    "unit": "Unit 6: Fractions (Proper Fractions)",
+    "kategori": "Understanding and Writing Proper Fractions"
+  },
+  {
+    "standards": "3.6.2 Writing equivalent fractions for simple proper fractions",
+    "objectives": "Students will be able to write equivalent fractions for simple proper fractions like ½ = ²⁄₄ = ³⁄₆.",
+    "activities": [
+      "Using paper circles to show equivalent fractions",
+      "Matching equivalent fraction cards",
+      "Game 'Find the Equivalent Pair' in groups"
+    ],
+    "assessment": [
+      "Worksheet on matching equivalent fractions",
+      "Oral assessment: 'What is equivalent to ½?'"
+    ],
+    "aids": [
+      "Equivalent fraction cards",
+      "Paper circles to cut and compare",
+      "Equivalent fractions chart"
+    ],
+    "unit": "Unit 6: Fractions (Proper Fractions)",
+    "kategori": "Understanding and Writing Proper Fractions"
+  },
+  {
+    "standards": "3.7.1 Recognizing and writing decimals up to two decimal places in the context of money",
+    "objectives": "Students will be able to identify and write decimals up to two decimal places (e.g., RM5.75, RM12.30) in the context of money.",
+    "activities": [
+      "Using replica money to show decimals",
+      "Writing item prices in decimal form",
+      "Shop game: 'How much is this? Write in RMXX.XX'"
+    ],
+    "assessment": [
+      "Worksheet on writing prices in decimals",
+      "Observation during the shop game"
+    ],
+    "aids": [
+      "Replica money (RM1, RM5, RM10, sen)",
+      "Toy items with price tags",
+      "Decimal price cards"
+    ],
+    "unit": "Unit 7: Decimals (Up to two decimal places)",
+    "kategori": "Recognizing and Writing Decimals"
+  },
+  {
+    "standards": "3.7.2 Recognizing and writing decimals up to two decimal places in the context of measurement",
+    "objectives": "Students will be able to identify and write decimals up to two decimal places (e.g., 3.50 cm, 1.25 kg) in the context of measurement.",
+    "activities": [
+      "Measuring object lengths and recording in cm (e.g., 12.50 cm)",
+      "Weighing light objects and recording in kg (e.g., 0.75 kg)",
+      "Game 'Liquid Volume' – pouring water and reading in liters (1.50 L)"
+    ],
+    "assessment": [
+      "Worksheet on recording measurements in decimals",
+      "Oral Q&A: 'How many cm is this?'"
+    ],
+    "aids": [
+      "Ruler, measuring tape",
+      "Digital scale",
+      "Measuring beakers (ml, liter)"
+    ],
+    "unit": "Unit 7: Decimals (Up to two decimal places)",
+    "kategori": "Recognizing and Writing Decimals"
+  },
+  {
+    "standards": "3.8.1 Solving daily problems involving addition and subtraction of money up to RM1,000",
+    "objectives": "Students will be able to solve daily situations such as buying items and finding change using addition/subtraction of money up to RM1,000.",
+    "activities": [
+      "Drama: 'Buying a book for RM15.50, paying with RM20, what is the change?'",
+      "Using money problem story cards",
+      "Building number sentences from real situations"
+    ],
+    "assessment": [
+      "Worksheet on money problem solving",
+      "Assessment during drama performances"
+    ],
+    "aids": [
+      "Money story cards",
+      "Real objects (plastic books, toy water bottles)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 8: Money Up to RM1,000",
+    "kategori": "Solving Daily Problems Involving Money"
+  },
+  {
+    "standards": "3.8.2 Solving daily problems involving multiplication and division of money up to RM1,000",
+    "objectives": "Students will be able to solve daily situations such as the price of 5 units or unit price using multiplication/division of money up to RM1,000.",
+    "activities": [
+      "Drama: 'One bread is RM1.50, 4 breads = ?', 'RM10 for 5 apples, how much for one?'",
+      "Using money multiplication/division story cards",
+      "Game 'Calculate Price' in pairs"
+    ],
+    "assessment": [
+      "Worksheet on money multiplication/division problem solving",
+      "Observation during group activities"
+    ],
+    "aids": [
+      "Money story cards",
+      "Real objects (plastic bread, toy apples)",
+      "Toy calculator"
+    ],
+    "unit": "Unit 8: Money Up to RM1,000",
+    "kategori": "Solving Daily Problems Involving Money"
+  },
+  {
+    "standards": "3.9.1 Performing addition operations involving time units (hours and minutes)",
+    "objectives": "Students will be able to solve addition number sentences involving hours and minutes (e.g., 2 hours 30 minutes + 1 hour 45 minutes).",
+    "activities": [
+      "Using a large analog clock to show time addition",
+      "Game 'Add Time' – adding time in groups",
+      "Solving daily problems: 'School starts at 7.30, ends at 12.15'"
+    ],
+    "assessment": [
+      "Worksheet on time addition",
+      "Assessment during analog clock activities"
+    ],
+    "aids": [
+      "Movable analog clock",
+      "Blank clock face worksheets",
+      "Time question cards"
+    ],
+    "unit": "Unit 9: Time and Duration (Operations Involving Time)",
+    "kategori": "Addition and Subtraction of Time Units"
+  },
+  {
+    "standards": "3.9.2 Performing subtraction operations involving time units (hours and minutes)",
+    "objectives": "Students will be able to solve subtraction number sentences involving hours and minutes (e.g., 3 hours 20 minutes – 1 hour 50 minutes).",
+    "activities": [
+      "Using an analog clock to show time subtraction",
+      "Game 'Subtract Time' – subtracting time in pairs",
+      "Solving daily problems: 'Work starts at 8.00, ends at 4.30'"
+    ],
+    "assessment": [
+      "Worksheet on time subtraction",
+      "Observation during activities"
+    ],
+    "aids": [
+      "Movable analog clock",
+      "Blank clock face worksheets",
+      "Time question cards"
+    ],
+    "unit": "Unit 9: Time and Duration (Operations Involving Time)",
+    "kategori": "Addition and Subtraction of Time Units"
+  },
+  {
+    "standards": "3.10.1 Performing addition and subtraction operations involving length (cm, m)",
+    "objectives": "Students will be able to solve addition and subtraction number sentences involving length in cm and m units.",
+    "activities": [
+      "Measuring two objects, adding/subtracting the results",
+      "Using a number line to show length operations",
+      "Solving daily problems: 'String A is 2.5 m, String B is 1.75 m, what is the total?'"
+    ],
+    "assessment": [
+      "Worksheet on length operations",
+      "Observation of measurement and calculation accuracy"
+    ],
+    "aids": [
+      "Ruler, measuring tape",
+      "String, wooden boards to be measured",
+      "Measurement record sheets"
+    ],
+    "unit": "Unit 10: Measurement (Length, Mass, Volume of Liquid - Basic Operations)",
+    "kategori": "Basic Operations in Measurement"
+  },
+  {
+    "standards": "3.10.2 Performing addition and subtraction operations involving mass (g, kg) and volume of liquid (ml, liter)",
+    "objectives": "Students will be able to solve addition and subtraction number sentences involving mass and volume of liquid in standard units.",
+    "activities": [
+      "Weighing two objects, adding/subtracting their mass",
+      "Pouring two liquids, adding/subtracting their volumes",
+      "Solving daily problems: 'Water A 500 ml, Water B 350 ml, what is the total?'"
+    ],
+    "assessment": [
+      "Worksheet on mass and volume operations",
+      "Oral Q&A: 'What is the total?'"
+    ],
+    "aids": [
+      "Digital scale",
+      "Measuring beakers (ml, liter)",
+      "Colored water, light objects"
+    ],
+    "unit": "Unit 10: Measurement (Length, Mass, Volume of Liquid - Basic Operations)",
+    "kategori": "Basic Operations in Measurement"
+  },
+  {
+    "standards": "3.11.1 Recognizing straight lines and curved lines",
+    "objectives": "Students will be able to identify and differentiate between straight lines and curved lines in 2D shapes and the environment.",
+    "activities": [
+      "Searching for straight and curved lines in the classroom",
+      "Drawing straight and curved lines on paper",
+      "Game 'Guess the Line' – teacher shows, student guesses the line type"
+    ],
+    "assessment": [
+      "Worksheet on identifying lines",
+      "Observation during drawing activities"
+    ],
+    "aids": [
+      "2D shape picture cards",
+      "Pencil, ruler",
+      "Straight vs curved lines chart"
+    ],
+    "unit": "Unit 11: Lines and Angles",
+    "kategori": "Recognizing Lines and Types of Angles"
+  },
+  {
+    "standards": "3.11.2 Recognizing types of angles: right angle, acute angle, obtuse angle",
+    "objectives": "Students will be able to identify and name types of angles (right, acute, obtuse) using models or real objects.",
+    "activities": [
+      "Using angle models (folded paper) to show angle types",
+      "Finding angles in the environment (table, door, book)",
+      "Game 'Guess the Angle' – teacher shows an angle, student guesses the name"
+    ],
+    "assessment": [
+      "Worksheet on labeling angle types",
+      "Oral Q&A: 'What angle is this?'"
+    ],
+    "aids": [
+      "Angle models (folded paper, plastic angles)",
+      "Angle picture cards",
+      "Types of angles chart"
+    ],
+    "unit": "Unit 11: Lines and Angles",
+    "kategori": "Recognizing Lines and Types of Angles"
+  },
+  {
+    "standards": "3.12.1 Calculating the perimeter of squares and rectangles",
+    "objectives": "Students will be able to calculate the perimeter of squares and rectangles using formulas or measurement methods.",
+    "activities": [
+      "Measuring the sides of quadrilaterals and summing them to find the perimeter",
+      "Using base ten blocks to build quadrilaterals and calculate perimeter",
+      "Solving daily problems: 'A square garden fence is 5m x 3m, what is the fence length?'"
+    ],
+    "assessment": [
+      "Worksheet on calculating perimeter",
+      "Observation of measurement accuracy"
+    ],
+    "aids": [
+      "Ruler, measuring tape",
+      "Base ten blocks",
+      "Quadrilateral shape worksheets"
+    ],
+    "unit": "Unit 12: Perimeter and Area",
+    "kategori": "Calculating Perimeter and Area of Quadrilaterals"
+  },
+  {
+    "standards": "3.12.2 Calculating the area of squares and rectangles",
+    "objectives": "Students will be able to calculate the area of squares and rectangles using formulas or the grid square method.",
+    "activities": [
+      "Using grid paper to count the area",
+      "Building quadrilaterals with base ten blocks and calculating area",
+      "Solving daily problems: 'A floor is 4m x 3m, what is its area?'"
+    ],
+    "assessment": [
+      "Worksheet on calculating area",
+      "Assessment during grid activities"
+    ],
+    "aids": [
+      "Grid paper",
+      "Base ten blocks",
+      "Quadrilateral shape worksheets"
+    ],
+    "unit": "Unit 12: Perimeter and Area",
+    "kategori": "Calculating Perimeter and Area of Quadrilaterals"
+  },
+  {
+    "standards": "3.13.1 Constructing bar charts with simple scales (1 unit = 1, 2, 5, 10)",
+    "objectives": "Students will be able to construct bar charts using collected data and determine suitable scales (1 unit = 1, 2, 5, 10).",
+    "activities": [
+      "Collecting data on the number of books read by friends",
+      "Constructing a bar chart with a scale of 1 unit = 2 people",
+      "Labeling horizontal and vertical axes with scales"
+    ],
+    "assessment": [
+      "Students' bar chart outputs",
+      "Observation of construction and scale accuracy"
+    ],
+    "aids": [
+      "Data cards for voting",
+      "Mahjong paper and stickers",
+      "Colored pencils for labeling"
+    ],
+    "unit": "Unit 13: Data Management (Bar Charts)",
+    "kategori": "Interpreting Bar Charts with Scales"
+  },
+  {
+    "standards": "3.13.2 Interpreting information from bar charts with scales",
+    "objectives": "Students will be able to read and interpret information from bar charts with scales (e.g., 1 unit = 5 people, how many people like blue?).",
+    "activities": [
+      "Interpreting their own constructed bar charts",
+      "Q&A: 'Which has the most?', 'How many like red if 1 unit = 5?'",
+      "Game 'Guess the Answer' based on the chart"
+    ],
+    "assessment": [
+      "Worksheet on chart interpretation questions",
+      "Oral assessment during discussions"
+    ],
+    "aids": [
+      "Examples of bar charts with scales",
+      "Interpretation question cards",
+      "Whiteboard for discussion"
+    ],
+    "unit": "Unit 13: Data Management (Bar Charts)",
+    "kategori": "Interpreting Bar Charts with Scales"
+  }
+]

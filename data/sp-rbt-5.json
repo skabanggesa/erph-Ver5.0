@@ -1,0 +1,116 @@
+[
+  {
+    "standards": "RBT.4.3.1 - 4.3.2 Mengenal mata jahitan dan alatan jahitan",
+    "objectives": "Murid dapat mengenal pasti mata jahitan tangan (kia, jelujur kasar/halus, sembat, silang pangkah) dan fungsinya serta memilih alatan jahitan yang betul.",
+    "activities": [
+      "Menonton video tutorial jenis-jenis mata jahitan",
+      "Latihan menjahit mata jahitan pada kain 'mock-up'",
+      "Kuiz padanan alatan jahitan dan fungsinya"
+    ],
+    "assessment": [
+      "Hasil kerja mata jahitan pada kain",
+      "Lembaran kerja alatan jahitan"
+    ],
+    "aids": [
+      "Kit jahitan (jarum, benang, kain pelbagai warna)",
+      "Kad imbasan mata jahitan",
+      "Video demonstrasi"
+    ],
+    "kategori": "Teknologi Rumah Tangga: Artikel Jahitan"
+  },
+  {
+    "standards": "RBT.4.3.4 - 4.3.6 Menghasilkan artikel jahitan",
+    "objectives": "Murid dapat melakar, mengira kos, dan menjahit artikel jahitan yang berfungsi.",
+    "activities": [
+      "Melakar reka bentuk artikel (contoh: bekas pensel atau sarung tangan ketuhar)",
+      "Mengira kos bahan secara ringkas",
+      "Menjahit dan menghias artikel jahitan menggunakan hiasan yang sesuai"
+    ],
+    "assessment": [
+      "Produk akhir artikel jahitan",
+      "Borang pengiraan kos"
+    ],
+    "aids": [
+      "Kain felt/kapas",
+      "Bahan hiasan (butang, renda, manik)",
+      "Pola jahitan"
+    ],
+    "kategori": "Teknologi Rumah Tangga: Artikel Jahitan"
+  },
+  {
+    "standards": "RBT.5.1.1 - 5.1.3 Mengenal pasti tenaga boleh baharu",
+    "objectives": "Murid dapat menyatakan definisi dan sumber tenaga boleh baharu seperti suria, angin, air, dan biojisim.",
+    "activities": [
+      "Perbincangan kumpulan: Kepentingan tenaga boleh baharu",
+      "Membina peta pemikiran sumber tenaga",
+      "Eksperimen ringkas: Menggerakkan kipas menggunakan panel solar"
+    ],
+    "assessment": [
+      "Pembentangan kumpulan",
+      "Peta pemikiran (i-Think)"
+    ],
+    "aids": [
+      "Panel solar mini",
+      "Model turbin angin",
+      "Gambar sumber alam"
+    ],
+    "kategori": "Aplikasi Reka Bentuk Teknologi Kejuruteraan"
+  },
+  {
+    "standards": "RBT.5.1.4 - 5.1.8 Membina model produk tenaga boleh baharu",
+    "objectives": "Murid dapat melakar dan membina model produk yang menggunakan tenaga boleh baharu secara kreatif.",
+    "activities": [
+      "Melakar model (contoh: kereta solar atau rumah pintar)",
+      "Membina model menggunakan bahan kitar semula dan komponen elektrik",
+      "Menguji kefungsian model di bawah cahaya matahari/sumber tenaga"
+    ],
+    "assessment": [
+      "Model produk yang berfungsi",
+      "Laporan penilaian model"
+    ],
+    "aids": [
+      "Motor DC, panel solar, wayar",
+      "Bahan kitar semula (kotak, botol)",
+      "Alatan tangan (hot glue gun, gunting)"
+    ],
+    "kategori": "Aplikasi Reka Bentuk Teknologi Kejuruteraan"
+  },
+  {
+    "standards": "RBT.6.3.1 - 6.3.2 Asas Pengaturcaraan",
+    "objectives": "Murid dapat mengenal pasti sistem kawalan, penderia (sensor), dan struktur kawalan dalam pengaturcaraan.",
+    "activities": [
+      "Mengenal komponen mikropengawal (contoh: Micro:bit atau Arduino)",
+      "Simulasi blok arahan (block-based programming) menggunakan perisian",
+      "Latihan logik: 'If-Then-Else' dalam kehidupan seharian"
+    ],
+    "assessment": [
+      "Ujian bertulis komponen penderia",
+      "Latihan amali simulasi kod"
+    ],
+    "aids": [
+      "Komputer/Tablet",
+      "Perisian (MakeCode/mBlock)",
+      "Papan mikropengawal"
+    ],
+    "kategori": "Reka Bentuk Pengaturcaraan"
+  },
+  {
+    "standards": "RBT.6.3.3 - 6.3.4 Membina atur cara dan menguji",
+    "objectives": "Murid dapat membina atur cara untuk menggerakkan peranti dan melakukan penyahpepijatan (debugging).",
+    "activities": [
+      "Membina kod untuk menyalakan LED mengikut penderia cahaya",
+      "Memasukkan kod (download) ke dalam perkakasan sebenar",
+      "Mengenal pasti ralat dalam kod jika peranti tidak berfungsi"
+    ],
+    "assessment": [
+      "Kefungsian projek elektronik",
+      "Senarai semak penyahpepijatan"
+    ],
+    "aids": [
+      "Kabel USB",
+      "LED, pembunyi (buzzer), penderia jarak",
+      "Papan reka"
+    ],
+    "kategori": "Reka Bentuk Pengaturcaraan"
+  }
+]

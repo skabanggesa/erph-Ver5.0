@@ -1,0 +1,71 @@
+[
+  {
+    "topic": "Pengenalan Alat dan Bahan Asas",
+    "skill": "Asas Pertanian dan Pengendalian Peralatan Dapur",
+    "standards": "1.1.1 Mengenal pasti dan menamakan 3 alatan pertanian asas (cth: cangkul kecil, penyiram, sarung tangan).; 1.2.1 Memegang dan menggunakan alatan dapur yang selamat (cth: sudu, pisau plastik, pinggan) dengan bimbingan.; 1.3.1 Menyediakan bahan mentah ringkas (cth: memetik daun, membasuh sayur) dengan pengawasan.; 1.4.1 Mengamalkan kebersihan diri dan persekitaran semasa bekerja (cth: mencuci tangan selepas berkebun).",
+    "objectives": "Murid dapat menunjukkan dan menamakan 3 alatan pertanian yang selamat.; Murid dapat memotong makanan lembut (cth: pisang, roti) menggunakan pisau plastik.; Murid dapat membasuh 2 jenis sayur/buah dengan bersih (bimbingan minimum).; Murid dapat membersihkan kawasan kerja selepas selesai aktiviti.",
+    "activities": [
+      "Aktiviti 'Kenali Alat Saya': Menamakan dan menyimpan alat di tempat yang betul.",
+      "Latihan 'Potong dan Basuh': Memotong buah dan membasuh sayur-sayuran lembut.",
+      "Projek 'Tanam Daun': Menanam benih atau anak pokok di dalam pasu kecil.",
+      "Latih tubi mencuci tangan di dapur/tempat berkebun."
+    ],
+    "assessment": [
+      "Ujian Lisan: Menamakan 3 alatan asas.",
+      "Penilaian Amali: Keupayaan memotong bahan lembut (dinilai keselamatan dan kebersihan).",
+      "Senarai Semak: Amalan kebersihan selepas aktiviti."
+    ],
+    "aids": [
+      "Alatan Berkebun Mini yang selamat.",
+      "Pisau dan Papan Pemotong Plastik.",
+      "Biji Benih dan Tanah."
+    ]
+  },
+  {
+    "topic": "Masakan Ringkas dan Penjagaan Tanaman",
+    "skill": "Masakan Fungsian dan Penjagaan Alam Sekitar",
+    "standards": "2.1.1 Menyediakan satu menu ringkas tanpa api (cth: sandwich, minuman sejuk) secara berurutan.; 2.2.1 Mengenal pasti dan menggunakan 3 bahan masakan asas (cth: gula, garam, minyak) dengan bimbingan.; 2.3.1 Melakukan penjagaan tanaman asas (cth: menyiram, merumput) secara berkala.; 2.4.1 Menyusun atur dan mengemas bahan masakan serta alatan dengan kemas.",
+    "objectives": "Murid dapat menyediakan sandwic 3 langkah (sapu, letak inti, tutup) dengan sendiri.; Murid dapat menyukat 2 bahan (cth: gula dan air) untuk membuat minuman sejuk.; Murid dapat menyiram tanaman di kebun 3 kali seminggu tanpa peringatan.; Murid dapat mengemas kembali semua alatan yang digunakan dalam aktiviti.",
+    "activities": [
+      "Projek 'Chef Kecil': Menyediakan sandwic tuna atau roti telur (tanpa memasak).",
+      "Latihan menyukat bahan kering/cecair menggunakan cawan penyukat.",
+      "Jadual Penjagaan Kebun: Menyiram dan mencabut rumput di kawasan yang ditetapkan.",
+      "Aktiviti Mengemas dan Menyusun kabinet dapur/stor berkebun."
+    ],
+    "assessment": [
+      "Penilaian Amali: Urutan dan kebersihan penyediaan menu ringkas.",
+      "Ujian Amali: Keupayaan menyukat bahan dengan tepat (dinilai ketepatan sukatan).",
+      "Pemerhatian Berstruktur: Konsistensi penjagaan tanaman.",
+      "Senarai Semak: Pengemasan dan penyimpanan alatan."
+    ],
+    "aids": [
+      "Bahan Masakan Sandwic (Roti, Marjerin, Inti).",
+      "Cawan Penyukat (Measuring Cups) dan Jag.",
+      "Peralatan Menyiram."
+    ]
+  },
+  {
+    "topic": "Kemahiran Vokasional Ringkas dan Urus Tadbir Diri",
+    "skill": "Aplikasi Kemahiran Berdikari dan Kewangan Asas",
+    "standards": "3.1.1 Menyediakan satu hidangan ringkas menggunakan haba (cth: merebus telur, membakar roti bakar) dengan pengawasan ketat.; 3.2.1 Mengaplikasikan kemahiran menjahit/mengemas asas (cth: menjahit jahitan jelujur lurus, melipat pakaian).; 3.3.1 Mengenal dan mengira wang syiling untuk membeli satu barang berharga RM1.; 3.4.1 Mengendalikan kitar semula dan pengasingan sampah (kering/basah) dengan betul.",
+    "objectives": "Murid dapat merebus telur dengan selamat mengikut langkah-langkah yang diberi.; Murid dapat melakukan jahitan jelujur lurus sepanjang 5cm.; Murid dapat membeli 1 barang (RM1) dengan membayar wang yang betul.; Murid dapat mengasingkan 4 jenis sampah kering dan basah ke dalam tong yang betul.",
+    "activities": [
+      "Aktiviti 'Masak Bersama': Demonstrasi merebus telur/membuat bubur ringkas.",
+      "Bengkel Jahitan Asas: Menjahit jelujur pada kain perca.",
+      "Simulasi Jualan: Membeli makanan ringan (RM1) di kantin/kedai mini sekolah.",
+      "Projek 'Alam Sekitar Bersih': Melabel dan menggunakan tong kitar semula."
+    ],
+    "assessment": [
+      "Penilaian Amali: Prosedur memasak ringkas (dinilai keselamatan).",
+      "Ujian Amali: Kualiti jahitan jelujur.",
+      "Pemerhatian Berstruktur: Urus niaga wang (keupayaan mengira syiling).",
+      "Senarai Semak: Pengasingan sampah."
+    ],
+    "aids": [
+      "Dapur Elektrik Mudah Alih/Periuk Nasi Mini.",
+      "Jarum Plastik dan Benang Tebal.",
+      "Wang Mainan (Syiling).",
+      "Tong Kitar Semula Berlabel."
+    ]
+  }
+]

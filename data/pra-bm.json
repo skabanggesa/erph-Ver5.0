@@ -1,0 +1,232 @@
+[
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "1 : Mendengar",
+    "standards": "1.1.1 - Mengenal pasti bunyi di persekitaran",
+    "objectives": ["Murid dapat membezakan bunyi alam dan bunyi buatan manusia."],
+    "activities": [
+      "Permainan 'Teka Bunyi': Murid mendengar rakaman bunyi (hujan, lori, kucing) dan meneka sumber bunyi.",
+      "Latihan memejam mata dan menamakan bunyi yang didengari di luar kelas."
+    ],
+    "assessment": ["Pemerhatian ketepatan meneka bunyi.", "Senarai semak pengecaman bunyi."],
+    "aids": ["Rakaman audio", "Pembesar suara", "Kad gambar sumber bunyi"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "1 : Mendengar",
+    "standards": "1.1.2 - Mendengar dan mengecam bunyi suku kata",
+    "objectives": ["Murid dapat mengecam bunyi awal yang sama dalam perkataan (contoh: Ba-bakul, Ba-buku)."],
+    "activities": [
+      "Latihan sebutan 'Lari Berirama': Murid melompat apabila mendengar bunyi suku kata yang bermula dengan huruf yang sama.",
+      "Permainan 'Gema Suara': Murid mengulang bunyi suku kata yang disebut guru."
+    ],
+    "assessment": ["Rekod anekdot pengecaman bunyi.", "Pemerhatian tindak balas lisan."],
+    "aids": ["Kad suku kata", "Wisel"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "1 : Mendengar",
+    "standards": "1.1.3 - Mendengar dan mengecam rima akhir yang sama",
+    "objectives": ["Murid dapat mengenal pasti perkataan yang mempunyai bunyi akhir yang sama (rima)."],
+    "activities": [
+      "Nyanyian pantun dua kerat: Murid melengkapkan rima akhir pantun (contoh: Ikan patin, kain... kantin).",
+      "Permainan 'Rima Berantai' di dalam bulatan."
+    ],
+    "assessment": ["Pemerhatian kebolehan memadankan rima.", "Ujian lisan rima mudah."],
+    "aids": ["Buku pantun kanak-kanak", "Kad rima bergambar"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "1 : Mendengar",
+    "standards": "1.1.4 - Mendengar dan memberi respons terhadap arahan",
+    "objectives": ["Murid dapat melakukan tindakan mengikut arahan lisan yang kompleks (dua atau tiga langkah)."],
+    "activities": [
+      "Aktiviti 'Tolong Cikgu': 'Ambil buku, letak di meja dan duduk'.",
+      "Permainan 'Gergasi Kata': Mengikut arahan guru untuk bergerak ke arah tertentu."
+    ],
+    "assessment": ["Senarai semak kepatuhan arahan.", "Pemerhatian kelancaran gerak kerja."],
+    "aids": ["Objek bilik darjah", "Marker lantai"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "2 : Bertutur",
+    "standards": "2.1.1 - Memberi salam dan menjawab salam",
+    "objectives": ["Murid mengamalkan budaya memberi salam dan ucapan selamat secara sopan."],
+    "activities": [
+      "Simulasi 'Tetamu Datang': Murid berlatih memberi salam kepada guru dan pelawat.",
+      "Nyanyian lagu 'Assalamualaikum'."
+    ],
+    "assessment": ["Pemerhatian adab bertutur.", "Rekod kekerapan amalan lisan."],
+    "aids": ["Boneka tangan", "Video adab"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "2 : Bertutur",
+    "standards": "2.1.2 - Berinteraksi dengan rakan dan orang dewasa",
+    "objectives": ["Murid dapat berbual menggunakan ayat mudah tentang pengalaman harian."],
+    "activities": [
+      "Sesi 'Cerita Hujung Minggu': Murid bercerita tentang aktiviti bersama keluarga di depan kelas.",
+      "Main peranan situasi di kedai atau hospital."
+    ],
+    "assessment": ["Penilaian keyakinan bertutur.", "Senarai semak struktur ayat mudah."],
+    "aids": ["Prop main peranan", "Gambar keluarga"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "2 : Bertutur",
+    "standards": "2.1.3 - Bertanya soalan menggunakan kata tanya",
+    "objectives": ["Murid dapat membina soalan mudah menggunakan 'Apa', 'Siapa', dan 'Mana'."],
+    "activities": [
+      "Permainan 'Kotak Misteri': Murid bertanya soalan untuk meneka benda di dalam kotak.",
+      "Sesi soal jawab selepas mendengar cerita."
+    ],
+    "assessment": ["Rekod lisan penggunaan kata tanya.", "Pemerhatian interaksi dua hala."],
+    "aids": ["Kotak tertutup", "Benda maujud"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "2 : Bertutur",
+    "standards": "2.1.4 - Bercerita tentang bahan yang dibaca atau didengar",
+    "objectives": ["Murid dapat menceritakan semula plot ringkas sebuah cerita."],
+    "activities": [
+      "Aktiviti 'Buku Besar': Murid menceritakan semula gambar yang terdapat dalam buku cerita gergasi.",
+      "Main peranan berdasarkan watak dalam cerita 'Sang Kancil'."
+    ],
+    "assessment": ["Pemerhatian urutan cerita.", "Kekayaan kosa kata yang digunakan."],
+    "aids": ["Buku cerita gergasi", "Topeng watak"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3 : Membaca",
+    "standards": "3.1 - Mengenal dan mengecam huruf abjad",
+    "objectives": ["Murid dapat menamakan huruf vokal dan konsonan dengan betul."],
+    "activities": [
+      "Memancing huruf: Menggunakan pancing magnet untuk mengambil huruf dan menamakannya.",
+      "Membentuk huruf menggunakan tanah liat atau 'sand writing'."
+    ],
+    "assessment": ["Ujian pengecaman huruf rawak.", "Hasil kerja pembentukan huruf."],
+    "aids": ["Pancing magnet", "Huruf plastik", "Dulang pasir"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3.1.1 - Mengenal pasti bentuk huruf abjad",
+    "objectives": ["Murid dapat membezakan bentuk huruf besar dan huruf kecil."],
+    "activities": [
+      "Permainan 'Cari Pasangan': Memadankan kad huruf besar dengan huruf kecil yang betul.",
+      "Latihan mewarna huruf mengikut kod warna."
+    ],
+    "assessment": ["Lembaran kerja padanan huruf.", "Pemerhatian ketepatan visual."],
+    "aids": ["Kad imbasan", "Lembaran kerja"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3.1.2 - Menyebut bunyi huruf (fonik)",
+    "objectives": ["Murid dapat membunyikan huruf vokal (a, e, i, o, u) dengan sebutan yang betul."],
+    "activities": [
+      "Nyanyian 'Lagu Fonik': Membunyikan huruf mengikut melodi (cth: 'a' untuk ayam /a/ /a/ /a/).",
+      "Aktiviti 'Mulut Comel': Memerhati pergerakan mulut guru semasa membunyikan vokal."
+    ],
+    "assessment": ["Ujian lisan bunyi fonik.", "Pemerhatian sebutan."],
+    "aids": ["Audio fonik", "Cermin kecil"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3.1.3 - Memadankan huruf dengan gambar",
+    "objectives": ["Murid dapat mengaitkan huruf awal dengan objek yang bermula dengan huruf tersebut."],
+    "activities": [
+      "Aktiviti 'Pokok Huruf': Menampal gambar buah-buahan pada dahan huruf yang betul (cth: gambar Epal pada huruf E).",
+      "Lotto Gambar: Memadankan kad gambar dengan kad huruf."
+    ],
+    "assessment": ["Ketepatan padanan gambar-huruf.", "Pemerhatian kefahaman kosa kata."],
+    "aids": ["Papan buletin", "Gambar kecil berkait huruf"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3.2 - Membaca suku kata dan perkataan",
+    "objectives": ["Murid dapat membatang suku kata terbuka (KV)."],
+    "activities": [
+      "Aktiviti 'Lampu Isyarat Suku Kata': Membaca suku kata pada kad berwarna merah, kuning, hijau.",
+      "Membina perkataan mudah daripada dua suku kata terbuka (cth: bo-la, su-su)."
+    ],
+    "assessment": ["Ujian batangan suku kata.", "Rekod kelancaran membaca perkataan KV+KV."],
+    "aids": ["Kad suku kata", "Papan magnetik"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3.2.1 - Membaca suku kata terbuka",
+    "objectives": ["Murid dapat membunyikan gabungan konsonan dan vokal (ba, be, bi, bo, bu)."],
+    "activities": [
+      "Roda Suku Kata: Murid memutar roda dan membunyikan suku kata yang ditunjukkan anak panah.",
+      "Permainan 'Bingo Suku Kata'."
+    ],
+    "assessment": ["Pemerhatian ketepatan bunyi.", "Senarai semak penguasaan vokal berganding."],
+    "aids": ["Roda impian suku kata", "Kad Bingo"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "3.2.2 - Membaca perkataan mudah",
+    "objectives": ["Murid dapat membaca perkataan yang terdiri daripada dua suku kata terbuka."],
+    "activities": [
+      "Label Objek: Membaca kad label yang diletakkan pada barang di dalam kelas (cth: meja, buku, raga).",
+      "Membaca 'Buku Mini' yang mengandungi ayat satu baris."
+    ],
+    "assessment": ["Ujian pengecaman perkataan.", "Pemerhatian kefahaman bacaan."],
+    "aids": ["Kad label", "Buku cerita pendek"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "4 : Menulis",
+    "standards": "4.1 - Membangunkan kemahiran pra-menulis",
+    "objectives": ["Murid dapat menunjukkan koordinasi mata dan tangan yang baik."],
+    "activities": [
+      "Melukis di atas talam berisi tepung atau pasir.",
+      "Aktiviti menyambung titik-titik untuk membentuk garisan pelbagai corak."
+    ],
+    "assessment": ["Pemerhatian kawalan tangan.", "Kekemasan hasil sambungan titik."],
+    "aids": ["Talam tepung", "Lembaran kerja titik-titik"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "4.1.1 - Melukis corak menggunakan garisan",
+    "objectives": ["Murid dapat melukis garisan lurus, melengkung, dan beralun."],
+    "activities": [
+      "Aktiviti 'Jalan-jalan Kereta': Menggerakkan pensel mengikut landasan berliku di atas kertas.",
+      "Melukis corak awan, rumput, dan bukit menggunakan krayon."
+    ],
+    "assessment": ["Pemerhatian kelenturan pergelangan tangan.", "Kreativiti corak."],
+    "aids": ["Krayon", "Kertas mahjong"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "4.1.2 - Mengamalkan pegangan pensel yang betul",
+    "objectives": ["Murid dapat memegang pensel menggunakan teknik 'tripod grip' yang betul."],
+    "activities": [
+      "Latihan memegang pensel dengan bantuan klip kertas atau alat bantu pegang.",
+      "Aktiviti mewarna ruang kecil untuk melatih kawalan tekanan pensel."
+    ],
+    "assessment": ["Pemerhatian teknik pegangan.", "Rekod anekdot keselesaan menulis."],
+    "aids": ["Pencil grips", "Pensel jumbo", "Gambar mewarna"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "4.2 - Menulis huruf dan perkataan",
+    "objectives": ["Murid dapat menulis huruf abjad dengan cara yang betul."],
+    "activities": [
+      "Menulis huruf di atas 'whiteboard' kecil mengikut contoh guru.",
+      "Aktiviti 'Rainbow Writing': Menulis satu huruf berkali-kali dengan warna yang berbeza."
+    ],
+    "assessment": ["Kekemasan pembentukan huruf.", "Pemerhatian arah tulisan (kiri ke kanan)."],
+    "aids": ["Papan putih mini", "Pen marker", "Pensel warna"]
+  },
+  {
+    "unit": "Pembelajaran Bahasa dan Literasi (Bahasa Melayu)",
+    "kategori": "4.2.1 - Menulis huruf mengikut cara yang betul",
+    "objectives": ["Murid dapat menulis huruf mengikut urutan strok (garisan) yang tepat."],
+    "activities": [
+      "Latihan menulis dalam buku garis tiga.",
+      "Meniru penulisan nama sendiri dengan bimbingan guru atau kad nama."
+    ],
+    "assessment": ["Pemerhatian urutan strok penulisan.", "Keupayaan menulis nama sendiri."],
+    "aids": ["Buku garis tiga", "Kad nama murid"]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "standards": "RBT.1.1.1 - 1.1.5 Keselamatan Bengkel",
+    "objectives": "Murid dapat menyatakan peraturan keselamatan diri, alatan, bahan, dan bengkel serta mengambil tindakan awal jika berlaku kemalangan.",
+    "activities": [
+      "Lawatan orientasi ke bengkel RBT",
+      "Simulasi cara menyimpan alatan dan bahan dengan betul",
+      "Menghasilkan poster peraturan keselamatan bengkel"
+    ],
+    "assessment": [
+      "Senarai semak amalan keselamatan",
+      "Kuiz peraturan bengkel"
+    ],
+    "aids": [
+      "Peti pertolongan cemas",
+      "Alat pemadam api",
+      "Carta peraturan keselamatan"
+    ],
+    "kategori": "Keselamatan Bengkel"
+  },
+  {
+    "standards": "RBT.2.1.1 - 2.1.3 Pengenalan Reka Bentuk",
+    "objectives": "Murid dapat menerangkan maksud reka bentuk dan kepentingannya serta mengenal pasti laluan kerjaya dalam bidang reka bentuk.",
+    "activities": [
+      "Sumbangsaran definisi reka bentuk berdasarkan produk sedia ada",
+      "Tayangan video kerjaya (Arkitek, Pereka Grafik, Pereka Fesyen)",
+      "Padanan gambar produk dengan kepentingan reka bentuk"
+    ],
+    "assessment": [
+      "Lembaran kerja kepentingan RBT",
+      "Folio kerjaya impian"
+    ],
+    "aids": [
+      "Slaid pembentangan",
+      "Gambar produk inovatif",
+      "Contoh portfolio pereka"
+    ],
+    "kategori": "Pengenalan Reka Bentuk"
+  },
+  {
+    "standards": "RBT.3.1.1 - 3.1.3 Pengenalan Teknologi",
+    "objectives": "Murid dapat menerangkan maksud teknologi, kepentingannya, dan membandingkan teknologi konvensional dengan moden.",
+    "activities": [
+      "Perbandingan gambar alatan lama dan baru (contoh: lesung batu vs pengisar)",
+      "Lakonan ringkas: Kehidupan sebelum dan selepas teknologi",
+      "Membina peta pemikiran 'Kebaikan Teknologi'"
+    ],
+    "assessment": [
+      "Ujian lisan perbandingan alatan",
+      "Peta pemikiran i-Think"
+    ],
+    "aids": [
+      "Alatan konvensional (sebenar)",
+      "Alatan moden (sebenar/gambar)",
+      "Buku teks RBT"
+    ],
+    "kategori": "Pengenalan Teknologi"
+  },
+  {
+    "standards": "RBT.4.1.1 - 4.1.9 Reka Bentuk Pembungkusan",
+    "objectives": "Murid dapat melakar, membina dan menilai reka bentuk pembungkusan produk yang kreatif serta mempunyai maklumat lengkap.",
+    "activities": [
+      "Menganalisis maklumat pada label pembungkusan makanan",
+      "Melakar reka bentuk pembungkusan (bentangan)",
+      "Membina model pembungkusan menggunakan kadbod"
+    ],
+    "assessment": [
+      "Penilaian model pembungkusan (kreativiti & kefungsian)",
+      "Senarai semak maklumat label"
+    ],
+    "aids": [
+      "Contoh kotak pembungkusan komersial",
+      "Kertas lukisan & alatan mewarna",
+      "Kad manila, gam, gunting"
+    ],
+    "kategori": "Reka Bentuk Pembungkusan"
+  },
+  {
+    "standards": "RBT.5.1.1 - 5.1.9 Reka Bentuk Makanan",
+    "objectives": "Murid dapat mengenal pasti jenis makanan, melakar reka bentuk, dan menghasilkan hiasan makanan yang menarik.",
+    "activities": [
+      "Mengenal pasti alatan menghias makanan (pisau ukir, acuan)",
+      "Melakar reka bentuk hiasan makanan (contoh: bento atau sandwich)",
+      "Amali menghias makanan menggunakan buah-buahan atau roti"
+    ],
+    "assessment": [
+      "Hasil hiasan makanan (estetika & kebersihan)",
+      "Lakaran bermaklumat hiasan makanan"
+    ],
+    "aids": [
+      "Bahan makanan (roti, buah, sayur)",
+      "Alatan menghias (acuan, piring)",
+      "Apron & sarung tangan"
+    ],
+    "kategori": "Reka Bentuk Makanan"
+  },
+  {
+    "standards": "RBT.6.1.1 - 6.1.4 Reka Bentuk Pengaturcaraan",
+    "objectives": "Murid dapat mengenal pasti struktur kawalan jujukan dalam pengaturcaraan dan membina algoritma/pseudokod.",
+    "activities": [
+      "Mengenal antara muka perisian (Scratch/Blockly)",
+      "Menulis pseudokod dan carta alir aktiviti harian",
+      "Membina simulasi pergerakan objek (sprite) menggunakan blok arahan"
+    ],
+    "assessment": [
+      "Penghasilan algoritma dan pseudokod yang betul",
+      "Projek simulasi pengaturcaraan ringkas"
+    ],
+    "aids": [
+      "Komputer/Tablet",
+      "Perisian Scratch",
+      "Kad arahan (offline coding)"
+    ],
+    "kategori": "Reka Bentuk Pengaturcaraan"
+  }
+]
