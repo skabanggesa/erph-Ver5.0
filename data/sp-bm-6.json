@@ -16,8 +16,9 @@
       "Petikan motivasi",
       "Carta nilai diri"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Mendengar"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "1.1.2 Mengenal pasti nada suara yang menyampaikan emosi (yakin, sedih, marah)",
@@ -35,8 +36,9 @@
       "Audio pelbagai nada",
       "Kad ekspresi muka"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Mendengar"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.1.1 Menyatakan kelebihan diri sendiri dengan yakin",
@@ -52,8 +54,9 @@
       "Templat pengenalan diri",
       "Cermin (simbolik)"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Bertutur"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "2.1.2 Memberi dan menerima pujian secara sopan",
@@ -71,8 +74,9 @@
       "Kad dialog",
       "Contoh frasa sopan"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Bertutur"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.1.1 Membaca teks motivasi atau biografi ringkas tokoh inspirasi",
@@ -90,8 +94,9 @@
       "Teks biografi ringkas",
       "Gambar tokoh"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Membaca"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "3.1.2 Memahami maksud peribahasa berkaitan harga diri",
@@ -109,8 +114,9 @@
       "Kad peribahasa",
       "Carta maksud"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Membaca"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.1.1 Menulis karangan pendek tentang 'Impian Saya'",
@@ -129,8 +135,9 @@
       "Templat karangan",
       "Contoh karangan baik"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Menulis"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "4.1.2 Menulis surat kepada diri sendiri masa depan",
@@ -148,8 +155,9 @@
       "Templat surat",
       "Sampul hiasan"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Menulis"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.1.1 Melafazkan puisi bertemakan harga diri",
@@ -167,8 +175,9 @@
       "Teks puisi",
       "Audio model"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "5.1.2 Melukis potret diri dan menulis slogan positif",
@@ -186,8 +195,9 @@
       "Kertas lukisan",
       "Pen marker"
     ],
-    "unit": "Unit 1: Sayangi Diri Sendiri",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 1: Saling Menyayangi",
+    "kategori": "Kekeluargaan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.2.1 Mendengar dan memahami perbualan antara kaum",
@@ -205,8 +215,9 @@
       "Rakaman audio pelbagai bahasa",
       "Gambar perayaan bersama"
     ],
-    "unit": "Unit 2: Masyarakat yang Harmoni",
-    "kategori": "Mendengar"
+    "unit": "Unit 10: Langkah Perpaduan",
+    "kategori": "Perpaduan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.2.1 Menyatakan cara menjaga keharmonian masyarakat",
@@ -224,8 +235,9 @@
       "Kad isu sosial",
       "Poster nilai keharmonian"
     ],
-    "unit": "Unit 2: Masyarakat yang Harmoni",
-    "kategori": "Bertutur"
+    "unit": "Unit 10: Langkah Perpaduan",
+    "kategori": "Perpaduan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.2.1 Membaca teks tentang amalan masyarakat pelbagai kaum",
@@ -243,8 +255,9 @@
       "Teks pelbagai budaya",
       "Gambar aktiviti masyarakat"
     ],
-    "unit": "Unit 2: Masyarakat yang Harmoni",
-    "kategori": "Membaca"
+    "unit": "Unit 10: Langkah Perpaduan",
+    "kategori": "Perpaduan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.2.1 Menulis laporan ringkas tentang aktiviti gotong-royong",
@@ -262,8 +275,9 @@
       "Templat laporan",
       "Contoh laporan"
     ],
-    "unit": "Unit 2: Masyarakat yang Harmoni",
-    "kategori": "Menulis"
+    "unit": "Unit 10: Langkah Perpaduan",
+    "kategori": "Perpaduan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.2.1 Menyanyi lagu patriotik atau keharmonian (contoh: 'Malaysia Tercinta')",
@@ -281,8 +295,9 @@
       "Lirik lagu",
       "Audio rasmi"
     ],
-    "unit": "Unit 2: Masyarakat yang Harmoni",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 10: Langkah Perpaduan",
+    "kategori": "Perpaduan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.3.1 Mendengar dan memahami maklumat tentang penemuan sains",
@@ -300,8 +315,9 @@
       "Rakaman audio/video",
       "Gambar penemuan"
     ],
-    "unit": "Unit 3: Dunia Sains dan Teknologi",
-    "kategori": "Mendengar"
+    "unit": "Unit 16: Indahnya Sains",
+    "kategori": "Sains, Teknologi dan Inovasi",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.3.1 Menyampaikan idea inovasi ringkas",
@@ -319,8 +335,9 @@
       "Kad idea",
       "Model ringkas (kotak, kadbod)"
     ],
-    "unit": "Unit 3: Dunia Sains dan Teknologi",
-    "kategori": "Bertutur"
+    "unit": "Unit 18: Inovasi Kreatif",
+    "kategori": "Sains, Teknologi dan Inovasi",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.3.1 Membaca teks maklumat tentang teknologi hijau",
@@ -338,8 +355,9 @@
       "Teks sains",
       "Infografik teknologi hijau"
     ],
-    "unit": "Unit 3: Dunia Sains dan Teknologi",
-    "kategori": "Membaca"
+    "unit": "Unit 17: Teknologi Membantu Kita",
+    "kategori": "Sains, Teknologi dan Inovasi",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.3.1 Menulis penerangan ringkas tentang alat teknologi",
@@ -357,8 +375,9 @@
       "Gambar alat teknologi",
       "Templat penerangan"
     ],
-    "unit": "Unit 3: Dunia Sains dan Teknologi",
-    "kategori": "Menulis"
+    "unit": "Unit 17: Teknologi Membantu Kita",
+    "kategori": "Sains, Teknologi dan Inovasi",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.3.1 Mencipta iklan kreatif tentang penggunaan teknologi bijak",
@@ -376,8 +395,9 @@
       "Alat peraga",
       "Kad slogan"
     ],
-    "unit": "Unit 3: Dunia Sains dan Teknologi",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 17: Teknologi Membantu Kita",
+    "kategori": "Sains, Teknologi dan Inovasi",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.4.1 Mendengar dan memahami cerita rakyat tempatan",
@@ -395,8 +415,9 @@
       "Rakaman cerita",
       "Gambar watak legenda"
     ],
-    "unit": "Unit 4: Kebudayaan Kebangsaan",
-    "kategori": "Mendengar"
+    "unit": "Unit 13: Warisan Budaya Kekal Terpelihara",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.4.1 Menyampaikan maklumat tentang warisan budaya (tarian, muzik, pakaian)",
@@ -414,8 +435,9 @@
       "Gambar warisan",
       "Kad maklumat budaya"
     ],
-    "unit": "Unit 4: Kebudayaan Kebangsaan",
-    "kategori": "Bertutur"
+    "unit": "Unit 13: Warisan Budaya Kekal Terpelihara",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.4.1 Membaca teks deskriptif tentang adat resam Melayu",
@@ -433,8 +455,9 @@
       "Teks adat",
       "Gambar urutan perkahwinan"
     ],
-    "unit": "Unit 4: Kebudayaan Kebangsaan",
-    "kategori": "Membaca"
+    "unit": "Unit 13: Warisan Budaya Kekal Terpelihara",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.4.1 Menulis laporan ringkas tentang lawatan ke muzium atau kampung budaya",
@@ -452,8 +475,9 @@
       "Templat laporan",
       "Gambar muzium"
     ],
-    "unit": "Unit 4: Kebudayaan Kebangsaan",
-    "kategori": "Menulis"
+    "unit": "Unit 13: Warisan Budaya Kekal Terpelihara",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.4.1 Menyanyi lagu warisan (contoh: 'Rasa Sayang', 'Chan Mali Chan')",
@@ -471,8 +495,9 @@
       "Lirik lagu warisan",
       "Audio asli"
     ],
-    "unit": "Unit 4: Kebudayaan Kebangsaan",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 15: Estetika Cita Rasa Malaysia",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.5.1 Mendengar dan memahami laporan alam sekitar",
@@ -490,8 +515,9 @@
       "Rakaman berita",
       "Gambar isu alam sekitar"
     ],
-    "unit": "Unit 5: Alam Sekitar Lestari",
-    "kategori": "Mendengar"
+    "unit": "Unit 9: Waspada Fenomena Alam",
+    "kategori": "Keselamatan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.5.1 Menyampaikan hujah untuk menjaga alam sekitar",
@@ -509,8 +535,9 @@
       "Kad isu alam sekitar",
       "Contoh hujah"
     ],
-    "unit": "Unit 5: Alam Sekitar Lestari",
-    "kategori": "Bertutur"
+    "unit": "Unit 9: Waspada Fenomena Alam",
+    "kategori": "Keselamatan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.5.1 Membaca artikel tentang kebakaran hutan atau tsunami",
@@ -528,8 +555,9 @@
       "Artikel ringkas",
       "Infografik bencana"
     ],
-    "unit": "Unit 5: Alam Sekitar Lestari",
-    "kategori": "Membaca"
+    "unit": "Unit 9: Waspada Fenomena Alam",
+    "kategori": "Keselamatan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.5.1 Menulis esei pendek bertajuk 'Langkah Menjaga Bumi'",
@@ -547,8 +575,9 @@
       "Templat esei",
       "Contoh esei baik"
     ],
-    "unit": "Unit 5: Alam Sekitar Lestari",
-    "kategori": "Menulis"
+    "unit": "Unit 9: Waspada Fenomena Alam",
+    "kategori": "Keselamatan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.5.1 Mencipta puisi alam sekitar",
@@ -566,8 +595,9 @@
       "Contoh puisi alam",
       "Kad metafora"
     ],
-    "unit": "Unit 5: Alam Sekitar Lestari",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 9: Waspada Fenomena Alam",
+    "kategori": "Keselamatan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.6.1 Mendengar dan memahami perbualan tentang simpanan wang",
@@ -585,8 +615,9 @@
       "Rakaman audio",
       "Gambar wang dan tabung"
     ],
-    "unit": "Unit 6: Ekonomi dan Kewangan Asas",
-    "kategori": "Mendengar"
+    "unit": "Unit 24: Bijak Mengurus Wang",
+    "kategori": "Ekonomi, Keusahawanan dan Pengurusan Kewangan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.6.1 Menyatakan cara menjimatkan wang",
@@ -604,8 +635,9 @@
       "Kad situasi kewangan",
       "Contoh bajet"
     ],
-    "unit": "Unit 6: Ekonomi dan Kewangan Asas",
-    "kategori": "Bertutur"
+    "unit": "Unit 24: Bijak Mengurus Wang",
+    "kategori": "Ekonomi, Keusahawanan dan Pengurusan Kewangan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.6.1 Membaca iklan jualan dan memahami diskaun",
@@ -623,8 +655,9 @@
       "Iklan akhbar",
       "Kad harga"
     ],
-    "unit": "Unit 6: Ekonomi dan Kewangan Asas",
-    "kategori": "Membaca"
+    "unit": "Unit 22: Sumber Ekonomi",
+    "kategori": "Ekonomi, Keusahawanan dan Pengurusan Kewangan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.6.1 Menulis bajet peribadi ringkas",
@@ -642,8 +675,9 @@
       "Templat bajet",
       "Contoh bajet pelajar"
     ],
-    "unit": "Unit 6: Ekonomi dan Kewangan Asas",
-    "kategori": "Menulis"
+    "unit": "Unit 24: Bijak Mengurus Wang",
+    "kategori": "Ekonomi, Keusahawanan dan Pengurusan Kewangan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.6.1 Melakonkan situasi 'Pembeli dan Penjual'",
@@ -662,8 +696,9 @@
       "Wang mainan",
       "Barang mainan"
     ],
-    "unit": "Unit 6: Ekonomi dan Kewangan Asas",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 23: Usahawan Berjaya",
+    "kategori": "Ekonomi, Keusahawanan dan Pengurusan Kewangan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.7.1 Mendengar dan memahami arahan keselamatan (kecemasan, bencana)",
@@ -681,8 +716,9 @@
       "Rakaman arahan",
       "Poster nombor kecemasan"
     ],
-    "unit": "Unit 7: Keselamatan Diri dan Awam",
-    "kategori": "Mendengar"
+    "unit": "Unit 7: Sentiasa Peka",
+    "kategori": "Keselamatan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.7.1 Menyampaikan maklumat keselamatan kepada rakan",
@@ -700,8 +736,9 @@
       "Kad isu keselamatan",
       "Contoh slogan"
     ],
-    "unit": "Unit 7: Keselamatan Diri dan Awam",
-    "kategori": "Bertutur"
+    "unit": "Unit 7: Sentiasa Peka",
+    "kategori": "Keselamatan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.7.1 Membaca papan tanda keselamatan",
@@ -719,8 +756,9 @@
       "Gambar papan tanda",
       "Kad simbol"
     ],
-    "unit": "Unit 7: Keselamatan Diri dan Awam",
-    "kategori": "Membaca"
+    "unit": "Unit 7: Sentiasa Peka",
+    "kategori": "Keselamatan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.7.1 Menulis nota amaran keselamatan",
@@ -738,8 +776,9 @@
       "Templat nota",
       "Pen marker"
     ],
-    "unit": "Unit 7: Keselamatan Diri dan Awam",
-    "kategori": "Menulis"
+    "unit": "Unit 8: Sentiasa Berhati-hati",
+    "kategori": "Keselamatan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.7.1 Mencipta slogan keselamatan",
@@ -757,8 +796,9 @@
       "Contoh slogan",
       "Kertas poster"
     ],
-    "unit": "Unit 7: Keselamatan Diri dan Awam",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 7: Sentiasa Peka",
+    "kategori": "Keselamatan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.8.1 Mendengar dan memahami mesej dalam perbualan formal dan tidak formal",
@@ -776,8 +816,9 @@
       "Rakaman perbualan",
       "Carta ciri bahasa"
     ],
-    "unit": "Unit 8: Komunikasi Efektif",
-    "kategori": "Mendengar"
+    "unit": "Unit 25: Amanah Sejagat",
+    "kategori": "Integriti",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.8.1 Menyampaikan maklumat secara jelas dan teratur",
@@ -795,8 +836,9 @@
       "Templat pembentangan",
       "Alat bantu visual"
     ],
-    "unit": "Unit 8: Komunikasi Efektif",
-    "kategori": "Bertutur"
+    "unit": "Unit 25: Amanah Sejagat",
+    "kategori": "Integriti",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.8.1 Membaca e-mel formal dan tidak formal",
@@ -814,8 +856,9 @@
       "Contoh e-mel",
       "Kad frasa"
     ],
-    "unit": "Unit 8: Komunikasi Efektif",
-    "kategori": "Membaca"
+    "unit": "Unit 25: Amanah Sejagat",
+    "kategori": "Integriti",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.8.1 Menulis e-mel formal kepada guru atau pengetua",
@@ -833,8 +876,9 @@
       "Templat e-mel",
       "Contoh e-mel baik"
     ],
-    "unit": "Unit 8: Komunikasi Efektif",
-    "kategori": "Menulis"
+    "unit": "Unit 25: Amanah Sejagat",
+    "kategori": "Integriti",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.8.1 Menyampaikan ucapan perpisahan atau perhimpunan",
@@ -852,8 +896,9 @@
       "Contoh ucapan",
       "Skrip panduan"
     ],
-    "unit": "Unit 8: Komunikasi Efektif",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 25: Amanah Sejagat",
+    "kategori": "Integriti",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.9.1 Mendengar dan memahami ulasan sukan ringkas",
@@ -871,8 +916,9 @@
       "Rakaman ulasan",
       "Gambar sukan"
     ],
-    "unit": "Unit 9: Sukan dan Rekreasi",
-    "kategori": "Mendengar"
+    "unit": "Unit 6: Bersih Selalu, Sihat Sentiasa",
+    "kategori": "Kesihatan dan Kebersihan",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.9.1 Menyatakan faedah menyertai sukan",
@@ -890,8 +936,9 @@
       "Kad faedah sukan",
       "Gambar aktiviti sukan"
     ],
-    "unit": "Unit 9: Sukan dan Rekreasi",
-    "kategori": "Bertutur"
+    "unit": "Unit 4: Kesihatan Tanggungjawab Kita",
+    "kategori": "Kesihatan dan Kebersihan",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.9.1 Membaca jadual pertandingan sukan",
@@ -909,8 +956,9 @@
       "Jadual sukan sekolah",
       "Kad maklumat"
     ],
-    "unit": "Unit 9: Sukan dan Rekreasi",
-    "kategori": "Membaca"
+    "unit": "Unit 6: Bersih Selalu, Sihat Sentiasa",
+    "kategori": "Kesihatan dan Kebersihan",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.9.1 Menulis laporan ringkas pertandingan sukan",
@@ -928,8 +976,9 @@
       "Templat laporan sukan",
       "Contoh laporan"
     ],
-    "unit": "Unit 9: Sukan dan Rekreasi",
-    "kategori": "Menulis"
+    "unit": "Unit 6: Bersih Selalu, Sihat Sentiasa",
+    "kategori": "Kesihatan dan Kebersihan",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.9.1 Mencipta sorakan atau yel-yel pasukan",
@@ -947,8 +996,9 @@
       "Contoh yel-yel",
       "Alat muzik ritma"
     ],
-    "unit": "Unit 9: Sukan dan Rekreasi",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 6: Bersih Selalu, Sihat Sentiasa",
+    "kategori": "Kesihatan dan Kebersihan",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "1.10.1 Mendengar dan memahami cerita sastera dunia (contoh: Aesop, Andersen)",
@@ -966,8 +1016,9 @@
       "Rakaman cerita",
       "Gambar watak antarabangsa"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Mendengar"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "1.10.2 Mengenal pasti gaya bahasa dalam sastera (kiasan, personifikasi)",
@@ -985,8 +1036,9 @@
       "Kad gaya bahasa",
       "Teks sastera contoh"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Mendengar"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Mendengar"
   },
   {
     "standards": "2.10.1 Menceritakan semula cerita sastera dengan gaya sendiri",
@@ -1004,8 +1056,9 @@
       "Alat peraga",
       "Skrip panduan"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Bertutur"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "2.10.2 Menyatakan pengajaran sastera dan kaitannya dengan kehidupan",
@@ -1023,8 +1076,9 @@
       "Kad pengajaran",
       "Contoh kaitan hidup"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Bertutur"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Bertutur"
   },
   {
     "standards": "3.10.1 Membaca puisi, sajak, dan cerita pendek sastera kanak-kanak",
@@ -1042,8 +1096,9 @@
       "Antologi sastera Tahun 6",
       "Audio model"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Membaca"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "3.10.2 Memahami tema universal dalam sastera (keadilan, kasih sayang, keberanian)",
@@ -1061,8 +1116,9 @@
       "Carta tema universal",
       "Teks sastera"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Membaca"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Membaca"
   },
   {
     "standards": "4.10.1 Menulis ulasan sastera ringkas",
@@ -1080,8 +1136,9 @@
       "Templat ulasan",
       "Contoh ulasan"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Menulis"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "4.10.2 Menulis puisi/sajak berdasarkan tema sastera",
@@ -1099,8 +1156,9 @@
       "Contoh puisi",
       "Kad rima"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Menulis"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Menulis"
   },
   {
     "standards": "5.10.1 Melakonkan adegan sastera tempatan atau dunia",
@@ -1119,8 +1177,9 @@
       "Kostum ringkas",
       "Skrip"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Seni Bahasa"
   },
   {
     "standards": "5.10.2 Mencipta buku sastera mini",
@@ -1138,7 +1197,8 @@
       "Kertas A4",
       "Pen, stapler"
     ],
-    "unit": "Unit 10: Sastera Dunia dan Tempatan",
-    "kategori": "Seni Bahasa"
+    "unit": "Unit 14: Persada Seni Lambang Jati Diri",
+    "kategori": "Kebudayaan, Kesenian dan Estetika",
+    "kemahiran": "Seni Bahasa"
   }
 ]
