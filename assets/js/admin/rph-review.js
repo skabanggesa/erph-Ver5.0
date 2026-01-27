@@ -109,9 +109,10 @@ export async function loadRphReview() {
 
     try {
         // 2. LOGIK PENAPISAN (FILTERING)
-        let allowedTeacherIds = null; 
+        let allowedTeacherIds = null; // Null bermaksud 'Semua' (Superadmin)
 
         if (userRole === 'admin') {
+            // Jika Admin Biasa, tarik data assignments dia
             const adminDoc = await getDoc(doc(db, 'users', currentUser.uid));
             if (adminDoc.exists()) {
                 allowedTeacherIds = adminDoc.data().assignedTeachers || [];
@@ -130,6 +131,8 @@ export async function loadRphReview() {
         }
 
         // 4. QUERY SEMUA RPH (Status Submitted)
+        // Nota: Kita query semua 'submitted', kemudian filter dalam JS 
+        // sebab Firestore query 'IN' array terhad kepada 10 item.
         const q = query(
             collection(db, 'rph'), 
             where('status', '==', 'submitted'),
@@ -148,17 +151,22 @@ export async function loadRphReview() {
         snap.forEach(docSnap => {
             const data = docSnap.data();
             
+            // --- LOGIK TAPISAN UTAMA DI SINI ---
+            // Jika Super Admin: allowedTeacherIds adalah null (Lulus semua)
+            // Jika Admin: Check kalau UID guru ada dalam array allowedTeacherIds
             if (allowedTeacherIds !== null) {
                 if (!allowedTeacherIds.includes(data.uid)) {
-                    return; 
+                    return; // Skip RPH ini sebab bukan bawah jagaan admin ini
                 }
             }
+            // -----------------------------------
 
             countVisible++;
             const rph = data.dataRPH || {};
             const dateStr = data.tarikh.toDate().toLocaleDateString('ms-MY', { day:'numeric', month:'short', year:'numeric'});
             const guruName = teachersMap[data.uid] || "Guru Tidak Dikenali";
             
+            // Encode data untuk modal
             const safeData = encodeURIComponent(JSON.stringify({ id: docSnap.id, ...data, guruName }));
 
             html += `
@@ -305,13 +313,7 @@ window.processBulkApprove = async () => {
         const batch = writeBatch(db);
         const timestamp = Timestamp.now();
         checkboxes.forEach(cb => {
-            // PENGEMASKINIAN: Tambah digital signature 'pkkk.png'
-            batch.update(doc(db, 'rph', cb.value), { 
-                status: 'sah', 
-                reviewedAt: timestamp, 
-                reviewedBy: 'Admin (Pukal)',
-                signature: 'pkkk.png' 
-            });
+            batch.update(doc(db, 'rph', cb.value), { status: 'sah', reviewedAt: timestamp, reviewedBy: 'Admin (Pukal)' });
         });
         await batch.commit();
         alert("✅ Berjaya disahkan!");
@@ -327,19 +329,11 @@ window.processRph = async (id, newStatus, fromModal = false) => {
     if(!confirm(`Adakah anda pasti mahu ${actionName} RPH ini?`)) return;
 
     try {
-        // PENGEMASKINIAN: Bina objek data secara dinamik
-        const updateData = {
+        await updateDoc(doc(db, 'rph', id), {
             status: newStatus,
             reviewedAt: Timestamp.now(),
             reviewedBy: 'Admin'
-        };
-
-        // Jika status adalah 'sah', masukkan digital signature
-        if (newStatus === 'sah') {
-            updateData.signature = 'pkkk.png';
-        }
-
-        await updateDoc(doc(db, 'rph', id), updateData);
+        });
         
         if (fromModal) window.closeRphModal();
         
@@ -361,5 +355,5 @@ window.processRph = async (id, newStatus, fromModal = false) => {
     } catch(e) {
         alert("Ralat: " + e.message);
     }
+
 };
-}
