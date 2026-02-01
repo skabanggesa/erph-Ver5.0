@@ -1,0 +1,4197 @@
+[
+  {
+    "minggu": "1",
+    "tarikh": "12.01.2026 - 16.01.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.2",
+            "desc": "2.2.2 القدرة على تحديد المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Kad Gambar",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Kerjasama",
+          "Kebersihan",
+          "Toleransi",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "2",
+    "tarikh": "19.01.2026 - 23.01.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.6",
+            "desc": "1.3.6 القدرة على إنتاج الملصقات وسجل القصاصات للكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.1",
+            "desc": "1.5.1 القدرة على الاستماع الى الأرقام والأعداد وترديدها ونطقها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Kad Gambar",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Buku Teks",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kasih Sayang",
+          "Toleransi",
+          "Kebersihan",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "3",
+    "tarikh": "26.01.2026 - 30.01.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.2",
+            "desc": "1.2.2 القدرة على تحديد المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.2",
+            "desc": "2.2.2 القدرة على تحديد المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.4",
+            "desc": "2.1.4 القدرة على تكوين الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Kejujuran",
+          "Kerjasama",
+          "Toleransi",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "4",
+    "tarikh": "02.02.2026 - 06.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.1",
+            "desc": "2.2.1 القدرة على محاكاة قراءة المقطع المسموع.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.1",
+            "desc": "2.5.1 القدرة على محاكات قراءة الأرقام والأعداد وترديدها وقراءتها.",
+            "domain": "2"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Pembesar Suara",
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Video Youtube",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Projektor LCD"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Keberanian",
+          "Kasih Sayang",
+          "Kerajinan",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "5",
+    "tarikh": "09.02.2026 - 13.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.1",
+            "desc": "1.3.1 القدرة على محاكاة الكلمات وترديدها ونطقها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.4",
+            "desc": "1.4.4 القدرة على تمييز التراكيب المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.2",
+            "desc": "1.5.2 القدرة على ترتيب الأرقام والأعداد المسموعة شفيها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul."
+        ],
+        "bbm": [
+          "Pembesar Suara",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Toleransi",
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Kejujuran",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "6",
+    "tarikh": "16.02.2026 - 20.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.2.4",
+            "desc": "1.2.4 القدرة على تكوين المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.5",
+            "desc": "1.3.5 القدرة على تكوين الكلمات من حروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.3",
+            "desc": "1.3.3 القدرة على تحديد الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.1",
+            "desc": "2.5.1 القدرة على محاكات قراءة الأرقام والأعداد وترديدها وقراءتها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.3",
+            "desc": "2.5.3 القدرة على تمييز الأرقام والأعداد المقروءة قراءة صحيحة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Video Youtube",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Pembesar Suara",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerajinan",
+          "Kerjasama",
+          "Tanggungjawab",
+          "Keberanian",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "7",
+    "tarikh": "23.02.2026 - 27.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.2",
+            "desc": "2.2.2 القدرة على تحديد المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.5",
+            "desc": "2.3.5 القدرة على تكوين الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.1",
+            "desc": "2.2.1 القدرة على محاكاة قراءة المقطع المسموع.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Keberanian",
+          "Hormat-menghormati",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "8",
+    "tarikh": "02.03.2026 - 06.03.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.4",
+            "desc": "1.3.4 القدرة على تمييز الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.2",
+            "desc": "1.5.2 القدرة على ترتيب الأرقام والأعداد المسموعة شفيها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kesyukuruan",
+          "Keberanian",
+          "Kebersihan",
+          "Hormat-menghormati",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "9",
+    "tarikh": "09.03.2026 - 13.03.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.1",
+            "desc": "1.3.1 القدرة على محاكاة الكلمات وترديدها ونطقها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.3.2",
+            "desc": "2.3.2 القدرة على تهجئة الكلمات.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.5",
+            "desc": "2.4.5 القدرة على تصنيف التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerajinan",
+          "Kerjasama",
+          "Hormat-menghormati",
+          "Keberanian",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "10",
+    "tarikh": "16.03.2026 - 20.03.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.4.2",
+            "desc": "2.4.2 القدرة على تحديد التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.1",
+            "desc": "2.4.1 القدرة على محاكاة قراءة التراكيب وترديدها وقراءتها قراءة صحيحة من حيث النبر والتنغيم.",
+            "domain": "2"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kejujuran",
+          "Kesyukuruan",
+          "Kerajinan",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 11,
+    "tarikh": "21.03.2026 - 29.03.2026",
+    "catatan": "CUTI PENGGAL 1",
+    "rph": []
+  },
+  {
+    "minggu": "11",
+    "tarikh": "30.03.2026 - 03.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.6",
+            "desc": "1.3.6 القدرة على إنتاج الملصقات وسجل القصاصات للكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Kad Gambar",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Imbas",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Buku Teks"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Keberanian",
+          "Kerajinan",
+          "Kebersihan",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "12",
+    "tarikh": "06.04.2026 - 10.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.2.3",
+            "desc": "1.2.3 القدرة على تمييز المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.4",
+            "desc": "1.3.4 القدرة على تمييز الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.3.6",
+            "desc": "2.3.6 القدرة على إنتاج الملصقات وسجل",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.3",
+            "desc": "2.5.3 القدرة على تمييز الأرقام والأعداد المقروءة قراءة صحيحة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Lembaran Kerja",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kebersihan",
+          "Keberanian",
+          "Kerajinan",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "13",
+    "tarikh": "13.04.2026 - 17.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.3.3",
+            "desc": "2.3.3 القدرة على تحديد الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.5",
+            "desc": "2.4.5 القدرة على تصنيف التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.1",
+            "desc": "2.4.1 القدرة على محاكاة قراءة التراكيب وترديدها وقراءتها قراءة صحيحة من حيث النبر والتنغيم.",
+            "domain": "2"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Kad Imbas",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Tanggungjawab",
+          "Kasih Sayang",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "14",
+    "tarikh": "20.04.2026 - 24.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.5.4",
+            "desc": "1.5.4 القدرة على تسمع الأرقام والأعداد المسموعة المحفوظة وتنفيذ عملية العد: 11 - 20",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Hormat-menghormati",
+          "Kebersihan",
+          "Tanggungjawab",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "15",
+    "tarikh": "27.04.2026 - 01.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.6",
+            "desc": "1.3.6 القدرة على إنتاج الملصقات وسجل القصاصات للكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.4",
+            "desc": "1.3.4 القدرة على تمييز الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.4.4",
+            "desc": "2.4.4 القدرة على تمثيل التراكيب المقروءة ارتجاليا.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.2",
+            "desc": "2.2.2 القدرة على تحديد المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.2",
+            "desc": "2.3.2 القدرة على تهجئة الكلمات.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Pembesar Suara",
+          "Video Youtube",
+          "Buku Teks",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Toleransi",
+          "Keberanian",
+          "Hormat-menghormati",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "16",
+    "tarikh": "04.05.2026 - 08.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.1",
+            "desc": "2.5.1 القدرة على محاكات قراءة الأرقام والأعداد وترديدها وقراءتها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.1",
+            "desc": "2.3.1 القدرة على محاكاة قراءة الكلمات المسموع",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Projektor LCD"
+        ],
+        "nilai": [
+          "Kebersihan",
+          "Toleransi",
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "17",
+    "tarikh": "11.05.2026 - 15.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.4",
+            "desc": "1.5.4 القدرة على تسمع الأرقام والأعداد المسموعة المحفوظة وتنفيذ عملية العد: 11 - 20",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Video Youtube",
+          "Papan Putih Mini",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Tanggungjawab",
+          "Toleransi",
+          "Kesyukuruan",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "18",
+    "tarikh": "18.05.2026 - 22.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.1",
+            "desc": "1.4.1 القدرة على الاستماع الى التراكيب ومحاكاتها وترديدها ونطقها نطقا صحيحا من حيث النبر والتنغيم.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.4",
+            "desc": "2.5.4 القدرة على قراءة الأرقام والأعداد وتنفيذ عملية العد : 11-20",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.4",
+            "desc": "2.1.4 القدرة على تكوين الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Toleransi",
+          "Keberanian",
+          "Kejujuran",
+          "Hormat-menghormati",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 20,
+    "tarikh": "23.05.2026 - 07.06.2026",
+    "catatan": "CUTI PERTENGAHAN TAHUN",
+    "rph": []
+  },
+  {
+    "minggu": "19",
+    "tarikh": "08.06.2026 - 12.06.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.3.2",
+            "desc": "2.3.2 القدرة على تهجئة الكلمات.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.4",
+            "desc": "2.5.4 القدرة على قراءة الأرقام والأعداد وتنفيذ عملية العد : 11-20",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Projektor LCD",
+          "Kad Gambar",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Hormat-menghormati",
+          "Keberanian",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "20",
+    "tarikh": "15.06.2026 - 19.06.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.6",
+            "desc": "1.3.6 القدرة على إنتاج الملصقات وسجل القصاصات للكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.3",
+            "desc": "1.2.3 القدرة على تمييز المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Video Youtube",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Papan Putih Mini",
+          "Buku Teks"
+        ],
+        "nilai": [
+          "Kebersihan",
+          "Kerjasama",
+          "Toleransi",
+          "Keberanian",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "21",
+    "tarikh": "22.06.2026 - 26.06.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.4",
+            "desc": "1.3.4 القدرة على تمييز الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.3",
+            "desc": "1.2.3 القدرة على تمييز المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.5",
+            "desc": "1.3.5 القدرة على تكوين الكلمات من حروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.2",
+            "desc": "2.4.2 القدرة على تحديد التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.1",
+            "desc": "2.2.1 القدرة على محاكاة قراءة المقطع المسموع.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Gambar",
+          "Kad Imbas",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Kebersihan",
+          "Kesyukuruan",
+          "Toleransi",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "22",
+    "tarikh": "29.06.2026 - 03.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.4",
+            "desc": "2.3.4 القدرة على تمييز الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.5",
+            "desc": "2.3.5 القدرة على تكوين الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kebersihan",
+          "Kerajinan",
+          "Toleransi",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "23",
+    "tarikh": "06.07.2026 - 10.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.5.2",
+            "desc": "1.5.2 القدرة على ترتيب الأرقام والأعداد المسموعة شفيها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.5",
+            "desc": "1.4.5 القدرة على تمثيل التراكيب المسموعة ارتجاليا.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.1",
+            "desc": "1.5.1 القدرة على الاستماع الى الأرقام والأعداد وترديدها ونطقها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Kad Gambar",
+          "Buku Teks",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Pembesar Suara",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Projektor LCD"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Kejujuran",
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "24",
+    "tarikh": "13.07.2026 - 17.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.2.2",
+            "desc": "1.2.2 القدرة على تحديد المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.4",
+            "desc": "1.2.4 القدرة على تكوين المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.3",
+            "desc": "1.4.3 القدرة على تحديد التراكيب المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.6",
+            "desc": "2.3.6 القدرة على إنتاج الملصقات وسجل",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.3",
+            "desc": "2.5.3 القدرة على تمييز الأرقام والأعداد المقروءة قراءة صحيحة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Kad Gambar",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kebersihan",
+          "Keberanian",
+          "Kejujuran",
+          "Kasih Sayang",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "25",
+    "tarikh": "20.07.2026 - 24.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.4.1",
+            "desc": "2.4.1 القدرة على محاكاة قراءة التراكيب وترديدها وقراءتها قراءة صحيحة من حيث النبر والتنغيم.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Video Youtube",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Tanggungjawab",
+          "Kerjasama",
+          "Kerajinan",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "26",
+    "tarikh": "27.07.2026 - 31.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.5",
+            "desc": "1.3.5 القدرة على تكوين الكلمات من حروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.3",
+            "desc": "1.2.3 القدرة على تمييز المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.3",
+            "desc": "1.3.3 القدرة على تحديد الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Kerajinan",
+          "Kebersihan",
+          "Toleransi",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "27",
+    "tarikh": "03.08.2026 - 07.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.6",
+            "desc": "1.3.6 القدرة على إنتاج الملصقات وسجل القصاصات للكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.3",
+            "desc": "1.4.3 القدرة على تحديد التراكيب المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.1",
+            "desc": "1.2.1 القدرة على محاكاة المقطع المسموع وترديده ونطقه.",
+            "domain": "1"
+          },
+          {
+            "code": "2.4.3",
+            "desc": "2.4.3 القدرة على تمييز التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.5",
+            "desc": "2.3.5 القدرة على تكوين الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Toleransi",
+          "Kerajinan",
+          "Hormat-menghormati",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "28",
+    "tarikh": "10.08.2026 - 14.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.3.4",
+            "desc": "2.3.4 القدرة على تمييز الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.4",
+            "desc": "2.5.4 القدرة على قراءة الأرقام والأعداد وتنفيذ عملية العد : 11-20",
+            "domain": "2"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kerajinan",
+          "Kesyukuruan",
+          "Kasih Sayang",
+          "Keberanian",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "29",
+    "tarikh": "17.08.2026 - 21.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.2.1",
+            "desc": "1.2.1 القدرة على محاكاة المقطع المسموع وترديده ونطقه.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Pembesar Suara",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Video Youtube",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Tanggungjawab",
+          "Hormat-menghormati",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "30",
+    "tarikh": "24.08.2026 - 28.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.3",
+            "desc": "1.3.3 القدرة على تحديد الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.3",
+            "desc": "1.5.3 القدرة على تمييز الأرقام والأعداد المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.4",
+            "desc": "2.5.4 القدرة على قراءة الأرقام والأعداد وتنفيذ عملية العد : 11-20",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kesyukuruan",
+          "Kejujuran",
+          "Toleransi",
+          "Kebersihan",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 33,
+    "tarikh": "29.08.2026 - 06.09.2026",
+    "catatan": "CUTI PENGGAL 2",
+    "rph": []
+  },
+  {
+    "minggu": "31",
+    "tarikh": "07.09.2026 - 11.09.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.2",
+            "desc": "2.2.2 القدرة على تحديد المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.2",
+            "desc": "2.4.2 القدرة على تحديد التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Kad Imbas",
+          "Buku Teks",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Pembesar Suara",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Kesyukuruan",
+          "Keberanian",
+          "Toleransi",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "32",
+    "tarikh": "14.09.2026 - 18.09.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.4",
+            "desc": "1.3.4 القدرة على تمييز الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Buku Teks",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Papan Putih Mini",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Kerjasama",
+          "Kesyukuruan",
+          "Toleransi",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "33",
+    "tarikh": "21.09.2026 - 25.09.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.2",
+            "desc": "1.3.2 القدرة على حفظ الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.4",
+            "desc": "1.2.4 القدرة على تكوين المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.5",
+            "desc": "1.3.5 القدرة على تكوين الكلمات من حروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.2",
+            "desc": "2.2.2 القدرة على تحديد المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.4",
+            "desc": "2.3.4 القدرة على تمييز الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Buku Teks",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kerajinan",
+          "Kebersihan",
+          "Tanggungjawab",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "34",
+    "tarikh": "28.09.2026 - 02.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.3.3",
+            "desc": "2.3.3 القدرة على تحديد الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.3",
+            "desc": "2.2.3 القدرة على تمييز المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.1",
+            "desc": "2.5.1 القدرة على محاكات قراءة الأرقام والأعداد وترديدها وقراءتها.",
+            "domain": "2"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Kad Gambar",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Tanggungjawab",
+          "Keberanian",
+          "Kejujuran",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "35",
+    "tarikh": "05.10.2026 - 09.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.3.1",
+            "desc": "1.3.1 القدرة على محاكاة الكلمات وترديدها ونطقها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.3",
+            "desc": "1.2.3 القدرة على تمييز المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.5.2",
+            "desc": "1.5.2 القدرة على ترتيب الأرقام والأعداد المسموعة شفيها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Kad Gambar",
+          "Video Youtube",
+          "Buku Teks",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Kebersihan",
+          "Tanggungjawab",
+          "Kerjasama",
+          "Kesyukuruan",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "36",
+    "tarikh": "12.10.2026 - 16.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.6",
+            "desc": "1.3.6 القدرة على إنتاج الملصقات وسجل القصاصات للكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.4",
+            "desc": "1.4.4 القدرة على تمييز التراكيب المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.4",
+            "desc": "2.4.4 القدرة على تمثيل التراكيب المقروءة ارتجاليا.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.4",
+            "desc": "2.3.4 القدرة على تمييز الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Video Youtube",
+          "Kad Gambar",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Projektor LCD"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kejujuran",
+          "Keberanian",
+          "Kebersihan",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "37",
+    "tarikh": "19.10.2026 - 23.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.3",
+            "desc": "2.5.3 القدرة على تمييز الأرقام والأعداد المقروءة قراءة صحيحة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.5",
+            "desc": "2.3.5 القدرة على تكوين الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.2",
+            "desc": "2.4.2 القدرة على تحديد التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Tanggungjawab",
+          "Hormat-menghormati",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "38",
+    "tarikh": "26.10.2026 - 30.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.2.4",
+            "desc": "1.2.4 القدرة على تكوين المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerajinan",
+          "Kesyukuruan",
+          "Kebersihan",
+          "Keberanian",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "39",
+    "tarikh": "02.11.2026 - 06.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.2.1",
+            "desc": "1.2.1 القدرة على محاكاة المقطع المسموع وترديده ونطقه.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.4",
+            "desc": "1.1.4 القدرة على تكوين الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.4",
+            "desc": "2.1.4 القدرة على تكوين الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.2",
+            "desc": "2.5.2 القدرة على ترتيب الأرقام والأعداد المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Hormat-menghormati",
+          "Kasih Sayang",
+          "Tanggungjawab",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "40",
+    "tarikh": "09.11.2026 - 13.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.5.1",
+            "desc": "2.5.1 القدرة على محاكات قراءة الأرقام والأعداد وترديدها وقراءتها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.4",
+            "desc": "2.4.4 القدرة على تمثيل التراكيب المقروءة ارتجاليا.",
+            "domain": "2"
+          },
+          {
+            "code": "2.5.3",
+            "desc": "2.5.3 القدرة على تمييز الأرقام والأعداد المقروءة قراءة صحيحة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Kad Gambar",
+          "Video Youtube",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Hormat-menghormati",
+          "Kesyukuruan",
+          "Toleransi",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "41",
+    "tarikh": "16.11.2026 - 20.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة القراءة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.5.2",
+            "desc": "1.5.2 القدرة على ترتيب الأرقام والأعداد المسموعة شفيها.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.1",
+            "desc": "2.1.1 القدرة على محاكاة قراءة الحروف المركز المسموعة وترديدها.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.5.1",
+            "desc": "3.5.1 القدرة على نسخ الأرقام والأعداد (11-20).",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة القراءة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة القراءة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة القراءة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة القراءة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة القراءة'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة القراءة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة القراءة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة القراءة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة القراءة'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة القراءة' dan bersoal jawab.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة القراءة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة القراءة' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة القراءة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة القراءة'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة القراءة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Imbas",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Toleransi",
+          "Hormat-menghormati",
+          "Kesyukuruan",
+          "Kerajinan",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "42",
+    "tarikh": "23.11.2026 - 27.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "أحافظ على الأدوات الدراسية",
+        "tajuk": "مهارة الكتابة",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.2.3",
+            "desc": "1.2.3 القدرة على تمييز المقطع المسموع.",
+            "domain": "1"
+          },
+          {
+            "code": "1.3.4",
+            "desc": "1.3.4 القدرة على تمييز الكلمات المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.4.2",
+            "desc": "1.4.2 القدرة على حفظ التراكيب المسموعة وتسميعها.",
+            "domain": "1"
+          },
+          {
+            "code": "2.1.2",
+            "desc": "2.1.2 القدرة على تحديد الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.3.3",
+            "desc": "2.3.3 القدرة على تحديد الكلمات المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.3.1",
+            "desc": "3.3.1 القدرة على نسخ الكلمات.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الكتابة' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الكتابة' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الكتابة' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الكتابة' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الكتابة'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الكتابة'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الكتابة' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الكتابة' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الكتابة'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الكتابة'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الكتابة'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الكتابة'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الكتابة'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الكتابة'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الكتابة'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Kad Gambar",
+          "Pembesar Suara",
+          "Kad Imbas",
+          "Lembaran Kerja",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Keberanian",
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "43",
+    "tarikh": "30.11.2026 - 04.12.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "اللغة العربية",
+        "tema": "هيا نتعارف",
+        "tajuk": "مهارة الاستماع والكلام",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "1.1.1",
+            "desc": "1.1.1 القدرة على محاكاة أصوات الحروف المسموعة وترديدها ونطقها",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.2",
+            "desc": "1.1.2 القدرة على تحديد أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "1.1.3",
+            "desc": "1.1.3 القدرة على تمييز أصوات الحروف المسموعة.",
+            "domain": "1"
+          },
+          {
+            "code": "2.2.4",
+            "desc": "2.2.4 القدرة على تكوين المقطع المقروء.",
+            "domain": "2"
+          },
+          {
+            "code": "2.4.2",
+            "desc": "2.4.2 القدرة على تحديد التراكيب المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "2.1.3",
+            "desc": "2.1.3 القدرة على تمييز الحروف المركز المقروءة.",
+            "domain": "2"
+          },
+          {
+            "code": "3.2.1",
+            "desc": "3.2.1 القدرة على نسخ المقاطع في الكلمات.",
+            "domain": "3"
+          },
+          {
+            "code": "3.1.1",
+            "desc": "3.1.1 القدرة على نسخ الحروف الهجائية متصلا ومنفصلا.",
+            "domain": "3"
+          },
+          {
+            "code": "3.4.1",
+            "desc": "3.4.1 القدرة على نسخ التراكيب.",
+            "domain": "3"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang 'مهارة الاستماع والكلام' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan 'مهارة الاستماع والكلام' dengan yakin.",
+          "Murid dapat membaca petikan teks 'مهارة الاستماع والكلام' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan 'مهارة الاستماع والكلام' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk 'مهارة الاستماع والكلام'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata 'مهارة الاستماع والكلام'.",
+          "Murid mendengar penerangan guru tentang tajuk 'مهارة الاستماع والكلام' dan bersoal jawab.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membaca petikan teks berkaitan 'مهارة الاستماع والكلام' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan 'مهارة الاستماع والكلام'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan 'مهارة الاستماع والكلام'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi 'مهارة الاستماع والكلام'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting 'مهارة الاستماع والكلام'.",
+          "Murid menulis karangan pendek atau perenggan mengenai 'مهارة الاستماع والكلام'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan 'مهارة الاستماع والكلام'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Imbas",
+          "Video Youtube",
+          "Projektor LCD",
+          "Kad Gambar",
+          "Pembesar Suara",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Kerjasama",
+          "Toleransi",
+          "Kesyukuruan",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 47,
+    "tarikh": "05.12.2026 - 31.12.2026",
+    "catatan": "CUTI AKHIR TAHUN",
+    "rph": []
+  }
+]

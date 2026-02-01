@@ -1,0 +1,3552 @@
+[
+  {
+    "minggu": "1",
+    "tarikh": "12.01.2026 - 16.01.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.5",
+            "desc": "6.5.5 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.4",
+            "desc": "6.5.4 Melakar reka bentuk produk yang mempunyai elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.9",
+            "desc": "6.5.9 Memindahkan atur cara yang telah dihasilkan pada perkakasan dan menguji kefungsiannya.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Video Youtube",
+          "Buku Teks",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kebersihan",
+          "Kesyukuruan",
+          "Kerjasama",
+          "Kejujuran",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "2",
+    "tarikh": "19.01.2026 - 23.01.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Kesyukuruan",
+          "Kasih Sayang",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "3",
+    "tarikh": "26.01.2026 - 30.01.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Kad Gambar",
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kesyukuruan",
+          "Kerajinan",
+          "Hormat-menghormati",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "4",
+    "tarikh": "02.02.2026 - 06.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.5",
+            "desc": "6.5.5 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.6",
+            "desc": "6.5.6 Menghasilkan carta alir sebuah robot yang akan dibina",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Papan Putih Mini",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Toleransi",
+          "Kasih Sayang",
+          "Kebersihan",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "5",
+    "tarikh": "09.02.2026 - 13.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Toleransi",
+          "Kerjasama",
+          "Kesyukuruan",
+          "Kerajinan",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "6",
+    "tarikh": "16.02.2026 - 20.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Projektor LCD",
+          "Kad Gambar",
+          "Kad Imbas",
+          "Video Youtube",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Kesyukuruan",
+          "Kejujuran",
+          "Hormat-menghormati",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "7",
+    "tarikh": "23.02.2026 - 27.02.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.4",
+            "desc": "8.1.4 Menilai dan membuat penambahbaikan pada lakaran yang dipilih.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.6",
+            "desc": "8.1.6 Membina produk berfungsi berdasarkan lakaran yang dibuat.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Lembaran Kerja",
+          "Buku Aktiviti",
+          "Projektor LCD",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kesyukuruan",
+          "Tanggungjawab",
+          "Kerjasama",
+          "Kebersihan",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "8",
+    "tarikh": "02.03.2026 - 06.03.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Pembesar Suara",
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Projektor LCD"
+        ],
+        "nilai": [
+          "Kesyukuruan",
+          "Kerajinan",
+          "Hormat-menghormati",
+          "Kebersihan",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "9",
+    "tarikh": "09.03.2026 - 13.03.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Tanggungjawab",
+          "Toleransi",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "10",
+    "tarikh": "16.03.2026 - 20.03.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerajinan",
+          "Kasih Sayang",
+          "Kejujuran",
+          "Keberanian",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 11,
+    "tarikh": "21.03.2026 - 29.03.2026",
+    "catatan": "CUTI PENGGAL 1",
+    "rph": []
+  },
+  {
+    "minggu": "11",
+    "tarikh": "30.03.2026 - 03.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul."
+        ],
+        "bbm": [
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Keberanian",
+          "Kesyukuruan",
+          "Kasih Sayang",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "12",
+    "tarikh": "06.04.2026 - 10.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Buku Teks"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Kesyukuruan",
+          "Hormat-menghormati",
+          "Toleransi",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "13",
+    "tarikh": "13.04.2026 - 17.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.9",
+            "desc": "6.5.9 Memindahkan atur cara yang telah dihasilkan pada perkakasan dan menguji kefungsiannya.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.6",
+            "desc": "8.1.6 Membina produk berfungsi berdasarkan lakaran yang dibuat.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Buku Teks",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Kad Gambar",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kerjasama",
+          "Kejujuran",
+          "Hormat-menghormati",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "14",
+    "tarikh": "20.04.2026 - 24.04.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Buku Teks",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kasih Sayang",
+          "Keberanian",
+          "Kebersihan",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "15",
+    "tarikh": "27.04.2026 - 01.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Pembesar Suara",
+          "Video Youtube",
+          "Kad Gambar",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Buku Teks"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Kesyukuruan",
+          "Kejujuran",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "16",
+    "tarikh": "04.05.2026 - 08.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.5",
+            "desc": "6.5.5 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.7",
+            "desc": "6.5.7 Menghasilkan atur cara yang dikehendaki berpandukan carta alir yang dibuat.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Toleransi",
+          "Kebersihan",
+          "Kerjasama",
+          "Kerajinan",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "17",
+    "tarikh": "11.05.2026 - 15.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Lembaran Kerja",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Kesyukuruan",
+          "Keberanian",
+          "Kejujuran",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "18",
+    "tarikh": "18.05.2026 - 22.05.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Kad Imbas",
+          "Projektor LCD",
+          "Video Youtube",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Hormat-menghormati",
+          "Toleransi",
+          "Kerajinan",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 20,
+    "tarikh": "23.05.2026 - 07.06.2026",
+    "catatan": "CUTI PERTENGAHAN TAHUN",
+    "rph": []
+  },
+  {
+    "minggu": "19",
+    "tarikh": "08.06.2026 - 12.06.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.5",
+            "desc": "8.1.5 Menyediakan senarai peralatan, bahan, anggaran kos dan jadual kerja.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.6",
+            "desc": "8.1.6 Membina produk berfungsi berdasarkan lakaran yang dibuat.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Buku Aktiviti",
+          "Video Youtube",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kesyukuruan",
+          "Kasih Sayang",
+          "Keberanian",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "20",
+    "tarikh": "15.06.2026 - 19.06.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Kad Imbas",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Buku Teks"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Keberanian",
+          "Toleransi",
+          "Tanggungjawab",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "21",
+    "tarikh": "22.06.2026 - 26.06.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Kad Gambar",
+          "Video Youtube",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Keberanian",
+          "Kasih Sayang",
+          "Hormat-menghormati",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "22",
+    "tarikh": "29.06.2026 - 03.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.4",
+            "desc": "6.5.4 Melakar reka bentuk produk yang mempunyai elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.6",
+            "desc": "6.5.6 Menghasilkan carta alir sebuah robot yang akan dibina",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Kasih Sayang",
+          "Kesyukuruan",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "23",
+    "tarikh": "06.07.2026 - 10.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Video Youtube",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Buku Teks",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kerjasama",
+          "Kebersihan",
+          "Kasih Sayang",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "24",
+    "tarikh": "13.07.2026 - 17.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Gambar",
+          "Pembesar Suara",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Tanggungjawab",
+          "Hormat-menghormati",
+          "Kasih Sayang",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "25",
+    "tarikh": "20.07.2026 - 24.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.9",
+            "desc": "6.5.9 Memindahkan atur cara yang telah dihasilkan pada perkakasan dan menguji kefungsiannya.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.8",
+            "desc": "6.5.8 Membina reka bentuk produk dan penyambungan perkakasan berdasarkan lakaran yang dibuat menggunakan peralatan yang sesuai",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.5",
+            "desc": "8.1.5 Menyediakan senarai peralatan, bahan, anggaran kos dan jadual kerja.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Kad Gambar",
+          "Buku Teks",
+          "Video Youtube",
+          "Kad Imbas",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Buku Aktiviti"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Hormat-menghormati",
+          "Tanggungjawab",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "26",
+    "tarikh": "27.07.2026 - 31.07.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kesyukuruan",
+          "Keberanian",
+          "Kerjasama",
+          "Toleransi",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "27",
+    "tarikh": "03.08.2026 - 07.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Video Youtube",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Kebersihan",
+          "Toleransi",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "28",
+    "tarikh": "10.08.2026 - 14.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.5",
+            "desc": "8.1.5 Menyediakan senarai peralatan, bahan, anggaran kos dan jadual kerja.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.7",
+            "desc": "6.5.7 Menghasilkan atur cara yang dikehendaki berpandukan carta alir yang dibuat.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.6",
+            "desc": "6.5.6 Menghasilkan carta alir sebuah robot yang akan dibina",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Projektor LCD",
+          "Video Youtube",
+          "Papan Putih Mini",
+          "Kad Gambar",
+          "Pembesar Suara",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kerajinan",
+          "Keberanian",
+          "Toleransi",
+          "Kerjasama",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "29",
+    "tarikh": "17.08.2026 - 21.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Kad Gambar",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kesyukuruan",
+          "Kerajinan",
+          "Kasih Sayang",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "30",
+    "tarikh": "24.08.2026 - 28.08.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Video Youtube",
+          "Projektor LCD",
+          "Buku Teks"
+        ],
+        "nilai": [
+          "Kesyukuruan",
+          "Keberanian",
+          "Kejujuran",
+          "Kebersihan",
+          "Hormat-menghormati"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 33,
+    "tarikh": "29.08.2026 - 06.09.2026",
+    "catatan": "CUTI PENGGAL 2",
+    "rph": []
+  },
+  {
+    "minggu": "31",
+    "tarikh": "07.09.2026 - 11.09.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.8",
+            "desc": "6.5.8 Membina reka bentuk produk dan penyambungan perkakasan berdasarkan lakaran yang dibuat menggunakan peralatan yang sesuai",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Keberanian",
+          "Kasih Sayang",
+          "Toleransi",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "32",
+    "tarikh": "14.09.2026 - 18.09.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Video Youtube",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kerajinan",
+          "Kesyukuruan",
+          "Toleransi",
+          "Tanggungjawab"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "33",
+    "tarikh": "21.09.2026 - 25.09.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Kad Gambar",
+          "Video Youtube"
+        ],
+        "nilai": [
+          "Kasih Sayang",
+          "Tanggungjawab",
+          "Keberanian",
+          "Kerjasama",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "34",
+    "tarikh": "28.09.2026 - 02.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.9",
+            "desc": "6.5.9 Memindahkan atur cara yang telah dihasilkan pada perkakasan dan menguji kefungsiannya.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Kad Gambar",
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Buku Teks",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Tanggungjawab",
+          "Hormat-menghormati",
+          "Kebersihan",
+          "Kerjasama"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "35",
+    "tarikh": "05.10.2026 - 09.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Pembesar Suara",
+          "Projektor LCD",
+          "Buku Teks",
+          "Kad Gambar",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Video Youtube",
+          "Kad Imbas"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kasih Sayang",
+          "Kerajinan",
+          "Keberanian",
+          "Kebersihan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "36",
+    "tarikh": "12.10.2026 - 16.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Lembaran Kerja",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Kad Imbas",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Keberanian",
+          "Kerajinan",
+          "Tanggungjawab",
+          "Kesyukuruan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "37",
+    "tarikh": "19.10.2026 - 23.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.8",
+            "desc": "6.5.8 Membina reka bentuk produk dan penyambungan perkakasan berdasarkan lakaran yang dibuat menggunakan peralatan yang sesuai",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.7",
+            "desc": "8.1.7 Membuat dokumentasi mudah proses penghasilan produk dan pembentangan secara kreatif menggunakan pelbagai media.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Buku Teks",
+          "Papan Putih Mini",
+          "Video Youtube",
+          "Buku Aktiviti",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Projektor LCD",
+          "Kad Imbas",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Toleransi",
+          "Kasih Sayang",
+          "Kejujuran",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "38",
+    "tarikh": "26.10.2026 - 30.10.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.5",
+            "desc": "5.2.5 Membuat produk berdasarkan lakaran denganmenggunakan bahan dan peralatan yang sesuai.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Papan Putih Mini",
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Kad Imbas",
+          "Video Youtube",
+          "Lembaran Kerja",
+          "Kad Gambar",
+          "Pembesar Suara"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kebersihan",
+          "Hormat-menghormati",
+          "Kesyukuruan",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "39",
+    "tarikh": "02.11.2026 - 06.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Projektor LCD",
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Papan Putih Mini"
+        ],
+        "nilai": [
+          "Keberanian",
+          "Kerjasama",
+          "Toleransi",
+          "Kerajinan",
+          "Kasih Sayang"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "40",
+    "tarikh": "09.11.2026 - 13.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.4",
+            "desc": "6.5.4 Melakar reka bentuk produk yang mempunyai elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Kad Imbas",
+          "Lembaran Kerja",
+          "Papan Putih Mini",
+          "Buku Aktiviti",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Kad Gambar",
+          "Video Youtube",
+          "Projektor LCD"
+        ],
+        "nilai": [
+          "Kerjasama",
+          "Kerajinan",
+          "Hormat-menghormati",
+          "Keberanian",
+          "Toleransi"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "41",
+    "tarikh": "16.11.2026 - 20.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "6.0 REKA BENTUK PENGATURCARAAN",
+        "tajuk": "6.5 Pengenalan Asas Sistem Robotik",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.1",
+            "desc": "6.5.1 Menyatakan elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.2",
+            "desc": "6.5.2 Menghuraikan elemen sistemrobotik yang terdapat pada robot.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.3",
+            "desc": "6.5.3 Menjelaskan pemasangan perkakasan pada reka bentuk sebuah robot.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '6.5 Pengenalan Asas Sistem Robotik' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan yakin.",
+          "Murid dapat membaca petikan teks '6.5 Pengenalan Asas Sistem Robotik' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '6.5 Pengenalan Asas Sistem Robotik' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "aktiviti": [
+          "Murid mendengar penerangan guru tentang tajuk '6.5 Pengenalan Asas Sistem Robotik' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '6.5 Pengenalan Asas Sistem Robotik' secara mekanis dengan sebutan betul.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '6.5 Pengenalan Asas Sistem Robotik'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '6.5 Pengenalan Asas Sistem Robotik'."
+        ],
+        "bbm": [
+          "Projektor LCD",
+          "Buku Aktiviti",
+          "Papan Putih Mini",
+          "Lembaran Kerja",
+          "Buku Teks",
+          "Kad Imbas",
+          "Video Youtube",
+          "Pembesar Suara",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Tanggungjawab",
+          "Keberanian",
+          "Kesyukuruan",
+          "Hormat-menghormati",
+          "Kerajinan"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "42",
+    "tarikh": "23.11.2026 - 27.11.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "8.0 PEMBANGUNAN PRODUK",
+        "tajuk": "8.1 Penghasilan Produk",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "8.1.1",
+            "desc": "8.1.1 Menyatakan produk yang hendak dibina berdasarkan situasi.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.2",
+            "desc": "8.1.2 Menghuraikan gabungan asas teknologi yang sesuaidigunakan dengan reka bentuk produk yang akan dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "8.1.3",
+            "desc": "8.1.3 Melakar reka bentuk produkyang hendak dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.6",
+            "desc": "5.2.6 Membentangkan produk yangdihasilkan.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.4",
+            "desc": "5.2.4 Menilai lakaran yang dipilih untuk membuat penambahbaikan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '8.1 Penghasilan Produk' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '8.1 Penghasilan Produk' dengan yakin.",
+          "Murid dapat membaca petikan teks '8.1 Penghasilan Produk' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '8.1 Penghasilan Produk' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '8.1 Penghasilan Produk'."
+        ],
+        "aktiviti": [
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '8.1 Penghasilan Produk'.",
+          "Murid membaca petikan teks berkaitan '8.1 Penghasilan Produk' secara mekanis dengan sebutan betul.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '8.1 Penghasilan Produk'.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '8.1 Penghasilan Produk'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '8.1 Penghasilan Produk'.",
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '8.1 Penghasilan Produk'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '8.1 Penghasilan Produk'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '8.1 Penghasilan Produk'.",
+          "Murid mendengar penerangan guru tentang tajuk '8.1 Penghasilan Produk' dan bersoal jawab."
+        ],
+        "bbm": [
+          "Buku Aktiviti",
+          "Kad Imbas",
+          "Kad Gambar",
+          "Buku Teks",
+          "Pembesar Suara",
+          "Video Youtube",
+          "Projektor LCD",
+          "Papan Putih Mini",
+          "Lembaran Kerja"
+        ],
+        "nilai": [
+          "Kejujuran",
+          "Kasih Sayang",
+          "Toleransi",
+          "Tanggungjawab",
+          "Keberanian"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": "43",
+    "tarikh": "30.11.2026 - 04.12.2026",
+    "catatan": "",
+    "rph": [
+      {
+        "subjek": "RBT",
+        "tema": "5.0 APLIKASI REKA BENTUK TEKNOLOGI KEJURUTERAAN",
+        "tajuk": "5.2 Reka Bentuk Produk Elektromekanikal",
+        "langMode": "BM",
+        "sp_list": [
+          {
+            "code": "6.5.4",
+            "desc": "6.5.4 Melakar reka bentuk produk yang mempunyai elemen sistem robotik.",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.8",
+            "desc": "6.5.8 Membina reka bentuk produk dan penyambungan perkakasan berdasarkan lakaran yang dibuat menggunakan peralatan yang sesuai",
+            "domain": "1"
+          },
+          {
+            "code": "6.5.10",
+            "desc": "6.5.10 Membuat rumusan dan membentangkan produk yangtelah dibina.",
+            "domain": "1"
+          },
+          {
+            "code": "5.2.1",
+            "desc": "5.2.1 Menyatakan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.2",
+            "desc": "5.2.2 Menerangkan elemen elektromekanikal.",
+            "domain": "5"
+          },
+          {
+            "code": "5.2.3",
+            "desc": "5.2.3 Melakar reka bentuk produk eletromekanikal yang akan dihasilkan.",
+            "domain": "5"
+          }
+        ],
+        "objektif": [
+          "Murid dapat mendengar dan mengecam maklumat tentang '5.2 Reka Bentuk Produk Elektromekanikal' dengan betul.",
+          "Murid dapat bertutur dan menyampaikan idea berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan yakin.",
+          "Murid dapat membaca petikan teks '5.2 Reka Bentuk Produk Elektromekanikal' dengan lancar.",
+          "Murid dapat menulis ayat berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' dengan tatabahasa yang betul.",
+          "Murid dapat memahami konsep utama dalam tajuk '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "aktiviti": [
+          "Murid melaksanakan aktiviti 'Jalan Galeri' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid mendengar penerangan guru tentang tajuk '5.2 Reka Bentuk Produk Elektromekanikal' dan bersoal jawab.",
+          "Murid membaca petikan teks berkaitan '5.2 Reka Bentuk Produk Elektromekanikal' secara mekanis dengan sebutan betul.",
+          "Murid melakukan aktiviti simulasi atau lakonan spontan situasi '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid berbincang dalam kumpulan untuk menyenaraikan isi penting '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid melengkapkan lembaran kerja pengukuhan berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menyertai permainan bahasa untuk menguji kosa kata '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menjalankan aktiviti 'Kerusi Panas' berkaitan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid membina ayat tunggal dan majmuk berdasarkan perkataan '5.2 Reka Bentuk Produk Elektromekanikal'.",
+          "Murid menulis karangan pendek atau perenggan mengenai '5.2 Reka Bentuk Produk Elektromekanikal'."
+        ],
+        "bbm": [
+          "Video Youtube",
+          "Buku Teks",
+          "Lembaran Kerja",
+          "Buku Aktiviti",
+          "Projektor LCD",
+          "Pembesar Suara",
+          "Kad Imbas",
+          "Papan Putih Mini",
+          "Kad Gambar"
+        ],
+        "nilai": [
+          "Hormat-menghormati",
+          "Kesyukuruan",
+          "Kerjasama",
+          "Tanggungjawab",
+          "Kejujuran"
+        ]
+      }
+    ]
+  },
+  {
+    "minggu": 47,
+    "tarikh": "05.12.2026 - 31.12.2026",
+    "catatan": "CUTI AKHIR TAHUN",
+    "rph": []
+  }
+]
