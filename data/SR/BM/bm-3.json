@@ -1,0 +1,2668 @@
+[
+  {
+    "minggu": "MINGGU 1",
+    "tarikh": "12.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 1 Kekeluargaan",
+      "kemahiran": "1.0 KEMAHIRAN MENDENGAR DAN BERTUTUR",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid mendengar rakaman audio berkaitan petikan dan diminta untuk mengenal pasti isi-isi penting yang terdapat dalam rakaman tersebut."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kertas Sebak & Pen Marker",
+        "Pembesar Suara (Audio)"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kejujuran & Amanah",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 2",
+    "tarikh": "19.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 1 Kekeluargaan",
+      "kemahiran": "2.0 KEMAHIRAN MEMBACA",
+      "sk": [
+        "2.1 Asas membaca dan memahami.",
+        "2.2 Membaca, memahami, dan menaakul bahan grafik dan bukan grafik.",
+        "2.3 Membaca dan mengapresiasi karya sastera dan bukan sastera."
+      ],
+      "sp": [
+        "2.1.1 Membaca dengan sebutan yang betul dan intonasi yang sesuai; (i) ayat tunggal dan ayat majmuk",
+        "2.1.1 Membaca dengan sebutan yang betul dan intonasi yang sesuai; (ii) perenggan",
+        "2.1.1 Membaca dengan sebutan yang betul dan intonasi yang sesuai; (iii) petikan",
+        "2.1.2 Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; (i) pelbagai jenis ayat",
+        "2.1.2 Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; (ii) perenggan",
+        "2.1.2 Membaca dengan sebutan yang betul, intonasi yang sesuai, dan memahami; (iii) petikan",
+        "2.2.1 Membaca, memahami, dan mengecam; (i) maksud kosa kata",
+        "2.2.1 Membaca, memahami, dan mengecam; (ii) idea utama dan idea sampingan",
+        "2.2.1 Membaca, memahami, dan mengecam; (iii) idea keseluruhan",
+        "2.3.1 Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; (i) label",
+        "2.3.1 Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; (ii) manual",
+        "2.3.1 Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; (iii) cerita",
+        "2.3.1 Membaca, mengenal pasti, dan menerangkan kandungan teks daripada bahan bukan sastera dan bahan sastera; (iv) pantun",
+        "2.3.2 Membaca dan mempersembahkan karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; (i) label",
+        "2.3.2 Membaca dan mempersembahkan karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; (ii) manual",
+        "2.3.2 Membaca dan mempersembahkan karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; (iii) cerita",
+        "2.3.2 Membaca dan mempersembahkan karya bukan sastera dan karya sastera dengan sebutan yang betul dan intonasi yang sesuai; (iv) pantun"
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Membaca dengan sebutan yang betul dan intonasi yang sesuai; (i) ayat tunggal dan ayat majmuk dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Membaca dengan sebutan yang betul dan intonasi yang sesuai; (i) ayat tunggal dan ayat majmuk dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja Berwarna",
+        "Kertas Sebak & Pen Marker",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Keberanian Mencuba",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 3",
+    "tarikh": "26.01.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 2 Keluarga Cergas",
+      "kemahiran": "3.0 KEMAHIRAN MENULIS",
+      "sk": [
+        "3.1 Asas menulis.",
+        "3.2 Menulis perkataan, frasa, dan ayat yang bermakna.",
+        "3.3 Menghasilkan penulisan."
+      ],
+      "sp": [
+        "3.1.1 Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; (i) huruf",
+        "3.1.1 Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; (ii) perkataan",
+        "3.1.1 Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; (iii) frasa",
+        "3.2.1 Membina dan menulis; (i) ayat",
+        "3.2.1 Membina dan menulis; (ii) perenggan",
+        "3.2.2 Menghasilkan jawapan pemahaman berdasarkan soalan; (i) bertumpu",
+        "3.2.2 Menghasilkan jawapan pemahaman berdasarkan soalan; (ii) bercapah",
+        "3.2.3 Membanding bezakan dan mencatat maklumat tentang sesuatu perkara.",
+        "3.2.4 Menulis sesuatu yang diimlakkan; (i) ayat",
+        "3.3.1 Menghasilkan kerangka dan penulisan karangan naratif, dan bukan naratif (i) berpandu",
+        "3.3.1 Menghasilkan kerangka dan penulisan karangan naratif, dan bukan naratif (ii) separa berpandu",
+        "3.3.2 Mengedit dan memurnikan hasil penulisan daripada aspek; (i) ejaan , tanda baca dan penggunaan imbuhan",
+        "3.3.2 Mengedit dan memurnikan hasil penulisan daripada aspek; (ii) penggunaan kata",
+        "3.3.2 Mengedit dan memurnikan hasil penulisan daripada aspek; (iii) struktur ayat"
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; (i) huruf dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Menulis secara mekanis menggunakan tulisan berangkai dalam bentuk; (i) huruf dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menghasilkan peta pokok atau peta buih secara individu untuk merumuskan apa yang telah dipelajari hari ini."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kertas Sebak & Pen Marker",
+        "Pembesar Suara (Audio)",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 4",
+    "tarikh": "02.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 2 Keluarga Cergas",
+      "kemahiran": "4.0 ASPEK SENI BAHASA",
+      "sk": [
+        "4.1 Mengaplikasikan unsur keindahan dan kesantunan bahasa dalam bahan sastera.",
+        "4.2 Menghayati keindahan dan kesantunan bahasa dalam bahan sastera.",
+        "4.3 Menghasilkan bahan sastera dengan menyerapkan keindahan dan kesantunan bahasa serta mempersembahkannya secara kreatif."
+      ],
+      "sp": [
+        "4.1.1 Bercerita dengan menggunakan gaya bahasa yang indah dan santun; (i) simpulan bahasa",
+        "4.1.1 Bercerita dengan menggunakan gaya bahasa yang indah dan santun; (ii) bandingan semacam",
+        "4.1.1 Bercerita dengan menggunakan gaya bahasa yang indah dan santun; (iii) perumpamaan",
+        "4.2.1 Melafazkan pantun yang mengandungi bahasa yang indah dan menjelaskan maksud.",
+        "4.2.2 Menyanyikan lagu mengikut irama lagu kanak-kanak, dan lagu rakyat serta menjelaskan maksud bahasa yang indah dalam lirik lagu.",
+        "4.2.3 Melagukan syair dan mendeklamasikan sajak serta memahami maksud; (i) syair",
+        "4.2.3 Melagukan syair dan mendeklamasikan sajak serta memahami maksud; (ii) sajak",
+        "4.3.1 Mencipta bahan sastera secara berpandu dan mempersembahkan secara kreatif; (i) pantun empat kerat",
+        "4.3.1 Mencipta bahan sastera secara berpandu dan mempersembahkan secara kreatif; (ii) sajak",
+        "4.3.2 Mengubah suai cerita yang mempunyai unsur pengajaran secara berpandu dan mempersembahkan cerita secara kreatif.",
+        "4.3.3 Mengubah suai seni kata lagu secara berpandu dan mempersembahkan lagu secara kreatif."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Bercerita dengan menggunakan gaya bahasa yang indah dan santun; (i) simpulan bahasa dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Bercerita dengan menggunakan gaya bahasa yang indah dan santun; (i) simpulan bahasa dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan kelas dengan sesi soal jawab pantas (Pop Quiz) untuk menguji pengetahuan lalu murid dan mengaitkannya dengan kemahiran yang akan dipelajari."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Komputer Riba & Projektor LCD",
+        "Kertas Sebak & Pen Marker"
+      ],
+      "nilai": [
+        "Kasih Sayang & Hormat-menghormati",
+        "Kejujuran & Amanah",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 5",
+    "tarikh": "09.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 3 Kenangan Manis",
+      "kemahiran": "5.0 ASPEK TATABAHASA",
+      "sk": [
+        "5.1 Memahami fungsi dan menggunakan golongan kata mengikut konteks.",
+        "5.2 Memahami dan menggunakan pembentukan kata mengikut konteks.",
+        "5.3 Memahami dan membina ayat mengikut konteks."
+      ],
+      "sp": [
+        "5.1.1 Memahami dan menggunakan golongan kata nama mengikut konteks; (i) kata nama am",
+        "5.1.1 Memahami dan menggunakan golongan kata nama mengikut konteks; (ii) kata nama khas",
+        "5.1.1 Memahami dan menggunakan golongan kata nama mengikut konteks; (iii) kata ganti nama",
+        "5.1.1 Memahami dan menggunakan golongan kata nama mengikut konteks; (iv) penjodoh bilangan",
+        "5.1.2 Memahami dan menggunakan kata kerja mengikut konteks; (i) kata kerja aktif – transitif dan tak transitif",
+        "5.1.2 Memahami dan menggunakan kata kerja mengikut konteks; (ii) kata kerja pasif",
+        "5.1.3 Memahami dan menggunakan kata adjektif mengikut konteks; (i) jarak",
+        "5.1.3 Memahami dan menggunakan kata adjektif mengikut konteks; (ii) perasaan",
+        "5.1.3 Memahami dan menggunakan kata adjektif mengikut konteks; (iii) pancaindera",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (i) kata hubung",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (ii) kata sendi nama",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (iii) kata arah",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (iv) kata tanya",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (v) kata perintah",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (vi) kata seru",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (vii) kata pemeri",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (viii) kata penguat",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (ix) kata nafi",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (x) kata bantu",
+        "5.1.4 Memahami dan menggunakan kata tugas mengikut konteks; (xi) kata bilangan",
+        "5.2.1 Memahami dan menggunakan kata mengikut konteks; (i) kata dasar",
+        "5.2.1 Memahami dan menggunakan kata mengikut konteks; (ii) kata berimbuhan awalan",
+        "5.2.1 Memahami dan menggunakan kata mengikut konteks; (iii) kata berimbuhan akhiran",
+        "5.2.2 Memahami dan menggunakan kata majmuk mengikut konteks.",
+        "5.2.3 Memahami dan menggunakan kata ganda mengikut konteks; (i) kata ganda penuh",
+        "5.2.3 Memahami dan menggunakan kata ganda mengikut konteks; (ii) kata ganda separa",
+        "5.2.3 Memahami dan menggunakan kata ganda mengikut konteks; (iii) kata ganda berentak",
+        "5.3.1 Memahami dan membina ayat mengikut konteks; (i) ayat seruan",
+        "5.3.1 Memahami dan membina ayat mengikut konteks; (ii) ayat perintah",
+        "5.3.1 Memahami dan membina ayat mengikut konteks; (iii) ayat tanya dengan kata tanya",
+        "5.3.1 Memahami dan membina ayat mengikut konteks; (iv) ayat tanya tanpa kata tanya",
+        "5.3.2 Memahami dan menggunakan ayat mengikut konteks; (i) ayat tunggal",
+        "5.3.2 Memahami dan menggunakan ayat mengikut konteks; (ii) ayat majmuk"
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Memahami dan menggunakan golongan kata nama mengikut konteks; (i) kata nama am dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Memahami dan menggunakan golongan kata nama mengikut konteks; (i) kata nama am dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Imbasan & Kad Perkataan",
+        "Kertas Sebak & Pen Marker",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Bekerjasama & Toleransi",
+        "Kebersihan Fizikal & Mental"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 6",
+    "tarikh": "16.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 3 Kenangan Manis",
+      "kemahiran": "(PKJR) 1.0 Persekitaran jalan raya",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid mendengar rakaman audio berkaitan petikan dan diminta untuk mengenal pasti isi-isi penting yang terdapat dalam rakaman tersebut."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menghasilkan peta pokok atau peta buih secara individu untuk merumuskan apa yang telah dipelajari hari ini."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Buku Teks & Buku Aktiviti",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kasih Sayang & Hormat-menghormati",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 7",
+    "tarikh": "23.02.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 4 Saya Sihat dan Bertenaga",
+      "kemahiran": "(PKJR) 10.0 Tingkah laku yang berisiko apabila melakukan perjalanan",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kertas Sebak & Pen Marker",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kesyukuran & Menghargai Masa",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 8",
+    "tarikh": "02.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 4 Saya Sihat dan Bertenaga",
+      "kemahiran": "(PKJR) 11.0 Pengaruh media dan budaya popular dalam keselamatan jalan raya",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Imbasan & Kad Perkataan",
+        "Pembesar Suara (Audio)",
+        "Kertas Sebak & Pen Marker"
+      ],
+      "nilai": [
+        "Keberanian Mencuba",
+        "Kesyukuran & Menghargai Masa",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 9",
+    "tarikh": "09.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 5 Kebersihan Tanggungjawab Bersama",
+      "kemahiran": "(PKJR) 2.0 Kenderaan",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Kertas Sebak & Pen Marker",
+        "Kad Imbasan & Kad Perkataan",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Kejujuran & Amanah",
+        "Kesyukuran & Menghargai Masa",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 10",
+    "tarikh": "16.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 5 Kebersihan Tanggungjawab Bersama",
+      "kemahiran": "(PKJR) 3.0 Peraturan dan undang-undang jalan raya",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Imbasan & Kad Perkataan",
+        "Buku Teks & Buku Aktiviti",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kesyukuran & Menghargai Masa",
+        "Bekerjasama & Toleransi",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 11",
+    "tarikh": "30.03.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 6 Minda Positif Badan Aktif",
+      "kemahiran": "(PKJR) 4.0 Sebagai pejalan kaki",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kad Imbasan & Kad Perkataan",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kasih Sayang & Hormat-menghormati",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 12",
+    "tarikh": "06.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 6 Minda Positif Badan Aktif",
+      "kemahiran": "(PKJR) 5.0 Sebagai penunggang basikal",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kertas Sebak & Pen Marker",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kasih Sayang & Hormat-menghormati",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 13",
+    "tarikh": "13.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 7 Keselamatan di Rumah",
+      "kemahiran": "(PKJR) 6.0 Sebagai penumpang",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja Berwarna",
+        "Pembesar Suara (Audio)",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Kesyukuran & Menghargai Masa",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 14",
+    "tarikh": "20.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 7 Keselamatan di Rumah",
+      "kemahiran": "(PKJR) 7.0 Melintas jalan dengan selamat",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid melakukan aktiviti simulasi atau main peranan (Role Play) berdasarkan situasi yang diberi oleh guru untuk mengaplikasikan kemahiran bertutur."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Bahan Maujud (Realia)",
+        "Lembaran Kerja Berwarna",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Bekerjasama & Toleransi",
+        "Kesyukuran & Menghargai Masa"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 15",
+    "tarikh": "27.04.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 8 Rekreasi Selamat",
+      "kemahiran": "(PKJR) 8.0 Bermain",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid mendengar rakaman audio berkaitan petikan dan diminta untuk mengenal pasti isi-isi penting yang terdapat dalam rakaman tersebut."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menghasilkan peta pokok atau peta buih secara individu untuk merumuskan apa yang telah dipelajari hari ini."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Keberanian Mencuba",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 16",
+    "tarikh": "04.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 8 Rekreasi Selamat",
+      "kemahiran": "(PKJR) 9.0 Kenderaan awam",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja Berwarna",
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Kejujuran & Amanah",
+        "Bekerjasama & Toleransi",
+        "Kebersihan Fizikal & Mental"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 17",
+    "tarikh": "11.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 9 Alatan Keselamatan",
+      "kemahiran": "(PKJR) 7.2.1 Memahami bahawa melintas jalan adalah lebih selamat apabila langkah tertentu diambil untuk menyempurnakan tugas tersebut.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Imbasan & Kad Perkataan",
+        "Kertas Sebak & Pen Marker",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kejujuran & Amanah",
+        "Kesyukuran & Menghargai Masa"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 18",
+    "tarikh": "18.05.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 9 Alatan Keselamatan",
+      "kemahiran": "(PKJR) 7.2.2 Mengetahui lima langkah untuk menyempurnakan tugas melintas jalan dengan selamat",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kad Imbasan & Kad Perkataan",
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kejujuran & Amanah",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 19",
+    "tarikh": "08.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 10 Toleransi Kukuhkan Perpaduan",
+      "kemahiran": "(PKJR) 7.2.3 Menggambarkan prosedur melintas dan menerangkan setiap langkah.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menghasilkan peta pokok atau peta buih secara individu untuk merumuskan apa yang telah dipelajari hari ini."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kertas Sebak & Pen Marker",
+        "Komputer Riba & Projektor LCD",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Bekerjasama & Toleransi",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 20",
+    "tarikh": "15.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 10 Toleransi Kukuhkan Perpaduan",
+      "kemahiran": "(PKJR) 7.2.4 Menunjukkan pengetahuan dan kemahiran (perkataan dan fizikal) lima langkah yang terlibat dalam melintas jalan dengan selamat – dalam situasi yang dikawal dan diselia.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kejujuran & Amanah",
+        "Kebersihan Fizikal & Mental"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 21",
+    "tarikh": "22.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 11 Hormat-Menghormati Budaya Kita",
+      "kemahiran": "(PKJR) 7.2.5 Menerangkan bagaimana tingkah laku melintas jalan mereka menjejaskan keselamatan mereka dan orang lain.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan kelas dengan sesi soal jawab pantas (Pop Quiz) untuk menguji pengetahuan lalu murid dan mengaitkannya dengan kemahiran yang akan dipelajari."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kad Imbasan & Kad Perkataan",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Kasih Sayang & Hormat-menghormati",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 22",
+    "tarikh": "29.06.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 11 Hormat-Menghormati Budaya Kita",
+      "kemahiran": "(PKJR) 7.2.6 Menggunakan pelbagai kemahiran dan pancaindera mereka untuk mengumpul maklumat mengenai lalu lintas. Contohnya:i. menggunakan kemahiran kinestatek untuk berhenti di kawasan yang selamat di pinggir jalanii. menggunakan petunjuk visual untuk menentukan jalan tidak berhalangiii. menggunakan kemahiran auditori untuk menentukan arah dan kelajuan lalu lintasiv. menggunakan kemahiran kognitif untuk menentukan keselamatan peribadi dan komuniti berkaitan dengan melintas jalan",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kad Imbasan & Kad Perkataan",
+        "Pembesar Suara (Audio)"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kesyukuran & Menghargai Masa",
+        "Kebersihan Fizikal & Mental"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 23",
+    "tarikh": "06.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 12 Kerjasama Asas Kesejahteraan",
+      "kemahiran": "(PKJR) 7.2.7 Menunjukkan prosedur melintas jalan yang betul dalam pelbagai situasi. Contohnya: i. di lampu isyaratii. di lintasan sekolahiii. di lintasan belang atau undaniv. persimpangan yang tidak dikawal",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Buku Teks & Buku Aktiviti",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Kesyukuran & Menghargai Masa",
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 24",
+    "tarikh": "13.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 12 Kerjasama Asas Kesejahteraan",
+      "kemahiran": "(PKJR) 7.3.1 Memahami apa yang dimaksudkan dengan mengimbas lalu lintas untuk mengenal pasti risiko dan bahaya.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Kad Imbasan & Kad Perkataan",
+        "Kertas Sebak & Pen Marker"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kesyukuran & Menghargai Masa"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 25",
+    "tarikh": "20.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 13 Kekalkan Warisan Kita",
+      "kemahiran": "(PKJR) 7.3.2 Memahami apa yang dimaksudkan dengan pemilihan masa dan ruang serta impak ke atas keselamatan.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Kertas Sebak & Pen Marker",
+        "Pembesar Suara (Audio)"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kasih Sayang & Hormat-menghormati",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 26",
+    "tarikh": "27.07.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 13 Kekalkan Warisan Kita",
+      "kemahiran": "(PKJR) 7.3.3 Di bawah seliaan orang dewasa, menunjukkan berbagai kemahiran berkaitan dengan melintas dengan selamat dalam situasi yang berbeza-beza, termasuk:i. mendemonstrasikan teknik mengimbas untuk mengoptimumkan keselamatan semasa melintasii. mempraktikkan anggaran masa ruangiii. menunjukkan kesedaran penglihatan yang terbatasiv. menunjukkan kesedaran pembatasan berkaitan pengesanan bunyi lalu lintasv. mengaitkan reaksi masa dengan keselamatan diri sendirivi. mengagak",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Komputer Riba & Projektor LCD",
+        "Kertas Sebak & Pen Marker"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kebersihan Fizikal & Mental",
+        "Kesyukuran & Menghargai Masa"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 27",
+    "tarikh": "03.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 14 Kenali Kesenian Kita",
+      "kemahiran": "(PKJR) 7.4.1 Membincangkan faktor/pengaruh yang melibatkan keputusan mengenai situasi melintas yang selamat dan tidak selamat.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan kelas dengan sesi soal jawab pantas (Pop Quiz) untuk menguji pengetahuan lalu murid dan mengaitkannya dengan kemahiran yang akan dipelajari."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Pembesar Suara (Audio)",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 28",
+    "tarikh": "10.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 14 Kenali Kesenian Kita",
+      "kemahiran": "(PKJR) 7.4.2 Mengenal pasti keputusan pemandu dan penunggang motosikal yang boleh meletakkan pejalan kaki dan penunggang basikal dalam bahaya.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Kertas Sebak & Pen Marker",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kesyukuran & Menghargai Masa",
+        "Kebersihan Fizikal & Mental",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 29",
+    "tarikh": "17.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 15 Indahnya Seni dan Budaya Kita",
+      "kemahiran": "(PKJR) 7.4.3 Menunjukkan kesedaran mengenai kepentingan dan strategi untuk membuatkan orang lain sedar perlunya mengikut prosedur melintas jalan yang selamat.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Pembesar Suara (Audio)",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kebersihan Fizikal & Mental",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 30",
+    "tarikh": "24.08.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 15 Indahnya Seni dan Budaya Kita",
+      "kemahiran": "(PKJR) 7.5.1 Mengenal pasti jalan dan kawasan yang selamat dan bahaya di persekitaran mereka.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan sesi pengajaran dengan menayangkan klip video pendek yang berkaitan dengan tajuk hari ini untuk menarik minat murid dan merangsang pengetahuan sedia ada mereka."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru mengedarkan 'Exit Ticket' di mana murid perlu menulis satu perkara baharu yang mereka pelajari sebelum dibenarkan keluar kelas."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Kad Imbasan & Kad Perkataan",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Kesyukuran & Menghargai Masa",
+        "Keberanian Mencuba",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 31",
+    "tarikh": "07.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 16 Pengurusan Sisa Pepejal",
+      "kemahiran": "(PKJR) 7.5.2 Membincangkan pertimbangan untuk memilih jalan yang selamat. Contohnya: mudah, dari segi masa dan jarak.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan kelas dengan sesi soal jawab pantas (Pop Quiz) untuk menguji pengetahuan lalu murid dan mengaitkannya dengan kemahiran yang akan dipelajari."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid melakukan aktiviti simulasi atau main peranan (Role Play) berdasarkan situasi yang diberi oleh guru untuk mengaplikasikan kemahiran bertutur."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kertas Sebak & Pen Marker",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kesyukuran & Menghargai Masa"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 32",
+    "tarikh": "14.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 16 Pengurusan Sisa Pepejal",
+      "kemahiran": "(PKJR) 7.5.3 Memetakan jalan selamat ke sekolah dan menjelaskan sebabnya.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru mengedarkan 'Exit Ticket' di mana murid perlu menulis satu perkara baharu yang mereka pelajari sebelum dibenarkan keluar kelas."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja Berwarna",
+        "Kertas Sebak & Pen Marker",
+        "Pembesar Suara (Audio)"
+      ],
+      "nilai": [
+        "Keberanian Mencuba",
+        "Kejujuran & Amanah",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 33",
+    "tarikh": "21.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 17 Sumbangan Kita",
+      "kemahiran": "(PKJR) 7.5.4 Menilai jalan biasa yang diambil dan menerangkan kenapa dan di mana keadaan adalah selamat dan/atau berbahaya.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid membaca petikan teks secara mekanis dengan sebutan dan intonasi yang betul secara beramai-ramai diikuti dengan bacaan individu secara rawak."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Kad Imbasan & Kad Perkataan",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kesyukuran & Menghargai Masa",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 34",
+    "tarikh": "28.09.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 17 Sumbangan Kita",
+      "kemahiran": "(PKJR) 7.5.5 Menerangkan dan mengikut jalan yang mempunyai tanda arah.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Bahan Maujud (Realia)",
+        "Kad Imbasan & Kad Perkataan"
+      ],
+      "nilai": [
+        "Kejujuran & Amanah",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kasih Sayang & Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 35",
+    "tarikh": "05.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 18 Tahukah Kamu?",
+      "kemahiran": "(PKJR) 8.1.1 Menerangkan akibat yang bakal berlaku jika bermain di jalan raya atau berdekatan jalan raya.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan kelas dengan sesi soal jawab pantas (Pop Quiz) untuk menguji pengetahuan lalu murid dan mengaitkannya dengan kemahiran yang akan dipelajari."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid mendengar rakaman audio berkaitan petikan dan diminta untuk mengenal pasti isi-isi penting yang terdapat dalam rakaman tersebut."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Kertas Sebak & Pen Marker",
+        "Bahan Maujud (Realia)",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 36",
+    "tarikh": "12.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 18 Tahukah Kamu?",
+      "kemahiran": "(PKJR) 8.1.2 Mengenal pasti kawasan bermain yang selamat dan tidak.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru memulakan kelas dengan sesi soal jawab pantas (Pop Quiz) untuk menguji pengetahuan lalu murid dan mengaitkannya dengan kemahiran yang akan dipelajari."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid mendengar rakaman audio berkaitan petikan dan diminta untuk mengenal pasti isi-isi penting yang terdapat dalam rakaman tersebut."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Komputer Riba & Projektor LCD",
+        "Kad Imbasan & Kad Perkataan",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 37",
+    "tarikh": "19.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 19 Pertanian Sumber Pendapatan",
+      "kemahiran": "(PKJR) 8.2.1 Menyenaraikan jenis permainan rekresi beroda yang berbeza. Contohnya; i. papan selajuii. skuteriii. kasut berodaiv. skuter bermotor",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru meminta beberapa orang murid untuk membuat rumusan lisan tentang isi pelajaran dan nilai murni yang diperolehi hari ini."
+        }
+      ],
+      "bbm": [
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti",
+        "Komputer Riba & Projektor LCD"
+      ],
+      "nilai": [
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Keberanian Mencuba"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 38",
+    "tarikh": "26.10.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 19 Pertanian Sumber Pendapatan",
+      "kemahiran": "(PKJR) 8.2.2 Mengenal pasti peralatan perlindungan yang boleh digunakan untuk meningkatkan keselamatan mereka yang menggunakan kenderaan rekreasi. Contohnya, i. topi keledarii. pad sikuiii. pad lutut",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Dalam aktiviti 'Round Table', murid duduk dalam kumpulan dan bergilir-gilir menulis idea di atas kertas sebak menggunakan pen marker yang berbeza warna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid yang lemah diberikan latihan pemulihan (isi tempat kosong) manakala murid yang cemerlang diberikan soalan KBAT untuk pengayaan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Guru menjalankan sesi soal jawab ringkas untuk mengukuhkan ingatan murid dan memberikan ganjaran kepada yang menjawab dengan tepat."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Komputer Riba & Projektor LCD",
+        "Lembaran Kerja Berwarna"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Bekerjasama & Toleransi",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 39",
+    "tarikh": "02.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 20 Inovasi Dalam Penternakan",
+      "kemahiran": "(PKJR) 8.2.3 Menerangkan peraturan jalan raya yang terpakai kepada pengguna kenderaan rekreasi.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Murid mendengar rakaman audio berkaitan petikan dan diminta untuk mengenal pasti isi-isi penting yang terdapat dalam rakaman tersebut."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menyusun semula keratan perkataan atau ayat (Jigsaw Puzzle) dalam kumpulan untuk membentuk perenggan yang lengkap dan bermakna."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menghasilkan peta pokok atau peta buih secara individu untuk merumuskan apa yang telah dipelajari hari ini."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Kertas Sebak & Pen Marker",
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti"
+      ],
+      "nilai": [
+        "Kejujuran & Amanah",
+        "Keberanian Mencuba",
+        "Bekerjasama & Toleransi"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 40",
+    "tarikh": "09.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 21 Bumi Bertuah",
+      "kemahiran": "(PKJR) 9.1. Menyelidik dan menilai penggunaan pengangkutan awam untuk perjalanan tertentu.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru membawa 'Kotak Misteri' ke dalam kelas dan meminta wakil murid untuk menyentuh serta meneka objek di dalamnya bagi mengaitkannya dengan topik pembelajaran."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja Berwarna",
+        "Buku Teks & Buku Aktiviti",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Kerajinan & Usaha Tangga Kejayaan",
+        "Keberanian Mencuba",
+        "Kejujuran & Amanah"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 41",
+    "tarikh": "16.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 22 Bijak Ekonomi",
+      "kemahiran": "(PKJR) 9.1.1 Mendefinisikan kenderaan awam dan memberikan contoh.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru memperkenalkan kosa kata baharu menggunakan kad imbasan bergambar dan murid diminta menyebut perkataan tersebut secara latih tubi."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Aktiviti 'Think-Pair-Share': Murid berfikir secara individu, berbincang dengan pasangan, dan kemudian berkongsi idea dengan seluruh kelas."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid menjawab lembaran kerja berformat peperiksaan secara individu untuk menguji kefahaman mereka terhadap topik yang dipelajari."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Pembesar Suara (Audio)",
+        "Buku Teks & Buku Aktiviti",
+        "Bahan Maujud (Realia)"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Kejujuran & Amanah",
+        "Kasih Sayang & Hormat-menghormati"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 42",
+    "tarikh": "23.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 23 Budaya Usahawan",
+      "kemahiran": "(PKJR) 9.1.2 Menyelidik pilihan pengangkutan awam di kawasan tempatan, dan kelebihan dan kekurangan menggunakannya.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Guru menunjukkan beberapa keping gambar rangsangan dan meminta murid untuk meneka tajuk pelajaran serta berkongsi pengalaman peribadi yang berkaitan."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru menerangkan konsep utama topik menggunakan peta minda i-Think di papan putih sambil murid mencatat nota penting dalam buku tulis."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Guru mengadakan kuiz interaktif (contoh: Wordwall/Kahoot jika ada kemudahan) untuk menilai penguasaan murid secara menyeronokkan."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid diminta untuk menyatakan perasaan mereka tentang aktiviti hari ini menggunakan isyarat tangan (Traffic Light)."
+        }
+      ],
+      "bbm": [
+        "Lembaran Kerja Berwarna",
+        "Pembesar Suara (Audio)",
+        "Kad Imbasan & Kad Perkataan"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Kejujuran & Amanah",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  },
+  {
+    "minggu": "MINGGU 43",
+    "tarikh": "30.11.2026",
+    "catatan": "",
+    "isCuti": false,
+    "content": {
+      "tajuk": "Unit 24 Bijak Mengurus Kewangan",
+      "kemahiran": "(PKJR) 9.1.3 Membincangkan dan membangunkan prosedur yang selamat untuk menunggu, menaiki, melakukan perjalanan, dan turun/keluar dari kenderaan awam.",
+      "sk": [
+        "1.1 Mendengar dan memberikan respons.",
+        "1.2 Bertutur untuk menyampaikan maklumat dan idea bagi pelbagai tujuan."
+      ],
+      "sp": [
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal",
+        "1.1.1 Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (ii) ayat majmuk",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (i) suruhan dan permintaan",
+        "1.1.2 Mendengar, memahami, dan memberikan respons terhadap; (ii) silaan dan larangan",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (i) soalan bertumpu (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.1.3 Mendengar, mentafsir, dan memberikan respons terhadap; (ii) soalan bercapah (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.1 Bertutur untuk menjelaskan dan menilai sesuatu perkara secara bertatasusila mengikut konteks. (*Cadangan: Menggunakan elemen TMK di link bit.ly/modultmkt3)",
+        "1.2.2 Menjelaskan dan membanding beza maklumat tersurat dengan menggunakan idea yang kritis dan kreatif.",
+        "1.2.3 Bersoal jawab untuk mendapatkan dan menyampaikan maklumat."
+      ],
+      "objektif": [
+        "Pada akhir sesi pengajaran, murid kumpulan perdana dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan betul dan lancar secara individu.",
+        "Pada akhir sesi pengajaran, murid kumpulan pemulihan dapat Mendengar, mengecam sebutan, memahami, dan menyebut dengan betul dan tepat; (i) ayat tunggal dengan bimbingan guru secara berpandu."
+      ],
+      "aktiviti": [
+        {
+          "fase": "Set Induksi (5 Minit)",
+          "text": "Murid diminta untuk menyanyikan lagu tema bersama-sama dengan iringan muzik dan melakukan pergerakan kreatif ringkas mengikut lirik lagu."
+        },
+        {
+          "fase": "Langkah 1 (Penerangan)",
+          "text": "Guru mendemonstrasikan cara membina ayat yang betul di hadapan kelas dan meminta murid melengkapkan ayat mudah secara lisan."
+        },
+        {
+          "fase": "Langkah 2 (Kumpulan)",
+          "text": "Murid menjalankan aktiviti 'Gallery Walk' di mana setiap kumpulan menampal hasil kerja di dinding dan bergerak dari satu stesen ke stesen lain untuk memberi ulasan."
+        },
+        {
+          "fase": "Langkah 3 (Individu)",
+          "text": "Murid membina ayat lengkap berdasarkan perkataan yang diberi dalam buku latihan dengan bimbingan guru secara minimal."
+        },
+        {
+          "fase": "Penutup (5 Minit)",
+          "text": "Murid menyanyikan semula lagu tema sebagai penutup yang ceria dan guru memberikan pujian kepada murid yang aktif."
+        }
+      ],
+      "bbm": [
+        "Buku Teks & Buku Aktiviti",
+        "Bahan Maujud (Realia)",
+        "Pembesar Suara (Audio)"
+      ],
+      "nilai": [
+        "Kebersihan Fizikal & Mental",
+        "Bekerjasama & Toleransi",
+        "Kerajinan & Usaha Tangga Kejayaan"
+      ]
+    }
+  }
+]
