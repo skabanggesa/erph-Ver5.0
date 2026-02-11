@@ -31,87 +31,103 @@ export async function handleLoginSuccess(user) {
         // -------------------------------------------------------------
         // LANGKAH 2: SEMAK SUPERADMIN
         // -------------------------------------------------------------
-        // Contoh hardcoded superadmin (pilihan) atau database
-        if (email === 'superadmin@moe.gov.my') { 
-            return 'superadmin'; 
-        }
-
-        const superAdminRef = doc(db, 'users', user.uid);
-        const superAdminSnap = await getDoc(superAdminRef);
-
-        if (superAdminSnap.exists()) {
+        const superRef = doc(db, 'users', user.uid);
+        const superSnap = await getDoc(superRef);
+        if (superSnap.exists() && superSnap.data().role === 'superadmin') {
             console.log("[Auth] Identiti: Superadmin");
             localStorage.setItem('userRole', 'superadmin');
             return 'superadmin';
-        } 
-        
+        }
+
         // -------------------------------------------------------------
-        // LANGKAH 3: SEMAK GURU & PENYELIA (MULTIPLE DOCS)
+        // LANGKAH 3: SEMAK ADMIN SEKOLAH (DB CHECK)
         // -------------------------------------------------------------
-        let determinedRole = null; 
+        const schoolRef = doc(db, 'schools', email);
+        const schoolSnap = await getDoc(schoolRef);
+        if (schoolSnap.exists()) {
+            console.log("[Auth] Identiti: Admin Sekolah (DB)");
+            localStorage.setItem('userRole', 'school-admin');
+            return 'school-admin';
+        }
+
+        // -------------------------------------------------------------
+        // LANGKAH 4: CARI GURU / PENYELIA (GLOBAL & SUB-COLLECTION)
+        // -------------------------------------------------------------
+        let determinedRole = null;
         let foundRecord = false;
+        let userData = null;
 
-        const schoolsSnap = await getDocs(collection(db, 'schools'));
-        
-        for (const schoolDoc of schoolsSnap.docs) {
-            // Cari SEMUA dokumen yang ada emel ini dalam subcollection teachers
-            const teacherQuery = query(
-                collection(db, 'schools', schoolDoc.id, 'teachers'), 
-                where('email', '==', email)
-            );
-            
-            const teacherSnap = await getDocs(teacherQuery);
+        // CARA A: Cek Koleksi Global 'teachers' dulu (Paling Cepat - O(1))
+        // (Ini untuk sistem yang guna Dual Sync)
+        const globalTeacherQ = query(collection(db, 'teachers'), where('email', '==', email));
+        const globalSnap = await getDocs(globalTeacherQ);
 
-            // Jika jumpa sekurang-kurangnya satu dokumen
-            if (!teacherSnap.empty) {
-                console.log(`[Auth] Jumpa ${teacherSnap.size} rekod di sekolah ${schoolDoc.id}`);
-                
-                let isPenyelia = false;
-                let isGuru = false;
+        if (!globalSnap.empty) {
+            console.log("[Auth] Rekod dijumpai di Koleksi Global.");
+            userData = globalSnap.docs[0].data();
+            foundRecord = true;
+        } 
+        else {
+            // CARA B: Fallback - Cari dalam setiap sekolah (O(N))
+            // Hanya jalan jika tiada di global
+            console.log("[Auth] Mencari dalam sub-koleksi sekolah...");
+            const schoolsQ = query(collection(db, 'schools'));
+            const schoolsSnap = await getDocs(schoolsQ);
 
-                // Loop semua dokumen yang dijumpai
-                teacherSnap.forEach((docSnap) => {
-                    const data = docSnap.data();
-                    const rawRole = (data.role || '').trim().toLowerCase();
+            for (const schoolDoc of schoolsSnap.docs) {
+                const teachersRef = collection(db, 'schools', schoolDoc.id, 'teachers');
+                const qTeacher = query(teachersRef, where('email', '==', email));
+                const teacherSnap = await getDocs(qTeacher);
+
+                if (!teacherSnap.empty) {
+                    userData = teacherSnap.docs[0].data();
+                    foundRecord = true;
                     
-                    if (rawRole === 'penyelia') isPenyelia = true;
-                    if (rawRole === 'guru') isGuru = true;
-
-                    // Update lastLogin
+                    // Update Last Login (Pilihan)
                     try {
-                        const ref = doc(db, 'schools', schoolDoc.id, 'teachers', docSnap.id);
-                        updateDoc(ref, { 
-                            lastLogin: Timestamp.now(), 
+                        await updateDoc(teacherSnap.docs[0].ref, { 
+                            lastLogin: Timestamp.now(),
                             uid: user.uid 
                         });
-                    } catch(e) {}
-                });
-
-                // Keutamaan Role
-                if (isPenyelia) {
-                    determinedRole = 'penyelia';
-                } else {
-                    determinedRole = 'guru';
+                    } catch(e) { console.log("Gagal update lastLogin:", e); }
+                    
+                    break; // Jumpa, berhenti loop
                 }
-
-                console.log(`[Auth] Keputusan Akhir: ${determinedRole}`);
-                foundRecord = true;
-                break; // Berhenti cari di sekolah lain
             }
         }
 
         // -------------------------------------------------------------
-        // LANGKAH 4: PENGESAHAN AKHIR
+        // LANGKAH 5: PENENTUAN ROLE (HIERARKI)
         // -------------------------------------------------------------
-        if (!foundRecord) {
-            alert("Akaun tiada dalam rekod guru/penyelia. Sila hubungi Admin.");
-            await signOut(auth);
-            localStorage.clear();
-            return null;
+        if (foundRecord && userData) {
+            console.log("[Auth] Data User:", userData);
+
+            // Periksa Flag (Boolean) dan String Role (Legacy)
+            const isPenyelia = (userData.isPenyelia === true) || (userData.role === 'penyelia');
+            const isGuru = (userData.isGuru === true) || (userData.role === 'guru');
+
+            // LOGIK UTAMA: Utamakan Penyelia
+            if (isPenyelia) {
+                determinedRole = 'penyelia';
+            } else if (isGuru) {
+                determinedRole = 'guru';
+            } else {
+                // Fallback jika akaun wujud tapi tiada role/flag
+                determinedRole = 'guru'; 
+            }
+
+            console.log(`[Auth] Keputusan Akhir: ${determinedRole.toUpperCase()}`);
+            localStorage.setItem('userRole', determinedRole);
+            return determinedRole;
         }
 
-        localStorage.setItem('userRole', determinedRole);
-        return determinedRole;
+        // -------------------------------------------------------------
+        // LANGKAH 6: GAGAL
+        // -------------------------------------------------------------
+        alert("Akaun tiada dalam rekod guru/penyelia. Sila hubungi Admin Sekolah.");
+        await signOut(auth);
+        localStorage.clear();
+        return null;
 
     } catch (error) {
         console.error("Ralat Auth:", error);
@@ -125,7 +141,8 @@ export async function handleLoginSuccess(user) {
     try {
         const result = await getRedirectResult(auth);
         if (result && result.user) {
-            // Kita biarkan router handle, cuma simpan user session
+            // Biar router uruskan state change
+            console.log("Redirect login berjaya.");
         }
     } catch (error) {
         console.error("Redirect Error:", error);
