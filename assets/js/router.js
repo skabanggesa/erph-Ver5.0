@@ -1,143 +1,134 @@
 // assets/js/router.js
 
-import { getAuth, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
-import { doc, getDoc } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
-import { app, db } from './config.js'; 
+import { auth, db } from './config.js'; 
+import { onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import { doc, getDoc, collection, query, where, getDocs } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
-const firebaseAuth = getAuth(app); 
-
-// --- SENARAI LALUAN (ROUTES) ---
+// =========================================================
+// 1. DEFINISI LALUAN (ROUTES)
+// =========================================================
 const routes = {
-    // Auth
-    'login': { file: 'auth.js', func: 'loadLoginPage' },
+    'login': { id: 'login-screen', isApp: false },
     
-    // Guru
-    'guru-home': { file: 'guru/guru-dashboard.js', func: 'loadGuruDashboard' }, 
-    'guru-jadual': { file: 'guru/jadual-editor.js', func: 'loadJadualEditor' },
-    'guru-rph-generator': { file: 'guru/rph-generator.js', func: 'loadRphGenerator' },
-    'guru-rph-history': { file: 'guru/rph-history.js', func: 'loadRphHistory' },
-    'guru-rph-edit': { file: 'guru/rph-edit.js', func: 'loadRphEdit' }, 
-    
-    // Admin
-    'admin-home': { file: 'admin/dashboard.js', func: 'loadAdminDashboard' },
-    'admin-rph-review': { file: 'admin/rph-review.js', func: 'loadRphReview' },
-    'admin-teachers': { file: 'admin/teachers.js', func: 'loadTeachers' },        
-    'admin-analytics': { file: 'admin/analytics.js', func: 'loadAnalytics' },      
-    'admin-maintenance': { file: 'admin/admin-maintenance.js', func: 'loadMaintenance' }, 
-    
-    // Default
-    'home': null 
-};
+    'superadmin-home': { 
+        id: 'dashboard-screen', isApp: true,
+        file: './admin/superadmin-dashboard.js', 
+        func: 'loadSuperAdminDashboard', targetId: 'main-content'
+    },
 
-// --- FUNGSI NAVIGASI UTAMA ---
-window.router = {
-    navigate: async function(fullPath) {
-        console.log("Navigasi ke:", fullPath);
+    'school-admin-home': { 
+        id: 'dashboard-screen', isApp: true,
+        file: './admin/school-dashboard.js',
+        func: 'loadSchoolAdminDashboard', targetId: 'main-content'
+    },
 
-        const [path, queryString] = fullPath.split('?');
-        const route = routes[path];
+    'penyelia-home': { 
+        id: 'dashboard-screen', isApp: true,
+        file: './penyelia/penyelia-main.js', 
+        func: 'loadPenyeliaDashboard', targetId: 'main-content'
+    },
 
-        if (path === 'home') {
-            return; // Logik redirect dikendalikan oleh onAuthStateChanged
-        }
-
-        if (!route) {
-            console.error(`Laluan '${path}' tidak dijumpai dalam router.`);
-            const contentEl = document.getElementById('content');
-            if(contentEl) contentEl.innerHTML = `<p style="color:red; text-align:center; margin-top:50px;">Ralat 404: Halaman '${path}' tidak dijumpai.</p>`;
-            return;
-        }
-
-        try {
-            // Import fail secara dinamik
-            const module = await import(`./${route.file}`);
-            
-            let id = null;
-            if (queryString) {
-                const params = new URLSearchParams(queryString);
-                id = params.get('id');
-            }
-
-            // Jalankan fungsi
-            if (module[route.func]) {
-                module[route.func](id); 
-            } else {
-                console.error(`Fungsi ${route.func} tiada dalam fail ${route.file}`);
-            }
-
-        } catch (error) {
-            console.error("Ralat memuatkan modul:", error);
-            const contentEl = document.getElementById('content');
-            if(contentEl) contentEl.innerHTML = `<p style="color:red; text-align:center;">Gagal memuatkan modul: ${error.message}</p>`;
-        }
+    'guru-home': { 
+        id: 'dashboard-screen', isApp: true,
+        file: './guru/guru-main.js', 
+        func: 'loadGuruMain', targetId: 'main-content'
     }
 };
 
-const navigate = window.router.navigate;
+// =========================================================
+// 2. FUNGSI NAVIGASI UTAMA
+// =========================================================
+async function navigate(routeKey) {
+    console.log("[Router] Menghala ke:", routeKey);
+    const route = routes[routeKey];
+    
+    if (!route) return;
 
-// --- LOGIK AUTH & PENGHALAAN AUTOMATIK ---
-document.addEventListener('DOMContentLoaded', () => {
-    onAuthStateChanged(firebaseAuth, async (user) => {
-        const contentDiv = document.getElementById('content');
-        const navbar = document.getElementById('navbar');
-        const userNameEl = document.getElementById('userName');
-        const roleStyle = document.getElementById('role-style'); 
+    const loginScreen = document.getElementById('login-screen');
+    const dashScreen = document.getElementById('dashboard-screen');
+    const targetDiv = document.getElementById(route.targetId);
 
+    // Toggle Paparan Skrin
+    if (route.isApp) {
+        if(loginScreen) loginScreen.style.display = 'none';
+        if(dashScreen) dashScreen.style.display = 'block';
+    } else {
+        if(loginScreen) loginScreen.style.display = 'flex';
+        if(dashScreen) dashScreen.style.display = 'none';
+        return; 
+    }
+
+    // Muatkan Modul Secara Dinamik
+    if (route.file && targetDiv) {
+        targetDiv.innerHTML = `
+            <div style="text-align:center; margin-top:50px;">
+                <div class="loading-spinner"></div>
+                <p>Memuatkan modul...</p>
+            </div>`;
+
+        try {
+            const module = await import(route.file);
+            if (module[route.func]) {
+                module[route.func](); 
+            } else {
+                throw new Error(`Fungsi ${route.func} tidak dijumpai.`);
+            }
+        } catch (error) {
+            console.error("Router Load Error:", error);
+            targetDiv.innerHTML = `<div style="color:red; padding:20px;">Ralat: Gagal memuatkan komponen ${route.file}</div>`;
+        }
+    }
+}
+
+// =========================================================
+// 3. INISIALISASI ROUTER
+// =========================================================
+export function initRouter() {
+    onAuthStateChanged(auth, async (user) => {
         if (user) {
-            // 1. User Logged In
+            // Set emel di navbar
+            const navEmail = document.getElementById('navUserEmail');
+            if(navEmail) navEmail.textContent = user.email;
+
+            // Semak Role
             let role = localStorage.getItem('userRole');
             
-            // Jika role tiada dalam storage, fetch dari Firestore
-            if (!role) {
+            if (!role || role === 'undefined') {
                 try {
-                    const docSnap = await getDoc(doc(db, 'users', user.uid));
-                    if (docSnap.exists()) {
-                        const userData = docSnap.data();
-                        role = userData.role;
-                        localStorage.setItem('userRole', role); 
-                        localStorage.setItem('userName', userData.name); 
+                    // Cek Superadmin
+                    const adminSnap = await getDoc(doc(db, 'users', user.uid));
+                    if (adminSnap.exists()) {
+                        role = 'superadmin';
                     } else {
-                        await signOut(firebaseAuth);
-                        window.location.href = 'index.html';
-                        return;
+                        // Cek Admin Sekolah (Gunakan format emel ikut auth.js anda)
+                        const schoolSnap = await getDoc(doc(db, 'schools', user.email.toLowerCase()));
+                        if (schoolSnap.exists()) {
+                            role = 'admin_sekolah';
+                        } else {
+                            // Cek Teachers (Guru/Penyelia)
+                            const q = query(collection(db, 'teachers'), where('email', '==', user.email.toLowerCase()));
+                            const qSnap = await getDocs(q);
+                            if (!qSnap.empty) {
+                                role = qSnap.docs[0].data().role || 'guru';
+                            } else {
+                                role = 'guru';
+                            }
+                        }
                     }
+                    localStorage.setItem('userRole', role);
                 } catch (e) {
-                    console.error("Ralat sambungan:", e);
-                    if(contentDiv) contentDiv.innerHTML = '<p class="error">Masalah sambungan internet.</p>';
-                    return;
+                    role = 'guru';
                 }
             }
 
-            // 2. Setup UI
-            if (role) {
-                if (navbar) navbar.style.display = 'flex';
-                
-                // KEMASKINI 1: Gunakan CSS Admin untuk Super Admin juga
-                if (roleStyle) {
-                    roleStyle.href = (role === 'admin' || role === 'superadmin')
-                        ? './assets/css/admin.css' 
-                        : './assets/css/guru.css';
-                }
-                
-                const name = localStorage.getItem('userName');
-                if (userNameEl && name) userNameEl.textContent = name;
-
-                // 3. Tentukan Ke Mana Nak Pergi
-                // KEMASKINI 2: Logik 'OR' (||) ditambah di sini
-                // Jika Admin ATAU Super Admin -> Pergi ke Dashboard Admin
-                if (role === 'admin' || role === 'superadmin') {
-                    navigate('admin-home');
-                } else {
-                    // Jika selain itu (guru) -> Pergi ke Dashboard Guru
-                    navigate('guru-home'); 
-                }
-            }
+            // Hala ke Dashboard yang betul
+            if (role === 'superadmin') navigate('superadmin-home');
+            else if (role === 'admin_sekolah' || role === 'admin') navigate('school-admin-home');
+            else if (role === 'penyelia') navigate('penyelia-home');
+            else navigate('guru-home');
 
         } else {
-            // 4. User Logged Out / Tiada Sesi
-            if (navbar) navbar.style.display = 'none';
-            localStorage.clear();
             navigate('login');
         }
     });
-});
+}
