@@ -21,7 +21,6 @@ export async function handleLoginSuccess(user) {
         // -------------------------------------------------------------
         // LANGKAH 1: ADMIN SEKOLAH (BYPASS DATABASE)
         // -------------------------------------------------------------
-        // Jika emel bermula dengan 'sekolah-', terus set sebagai school-admin
         if (email.startsWith('sekolah-')) {
             console.log("[Auth] Identiti: Admin Sekolah");
             localStorage.setItem('userRole', 'school-admin');
@@ -51,30 +50,30 @@ export async function handleLoginSuccess(user) {
         }
 
         // -------------------------------------------------------------
-        // LANGKAH 4: CARI GURU / PENYELIA (GLOBAL & SUB-COLLECTION)
+        // LANGKAH 4: CARI GURU / PENYELIA (QUERY SEARCH)
         // -------------------------------------------------------------
         let determinedRole = null;
         let foundRecord = false;
         let userData = null;
 
-        // CARA A: Cek Koleksi Global 'teachers' dulu (Paling Cepat - O(1))
-        // (Ini untuk sistem yang guna Dual Sync)
-        const globalTeacherQ = query(collection(db, 'teachers'), where('email', '==', email));
-        const globalSnap = await getDocs(globalTeacherQ);
+        // CARA A: Cek Koleksi Global 'teachers' (Guna Query, bukan ID)
+        // Ini memastikan rekod ditemui walaupun ID dokumen bukan emel
+        const globalQ = query(collection(db, 'teachers'), where('email', '==', email));
+        const globalSnap = await getDocs(globalQ);
 
         if (!globalSnap.empty) {
             console.log("[Auth] Rekod dijumpai di Koleksi Global.");
-            userData = globalSnap.docs[0].data();
+            userData = globalSnap.docs[0].data(); // Ambil data pertama
             foundRecord = true;
         } 
         else {
-            // CARA B: Fallback - Cari dalam setiap sekolah (O(N))
-            // Hanya jalan jika tiada di global
+            // CARA B: Fallback - Cari dalam setiap sekolah
             console.log("[Auth] Mencari dalam sub-koleksi sekolah...");
             const schoolsQ = query(collection(db, 'schools'));
             const schoolsSnap = await getDocs(schoolsQ);
 
             for (const schoolDoc of schoolsSnap.docs) {
+                // Cari dalam sub-koleksi 'teachers' sekolah ini
                 const teachersRef = collection(db, 'schools', schoolDoc.id, 'teachers');
                 const qTeacher = query(teachersRef, where('email', '==', email));
                 const teacherSnap = await getDocs(qTeacher);
@@ -97,16 +96,16 @@ export async function handleLoginSuccess(user) {
         }
 
         // -------------------------------------------------------------
-        // LANGKAH 5: PENENTUAN ROLE (HIERARKI)
+        // LANGKAH 5: PENENTUAN ROLE (HIERARKI KETAT)
         // -------------------------------------------------------------
         if (foundRecord && userData) {
-            console.log("[Auth] Data User:", userData);
+            console.log("[Auth] Data User Ditemui:", userData);
 
-            // Periksa Flag (Boolean) dan String Role (Legacy)
+            // Periksa Flag (Boolean) atau String Role (Legacy)
             const isPenyelia = (userData.isPenyelia === true) || (userData.role === 'penyelia');
             const isGuru = (userData.isGuru === true) || (userData.role === 'guru');
 
-            // LOGIK UTAMA: Utamakan Penyelia
+            // LOGIK UTAMA: Utamakan Penyelia secara mutlak
             if (isPenyelia) {
                 determinedRole = 'penyelia';
             } else if (isGuru) {
@@ -124,7 +123,7 @@ export async function handleLoginSuccess(user) {
         // -------------------------------------------------------------
         // LANGKAH 6: GAGAL
         // -------------------------------------------------------------
-        alert("Akaun tiada dalam rekod guru/penyelia. Sila hubungi Admin Sekolah.");
+        alert(`Akaun (${email}) tiada dalam rekod. Sila hubungi Admin Sekolah.`);
         await signOut(auth);
         localStorage.clear();
         return null;
@@ -141,7 +140,6 @@ export async function handleLoginSuccess(user) {
     try {
         const result = await getRedirectResult(auth);
         if (result && result.user) {
-            // Biar router uruskan state change
             console.log("Redirect login berjaya.");
         }
     } catch (error) {
