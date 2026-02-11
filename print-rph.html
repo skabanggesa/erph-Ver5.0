@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <title>Cetak RPH</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto; }
+        .header { text-align: center; margin-bottom: 20px; border-bottom: 2px solid #000; padding-bottom: 10px; }
+        .rph-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+        .rph-table th, .rph-table td { border: 1px solid #000; padding: 8px; vertical-align: top; }
+        .rph-table th { background-color: #f0f0f0; width: 20%; text-align: left; }
+        .print-btn { display: block; margin: 20px auto; padding: 10px 20px; background: #2563eb; color: white; border: none; cursor: pointer; }
+        
+        /* Gaya untuk Tandatangan */
+        .signature-box {
+            height: 80px; /* Ruang untuk tandatangan */
+            display: flex;
+            align-items: flex-end;
+            margin-bottom: 5px;
+        }
+        .signature-img {
+            max-height: 80px;
+            max-width: 200px;
+            display: block;
+        }
+
+        @media print {
+            .print-btn { display: none; }
+        }
+    </style>
+</head>
+<body>
+
+    <button class="print-btn" onclick="window.print()">🖨️ Cetak / Simpan PDF</button>
+
+    <div id="content">Loading...</div>
+
+    <script type="module">
+        import { db } from './assets/js/config.js';
+        import { doc, getDoc } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+        async function loadRPH() {
+            const params = new URLSearchParams(window.location.search);
+            const docId = params.get('id');
+
+            if (!docId) {
+                document.getElementById('content').innerHTML = "Tiada ID dokumen.";
+                return;
+            }
+
+            try {
+                // 1. Dapatkan Data RPH
+                const docRef = doc(db, 'rph', docId);
+                const snap = await getDoc(docRef);
+
+                if (snap.exists()) {
+                    const rphData = snap.data();
+                    
+                    // 2. Dapatkan Data Penyelia (Backup jika tiada sign dalam RPH)
+                    let supervisorData = null;
+                    if (rphData.penyeliaId) {
+                        try {
+                            const supSnap = await getDoc(doc(db, 'teachers', rphData.penyeliaId));
+                            if(supSnap.exists()) {
+                                supervisorData = supSnap.data();
+                            }
+                        } catch(err) {
+                            console.log("Info: Gagal tarik data penyelia (mungkin tiada permission).", err);
+                        }
+                    }
+
+                    renderRPH(rphData, supervisorData);
+                } else {
+                    document.getElementById('content').innerHTML = "RPH tidak dijumpai.";
+                }
+            } catch (e) {
+                document.getElementById('content').innerText = "Ralat: " + e.message;
+            }
+        }
+
+        function renderRPH(data, supervisor) {
+            const tarikhPaparan = data.tarikh || data.date || "Tiada Tarikh";
+            
+            // =========================================================
+            // PEMBAIKAN UTAMA: LOGIK TANDATANGAN (PRIORITI)
+            // =========================================================
+            let signatureUrl = null;
+
+            // 1. Cari dalam RPH DULU (Ini yang kita simpan masa tekan SAH)
+            if (data.signature) {
+                signatureUrl = data.signature;
+            } 
+            // 2. Jika tiada, baru cari dalam Profil Penyelia
+            else if (supervisor) {
+                signatureUrl = supervisor.digitalSignature || supervisor.signature || supervisor.tandatangan;
+            }
+
+            // Generate HTML Gambar
+            let signHtml = '';
+            if (signatureUrl) {
+                signHtml = `<img src="${signatureUrl}" class="signature-img" alt="Tandatangan Digital">`;
+            } else {
+                signHtml = `<div style="color:#ccc; font-style:italic; margin-bottom:10px;">(Tiada tandatangan digital)</div>`;
+            }
+
+            const html = `
+                <div class="header">
+                    <h2>RANCANGAN PENGAJARAN HARIAN</h2>
+                    <p>Status: <strong>${data.status.toUpperCase()}</strong></p>
+                </div>
+                <table class="rph-table">
+                    <tr><th>Tarikh</th><td>${tarikhPaparan} ${data.hari ? `(${data.hari})` : ''}</td></tr>
+                    <tr><th>Masa</th><td>${data.masa}</td></tr>
+                    <tr><th>Kelas</th><td>${data.kelas}</td></tr>
+                    <tr><th>Mata Pelajaran</th><td>${data.subject}</td></tr>
+                    <tr><th>Tajuk</th><td>${data.tajuk}</td></tr>
+                    <tr><th>Standard Pembelajaran</th><td><pre style="font-family:inherit; white-space:pre-wrap;">${data.sp}</pre></td></tr>
+                    <tr><th>Objektif</th><td><pre style="font-family:inherit; white-space:pre-wrap;">${data.objektif}</pre></td></tr>
+                    <tr><th>Aktiviti</th><td><pre style="font-family:inherit; white-space:pre-wrap;">${data.aktiviti}</pre></td></tr>
+                    <tr><th>BBM</th><td>${data.bbm}</td></tr>
+                    <tr><th>Nilai Murni</th><td>${data.nilai}</td></tr>
+                    <tr><th>Refleksi</th><td><pre style="font-family:inherit; white-space:pre-wrap;">${data.refleksi}</pre></td></tr>
+                    ${data.komenPenyelia ? `<tr><th style="color:red;">Ulasan Penyelia</th><td style="color:red;">${data.komenPenyelia}</td></tr>` : ''}
+                </table>
+                
+                <div style="margin-top:40px; display:flex; justify-content:space-between; page-break-inside: avoid;">
+                    <div style="width: 45%;">
+                        <p>Disediakan oleh:</p>
+                        <br><br><br>
+                        <strong>${data.teacherName || 'Guru Mata Pelajaran'}</strong>
+                    </div>
+                    
+                    <div style="width: 45%;">
+                        <p>Disahkan oleh:</p>
+                        <div class="signature-box">
+                            ${signHtml}
+                        </div>
+                        <strong>${data.penyeliaName || (supervisor ? (supervisor.name || supervisor.nama) : 'Penyelia')}</strong>
+                        <div style="font-size:0.8rem; color:#666;">Tarikh Sah: ${formatFirestoreDate(data.reviewedAt || data.updatedAt)}</div>
+                    </div>
+                </div>
+            `;
+            document.getElementById('content').innerHTML = html;
+        }
+        
+        function formatFirestoreDate(timestamp) {
+            if(!timestamp) return '-';
+            try {
+                const date = timestamp.toDate ? timestamp.toDate() : new Date(timestamp);
+                return date.toLocaleDateString('ms-MY');
+            } catch(e) { return '-'; }
+        }
+
+        loadRPH();
+    </script>
+</body>
+</html>

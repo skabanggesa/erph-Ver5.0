@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <title>Cetak RPH Pukal</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 850px; margin: auto; }
+        .print-btn { display: block; margin: 20px auto; padding: 10px 20px; background: #2563eb; color: white; border: none; cursor: pointer; }
+        
+        /* PAGE BREAK: Pastikan setiap RPH mula muka surat baru */
+        .rph-container { margin-bottom: 50px; border-bottom: 2px dashed #999; padding-bottom: 20px; }
+        @media print {
+            .print-btn { display: none; }
+            .rph-container { page-break-after: always; border: none; margin: 0; padding: 0; }
+            .rph-container:last-child { page-break-after: auto; }
+        }
+
+        /* TABLE STYLE */
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #000; padding: 8px; vertical-align: top; }
+        th { background: #f0f0f0; width: 20%; }
+    </style>
+</head>
+<body>
+    <button class="print-btn" onclick="window.print()">🖨️ Cetak Semua PDF</button>
+    <div id="mainContent" style="text-align:center;">Memuatkan data...</div>
+
+    <script type="module">
+        import { db } from './assets/js/config.js';
+        import { doc, getDoc } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+        async function loadBulk() {
+            const params = new URLSearchParams(window.location.search);
+            const ids = params.get('ids'); // Terima ID dari URL
+            
+            if(!ids) { document.body.innerHTML = "Tiada ID RPH dipilih."; return; }
+
+            const idArray = ids.split(',');
+            const container = document.getElementById('mainContent');
+            container.innerHTML = ""; // Kosongkan loader
+
+            for(let id of idArray) {
+                if(!id) continue;
+                try {
+                    const snap = await getDoc(doc(db, 'rph', id));
+                    if(snap.exists()) {
+                        container.innerHTML += generateHTML(snap.data());
+                    }
+                } catch(e) { console.error(e); }
+            }
+        }
+
+        function generateHTML(d) {
+            // Logik Tandatangan
+            let signImg = d.signature ? `<img src="${d.signature}" style="max-height:80px; max-width:150px">` : 
+                          `<div style="height:50px; color:#999; font-style:italic;">(Tiada)</div>`;
+            
+            return `
+                <div class="rph-container">
+                    <h2 style="text-align:center; border-bottom:2px solid black; padding-bottom:10px;">RANCANGAN PENGAJARAN HARIAN</h2>
+                    <table>
+                        <tr><th>Tarikh</th><td>${d.tarikh} (${d.hari || '-'})</td></tr>
+                        <tr><th>Masa</th><td>${d.masa}</td></tr>
+                        <tr><th>Kelas/Subjek</th><td>${d.kelas} - ${d.subject}</td></tr>
+                        <tr><th>Tajuk</th><td>${d.tajuk}</td></tr>
+                        <tr><th>Objektif</th><td><pre style="font-family:inherit; white-space:pre-wrap">${d.objektif}</pre></td></tr>
+                        <tr><th>Aktiviti</th><td><pre style="font-family:inherit; white-space:pre-wrap">${d.aktiviti}</pre></td></tr>
+                        <tr><th>Refleksi</th><td><pre style="font-family:inherit; white-space:pre-wrap">${d.refleksi}</pre></td></tr>
+                        ${d.komenPenyelia ? `<tr><th style="color:red">Ulasan</th><td style="color:red">${d.komenPenyelia}</td></tr>` : ''}
+                    </table>
+                    
+                    <div style="display:flex; justify-content:space-between; margin-top:30px;">
+                        <div style="width:45%">
+                            <p>Disediakan:</p><br><br><strong>${d.teacherName}</strong>
+                        </div>
+                        <div style="width:45%">
+                            <p>Disahkan:</p>
+                            <div style="height:80px; display:flex; align-items:flex-end;">${signImg}</div>
+                            <strong>${d.penyeliaName || 'Penyelia'}</strong>
+                            <div style="font-size:0.8rem">Tarikh Sah: ${d.reviewedAt ? new Date(d.reviewedAt.seconds*1000).toLocaleDateString('ms-MY') : '-'}</div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+        loadBulk();
+    </script>
+</body>
+</html>

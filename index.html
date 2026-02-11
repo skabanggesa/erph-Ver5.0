@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem eRPH Sekolah</title>
+    
+    <link rel="stylesheet" href="./assets/css/style.css"> 
+    
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --danger: #dc2626;
+            --dark: #1f2937;
+            --light: #f3f4f6;
+        }
+
+        body { 
+            font-family: 'Segoe UI', sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background: var(--light); 
+            color: #333; 
+        }
+        
+        /* =========================================
+           GAYA SKRIN LOG MASUK
+           ========================================= */
+        #login-screen {
+            display: flex; /* Flex supaya center, JS akan hide nanti */
+            min-height: 100vh;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #e0e7ff 0%, #f3f4f6 100%);
+            padding: 20px;
+        }
+
+        .login-card {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        .login-card h2 { 
+            margin-top: 0; 
+            color: var(--dark); 
+            margin-bottom: 1.5rem; 
+        }
+        
+        .btn-delima {
+            width: 100%; 
+            background: white; 
+            color: #444; 
+            border: 1px solid #d1d5db;
+            padding: 0.75rem; 
+            border-radius: 6px; 
+            font-weight: 600; 
+            cursor: pointer;
+            transition: 0.2s; 
+            display: flex; 
+            align-items: center; 
+            justify-content: center;
+            gap: 10px; 
+            box-shadow: 0 2px 3px rgba(0,0,0,0.05);
+        }
+
+        .divider {
+            display: flex; 
+            align-items: center; 
+            text-align: center; 
+            margin: 1.5rem 0; 
+            color: #9ca3af; 
+            font-size: 0.85rem; 
+            font-weight: 500;
+        }
+
+        .divider::before, .divider::after { 
+            content: ''; 
+            flex: 1; 
+            border-bottom: 1px solid #e5e7eb; 
+        }
+
+        .input-group { 
+            margin-bottom: 1.2rem; 
+            text-align: left; 
+        }
+
+        .input-group label { 
+            display: block; 
+            margin-bottom: 0.4rem; 
+            font-weight: 500; 
+            font-size: 0.9rem; 
+            color: #4b5563; 
+        }
+
+        .input-group input { 
+            width: 100%; 
+            padding: 0.75rem; 
+            border: 1px solid #d1d5db; 
+            border-radius: 6px; 
+            box-sizing: border-box; 
+        }
+
+        .btn-primary {
+            width: 100%; 
+            background: var(--primary); 
+            color: white; 
+            padding: 0.75rem;
+            border: none; 
+            border-radius: 6px; 
+            font-weight: bold; 
+            cursor: pointer; 
+            transition: 0.2s;
+        }
+
+        .error-msg {
+            color: var(--danger); 
+            background: #fee2e2; 
+            padding: 0.75rem; 
+            border-radius: 6px;
+            margin-bottom: 1rem; 
+            font-size: 0.9rem; 
+            display: none; 
+            text-align: left; 
+            border: 1px solid #fecaca;
+        }
+
+        /* =========================================
+           GAYA DASHBOARD
+           ========================================= */
+        #dashboard-screen { 
+            display: none; 
+        }
+        
+        #main-content { 
+            padding: 0; 
+        }
+    </style>
+</head>
+<body>
+
+    <div id="login-screen">
+        <div class="login-card">
+            <h2>Log Masuk eRPH</h2>
+            <div id="loginError" class="error-msg"></div>
+            
+            <button id="btnDelima" class="btn-delima">
+                <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" width="20" alt="Google">
+                Log Masuk Delima / Google
+            </button>
+
+            <div class="divider">ATAU LOG MASUK MANUAL</div>
+
+            <form id="loginForm">
+                <div class="input-group">
+                    <label>Emel Pengguna</label>
+                    <input type="email" id="email" placeholder="sekolah-xxxx@moe-dl.edu.my" required>
+                </div>
+                <div class="input-group">
+                    <label>Kata Laluan</label>
+                    <input type="password" id="password" placeholder="********" required>
+                </div>
+                <button type="submit" class="btn-primary" id="btnLoginAdmin">Log Masuk</button>
+            </form>
+            <p style="margin-top:1.5rem; font-size:0.8rem; color:#9ca3af;">Sistem eRPH Sekolah © 2026</p>
+        </div>
+    </div>
+
+    <div id="dashboard-screen">
+        <div id="main-content"></div>
+    </div>
+
+    <script type="module">
+        // =================================================================
+        // PERHATIAN: Import dari folder 'assets/js'
+        // =================================================================
+        
+        // 1. Import Config & Auth dari folder assets/js
+        import { auth } from './assets/js/config.js'; 
+        import { handleLoginSuccess } from './assets/js/auth.js'; 
+
+        // 2. Import Firebase (URL CDN kekal sama)
+        import { 
+            onAuthStateChanged, 
+            signOut, 
+            signInWithEmailAndPassword, 
+            GoogleAuthProvider, 
+            signInWithPopup 
+        } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+
+        // Elemen DOM
+        const loginScreen = document.getElementById('login-screen');
+        const dashboardScreen = document.getElementById('dashboard-screen');
+        const mainContent = document.getElementById('main-content');
+        const errDiv = document.getElementById('loginError');
+
+        // =================================================================
+        // ROUTER LOGIC (PENENTU HALA TUJU)
+        // =================================================================
+        onAuthStateChanged(auth, async (user) => {
+            if (user) {
+                console.log("[Router] Pengguna dikesan:", user.email);
+                
+                // UI Update: Sorok Login, Tunjuk Dashboard Wrapper
+                loginScreen.style.display = 'none';
+                dashboardScreen.style.display = 'block';
+                mainContent.innerHTML = '<div style="text-align:center; padding:50px; color:#666;">Memuatkan papan pemuka...</div>';
+
+                try {
+                    // Dapatkan role dari database (melalui auth.js)
+                    const realRole = await handleLoginSuccess(user);
+                    const tempMode = sessionStorage.getItem('tempViewMode');
+                    
+                    console.log(`[Router] Role: ${realRole} | Mode: ${tempMode}`);
+
+                    // =========================================================
+                    // LOAD MODULE BERDASARKAN ROLE
+                    // =========================================================
+
+                    // KES 1: ADMIN SEKOLAH (Baru)
+                    if (realRole === 'school-admin') {
+                        console.log("[Router] Memuatkan Modul Admin Sekolah...");
+                        const { initSchoolDashboard } = await import('./assets/js/admin/school-dashboard.js');
+                        initSchoolDashboard(user);
+                    }
+                    
+                    // KES 2: PENYELIA
+                    else if (realRole === 'penyelia') {
+                        // Jika Penyelia sedang menyamar jadi Guru
+                        if (tempMode === 'guru') {
+                            console.log("[Router] Penyelia -> View Mod Guru");
+                            const { initGuruDashboard } = await import('./assets/js/guru/guru-main.js');
+                            initGuruDashboard(user); 
+                            tunjukButangKembaliPenyelia(); 
+                        } 
+                        // Jika Penyelia biasa
+                        else {
+                            console.log("[Router] Memuatkan Modul Penyelia...");
+                            sessionStorage.removeItem('tempViewMode'); 
+                            const { loadPenyeliaDashboard } = await import('./assets/js/penyelia/penyelia-main.js');
+                            loadPenyeliaDashboard();
+                        }
+                    } 
+                    
+                    // KES 3: SUPERADMIN
+                    else if (realRole === 'superadmin') {
+                         console.log("[Router] Memuatkan Modul Superadmin...");
+                         // Pastikan fail ini wujud jika mahu digunakan
+                         const { initAdminDashboard } = await import('./assets/js/admin/superadmin-dashboard.js');
+                         initAdminDashboard();
+                    }
+
+                    // KES 4: GURU (Default)
+                    else {
+                        console.log("[Router] Memuatkan Modul Guru...");
+                        sessionStorage.removeItem('tempViewMode');
+                        const { initGuruDashboard } = await import('./assets/js/guru/guru-main.js');
+                        initGuruDashboard(user);
+                    }
+
+                } catch (error) {
+                    console.error("[Router] Ralat Import/Init:", error);
+                    alert("Gagal memuatkan papan pemuka. Sila semak konsol (F12) untuk ralat fail.");
+                    await signOut(auth);
+                    window.location.reload(); 
+                }
+
+            } else {
+                // TIADA USER -> Tunjuk Skrin Login
+                console.log("[Router] Tiada pengguna. Papar Login.");
+                loginScreen.style.display = 'flex';
+                dashboardScreen.style.display = 'none';
+                localStorage.removeItem('userRole'); 
+            }
+        });
+
+        // =================================================================
+        // HELPER FUNCTIONS
+        // =================================================================
+        
+        function tunjukButangKembaliPenyelia() {
+            if(document.getElementById('btnBackPenyelia')) return; 
+            
+            const btn = document.createElement('button');
+            btn.id = 'btnBackPenyelia';
+            btn.innerHTML = "🔙 Kembali ke Penyelia";
+            
+            // Styling Butang Terapung
+            btn.style.cssText = `
+                position: fixed; 
+                bottom: 20px; 
+                right: 20px; 
+                background-color: #c2410c; 
+                color: white; 
+                padding: 12px 24px; 
+                border: none; 
+                border-radius: 50px; 
+                box-shadow: 0 4px 12px rgba(0,0,0,0.3); 
+                font-weight: bold; 
+                cursor: pointer; 
+                z-index: 9999; 
+                transition: transform 0.2s;
+            `;
+            
+            btn.onmouseover = () => btn.style.transform = "scale(1.05)";
+            btn.onmouseout = () => btn.style.transform = "scale(1)";
+            
+            btn.onclick = () => { 
+                sessionStorage.removeItem('tempViewMode'); 
+                window.location.reload(); 
+            };
+            
+            document.body.appendChild(btn);
+        }
+
+        function showError(msg) {
+            errDiv.textContent = msg;
+            errDiv.style.display = 'block';
+        }
+
+        // =================================================================
+        // EVENT LISTENERS
+        // =================================================================
+
+        // 1. Butang Login Google / Delima
+        document.getElementById('btnDelima').addEventListener('click', async () => {
+            const provider = new GoogleAuthProvider();
+            try { 
+                await signInWithPopup(auth, provider); 
+                // Router akan auto-detect state change
+            } 
+            catch (error) { 
+                showError("Gagal: " + error.message); 
+            }
+        });
+
+        // 2. Butang Login Manual
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('email').value;
+            const pass = document.getElementById('password').value;
+            const btn = document.getElementById('btnLoginAdmin');
+            
+            btn.textContent = "Memproses..."; 
+            btn.disabled = true; 
+            errDiv.style.display = 'none';
+
+            try { 
+                await signInWithEmailAndPassword(auth, email, pass); 
+                // Jika berjaya, onAuthStateChanged akan berjalan
+            } 
+            catch (error) { 
+                console.error(error);
+                showError("Emel atau kata laluan salah.");
+                btn.textContent = "Log Masuk"; 
+                btn.disabled = false;
+            }
+        });
+
+    </script>
+</body>
+</html>
