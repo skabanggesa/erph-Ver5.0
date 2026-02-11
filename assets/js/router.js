@@ -1,4 +1,5 @@
 // assets/js/router.js
+// VERSI DIKEMASKINI: LOGIK HYBRID (ROLE & FLAGS)
 
 import { auth, db } from './config.js'; 
 import { onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
@@ -31,103 +32,100 @@ const routes = {
     'guru-home': { 
         id: 'dashboard-screen', isApp: true,
         file: './guru/guru-main.js', 
-        func: 'loadGuruMain', targetId: 'main-content'
+        func: 'loadGuruDashboard', targetId: 'main-content'
     }
 };
 
 // =========================================================
-// 2. FUNGSI NAVIGASI UTAMA
+// 2. FUNGSI NAVIGASI
 // =========================================================
-async function navigate(routeKey) {
-    console.log("[Router] Menghala ke:", routeKey);
-    const route = routes[routeKey];
-    
+async function navigate(routeName) {
+    const route = routes[routeName];
     if (!route) return;
 
-    const loginScreen = document.getElementById('login-screen');
-    const dashScreen = document.getElementById('dashboard-screen');
-    const targetDiv = document.getElementById(route.targetId);
+    // Sembunyikan semua skrin
+    document.querySelectorAll('.screen').forEach(el => el.style.display = 'none');
+    
+    // Paparkan skrin sasaran
+    const targetEl = document.getElementById(route.id);
+    if (targetEl) targetEl.style.display = (route.id === 'login-screen') ? 'flex' : 'block';
 
-    // Toggle Paparan Skrin
-    if (route.isApp) {
-        if(loginScreen) loginScreen.style.display = 'none';
-        if(dashScreen) dashScreen.style.display = 'block';
-    } else {
-        if(loginScreen) loginScreen.style.display = 'flex';
-        if(dashScreen) dashScreen.style.display = 'none';
-        return; 
-    }
-
-    // Muatkan Modul Secara Dinamik
-    if (route.file && targetDiv) {
-        targetDiv.innerHTML = `
-            <div style="text-align:center; margin-top:50px;">
-                <div class="loading-spinner"></div>
-                <p>Memuatkan modul...</p>
-            </div>`;
-
+    // Jika perlukan fail JS modul
+    if (route.isApp && route.file) {
         try {
             const module = await import(route.file);
             if (module[route.func]) {
-                module[route.func](); 
-            } else {
-                throw new Error(`Fungsi ${route.func} tidak dijumpai.`);
+                module[route.func]();
             }
-        } catch (error) {
-            console.error("Router Load Error:", error);
-            targetDiv.innerHTML = `<div style="color:red; padding:20px;">Ralat: Gagal memuatkan komponen ${route.file}</div>`;
+        } catch (e) {
+            console.error("Gagal memuatkan modul:", e);
         }
     }
 }
 
 // =========================================================
-// 3. INISIALISASI ROUTER
+// 3. PEMANTAUAN STATUS AUTH (AUTH STATE OBSERVER)
 // =========================================================
 export function initRouter() {
     onAuthStateChanged(auth, async (user) => {
         if (user) {
-            // Set emel di navbar
-            const navEmail = document.getElementById('navUserEmail');
-            if(navEmail) navEmail.textContent = user.email;
-
-            // Semak Role
-            let role = localStorage.getItem('userRole');
+            console.log("User detected:", user.email);
             
-            if (!role || role === 'undefined') {
+            // Cuba dapatkan role dari LocalStorage dahulu (untuk prestasi)
+            let role = localStorage.getItem('userRole');
+
+            // Jika tiada dalam cache, atau user refresh page, semak DB semula
+            if (!role) {
                 try {
-                    // Cek Superadmin
-                    const adminSnap = await getDoc(doc(db, 'users', user.uid));
-                    if (adminSnap.exists()) {
+                    // 1. Cek SuperAdmin
+                    const superDoc = await getDoc(doc(db, 'users', user.uid));
+                    if (superDoc.exists() && superDoc.data().role === 'superadmin') {
                         role = 'superadmin';
                     } else {
-                        // Cek Admin Sekolah (Gunakan format emel ikut auth.js anda)
+                        // 2. Cek Admin Sekolah (ID Dokumen = Emel)
                         const schoolSnap = await getDoc(doc(db, 'schools', user.email.toLowerCase()));
                         if (schoolSnap.exists()) {
                             role = 'admin_sekolah';
                         } else {
-                            // Cek Teachers (Guru/Penyelia)
+                            // 3. Cek Teachers (Hybrid Logic: Guru & Penyelia)
                             const q = query(collection(db, 'teachers'), where('email', '==', user.email.toLowerCase()));
                             const qSnap = await getDocs(q);
+                            
                             if (!qSnap.empty) {
-                                role = qSnap.docs[0].data().role || 'guru';
+                                const data = qSnap.docs[0].data();
+                                
+                                // --- LOGIK PEMBETULAN DI SINI ---
+                                // Kita semak flag 'isPenyelia' dahulu
+                                if (data.isPenyelia === true || data.role === 'penyelia') {
+                                    role = 'penyelia';
+                                } else {
+                                    // Jika bukan penyelia, maka dia guru
+                                    role = 'guru';
+                                }
+                                // -------------------------------
+
                             } else {
+                                // Jika rekod tiada langsung, default ke guru (atau boleh tendang keluar)
                                 role = 'guru';
                             }
                         }
                     }
                     localStorage.setItem('userRole', role);
                 } catch (e) {
-                    role = 'guru';
+                    console.error("Ralat Router Auth:", e);
+                    role = 'guru'; // Fallback selamat
                 }
             }
 
-            // Hala ke Dashboard yang betul
+            // Hala ke Dashboard yang betul berdasarkan role
             if (role === 'superadmin') navigate('superadmin-home');
             else if (role === 'admin_sekolah' || role === 'admin') navigate('school-admin-home');
             else if (role === 'penyelia') navigate('penyelia-home');
             else navigate('guru-home');
 
         } else {
+            // Jika tiada user, pergi ke login
+            localStorage.removeItem('userRole');
             navigate('login');
         }
     });
