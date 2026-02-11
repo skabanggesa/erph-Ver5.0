@@ -69,7 +69,7 @@ async function navigate(routeName) {
 export function initRouter() {
     onAuthStateChanged(auth, async (user) => {
         if (user) {
-            console.log("User detected:", user.email);
+            // console.log("User detected:", user.email); // Debug
             
             // Cuba dapatkan role dari LocalStorage dahulu (untuk prestasi)
             let role = localStorage.getItem('userRole');
@@ -105,7 +105,7 @@ export function initRouter() {
                                 // -------------------------------
 
                             } else {
-                                // Jika rekod tiada langsung, default ke guru (atau boleh tendang keluar)
+                                // Jika rekod tiada langsung, default ke guru
                                 role = 'guru';
                             }
                         }
