@@ -1,13 +1,14 @@
 /**
  * ==========================================================================================
- * MODUL SEMAKAN RPH: LOGIK PENYELIA (VERSI PENUH - DENGAN NAMA PENYELIA)
+ * MODUL SEMAKAN RPH: LOGIK PENYELIA (VERSI PENUH & DIPERBAIKI)
  * ==========================================================================================
  * Fail: assets/js/penyelia/penyelia-semak.js
  * * FUNGSI UTAMA:
  * 1. Senarai RPH dengan FILTER (Nama, Subjek, Tarikh).
- * 2. Semakan Individu & Pukal.
- * 3. Tandatangan Digital & Ulasan Dinamik.
+ * 2. Semakan Individu & Pukal (Bulk Approval).
+ * 3. Tandatangan Digital (Canvas) & Ulasan Dinamik.
  * 4. MENYIMPAN NAMA PENYELIA (verifiedBy) untuk paparan guru.
+ * 5. [FIX] Menggunakan 'penyeliaId' untuk padanan terus emel penyelia.
  * ==========================================================================================
  */
 
@@ -26,24 +27,25 @@ let currentRphId = null;
 let allPendingRPH = []; // Cache Data untuk filtering pantas
 let currentPenyeliaName = "Penyelia"; // Default sementara loading
 
+// Bank Ulasan untuk pilihan pantas
 const ulasanBank = [
     "RPH disediakan dengan baik dan lengkap. Tahniah.",
-    "Objektif pembelajaran jelas dan aktiviti sesuai.",
+    "Objektif pembelajaran jelas dan aktiviti sesuai dengan tahap murid.",
     "Persediaan mengajar yang sangat rapi. Teruskan kecemerlangan.",
     "Langkah pengajaran tersusun dan mudah difahami.",
-    "Penggunaan BBM yang menarik dalam PdP.",
-    "Refleksi ditulis dengan baik. Teruskan usaha.",
-    "Sangat baik. Pastikan kawalan kelas diutamakan.",
+    "Penggunaan BBM yang menarik dalam PdP membantu kefahaman murid.",
+    "Refleksi ditulis dengan baik dan menunjukkan impak sebenar.",
+    "Sangat baik. Pastikan kawalan kelas diutamakan semasa aktiviti.",
     "Disahkan. RPH mematuhi standard yang ditetapkan."
 ];
 
 // ==========================================================================================
 // 2. INJECT CSS (GAYA UI)
 // ==========================================================================================
-// Menyuntik CSS secara dinamik untuk memastikan layout kemas dan tidak bertindih.
+// Menyuntik CSS secara dinamik untuk memastikan layout kemas, responsif dan tidak bertindih.
 const style = document.createElement('style');
 style.innerHTML = `
-    .semak-container { font-family: 'Inter', sans-serif; color: #334155; }
+    .semak-container { font-family: 'Inter', system-ui, -apple-system, sans-serif; color: #334155; max-width: 100%; margin: 0 auto; }
     
     /* FILTER SECTION */
     .filter-box {
@@ -52,6 +54,7 @@ style.innerHTML = `
         border-radius: 12px; 
         border: 1px solid #e2e8f0; 
         margin-bottom: 25px;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     }
     .filter-grid {
         display: grid;
@@ -74,29 +77,126 @@ style.innerHTML = `
         background: white;
         box-sizing: border-box;
         outline: none;
-        transition: 0.2s;
+        transition: all 0.2s;
+        font-size: 0.9rem;
     }
-    .filter-input:focus { border-color: #4f46e5; box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1); }
+    .filter-input:focus { 
+        border-color: #4f46e5; 
+        box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1); 
+    }
     
-    /* TABLE */
+    /* TABLE STYLES */
     .table-responsive {
         overflow-x: auto;
         border-radius: 12px;
         border: 1px solid #e2e8f0;
+        background: white;
     }
     .table-semak { width: 100%; border-collapse: collapse; }
-    .table-semak th { background: #f1f5f9; padding: 15px; text-align: left; font-size: 0.9rem; color: #475569; white-space: nowrap; }
-    .table-semak td { padding: 15px; border-bottom: 1px solid #f1f5f9; font-size: 0.95rem; vertical-align: middle; }
-    .row-hover:hover { background: #f8fafc; }
+    .table-semak th { 
+        background: #f1f5f9; 
+        padding: 15px; 
+        text-align: left; 
+        font-size: 0.85rem; 
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-weight: 700;
+        color: #475569; 
+        white-space: nowrap;
+        border-bottom: 2px solid #e2e8f0;
+    }
+    .table-semak td { 
+        padding: 15px; 
+        border-bottom: 1px solid #f1f5f9; 
+        font-size: 0.95rem; 
+        vertical-align: middle; 
+    }
+    .row-hover:hover { background: #f8fafc; transition: background 0.15s ease; }
 
+    /* STATUS BADGES */
+    .badge { padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; display: inline-block; }
+    .badge-hantar { background: #e0f2fe; color: #0284c7; }
+    
     /* BUTTONS */
-    .btn-semak { background: #4f46e5; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: 500; font-size: 0.9rem; white-space: nowrap; }
-    .btn-reset { width:100%; padding: 10px; background: white; border: 1px solid #cbd5e1; color: #475569; border-radius: 8px; cursor: pointer; font-weight: 600; }
-    .btn-reset:hover { background: #f1f5f9; }
+    .btn-semak { 
+        background: #4f46e5; 
+        color: white; 
+        border: none; 
+        padding: 8px 16px; 
+        border-radius: 6px; 
+        cursor: pointer; 
+        font-weight: 500; 
+        font-size: 0.9rem; 
+        white-space: nowrap;
+        transition: background 0.2s;
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+    }
+    .btn-semak:hover { background: #4338ca; }
+    
+    .btn-reset { 
+        width: 100%; 
+        padding: 10px; 
+        background: white; 
+        border: 1px solid #cbd5e1; 
+        color: #475569; 
+        border-radius: 8px; 
+        cursor: pointer; 
+        font-weight: 600;
+        transition: background 0.2s;
+    }
+    .btn-reset:hover { background: #f1f5f9; border-color: #94a3b8; }
     
     /* MODAL */
-    .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 9999; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; }
-    .modal-content { background: white; padding: 30px; border-radius: 16px; width: 100%; max-width: 550px; max-height: 90vh; overflow-y: auto; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); position: relative; }
+    .modal-overlay { 
+        position: fixed; 
+        top: 0; left: 0; 
+        width: 100%; height: 100%; 
+        background: rgba(15, 23, 42, 0.6); 
+        backdrop-filter: blur(4px);
+        z-index: 9999; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        padding: 20px; 
+        box-sizing: border-box; 
+    }
+    .modal-content { 
+        background: white; 
+        padding: 30px; 
+        border-radius: 16px; 
+        width: 100%; 
+        max-width: 550px; 
+        max-height: 90vh; 
+        overflow-y: auto; 
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); 
+        position: relative;
+        animation: modalFadeIn 0.3s ease-out;
+    }
+    @keyframes modalFadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* RPH VIEWER STYLES */
+    .rph-section { margin-bottom: 25px; }
+    .rph-label { 
+        font-size: 0.85rem; 
+        text-transform: uppercase; 
+        color: #64748b; 
+        font-weight: 700; 
+        margin-bottom: 8px; 
+        display: block;
+    }
+    .rph-value {
+        background: #f8fafc;
+        padding: 15px;
+        border-radius: 8px;
+        border: 1px solid #e2e8f0;
+        line-height: 1.6;
+        color: #334155;
+    }
 `;
 document.head.appendChild(style);
 
@@ -115,13 +215,17 @@ export function initSemakRPH() {
         <div class="semak-container">
             <div id="semak-list-mode" style="background:white; border-radius:16px; box-shadow:0 4px 6px -1px rgba(0,0,0,0.05); padding:30px;">
                 
-                <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:space-between; align-items:center; margin-bottom:25px;">
+                <div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:space-between; align-items:center; margin-bottom:25px; border-bottom: 1px solid #f1f5f9; padding-bottom: 20px;">
                     <div>
-                        <h2 style="margin:0; color:#1e293b; font-size:1.5rem;">📋 Semakan RPH Guru</h2>
-                        <p style="margin:5px 0 0; color:#64748b; font-size:0.9rem;" id="lblPenyeliaName">Memuatkan profil penyelia...</p>
+                        <h2 style="margin:0; color:#1e293b; font-size:1.5rem; display:flex; align-items:center; gap:10px;">
+                            📋 Semakan RPH Guru
+                        </h2>
+                        <p style="margin:5px 0 0; color:#64748b; font-size:0.9rem;" id="lblPenyeliaName">
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Memuatkan profil penyelia...
+                        </p>
                     </div>
-                    <button id="btnBulkApprove" style="display:none; background:#059669; color:white; padding:10px 20px; border:none; border-radius:8px; font-weight:bold; cursor:pointer; box-shadow:0 4px 6px rgba(5, 150, 105, 0.2); transition:0.2s;" onclick="window.bukaModalPukal()">
-                        ✍️ Sahkan Pukal (<span id="countSelected">0</span>)
+                    <button id="btnBulkApprove" style="display:none; background:#059669; color:white; padding:10px 24px; border:none; border-radius:8px; font-weight:bold; cursor:pointer; box-shadow:0 4px 6px rgba(5, 150, 105, 0.2); transition:0.2s; align-items:center; gap:8px;" onclick="window.bukaModalPukal()">
+                        <span>✍️</span> Sahkan Pukal (<span id="countSelected">0</span>)
                     </button>
                 </div>
 
@@ -154,22 +258,30 @@ export function initSemakRPH() {
                     <table class="table-semak">
                         <thead>
                             <tr>
-                                <th style="width:40px; text-align:center;"><input type="checkbox" id="selectAll" onclick="window.toggleSelectAll(this)" style="transform:scale(1.2); cursor:pointer;"></th>
+                                <th style="width:50px; text-align:center;">
+                                    <input type="checkbox" id="selectAll" onclick="window.toggleSelectAll(this)" style="transform:scale(1.2); cursor:pointer;">
+                                </th>
                                 <th>Nama Guru</th>
                                 <th>Mata Pelajaran</th>
+                                <th>Status</th>
                                 <th>Tarikh Hantar</th>
                                 <th style="text-align:center;">Tindakan</th>
                             </tr>
                         </thead>
                         <tbody id="tbodySemakList">
-                            <tr><td colspan="5" style="text-align:center; padding:50px; color:#94a3b8;">Sedang memuatkan senarai...</td></tr>
+                            <tr>
+                                <td colspan="6" style="text-align:center; padding:50px; color:#94a3b8;">
+                                    <div style="display:inline-block; animation:spin 1s linear infinite; border:3px solid #cbd5e1; border-top:3px solid #4f46e5; border-radius:50%; width:24px; height:24px;"></div>
+                                    <div style="margin-top:10px;">Sedang memuatkan senarai RPH...</div>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
                 
-                <div style="margin-top:25px;">
-                    <button onclick="window.kembaliKeDashboard()" style="background:none; border:none; color:#64748b; font-weight:600; cursor:pointer; display:flex; align-items:center; gap:5px;">
-                        <span>←</span> Kembali ke Dashboard
+                <div style="margin-top:25px; border-top:1px solid #f1f5f9; padding-top:20px;">
+                    <button onclick="window.kembaliKeDashboard()" style="background:none; border:none; color:#64748b; font-weight:600; cursor:pointer; display:flex; align-items:center; gap:8px; padding:8px 0;">
+                        <span>←</span> Kembali ke Dashboard Utama
                     </button>
                 </div>
             </div>
@@ -178,8 +290,14 @@ export function initSemakRPH() {
 
             <div id="modal-bulk" class="modal-overlay" style="display:none;">
                 <div class="modal-content">
-                    <h3 style="margin-top:0; color:#1e293b; border-bottom:1px solid #eee; padding-bottom:15px;">Pengesahan Pukal</h3>
-                    <p style="color:#64748b; font-size:0.95rem;">Anda sedang mengesahkan <strong id="bulk-count-display" style="color:#4f46e5;">0</strong> RPH terpilih.</p>
+                    <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid #eee; padding-bottom:15px; margin-bottom:20px;">
+                        <h3 style="margin:0; color:#1e293b;">Pengesahan Pukal</h3>
+                        <button onclick="document.getElementById('modal-bulk').style.display='none'" style="background:none; border:none; font-size:1.5rem; cursor:pointer; color:#94a3b8;">&times;</button>
+                    </div>
+                    
+                    <p style="color:#64748b; font-size:0.95rem; margin-bottom:20px;">
+                        Anda sedang mengesahkan <strong id="bulk-count-display" style="color:#4f46e5; font-size:1.1rem;">0</strong> RPH yang dipilih.
+                    </p>
                     
                     <div style="background:#f8fafc; padding:20px; border-radius:10px; margin-bottom:20px; border:1px solid #e2e8f0;">
                         <label style="font-weight:600; display:block; margin-bottom:8px; color:#334155; font-size:0.9rem;">Pilih Templat Ulasan:</label>
@@ -193,20 +311,26 @@ export function initSemakRPH() {
                     </div>
 
                     <label style="font-weight:600; display:block; margin-bottom:8px; color:#334155;">Tandatangan:</label>
-                    <div style="border:2px dashed #94a3b8; height:150px; background:white; position:relative; margin-bottom:10px; border-radius:8px;">
+                    <div style="border:2px dashed #94a3b8; height:150px; background:white; position:relative; margin-bottom:10px; border-radius:8px; overflow:hidden;">
                         <canvas id="bulk-canvas" style="width:100%; height:100%; cursor:crosshair; touch-action:none;"></canvas>
+                        <div style="position:absolute; bottom:5px; right:5px; font-size:0.7rem; color:#cbd5e1; pointer-events:none;">Ruang Tandatangan</div>
                     </div>
-                    <button onclick="window.clearBulkSig()" style="color:#ef4444; background:none; border:none; cursor:pointer; font-size:0.85rem; font-weight:600;">[ Padam Tandatangan ]</button>
+                    <button onclick="window.clearBulkSig()" style="color:#ef4444; background:none; border:none; cursor:pointer; font-size:0.85rem; font-weight:600; display:flex; align-items:center; gap:5px;">
+                        <span>🗑️</span> Padam Tandatangan
+                    </button>
 
                     <div style="display:grid; grid-template-columns: 1fr 2fr; gap:15px; margin-top:25px; border-top:1px solid #eee; padding-top:20px;">
                         <button onclick="document.getElementById('modal-bulk').style.display='none'" class="btn-reset" style="border:none; background:#f1f5f9;">Batal</button>
-                        <button onclick="window.submitBulkSah()" style="background:#059669; color:white; border:none; border-radius:8px; font-weight:bold; cursor:pointer; padding:12px;">SAHKAN SEMUA</button>
+                        <button onclick="window.submitBulkSah()" style="background:#059669; color:white; border:none; border-radius:8px; font-weight:bold; cursor:pointer; padding:12px; transition:0.2s;">
+                            SAHKAN SEMUA
+                        </button>
                     </div>
                 </div>
             </div>
         </div>
     `;
 
+    // Inisialisasi helper functions global untuk akses dari HTML
     setupGlobalFunctions();
 }
 
@@ -218,7 +342,7 @@ async function fetchPenyeliaProfile() {
         const user = auth.currentUser;
         if(!user) return;
         
-        // Cari rekod penyelia di koleksi 'teachers'
+        // Cari rekod penyelia di koleksi 'teachers' menggunakan emel
         const q = query(collection(db, 'teachers'), where('email', '==', user.email.toLowerCase()));
         const snap = await getDocs(q);
         
@@ -231,16 +355,22 @@ async function fetchPenyeliaProfile() {
 
         // Kemaskini label di UI jika wujud
         const lbl = document.getElementById('lblPenyeliaName');
-        if(lbl) lbl.innerText = "Log Masuk sebagai: " + currentPenyeliaName;
+        if(lbl) {
+            lbl.style.color = "#059669";
+            lbl.style.fontWeight = "600";
+            lbl.innerText = "✅ Log Masuk sebagai: " + currentPenyeliaName;
+        }
         
     } catch(e) {
         console.error("Gagal dapatkan nama penyelia:", e);
         currentPenyeliaName = "Penyelia";
+        const lbl = document.getElementById('lblPenyeliaName');
+        if(lbl) lbl.innerText = "Log Masuk sebagai: Penyelia";
     }
 }
 
 // ==========================================================================================
-// 5. LOGIK LOAD DATA & FILTER
+// 5. LOGIK LOAD DATA & FILTER (PEMBETULAN QUERY)
 // ==========================================================================================
 
 export async function loadSemakList() {
@@ -250,32 +380,57 @@ export async function loadSemakList() {
     const tbody = document.getElementById('tbodySemakList');
 
     try {
-        const q = query(collection(db, 'records'), where('penyeliaId', '==', userEmail), where('status', '==', 'dihantar'));
+        console.log(`[Semak] Mencari RPH untuk penyeliaId: ${userEmail}`);
+        
+        // --- QUERY UTAMA (PEMBAIKAN) ---
+        // Mencari RPH yang dihantar kepada penyelia ini secara spesifik
+        const q = query(
+            collection(db, 'records'), 
+            where('penyeliaId', '==', userEmail), 
+            where('status', '==', 'dihantar') // 'dihantar' atau 'hantar' bergantung pada sistem submit
+        );
+        
         const snap = await getDocs(q);
+        console.log(`[Semak] Jumpa ${snap.size} dokumen.`);
         
         allPendingRPH = []; 
         snap.forEach(docSnap => {
             const data = docSnap.data();
+            
+            // Logik mendapatkan nama guru yang robust
             let nama = data.guruName || data.name || data.userName || data.email;
-            // Gunakan global map dari main.js jika ada
-            if (data.email && window.teacherMap && window.teacherMap[data.email]) nama = window.teacherMap[data.email];
+            // Gunakan global map dari main.js jika ada (cache nama guru)
+            if (data.email && window.teacherMap && window.teacherMap[data.email]) {
+                nama = window.teacherMap[data.email];
+            }
 
             allPendingRPH.push({
                 id: docSnap.id,
                 raw: data,
                 nama: nama,
-                subjek: data.subject || '-',
+                subjek: data.subject || data.subjek || 'Tiada Subjek',
+                status: data.status,
                 tarikhSubmit: data.submittedAt ? data.submittedAt.toDate() : new Date(0),
-                tarikhDisplay: data.submittedAt ? data.submittedAt.toDate().toLocaleDateString('ms-MY') : '-'
+                tarikhDisplay: data.submittedAt ? data.submittedAt.toDate().toLocaleDateString('ms-MY', { day: '2-digit', month: '2-digit', year: 'numeric' }) : '-'
             });
         });
 
+        // Susun mengikut tarikh terkini (descending)
         allPendingRPH.sort((a, b) => b.tarikhSubmit - a.tarikhSubmit);
+        
+        // Paparkan Data
         renderTable(allPendingRPH);
         
     } catch (e) {
-        console.error(e);
-        tbody.innerHTML = '<tr><td colspan="5" style="color:red; text-align:center; padding:20px;">Gagal memuatkan senarai.</td></tr>';
+        console.error("Ralat loadSemakList:", e);
+        tbody.innerHTML = `
+            <tr>
+                <td colspan="6" style="color:#ef4444; text-align:center; padding:30px;">
+                    <div style="font-weight:bold; margin-bottom:5px;">⚠️ Gagal memuatkan senarai.</div>
+                    <small>${e.message}</small>
+                </td>
+            </tr>
+        `;
     }
 }
 
@@ -284,25 +439,52 @@ function renderTable(dataList) {
     let html = '';
 
     if (dataList.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:50px; color:#94a3b8; font-style:italic;">Tiada rekod yang sepadan.</td></tr>';
+        tbody.innerHTML = `
+            <tr>
+                <td colspan="6" style="text-align:center; padding:60px; color:#94a3b8;">
+                    <div style="font-size:2rem; margin-bottom:10px;">📭</div>
+                    <div style="font-size:1rem; font-weight:500;">Tiada RPH yang perlu disemak.</div>
+                    <div style="font-size:0.85rem; margin-top:5px;">RPH yang dihantar akan muncul di sini.</div>
+                </td>
+            </tr>
+        `;
+        // Sembunyikan butang pukal jika tiada data
+        const btnBulk = document.getElementById('btnBulkApprove');
+        if(btnBulk) btnBulk.style.display = 'none';
         return;
     }
 
     dataList.forEach(item => {
         html += `
             <tr class="row-hover">
-                <td style="text-align:center;"><input type="checkbox" class="rph-checkbox" value="${item.id}" onchange="window.handleCheckboxChange()" style="cursor:pointer; width:18px; height:18px;"></td>
-                <td style="font-weight:600; color:#334155;">${item.nama.toUpperCase()}</td>
-                <td>${item.subjek}</td>
-                <td style="color:#64748b;">${item.tarikhDisplay}</td>
                 <td style="text-align:center;">
-                    <button onclick="window.semakRPH('${item.id}')" class="btn-semak">👁️ Semak</button>
+                    <input type="checkbox" class="rph-checkbox" value="${item.id}" onchange="window.handleCheckboxChange()" style="cursor:pointer; width:18px; height:18px; accent-color:#4f46e5;">
+                </td>
+                <td style="font-weight:600; color:#334155;">
+                    ${item.nama.toUpperCase()}
+                    <div style="font-size:0.75rem; color:#94a3b8; font-weight:400;">${item.raw.email || ''}</div>
+                </td>
+                <td>
+                    <span style="font-weight:500; color:#0f172a;">${item.subjek}</span>
+                    <div style="font-size:0.75rem; color:#64748b;">${item.raw.kelas || ''}</div>
+                </td>
+                <td><span class="badge badge-hantar">${item.status.toUpperCase()}</span></td>
+                <td style="color:#64748b; font-family:monospace;">${item.tarikhDisplay}</td>
+                <td style="text-align:center;">
+                    <button onclick="window.semakRPH('${item.id}')" class="btn-semak">
+                        👁️ Semak
+                    </button>
                 </td>
             </tr>
         `;
     });
     tbody.innerHTML = html;
-    document.getElementById('selectAll').checked = false;
+    
+    // Reset checkbox header
+    const chkAll = document.getElementById('selectAll');
+    if(chkAll) chkAll.checked = false;
+    
+    // Kemaskini status butang pukal
     window.handleCheckboxChange();
 }
 
@@ -338,24 +520,49 @@ window.resetFilter = () => {
 };
 
 // ==========================================================================================
-// 6. KANDUNGAN & DETAIL VIEW
+// 6. KANDUNGAN & DETAIL VIEW (PAPARAN TERPERINCI)
 // ==========================================================================================
 function renderRphContent(data) {
+    // Jika data disimpan sebagai satu blok HTML penuh
     if (data.content || data.contentHtml || data.html || data.fullContent) {
-        return `<div class="rph-content" style="line-height:1.6;">${data.content || data.contentHtml || data.html || data.fullContent}</div>`;
+        return `<div class="rph-content" style="line-height:1.6; font-size:1rem;">${data.content || data.contentHtml || data.html || data.fullContent}</div>`;
     }
-    const fieldsToCheck = ['theme', 'topic', 'learningObjective', 'activities', 'reflection', 'tema', 'tajuk', 'standardKandungan', 'standardPembelajaran', 'objektif', 'aktiviti', 'refleksi', 'impak'];
+    
+    // Jika data disimpan secara berstruktur (field by field)
+    const fieldsToCheck = [
+        'tema', 'tajuk', 'theme', 'topic', 
+        'standardKandungan', 'standardPembelajaran', 'learningObjective', 
+        'objektif', 'aktiviti', 'activities', 
+        'refleksi', 'reflection', 'impak'
+    ];
+    
     let structuredHtml = '';
     let foundStructured = false;
+    
     fieldsToCheck.forEach(key => {
         if (data[key]) {
             foundStructured = true;
+            // Format label: camelCase -> Title Case (contoh: learningObjective -> Learning Objective)
             const label = key.replace(/([A-Z])/g, ' $1').replace(/^./, str => str.toUpperCase());
-            structuredHtml += `<div style="margin-bottom:20px;"><h4 style="margin:0 0 8px 0; color:#4f46e5; border-bottom:1px solid #e0e7ff; display:inline-block;">${label}</h4><div style="background:#f8fafc; padding:15px; border-radius:8px; border:1px solid #e2e8f0; line-height:1.6; color:#334155;">${data[key]}</div></div>`;
+            
+            structuredHtml += `
+                <div class="rph-section">
+                    <span class="rph-label">${label}</span>
+                    <div class="rph-value">${data[key]}</div>
+                </div>`;
         }
     });
+
     if (foundStructured) return structuredHtml;
-    return `<div style="background:#fee2e2; padding:15px; color:#991b1b; border-radius:8px;">⚠️ Kandungan RPH tidak dapat dikesan.<br><pre style="font-size:0.7rem;">${JSON.stringify(data, null, 2)}</pre></div>`;
+
+    // Fallback jika format data tidak dikenali
+    return `
+        <div style="background:#fee2e2; padding:20px; color:#991b1b; border-radius:8px; border:1px solid #fecaca;">
+            <strong>⚠️ Format RPH Tidak Dikenali</strong>
+            <p style="margin:5px 0 0; font-size:0.9rem;">Sistem tidak dapat memaparkan kandungan RPH ini secara automatik. Sila rujuk data mentah di bawah:</p>
+            <pre style="background:rgba(255,255,255,0.5); padding:10px; margin-top:10px; border-radius:6px; font-size:0.75rem; overflow-x:auto;">${JSON.stringify(data, null, 2)}</pre>
+        </div>
+    `;
 }
 
 window.semakRPH = async (id) => {
@@ -364,38 +571,100 @@ window.semakRPH = async (id) => {
     const detailDiv = document.getElementById('semak-detail-mode');
     detailDiv.style.display = 'block';
     
+    // Cuba dapatkan dari cache dulu untuk kepantasan
     const cachedItem = allPendingRPH.find(i => i.id === id);
-    const data = cachedItem ? cachedItem.raw : (await getDoc(doc(db, 'records', id))).data();
-    const nama = cachedItem ? cachedItem.nama : (data.guruName || data.email);
+    
+    let data, nama;
+    
+    if (cachedItem) {
+        data = cachedItem.raw;
+        nama = cachedItem.nama;
+    } else {
+        // Jika user reload page di detail view atau cache kosong
+        try {
+            const docSnap = await getDoc(doc(db, 'records', id));
+            if (!docSnap.exists()) {
+                alert("Dokumen tidak dijumpai!");
+                window.backToList();
+                return;
+            }
+            data = docSnap.data();
+            nama = data.guruName || data.email;
+        } catch(e) {
+            alert("Ralat memuatkan dokumen: " + e.message);
+            window.backToList();
+            return;
+        }
+    }
 
+    // Render Paparan Detail
     detailDiv.innerHTML = `
-        <div style="background:white; border-radius:16px; padding:35px; max-width:900px; margin:0 auto; box-shadow:0 4px 15px rgba(0,0,0,0.05);">
-            <div style="display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:20px; margin-bottom:25px;">
-                <div><h2 style="margin:0;">${nama}</h2><p style="color:#64748b;">${data.subject || '-'} | ${data.dateISO || '-'}</p></div>
-                <button onclick="window.backToList()" class="btn-reset" style="width:auto; height:40px;">Tutup</button>
-            </div>
-            <div class="rph-viewer" style="border:1px solid #e2e8f0; padding:30px; border-radius:12px; margin-bottom:35px;">${renderRphContent(data)}</div>
-            <div style="background:#f8fafc; padding:25px; border-radius:12px; border:1px solid #e2e8f0;">
-                <h3>Pengesahan Penyelia</h3>
-                <p style="font-size:0.85rem; color:#64748b; margin-bottom:10px;">Pengesah: <strong>${currentPenyeliaName}</strong></p>
-                <select onchange="document.getElementById('ulasan').value=this.value" class="filter-input" style="margin-bottom:15px;">
-                    <option value="">-- Pilih Ulasan Pantas --</option>${ulasanBank.map(u => `<option value="${u}">${u}</option>`).join('')}
-                </select>
-                <textarea id="ulasan" class="filter-input" style="height:80px; margin-bottom:20px; resize:vertical;"></textarea>
-                <div style="background:white; border:2px dashed #94a3b8; height:150px; position:relative; border-radius:8px; margin-bottom:10px;">
-                    <canvas id="sig-canvas" style="width:100%; height:100%; cursor:crosshair;"></canvas>
+        <div style="background:white; border-radius:16px; padding:40px; max-width:900px; margin:0 auto; box-shadow:0 10px 25px -5px rgba(0,0,0,0.1);">
+            <div style="display:flex; justify-content:space-between; border-bottom:1px solid #e2e8f0; padding-bottom:20px; margin-bottom:30px; align-items:flex-start;">
+                <div>
+                    <h1 style="margin:0 0 5px 0; font-size:1.8rem; color:#1e293b;">${nama.toUpperCase()}</h1>
+                    <p style="margin:0; color:#64748b; font-size:1rem;">
+                        <span style="background:#f1f5f9; padding:2px 8px; border-radius:4px; font-weight:600; color:#475569;">${data.subject || 'Tiada Subjek'}</span> 
+                        • ${data.kelas || 'Tiada Kelas'} 
+                        • ${data.submittedAt ? data.submittedAt.toDate().toLocaleDateString('ms-MY') : '-'}
+                    </p>
                 </div>
-                <button onclick="window.clearSig()" style="color:#ef4444; background:none; border:none; margin-bottom:20px; cursor:pointer;">[ Padam Tandatangan ]</button>
-                <button onclick="window.submitSah()" style="width:100%; background:#059669; color:white; padding:14px; border:none; border-radius:8px; font-weight:bold; cursor:pointer;">SAHKAN RPH</button>
+                <button onclick="window.backToList()" class="btn-reset" style="width:auto; padding:8px 16px;">Tutup</button>
+            </div>
+
+            <div class="rph-viewer" style="margin-bottom:40px;">
+                ${renderRphContent(data)}
+            </div>
+
+            <div style="background:#f8fafc; padding:30px; border-radius:12px; border:1px solid #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+                <h3 style="margin-top:0; color:#1e293b; border-bottom:1px solid #e2e8f0; padding-bottom:15px; margin-bottom:20px;">
+                    📝 Pengesahan Penyelia
+                </h3>
+                
+                <p style="font-size:0.9rem; color:#64748b; margin-bottom:15px;">
+                    Disemak oleh: <strong style="color:#4f46e5;">${currentPenyeliaName}</strong>
+                </p>
+
+                <label class="rph-label">Pilih Ulasan Pantas:</label>
+                <select onchange="document.getElementById('ulasan').value=this.value" class="filter-input" style="margin-bottom:15px; cursor:pointer;">
+                    <option value="">-- Pilih Templat Ulasan --</option>
+                    ${ulasanBank.map(u => `<option value="${u}">${u}</option>`).join('')}
+                </select>
+
+                <label class="rph-label">Ulasan / Komen Tambahan:</label>
+                <textarea id="ulasan" class="filter-input" style="height:100px; margin-bottom:20px; resize:vertical; font-family:inherit;"></textarea>
+
+                <label class="rph-label">Tandatangan:</label>
+                <div style="background:white; border:2px dashed #94a3b8; height:180px; position:relative; border-radius:8px; margin-bottom:10px; overflow:hidden;">
+                    <canvas id="sig-canvas" style="width:100%; height:100%; cursor:crosshair; touch-action:none;"></canvas>
+                    <div style="position:absolute; bottom:10px; right:10px; font-size:0.75rem; color:#cbd5e1; pointer-events:none;">Ruang Tandatangan Digital</div>
+                </div>
+                
+                <div style="display:flex; justify-content:space-between; margin-bottom:25px;">
+                    <button onclick="window.clearSig()" style="color:#ef4444; background:none; border:none; cursor:pointer; font-weight:600; font-size:0.85rem;">
+                        🗑️ Padam Tandatangan
+                    </button>
+                </div>
+
+                <button onclick="window.submitSah()" style="width:100%; background:#059669; color:white; padding:15px; border:none; border-radius:8px; font-weight:bold; cursor:pointer; font-size:1rem; transition:0.2s; box-shadow:0 4px 6px rgba(5, 150, 105, 0.2);">
+                    ✅ SAHKAN & HANTAR SEMAKAN
+                </button>
             </div>
         </div>
     `;
+    
+    // Inisialisasi Canvas (Delay sedikit untuk pastikan elemen wujud dalam DOM)
     setTimeout(() => initCanvas('sig-canvas', false), 200);
+    
+    // Scroll ke atas
+    window.scrollTo(0, 0);
 };
 
 window.backToList = () => {
     document.getElementById('semak-detail-mode').style.display = 'none';
     document.getElementById('semak-list-mode').style.display = 'block';
+    // Refresh list mungkin idea yang baik
+    // loadSemakList(); 
 };
 
 // ==========================================================================================
@@ -404,58 +673,129 @@ window.backToList = () => {
 function initCanvas(elemId, isBulk = false) {
     const c = document.getElementById(elemId);
     if(!c) return;
+    
+    // Resize canvas mengikut saiz sebenar container
     const rect = c.parentElement.getBoundingClientRect();
-    c.width = rect.width; c.height = rect.height;
+    c.width = rect.width; 
+    c.height = rect.height;
+    
     const cx = c.getContext('2d');
-    cx.lineWidth = 2.5; cx.strokeStyle = "#000"; cx.lineCap = "round";
+    cx.lineWidth = 2.5; 
+    cx.strokeStyle = "#1e293b"; 
+    cx.lineCap = "round";
+    cx.lineJoin = "round";
+    
     if(isBulk) { bulkCanvas = c; bulkCtx = cx; } else { canvas = c; ctx = cx; }
     
     let drawing = false;
-    const getPos = (e) => { const r = c.getBoundingClientRect(); return { x: (e.clientX||e.touches[0].clientX)-r.left, y: (e.clientY||e.touches[0].clientY)-r.top }; };
-    const start = (e) => { drawing=true; cx.beginPath(); const p=getPos(e); cx.moveTo(p.x,p.y); };
-    const draw = (e) => { if(!drawing) return; e.preventDefault(); const p=getPos(e); cx.lineTo(p.x,p.y); cx.stroke(); };
-    const stop = () => drawing=false;
     
-    c.onmousedown=start; c.onmousemove=draw; c.onmouseup=stop; c.onmouseout=stop;
-    c.ontouchstart=start; c.ontouchmove=draw; c.ontouchend=stop;
+    // Helper untuk dapatkan koordinat tepat (mouse & touch)
+    const getPos = (e) => { 
+        const r = c.getBoundingClientRect(); 
+        const clientX = e.clientX || (e.touches && e.touches[0].clientX);
+        const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+        return { 
+            x: clientX - r.left, 
+            y: clientY - r.top 
+        }; 
+    };
+
+    const start = (e) => { 
+        e.preventDefault(); 
+        drawing = true; 
+        cx.beginPath(); 
+        const p = getPos(e); 
+        cx.moveTo(p.x, p.y); 
+    };
+    
+    const draw = (e) => { 
+        if(!drawing) return; 
+        e.preventDefault(); 
+        const p = getPos(e); 
+        cx.lineTo(p.x, p.y); 
+        cx.stroke(); 
+    };
+    
+    const stop = () => drawing = false;
+    
+    // Event Listeners
+    c.addEventListener('mousedown', start);
+    c.addEventListener('mousemove', draw);
+    c.addEventListener('mouseup', stop);
+    c.addEventListener('mouseout', stop);
+    
+    c.addEventListener('touchstart', start, {passive: false});
+    c.addEventListener('touchmove', draw, {passive: false});
+    c.addEventListener('touchend', stop);
 }
 
-window.clearSig = () => ctx.clearRect(0,0,canvas.width,canvas.height);
-window.clearBulkSig = () => bulkCtx.clearRect(0,0,bulkCanvas.width,bulkCanvas.height);
+window.clearSig = () => {
+    if(ctx && canvas) ctx.clearRect(0,0,canvas.width,canvas.height);
+}
+window.clearBulkSig = () => {
+    if(bulkCtx && bulkCanvas) bulkCtx.clearRect(0,0,bulkCanvas.width,bulkCanvas.height);
+}
 
 // --- SUBMIT INDIVIDU ---
 window.submitSah = async () => {
-    const ulasan = document.getElementById('ulasan').value;
-    const blank = document.createElement('canvas'); blank.width=canvas.width; blank.height=canvas.height;
-    if(canvas.toDataURL() === blank.toDataURL()) return alert("Sila tandatangan.");
+    const ulasan = document.getElementById('ulasan').value.trim();
     
-    if(confirm("Sahkan RPH ini?")) {
-        try {
-            await updateDoc(doc(db, 'records', currentRphId), { 
-                status: 'disahkan', 
-                ulasan: ulasan, 
-                signature: canvas.toDataURL(), 
-                verifiedAt: Timestamp.now(),
-                verifiedBy: currentPenyeliaName // <--- SIMPAN NAMA PENYELIA
-            });
-            alert("Berjaya disahkan!"); 
-            window.backToList(); 
-            loadSemakList();
-            
-            // Refresh Dashboard (jika ada fungsi ini)
-            if(typeof window.refreshDashboardPenyelia === 'function') window.refreshDashboardPenyelia();
+    // Semak tandatangan (compare dengan blank canvas)
+    const blank = document.createElement('canvas'); 
+    blank.width = canvas.width; 
+    blank.height = canvas.height;
+    if(canvas.toDataURL() === blank.toDataURL()) {
+        alert("Sila turunkan tandatangan sebelum mengesahkan.");
+        return;
+    }
+    
+    if(!ulasan) {
+        if(!confirm("Anda tidak memasukkan ulasan. Adakah anda pasti mahu meneruskan?")) return;
+    }
+    
+    const confirmMsg = `Sahkan RPH ini dengan ulasan:\n"${ulasan || 'Tiada Ulasan'}"?`;
+    if(!confirm(confirmMsg)) return;
 
-        } catch (e) {
-            alert("Ralat: " + e.message);
-        }
+    // UI Loading State
+    const btn = document.querySelector('button[onclick="window.submitSah()"]');
+    const originalText = btn.innerText;
+    btn.innerText = "Sedang Menyimpan...";
+    btn.disabled = true;
+
+    try {
+        await updateDoc(doc(db, 'records', currentRphId), { 
+            status: 'disahkan', 
+            ulasan: ulasan, 
+            signature: canvas.toDataURL(), 
+            verifiedAt: Timestamp.now(),
+            verifiedBy: currentPenyeliaName // <--- SIMPAN NAMA PENYELIA
+        });
+        
+        alert("RPH Berjaya Disahkan! 🎉"); 
+        
+        window.backToList(); 
+        loadSemakList(); // Reload senarai
+        
+        // Refresh Dashboard (jika ada fungsi ini di penyelia-main.js)
+        if(typeof window.refreshDashboardPenyelia === 'function') window.refreshDashboardPenyelia();
+
+    } catch (e) {
+        console.error(e);
+        alert("Ralat semasa menyimpan: " + e.message);
+        btn.innerText = originalText;
+        btn.disabled = false;
     }
 };
 
 window.bukaModalPukal = () => {
     const count = document.querySelectorAll('.rph-checkbox:checked').length;
+    if(count === 0) return alert("Sila pilih sekurang-kurangnya satu RPH.");
+
     document.getElementById('bulk-count-display').innerText = count;
     document.getElementById('modal-bulk').style.display = 'flex'; 
     document.getElementById('bulk-ulasan').value = "Disahkan. RPH mematuhi standard.";
+    
+    // Init canvas dalam modal
     setTimeout(() => initCanvas('bulk-canvas', true), 200);
 };
 
@@ -463,20 +803,32 @@ window.bukaModalPukal = () => {
 window.submitBulkSah = async () => {
     const checkboxes = document.querySelectorAll('.rph-checkbox:checked');
     const ids = Array.from(checkboxes).map(b => b.value);
-    const ulasan = document.getElementById('bulk-ulasan').value;
-    const blank = document.createElement('canvas'); blank.width=bulkCanvas.width; blank.height=bulkCanvas.height;
-    if(bulkCanvas.toDataURL() === blank.toDataURL()) return alert("Sila turunkan tandatangan.");
+    const ulasan = document.getElementById('bulk-ulasan').value.trim();
+    
+    // Validation Signature
+    const blank = document.createElement('canvas'); 
+    blank.width = bulkCanvas.width; 
+    blank.height = bulkCanvas.height;
+    if(bulkCanvas.toDataURL() === blank.toDataURL()) return alert("Sila turunkan tandatangan pukal.");
 
-    if(!confirm(`Sahkan ${ids.length} RPH dengan ulasan ini?`)) return;
+    if(!confirm(`Adakah anda pasti mahu mengesahkan ${ids.length} RPH yang dipilih?`)) return;
+
+    // UI Loading
+    const btn = document.querySelector('button[onclick="window.submitBulkSah()"]');
+    const originalText = btn.innerText;
+    btn.innerText = "Memproses...";
+    btn.disabled = true;
 
     try {
         const batch = writeBatch(db);
         const sigData = bulkCanvas.toDataURL();
+        const timestamp = Timestamp.now();
         
         ids.forEach(id => {
-            batch.update(doc(db, 'records', id), { 
+            const docRef = doc(db, 'records', id);
+            batch.update(docRef, { 
                 status: 'disahkan', 
-                verifiedAt: Timestamp.now(), 
+                verifiedAt: timestamp, 
                 ulasan: ulasan, 
                 signature: sigData,
                 verifiedBy: currentPenyeliaName // <--- SIMPAN NAMA PENYELIA DALAM BATCH
@@ -484,20 +836,28 @@ window.submitBulkSah = async () => {
         });
         
         await batch.commit();
-        alert("Berjaya sahkan semua!");
+        
+        alert(`Berjaya mengesahkan ${ids.length} RPH!`);
         document.getElementById('modal-bulk').style.display = 'none';
         loadSemakList();
         
         // Refresh Dashboard
         if(typeof window.refreshDashboardPenyelia === 'function') window.refreshDashboardPenyelia();
         
-    } catch (e) { alert("Ralat: " + e.message); }
+    } catch (e) { 
+        console.error(e);
+        alert("Ralat Batch Update: " + e.message); 
+    } finally {
+        btn.innerText = originalText;
+        btn.disabled = false;
+    }
 };
 
 // ==========================================================================================
 // 8. GLOBAL HELPERS
 // ==========================================================================================
 function setupGlobalFunctions() {
+    // Fungsi navigasi
     window.kembaliKeDashboard = () => { 
         document.getElementById('view-semakan-rph').style.display = 'none'; 
         document.getElementById('view-dashboard-overview').style.display = 'block'; 
@@ -507,12 +867,38 @@ function setupGlobalFunctions() {
             window.refreshDashboardPenyelia();
         }
     };
-    window.toggleSelectAll = (src) => { document.querySelectorAll('.rph-checkbox').forEach(c => c.checked = src.checked); window.handleCheckboxChange(); };
+
+    // Fungsi checkbox pukal
+    window.toggleSelectAll = (src) => { 
+        document.querySelectorAll('.rph-checkbox').forEach(c => c.checked = src.checked); 
+        window.handleCheckboxChange(); 
+    };
+    
     window.handleCheckboxChange = () => {
         const checked = document.querySelectorAll('.rph-checkbox:checked');
         const btn = document.getElementById('btnBulkApprove');
-        if(checked.length > 0) { btn.style.display = 'block'; document.getElementById('countSelected').innerText = checked.length; } else { btn.style.display = 'none'; }
+        const countSpan = document.getElementById('countSelected');
+        
+        if(btn && countSpan) {
+            if(checked.length > 0) { 
+                btn.style.display = 'flex'; // Guna flex untuk align icon
+                countSpan.innerText = checked.length; 
+            } else { 
+                btn.style.display = 'none'; 
+            }
+        }
     };
+
+    // Expose filter functions
     window.applyFilter = applyFilter;
     window.resetFilter = resetFilter;
+    
+    // Expose detail functions
+    window.semakRPH = semakRPH;
+    window.backToList = backToList;
+    window.submitSah = submitSah;
+    window.submitBulkSah = submitBulkSah;
+    window.bukaModalPukal = bukaModalPukal;
+    window.clearSig = clearSig;
+    window.clearBulkSig = clearBulkSig;
 }
