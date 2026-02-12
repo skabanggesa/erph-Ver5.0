@@ -370,7 +370,7 @@ async function fetchPenyeliaProfile() {
 }
 
 // ==========================================================================================
-// 5. LOGIK LOAD DATA & FILTER (PEMBETULAN QUERY)
+// 5. LOGIK LOAD DATA & FILTER (FIX: SUPPORTS DOT PREFIX)
 // ==========================================================================================
 
 export async function loadSemakList() {
@@ -379,15 +379,20 @@ export async function loadSemakList() {
     const userEmail = user.email.toLowerCase();
     const tbody = document.getElementById('tbodySemakList');
 
+    // ------------------------------------------------------------------
+    // FIX: CIPTA 2 VERSI EMAIL (BIASA & ADA TITIK)
+    // ------------------------------------------------------------------
+    // Ini membolehkan penyelia melihat RPH walaupun data rosak (ada titik depan)
+    const emailVariations = [userEmail, `.${userEmail}`];
+
     try {
-        console.log(`[Semak] Mencari RPH untuk penyeliaId: ${userEmail}`);
+        console.log(`[Semak] Mencari RPH untuk: ${emailVariations.join(' ATAU ')}`);
         
-        // --- QUERY UTAMA (PEMBAIKAN) ---
-        // Mencari RPH yang dihantar kepada penyelia ini secara spesifik
+        // GUNA OPERATOR 'in' UNTUK CARI KEDUA-DUA VERSI
         const q = query(
             collection(db, 'records'), 
-            where('penyeliaId', '==', userEmail), 
-            where('status', '==', 'dihantar') // 'dihantar' atau 'hantar' bergantung pada sistem submit
+            where('penyeliaId', 'in', emailVariations), 
+            where('status', '==', 'hantar') // Pastikan ini 'hantar' atau 'dihantar' ikut DB anda
         );
         
         const snap = await getDocs(q);
@@ -397,9 +402,8 @@ export async function loadSemakList() {
         snap.forEach(docSnap => {
             const data = docSnap.data();
             
-            // Logik mendapatkan nama guru yang robust
+            // Logik Nama Guru
             let nama = data.guruName || data.name || data.userName || data.email;
-            // Gunakan global map dari main.js jika ada (cache nama guru)
             if (data.email && window.teacherMap && window.teacherMap[data.email]) {
                 nama = window.teacherMap[data.email];
             }
@@ -415,22 +419,14 @@ export async function loadSemakList() {
             });
         });
 
-        // Susun mengikut tarikh terkini (descending)
+        // Susun ikut tarikh terkini
         allPendingRPH.sort((a, b) => b.tarikhSubmit - a.tarikhSubmit);
         
-        // Paparkan Data
         renderTable(allPendingRPH);
         
     } catch (e) {
         console.error("Ralat loadSemakList:", e);
-        tbody.innerHTML = `
-            <tr>
-                <td colspan="6" style="color:#ef4444; text-align:center; padding:30px;">
-                    <div style="font-weight:bold; margin-bottom:5px;">⚠️ Gagal memuatkan senarai.</div>
-                    <small>${e.message}</small>
-                </td>
-            </tr>
-        `;
+        tbody.innerHTML = `<tr><td colspan="6" class="text-center text-danger">Ralat: ${e.message}</td></tr>`;
     }
 }
 
@@ -902,3 +898,4 @@ function setupGlobalFunctions() {
     window.clearSig = clearSig;
     window.clearBulkSig = clearBulkSig;
 }
+
