@@ -370,59 +370,96 @@ async function fetchPenyeliaProfile() {
 }
 
 // ==========================================================================================
-// 5. LOGIK LOAD DATA & FILTER (FIX: SUPPORTS DOT PREFIX)
+// 5. LOGIK LOAD DATA (DIAGNOSTIK: CARI RPH & RECORDS)
 // ==========================================================================================
 
 export async function loadSemakList() {
     const user = auth.currentUser;
     if(!user) return;
-    const userEmail = user.email.toLowerCase();
+    
+    // Pastikan tiada titik, trim space, huruf kecil
+    const userEmail = user.email.toLowerCase().trim().replace(/^\./, ''); 
     const tbody = document.getElementById('tbodySemakList');
 
-    // ------------------------------------------------------------------
-    // FIX: CIPTA 2 VERSI EMAIL (BIASA & ADA TITIK)
-    // ------------------------------------------------------------------
-    // Ini membolehkan penyelia melihat RPH walaupun data rosak (ada titik depan)
-    const emailVariations = [userEmail, `.${userEmail}`];
-
     try {
-        console.log(`[Semak] Mencari RPH untuk: ${emailVariations.join(' ATAU ')}`);
+        console.log(`[DIAGNOSTIK] User: ${userEmail}`);
         
-        // GUNA OPERATOR 'in' UNTUK CARI KEDUA-DUA VERSI
-        const q = query(
-            collection(db, 'records'), 
-            where('penyeliaId', 'in', emailVariations), 
-            where('status', '==', 'hantar') // Pastikan ini 'hantar' atau 'dihantar' ikut DB anda
-        );
-        
-        const snap = await getDocs(q);
-        console.log(`[Semak] Jumpa ${snap.size} dokumen.`);
-        
+        // ---------------------------------------------------------------
+        // PERCUBAAN 1: Cari dalam koleksi 'records' (Tanpa filter status)
+        // ---------------------------------------------------------------
+        console.log(`[1] Sedang mencari dalam koleksi 'records'...`);
+        let q = query(collection(db, 'records'), where('penyeliaId', '==', userEmail));
+        let snap = await getDocs(q);
+        let sumberData = 'records';
+
+        // ---------------------------------------------------------------
+        // PERCUBAAN 2: Jika 'records' kosong, cari dalam 'rph'
+        // ---------------------------------------------------------------
+        if (snap.empty) {
+            console.warn(`[!] Koleksi 'records' KOSONG. Mencuba koleksi 'rph'...`);
+            q = query(collection(db, 'rph'), where('penyeliaId', '==', userEmail));
+            snap = await getDocs(q);
+            sumberData = 'rph';
+        }
+
+        console.log(`[KEPUTUSAN] Jumpa ${snap.size} dokumen dalam koleksi '${sumberData}'.`);
+
+        // Jika masih kosong
+        if (snap.empty) {
+            tbody.innerHTML = `
+                <tr>
+                    <td colspan="6" class="text-center" style="padding:20px; color:red;">
+                        <strong>DATA TIDAK DIJUMPAI</strong><br>
+                        <small>Tiada RPH dijumpai untuk ID: ${userEmail}</small><br>
+                        <small>Sila pastikan guru sudah setkan Penyelia mereka dengan betul.</small>
+                    </td>
+                </tr>`;
+            return;
+        }
+
+        // Proses data
         allPendingRPH = []; 
         snap.forEach(docSnap => {
             const data = docSnap.data();
             
-            // Logik Nama Guru
-            let nama = data.guruName || data.name || data.userName || data.email;
-            if (data.email && window.teacherMap && window.teacherMap[data.email]) {
-                nama = window.teacherMap[data.email];
-            }
+            // LOG STATUS DATA (Supaya kita tahu ejaan sebenar)
+            console.log(`>> ID: ${docSnap.id} | Status: '${data.status}' | Sumber: ${sumberData}`);
 
-            allPendingRPH.push({
-                id: docSnap.id,
-                raw: data,
-                nama: nama,
-                subjek: data.subject || data.subjek || 'Tiada Subjek',
-                status: data.status,
-                tarikhSubmit: data.submittedAt ? data.submittedAt.toDate() : new Date(0),
-                tarikhDisplay: data.submittedAt ? data.submittedAt.toDate().toLocaleDateString('ms-MY', { day: '2-digit', month: '2-digit', year: 'numeric' }) : '-'
-            });
+            // Kita tapis status secara manual di sini supaya lebih fleksibel
+            // Terima: hantar, dihantar, submitted, pending (tak kira huruf besar/kecil)
+            const statusRaw = (data.status || '').toLowerCase();
+            const statusValid = ['hantar', 'dihantar', 'submit', 'submitted', 'pending', 'menunggu'];
+
+            if (statusValid.includes(statusRaw)) {
+                
+                // Logik Nama Guru
+                let nama = data.guruName || data.name || data.userName || data.email;
+                if (data.email && window.teacherMap && window.teacherMap[data.email]) {
+                    nama = window.teacherMap[data.email];
+                }
+
+                allPendingRPH.push({
+                    id: docSnap.id,
+                    raw: data,
+                    nama: nama,
+                    subjek: data.subject || data.subjek || 'Tiada Subjek',
+                    status: data.status,
+                    // Gunakan created_at jika submittedAt tiada (backup)
+                    tarikhSubmit: data.submittedAt ? data.submittedAt.toDate() : (data.created_at ? data.created_at.toDate() : new Date()),
+                    collection: sumberData // Penanda untuk debug
+                });
+            }
         });
 
-        // Susun ikut tarikh terkini
+        // Susun Data
         allPendingRPH.sort((a, b) => b.tarikhSubmit - a.tarikhSubmit);
-        
-        renderTable(allPendingRPH);
+
+        // Render Data
+        if (allPendingRPH.length === 0) {
+             tbody.innerHTML = `<tr><td colspan="6" class="text-center">Jumpa data tapi <strong>STATUS</strong> tidak sepadan. Sila semak Console.</td></tr>`;
+        } else {
+             renderTable(allPendingRPH);
+        }
         
     } catch (e) {
         console.error("Ralat loadSemakList:", e);
