@@ -370,63 +370,58 @@ async function fetchPenyeliaProfile() {
 }
 
 // ==========================================================================================
-// 5. LOGIK LOAD DATA (DIAGNOSTIK: CARI RPH & RECORDS)
+// 5. LOGIK LOAD DATA (FIX: SUBMITTEDAT)
 // ==========================================================================================
 
 export async function loadSemakList() {
     const user = auth.currentUser;
     if(!user) return;
     
-    // Pastikan tiada titik, trim space, huruf kecil
+    // Bersihkan email penyelia
     const userEmail = user.email.toLowerCase().trim().replace(/^\./, ''); 
     const tbody = document.getElementById('tbodySemakList');
 
     try {
-        console.log(`[DIAGNOSTIK] User: ${userEmail}`);
+        console.log(`[Semak] User: ${userEmail}`);
         
-        // ---------------------------------------------------------------
-        // PERCUBAAN 1: Cari dalam koleksi 'records' (Tanpa filter status)
-        // ---------------------------------------------------------------
-        console.log(`[1] Sedang mencari dalam koleksi 'records'...`);
+        // Cari dalam 'records' dahulu
         let q = query(collection(db, 'records'), where('penyeliaId', '==', userEmail));
         let snap = await getDocs(q);
-        let sumberData = 'records';
-
-        // ---------------------------------------------------------------
-        // PERCUBAAN 2: Jika 'records' kosong, cari dalam 'rph'
-        // ---------------------------------------------------------------
+        
+        // Jika kosong, cari dalam 'rph' (Backup)
         if (snap.empty) {
-            console.warn(`[!] Koleksi 'records' KOSONG. Mencuba koleksi 'rph'...`);
             q = query(collection(db, 'rph'), where('penyeliaId', '==', userEmail));
             snap = await getDocs(q);
-            sumberData = 'rph';
         }
 
-        console.log(`[KEPUTUSAN] Jumpa ${snap.size} dokumen dalam koleksi '${sumberData}'.`);
-
-        // Jika masih kosong
-        if (snap.empty) {
-            tbody.innerHTML = `
-                <tr>
-                    <td colspan="6" class="text-center" style="padding:20px; color:red;">
-                        <strong>DATA TIDAK DIJUMPAI</strong><br>
-                        <small>Tiada RPH dijumpai untuk ID: ${userEmail}</small><br>
-                        <small>Sila pastikan guru sudah setkan Penyelia mereka dengan betul.</small>
-                    </td>
-                </tr>`;
-            return;
-        }
-
-        // Proses data
         allPendingRPH = []; 
         snap.forEach(docSnap => {
             const data = docSnap.data();
             
-            // LOG STATUS DATA (Supaya kita tahu ejaan sebenar)
-            console.log(`>> ID: ${docSnap.id} | Status: '${data.status}' | Sumber: ${sumberData}`);
+            // ----------------------------------------------------------------
+            // 1. LOGIK TARIKH KHUSUS (submittedAt)
+            // ----------------------------------------------------------------
+            let finalDate = new Date(); // Default: Tarikh Harini (Jika error)
 
-            // Kita tapis status secara manual di sini supaya lebih fleksibel
-            // Terima: hantar, dihantar, submitted, pending (tak kira huruf besar/kecil)
+            if (data.submittedAt) {
+                // Semak jika ia adalah Firestore Timestamp (Ada fungsi toDate)
+                if (typeof data.submittedAt.toDate === 'function') {
+                    finalDate = data.submittedAt.toDate();
+                } else {
+                    // Jika ia string atau format lain
+                    finalDate = new Date(data.submittedAt);
+                }
+            } else {
+                // Jika field submittedAt TIADA dalam database untuk rekod ini
+                // Kita guna created_at sebagai backup, atau tarikh harini
+                if (data.created_at && typeof data.created_at.toDate === 'function') {
+                    finalDate = data.created_at.toDate();
+                }
+            }
+
+            // ----------------------------------------------------------------
+            // 2. PENAPISAN STATUS
+            // ----------------------------------------------------------------
             const statusRaw = (data.status || '').toLowerCase();
             const statusValid = ['hantar', 'dihantar', 'submit', 'submitted', 'pending', 'menunggu'];
 
@@ -444,22 +439,22 @@ export async function loadSemakList() {
                     nama: nama,
                     subjek: data.subject || data.subjek || 'Tiada Subjek',
                     status: data.status,
-                    // Gunakan created_at jika submittedAt tiada (backup)
-                    tarikhSubmit: data.submittedAt ? data.submittedAt.toDate() : (data.created_at ? data.created_at.toDate() : new Date()),
-                    collection: sumberData // Penanda untuk debug
+                    
+                    // Simpan Tarikh Object untuk sorting
+                    tarikhSubmit: finalDate, 
+                    
+                    // Format Tarikh untuk paparan (DD/MM/YYYY)
+                    tarikhDisplay: finalDate.toLocaleDateString('ms-MY', { 
+                        day: '2-digit', month: '2-digit', year: 'numeric' 
+                    })
                 });
             }
         });
 
-        // Susun Data
+        // Susun Data (Terkini di atas)
         allPendingRPH.sort((a, b) => b.tarikhSubmit - a.tarikhSubmit);
 
-        // Render Data
-        if (allPendingRPH.length === 0) {
-             tbody.innerHTML = `<tr><td colspan="6" class="text-center">Jumpa data tapi <strong>STATUS</strong> tidak sepadan. Sila semak Console.</td></tr>`;
-        } else {
-             renderTable(allPendingRPH);
-        }
+        renderTable(allPendingRPH);
         
     } catch (e) {
         console.error("Ralat loadSemakList:", e);
@@ -935,4 +930,5 @@ function setupGlobalFunctions() {
     window.clearSig = clearSig;
     window.clearBulkSig = clearBulkSig;
 }
+
 
